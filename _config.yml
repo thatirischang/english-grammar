@@ -1,7 +1,7 @@
 title: English Grammar
 description: Tense · Voice · Clause · Subjunctive · 例句速查
-baseurl: /english-grammar
-url: https://thatirischang.github.io
+baseurl: ""
+url: https://learningenglish.irischanglabs.com
 theme: minima
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
