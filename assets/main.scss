@@ -111,51 +111,50 @@ body{
 }
 
 /* ==========================================================================
-   Word stack: 3 lines per English word (always visible)
-   <span class="ws"><i>IPA</i><b>WORD</b><s>中文</s></span>
+   Word stack: WORD on top, IPA below, 中文 below — block-stacked, always visible
+   <span class="ws"><b>WORD</b><i>IPA</i><s>中文</s></span>
    ========================================================================== */
 .ws{
-  display: inline-flex !important;
-  flex-direction: column;
-  align-items: center;
+  display: inline-block !important;
   vertical-align: baseline;
-  margin: 0 0.18em;
-  line-height: 1.0;
+  margin: 0 0.22em;
   text-align: center;
   white-space: nowrap;
-}
-.ws > i{
-  font-style: normal;
-  font-size: 0.85em;            /* IPA: large enough to read */
-  font-family: "Doulos SIL", "Charis SIL", "Lucida Sans Unicode", "Arial Unicode MS", monospace;
-  letter-spacing: -0.01em;
-  opacity: 1;
-  margin-bottom: 2px;
-  font-weight: 400;
+  line-height: 1.0;
 }
 .ws > b{
-  font-weight: 500;
-  font-size: 1.0em;
-  line-height: 1.15;
-  display: block;
+  display: block !important;
+  font-weight: 500 !important;
+  font-size: 1.0em !important;
+  line-height: 1.2 !important;
+  font-style: normal !important;
+}
+.ws > i{
+  display: block !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 0.72em !important;
+  font-family: "Doulos SIL", "Charis SIL", "Lucida Sans Unicode", "Arial Unicode MS", monospace !important;
+  line-height: 1.15 !important;
+  letter-spacing: -0.01em !important;
+  opacity: 0.95 !important;
+  margin-top: 1px !important;
+  text-decoration: none !important;
 }
 .ws > s{
+  display: block !important;
   text-decoration: none !important;
-  font-size: 0.85em;            /* Chinese: large enough to read */
-  font-family: "Songti SC", "Noto Serif CJK SC", "PingFang SC", "Source Han Serif", serif;
-  opacity: 1;
-  margin-top: 2px;
-  letter-spacing: 0;
-  font-weight: 400;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-size: 0.78em !important;
+  font-family: "Songti SC", "Noto Serif CJK SC", "PingFang SC", "Source Han Serif", serif !important;
+  line-height: 1.2 !important;
+  letter-spacing: 0 !important;
+  opacity: 0.95 !important;
+  margin-top: 1px !important;
 }
-/* Inside colored content spans, all three lines white */
-.bk span.s .ws > i, .bk span.v .ws > i, .bk span.o .ws > i, .bk span.c .ws > i,
-.bk span.a .ws > i, .bk span.m .ws > i, .bk span.fn .ws > i, .bk span.cl .ws > i,
-.bk span.s .ws > s, .bk span.v .ws > s, .bk span.o .ws > s, .bk span.c .ws > s,
-.bk span.a .ws > s, .bk span.m .ws > s, .bk span.fn .ws > s, .bk span.cl .ws > s{
-  color: rgba(255,255,255,0.92);
-}
-/* Outside any colored span (rare), use muted ink */
+/* Inside colored spans, IPA and 中文 in soft white */
+.bk .ws > i, .bk .ws > s{ color: rgba(255,255,255,0.95); }
 .legend .ws > i, .legend .ws > s{ color: #666; }
 
 /* ==========================================================================
