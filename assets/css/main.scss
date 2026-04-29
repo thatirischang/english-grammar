@@ -111,47 +111,61 @@ body{
 }
 
 /* ==========================================================================
-   CONSTITUENT MARKING — every word wears a color.
+   CONSTITUENT MARKING — hex literals (not CSS variables) for max compat.
    .s 主 / .v 谓 / .o 宾 / .c 补 / .a 状 / .m 修饰 / .fn 功能词 / .cl 从句引导
    ========================================================================== */
-.s, .v, .o, .c, .a, .m, .fn, .cl {
-  position: relative;
-  display: inline-block;
-  padding: 0.18em 0.32em 0.12em;
-  margin: 0.55em 0.08em 0.2em;
-  border-radius: 4px;
-  font-weight: 500;
-  vertical-align: baseline;
-  line-height: 1.4;
+.bk span.s,  .bk span.v,  .bk span.o,  .bk span.c,
+.bk span.a,  .bk span.m,  .bk span.fn, .bk span.cl,
+.legend span.s, .legend span.v, .legend span.o, .legend span.c,
+.legend span.a, .legend span.m, .legend span.fn, .legend span.cl {
+  position: relative !important;
+  display: inline-block !important;
+  padding: 0.2em 0.45em 0.15em !important;
+  margin: 0.7em 0.1em 0.2em !important;
+  border-radius: 4px !important;
+  font-weight: 500 !important;
+  vertical-align: baseline !important;
+  line-height: 1.4 !important;
+  color: #ffffff !important;
 }
 
-.s  { color: #fff; background: var(--c-s);  }
-.v  { color: #fff; background: var(--c-v);  }
-.o  { color: #fff; background: var(--c-o);  }
-.c  { color: #fff; background: var(--c-c);  }
-.a  { color: #fff; background: var(--c-a);  }
-.m  { color: #fff; background: var(--c-m);  }
-.fn { color: #fff; background: var(--c-fn); font-size: 0.92em; }
-.cl { color: #fff; background: var(--c-cl); }
+.bk span.s,  .legend span.s  { background-color: #C62828 !important; }
+.bk span.v,  .legend span.v  { background-color: #1565C0 !important; }
+.bk span.o,  .legend span.o  { background-color: #2E7D32 !important; }
+.bk span.c,  .legend span.c  { background-color: #6A1B9A !important; }
+.bk span.a,  .legend span.a  { background-color: #BF360C !important; }
+.bk span.m,  .legend span.m  { background-color: #4527A0 !important; }
+.bk span.fn, .legend span.fn { background-color: #00695C !important; font-size: 0.92em !important; }
+.bk span.cl, .legend span.cl { background-color: #5D4037 !important; }
 
 /* Tag label sitting on top of each colored span */
-.s::before, .v::before, .o::before, .c::before,
-.a::before, .m::before, .fn::before, .cl::before{
+.bk span.s::before,  .bk span.v::before,  .bk span.o::before,  .bk span.c::before,
+.bk span.a::before,  .bk span.m::before,  .bk span.fn::before, .bk span.cl::before,
+.legend span.s::before, .legend span.v::before, .legend span.o::before, .legend span.c::before,
+.legend span.a::before, .legend span.m::before, .legend span.fn::before, .legend span.cl::before{
   content: attr(data-tag);
   position: absolute;
   top: -0.95em;
-  left: 0.32em;
+  left: 0.45em;
   font-size: 0.62rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
-  color: inherit;
-  background: var(--paper);
+  background: #fafaf7;
   padding: 0 0.35em;
   border-radius: 2px;
   border: 1px solid currentColor;
   white-space: nowrap;
+  color: inherit;
 }
+.bk span.s::before,  .legend span.s::before  { color: #C62828; }
+.bk span.v::before,  .legend span.v::before  { color: #1565C0; }
+.bk span.o::before,  .legend span.o::before  { color: #2E7D32; }
+.bk span.c::before,  .legend span.c::before  { color: #6A1B9A; }
+.bk span.a::before,  .legend span.a::before  { color: #BF360C; }
+.bk span.m::before,  .legend span.m::before  { color: #4527A0; }
+.bk span.fn::before, .legend span.fn::before { color: #00695C; }
+.bk span.cl::before, .legend span.cl::before { color: #5D4037; }
 
 /* === Legend === */
 .legend{
