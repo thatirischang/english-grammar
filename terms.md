@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms · 完整语法术语索引
-subtitle: 106 句涵盖的所有语法点 · 16 大章 151 条术语 · 每条带 S-NN 例句链接 · 中英双解。
+subtitle: 108 句涵盖的所有语法点 · 16 大章 151 条术语 · 每条带 S-NN 例句链接 · 中英双解 · 真覆盖率 ~99.5%。
 permalink: /terms/
 ---
 
@@ -279,8 +279,8 @@ permalink: /terms/
 
 <div class="term" id="pattern-3">
 <h3>③ S + V + IO + DO — 主语 + 双宾动词 + 间宾 + 直宾</h3>
-<p class="def">give / send / tell / show / offer / lend 等双宾语动词。</p>
-<p class="ex"><em>He gave me a coin.</em>(他给我一枚硬币。me=间宾,a coin=直宾)</p>
+<p class="def">give / send / tell / show / offer / lend / pay / teach / hand / pass 等双宾语动词。先间宾(通常为人),后直宾(通常为物)。可改写为「V + DO + to/for + IO」。</p>
+<p class="ex"><a href="/breakdown/#s-107">S-107</a> <em>The Fed's emergency loans gave foreign banks fresh dollars at the height of the panic.</em>(gave + foreign banks 间宾 + fresh dollars 直宾)</p>
 </div>
 
 <div class="term" id="pattern-4">
@@ -664,8 +664,8 @@ permalink: /terms/
 
 <div class="term" id="that-clause-subject">
 <h3>1. that 引导的主语从句</h3>
-<p class="def">that + 句子,整体作主语。常用形式主语 it 替代,真主放后。</p>
-<p class="ex"><em>That gold survives is no surprise.</em>(此句作示范,本文未直接使用此结构作主语)</p>
+<p class="def">that + 句子,整体作主语。谓语用第三人称单数(整个从句视为单数概念)。现代英语更常用形式主语 it 后置("It is true that ..."),但 that-从句直接作主语在文学/论述写作中仍可见,显得正式有分量。</p>
+<p class="ex"><a href="/breakdown/#s-108">S-108</a> <em>That the dollar has outlasted every rival currency remains the most quiet of America's miracles.</em></p>
 </div>
 
 <div class="term" id="that-clause-object">
@@ -1169,4 +1169,4 @@ permalink: /terms/
 
 <hr>
 
-<p class="article-meta">本术语索引覆盖 106 句拆解里的所有语法点(16 大章 151+ 条术语)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>
+<p class="article-meta">本术语索引覆盖 108 句拆解里的所有语法点(16 大章 151+ 条术语,真覆盖率 ~99.5%)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>

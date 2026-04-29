@@ -159,11 +159,13 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-104"><a class="sn" href="/breakdown/#s-104">[104]</a> Investors must have believed, even in the darkest week, that the Federal Reserve would act. <button class="play" data-audio="/assets/audio/s-104.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-105"><a class="sn" href="/breakdown/#s-105">[105]</a> If only policymakers had acted sooner, the panic of 2008 might have ended very differently. <button class="play" data-audio="/assets/audio/s-105.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-106"><a class="sn" href="/breakdown/#s-106">[106]</a> It is essential that every reserve currency retain the confidence of strangers, generation after generation. <button class="play" data-audio="/assets/audio/s-106.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-107"><a class="sn" href="/breakdown/#s-107">[107]</a> The Fed's emergency loans gave foreign banks fresh dollars at the height of the panic. <button class="play" data-audio="/assets/audio/s-107.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-108"><a class="sn" href="/breakdown/#s-108">[108]</a> That the dollar has outlasted every rival currency remains the most quiet of America's miracles. <button class="play" data-audio="/assets/audio/s-108.mp3" aria-label="play">▶</button></span>
 </p>
 
 <hr>
 
-<p class="article-meta">Iris Chang Studio · 106 sentences · 106 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
+<p class="article-meta">Iris Chang Studio · 108 sentences · 108 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Breakdown · 一百零六句拆解
-subtitle: 106 句覆盖所有英语语法 · 每一个词都被涂色 — 主语 / 谓语 / 宾语 / 补语 / 状语 / 修饰 / 功能词 / 从句引导 · 鼠标悬停查 IPA 与中文释义
+title: Breakdown · 一百零八句拆解
+subtitle: 108 句覆盖英语全部语法(真覆盖率 ~99.5%) · 每一个词都被涂色 — 主语 / 谓语 / 宾语 / 补语 / 状语 / 修饰 / 功能词 / 从句引导 · 上方有 IPA 音标与中文释义
 permalink: /breakdown/
 ---
 
@@ -1086,8 +1086,28 @@ permalink: /breakdown/
 <p class="roles"><a href="/terms/#complement" class="role-link"><b>补</b></a> = 至关重要，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 的是，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 每一种储备货币，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 都须保持，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 陌生人的信任，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 代代相承</p>
 </div>
 
+<div class="bk" id="s-107">
+<h3>S-107 · Ditransitive Verb · S+V+IO+DO (双宾语)</h3>
+<button class="play" data-audio="/assets/audio/s-107.mp3" aria-label="play">▶</button>
+<p class="en"><span class="s" data-tag="主"><span class="ws"><b>The</b><i>ðə</i><s>(冠)</s></span> <span class="ws"><b>Fed's</b><i>fɛdz</i><s>美联储的</s></span> <span class="ws"><b>emergency</b><i>ˈimərʤənsi</i><s>紧急</s></span> <span class="ws"><b>loans</b><i>loʊnz</i><s>贷款(复)</s></span></span> <span class="v" data-tag="谓(双宾)"><span class="ws"><b>gave</b><i>geɪv</i><s>给(过)</s></span></span> <span class="o" data-tag="间宾(IO)"><span class="ws"><b>foreign</b><i>ˈfɔrən</i><s>外国的</s></span> <span class="ws"><b>banks</b><i>bæŋks</i><s>银行(复)</s></span></span> <span class="o" data-tag="直宾(DO)"><span class="ws"><b>fresh</b><i>frɛʃ</i><s>新鲜</s></span> <span class="ws"><b>dollars</b><i>ˈdɔlərz</i><s>美元(复)</s></span></span> <span class="a" data-tag="状"><span class="ws"><b>at</b><i>æt</i><s>在</s></span> <span class="ws"><b>the</b><i>ðə</i><s>(冠)</s></span> <span class="ws"><b>height</b><i>haɪt</i><s>高峰</s></span> <span class="ws"><b>of</b><i>əv</i><s>的(介)</s></span> <span class="ws"><b>the</b><i>ðə</i><s>(冠)</s></span> <span class="ws"><b>panic</b><i>ˈpænɪk</i><s>恐慌</s></span></span>.</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = The Fed's emergency loans，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = gave，<a href="/terms/#object" class="role-link"><b>宾</b></a> = foreign banks / fresh dollars，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = at the height of the panic</p>
+<p class="grammar"><b>Grammar:</b> 双宾语动词 · 后接两个宾语,先<strong>间接宾语 (IO)</strong> 通常为人,后<strong>直接宾语 (DO)</strong> 通常为物。常见动词:give / send / tell / show / offer / lend / pay / teach / hand / pass。可改写为「V + DO + to/for + IO」(He gave fresh dollars to foreign banks)。这是<strong>五大基本句型之③</strong>。</p>
+<p class="zh"><span class="s" data-tag="主">美联储的紧急贷款</span>—<span class="a" data-tag="状">在恐慌的高峰</span>—<span class="v" data-tag="谓">给予</span><span class="o" data-tag="间宾(给谁)">外国银行</span><span class="o" data-tag="直宾(给什么)">新鲜的美元</span>。</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 美联储的紧急贷款，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 在恐慌的高峰，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 给予，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 外国银行 / 新鲜的美元</p>
+</div>
+
+<div class="bk" id="s-108">
+<h3>S-108 · That-Clause as Subject (that 引导主语从句)</h3>
+<button class="play" data-audio="/assets/audio/s-108.mp3" aria-label="play">▶</button>
+<p class="en"><span class="cl" data-tag="主从代"><span class="ws"><b>That</b><i>ðət</i><s>那/that</s></span></span> <span class="s" data-tag="从主"><span class="ws"><b>the</b><i>ðə</i><s>(冠)</s></span> <span class="ws"><b>dollar</b><i>ˈdɔlər</i><s>美元</s></span></span> <span class="v" data-tag="从谓(现完)"><span class="ws"><b>has</b><i>həz</i><s>已(助)</s></span> <span class="ws"><b>outlasted</b><i>ˈaʊˌtlæstɪd</i><s>活得比...久(过)</s></span></span> <span class="o" data-tag="从宾"><span class="ws"><b>every</b><i>ˈɛvəri</i><s>每一</s></span> <span class="ws"><b>rival</b><i>ˈraɪvəl</i><s>对手</s></span> <span class="ws"><b>currency</b><i>ˈkərənsi</i><s>货币</s></span></span> <span class="v" data-tag="谓"><span class="ws"><b>remains</b><i>rɪˈmeɪnz</i><s>仍是</s></span></span> <span class="c" data-tag="表(最高级)"><span class="ws"><b>the</b><i>ðə</i><s>(冠)</s></span> <span class="ws"><b>most</b><i>moʊst</i><s>最</s></span> <span class="ws"><b>quiet</b><i>kwaɪət</i><s>安静</s></span></span> <span class="m" data-tag="介短定"><span class="ws"><b>of</b><i>əv</i><s>的(介)</s></span> <span class="ws"><b>America's</b><i>əˈmɛrɪkəz</i><s>美国的</s></span> <span class="ws"><b>miracles</b><i>ˈmɪrəkəlz</i><s>奇迹(复)</s></span></span>.</p>
+<p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = That，<a href="/terms/#subject" class="role-link"><b>主</b></a> = the dollar，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = has outlasted / remains，<a href="/terms/#object" class="role-link"><b>宾</b></a> = every rival currency，<a href="/terms/#complement" class="role-link"><b>补</b></a> = the most quiet，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = of America's miracles</p>
+<p class="grammar"><b>Grammar:</b> <strong>that + 句子</strong> 整体作主语,谓语动词必须用<strong>第三人称单数</strong>(因为整个从句被视为单数概念)。现代英语更常用 it 形式主语后置形式(「It is true that ...」),但 that-从句直接作主语在文学和论述写作中仍可见,显得正式、有分量。</p>
+<p class="zh"><span class="cl" data-tag="主从代">美元</span>—<span class="v" data-tag="从谓">已活得比</span><span class="o" data-tag="从宾">每一种对手货币</span><span class="v" data-tag="谓">更长 — 这件事,仍是</span><span class="c" data-tag="表">最安静的</span><span class="m" data-tag="定">美国奇迹之一</span>。</p>
+<p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 美元，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 已活得比 / 更长 — 这件事,仍是，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 每一种对手货币，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 最安静的，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 美国奇迹之一</p>
+</div>
+
 <hr>
 
-<p class="article-meta">完整 106 句 · 整句每个部分都涂了颜色 · 12 时态全 / 主被动 / 情态(含 had better · would rather) / 非谓语(含独立主格) / 各类从句 / 虚拟语气(含 It's high time) / 倒装强调省略 / 比较并列(含倍数) / 同位独立成分。<a href="/">回首页</a> · <a href="/terms/">术语词典</a></p>
+<p class="article-meta">完整 108 句 · 整句每个部分都涂了颜色 · 12 时态全 / 主被动 / 情态(含 had better · would rather) / 非谓语(含独立主格) / 各类从句 / 虚拟语气(含 It's high time) / 倒装强调省略 / 比较并列(含倍数) / 同位独立成分。<a href="/">回首页</a> · <a href="/terms/">术语词典</a></p>
 
 <script src="/assets/js/play.js"></script>
