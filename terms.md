@@ -21,6 +21,9 @@ permalink: /terms/
 
 <div class="toc">
 <p><strong>跳转 →</strong>
+<a href="#parts-of-speech">⓪ 十大词类</a>
+<a href="#verb-types">动词分类</a>
+<a href="#phrase-vs-clause">短语 vs 从句</a>
 <a href="#patterns">五大句型</a>
 <a href="#constituents">句子成分</a>
 <a href="#tenses">时态(12+3)</a>
@@ -38,6 +41,223 @@ permalink: /terms/
 </div>
 
 <p>这一页是整本「学英文语法」教材的术语索引。<strong>每个语法点</strong>都有:中英定义 + 拆解页 S-NN 例句 + 关键说明。看到不懂的从 <a href="/breakdown/">breakdown</a> 跳过来。</p>
+
+<hr>
+
+<h2 id="parts-of-speech" class="term">⓪ 十大词类 · Parts of Speech</h2>
+<p>每个英文词,都属于以下 10 类之一。识别词类是看懂句子的第一步。</p>
+
+<div class="term" id="noun">
+<h3>1. 名词 · Noun</h3>
+<p class="def">表示<strong>人 / 物 / 地点 / 抽象概念</strong>的词。可数名词有单复数(dollar/dollars),不可数名词不变(gold/inflation)。</p>
+<p class="def">名词在句中可作:主语、宾语、表语、补语、定语、同位语。</p>
+<p class="ex"><a href="/breakdown/#s-001">S-001</a> 名词 = <em>Money</em>(金钱) / <em>story</em>(故事) / <em>dollar</em>(美元)</p>
+<p class="ex"><a href="/breakdown/#s-005">S-005</a> 名词 = <em>reales</em>(银币) / <em>colonies</em>(殖民地) / <em>century</em>(世纪)</p>
+</div>
+
+<div class="term" id="pronoun">
+<h3>2. 代词 · Pronoun</h3>
+<p class="def">用来<strong>替代名词</strong>,避免重复。</p>
+<p class="def">分类:人称代词(I/you/he/she/it/we/they) · 物主代词(my/your/his/her/its/our/their) · 反身代词(itself/myself) · 指示代词(this/that/these/those) · 不定代词(some/any/all/no one/everyone/everything) · 关系代词(that/which/who/whose) · 疑问代词(what/who/whom)。</p>
+<p class="ex"><a href="/breakdown/#s-008">S-008</a> 人称 = <em>he</em>(他) — 指代上文的 shopkeeper</p>
+<p class="ex"><a href="/breakdown/#s-035">S-035</a> 形式宾语 = <em>it</em> — 占位,真宾语在后</p>
+<p class="ex"><a href="/breakdown/#s-076">S-076</a> 人称 = <em>it</em>(它) — 指代 the dollar</p>
+<p class="ex"><a href="/breakdown/#s-009">S-009</a> 关系代词 = <em>that</em> / <em>which</em> — 引导定语从句</p>
+</div>
+
+<div class="term" id="verb">
+<h3>3. 动词 · Verb</h3>
+<p class="def">表示<strong>动作或状态</strong>的词,是句子的核心。每句必须有一个限定动词作谓语。</p>
+<p class="def">详细分类见下文 <a href="#verb-types">「动词分类」</a> 一节(实义/系/助/情态;及物/不及物)。</p>
+<p class="ex"><a href="/breakdown/#s-003">S-003</a> 实义动词(及物) = <em>signed</em>(签署)</p>
+<p class="ex"><a href="/breakdown/#s-014">S-014</a> 系动词 = <em>was</em>(是) — 后接表语</p>
+<p class="ex"><a href="/breakdown/#s-029">S-029</a> 助动词 = <em>had</em> — 构造使役"have something done"</p>
+</div>
+
+<div class="term" id="adjective">
+<h3>4. 形容词 · Adjective</h3>
+<p class="def">修饰<strong>名词</strong>,描述其性质或状态:young, silver, central, debt-stricken, fragile。</p>
+<p class="def">在句中可作:定语(放名词前)或表语/补语(放系动词后)。比较级 -er,最高级 -est;长形容词用 more/most。</p>
+<p class="ex"><a href="/breakdown/#s-002">S-002</a> 定语用法 = <em>young</em> republic, <em>first silver</em> dollar</p>
+<p class="ex"><a href="/breakdown/#s-077">S-077</a> 表语用法 = how <em>fragile</em>, how <em>durable</em></p>
+</div>
+
+<div class="term" id="adverb">
+<h3>5. 副词 · Adverb</h3>
+<p class="def">修饰<strong>动词、形容词、副词或整句</strong>,通常以 -ly 结尾(但不限于)。</p>
+<p class="def">语义类型:时间(today, yesterday, often) / 地点(here, abroad, ahead) / 方式(quietly, smoothly, deeply) / 程度(very, almost, quite) / 频率(always, never, rarely) / 语篇(indeed, however, therefore)。</p>
+<p class="ex"><a href="/breakdown/#s-008">S-008</a> 方式 = <em>thinly</em>?(此句没有,但 silver 上的 sliver 是名词)</p>
+<p class="ex"><a href="/breakdown/#s-018">S-018</a> 程度+时间 = <em>still</em>(至今仍)</p>
+<p class="ex"><a href="/breakdown/#s-022">S-022</a> 程度 = <em>almost overnight</em>(几乎一夜之间)</p>
+<p class="ex"><a href="/breakdown/#s-056">S-056</a> 语篇 = <em>Indeed</em>(诚然)</p>
+</div>
+
+<div class="term" id="preposition">
+<h3>6. 介词 · Preposition</h3>
+<p class="def">放在<strong>名词或代词之前</strong>,与之构成"介词短语",表示时间、地点、方向、方式、原因等关系。</p>
+<p class="def">常见介词:in / on / at / by / with / for / from / to / of / about / through / under / between / among / against / during / since / until / without / despite / over。</p>
+<p class="ex"><a href="/breakdown/#s-009">S-009</a> 介词前置 = <em>of</em> which 371.25 grains were pure silver(of 是介词,提到 which 之前)</p>
+<p class="ex"><a href="/breakdown/#s-016">S-016</a> 介词 = <em>By</em> insisting on free silver(by 后接动名词)</p>
+<p class="ex"><a href="/breakdown/#s-020">S-020</a> 介词 = <em>by</em> the Bureau / <em>under</em> Federal Reserve authority</p>
+</div>
+
+<div class="term" id="conjunction">
+<h3>7. 连词 · Conjunction</h3>
+<p class="def">连接<strong>词、短语或分句</strong>。</p>
+<p class="def"><strong>并列连词 (Coordinating)</strong>:FANBOYS — For/And/Nor/But/Or/Yet/So,连接对等成分。</p>
+<p class="def"><strong>从属连词 (Subordinating)</strong>:that/whether/if/although/because/while/when/before/after/since/until/unless/provided/as if 等,引导从句。</p>
+<p class="def"><strong>相关连词 (Correlative)</strong>:both...and / either...or / neither...nor / not only...but also / whether...or,成对出现。</p>
+<p class="ex"><a href="/breakdown/#s-049">S-049</a> 并列 yet = <em>yet</em> bond traders cheered(转折,书面)</p>
+<p class="ex"><a href="/breakdown/#s-027">S-027</a> 并列 nor = <em>Nor</em> did the country recover quickly</p>
+<p class="ex"><a href="/breakdown/#s-018">S-018</a> 从属 although = <em>Although</em> Bryan lost the election</p>
+<p class="ex"><a href="/breakdown/#s-051">S-051</a> 相关 not only/but also = <em>not only</em> an attempt ... <em>but also</em> a quiet admission</p>
+</div>
+
+<div class="term" id="article">
+<h3>8. 冠词 · Article</h3>
+<p class="def">放在名词前,标明"哪一个"。仅 3 个:</p>
+<ul>
+<li><strong>定冠词 the</strong> — 特指,双方都知道的那个。<em>the dollar(我们都在说的那种)</em></li>
+<li><strong>不定冠词 a / an</strong> — 泛指,新引入的一个。a 用辅音前,an 用元音前。<em>a story / an attempt</em></li>
+<li><strong>零冠词</strong> — 不可数名词、复数泛指、专有名词时不加。<em>Money tells / Spanish coin</em></li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-001">S-001</a> 不定冠词 <em>a</em> story · 定冠词 <em>the</em> dollar(同一句两种用法)</p>
+<p class="ex"><a href="/breakdown/#s-007">S-007</a> 零冠词 = <em>tobacco notes, Spanish coin</em>(复数泛指,不加)</p>
+</div>
+
+<div class="term" id="determiner">
+<h3>9. 限定词 · Determiner</h3>
+<p class="def">广义上包括<strong>冠词</strong>,但还包括其他放在名词前的修饰词:</p>
+<ul>
+<li>指示限定:this / that / these / those</li>
+<li>物主限定:my / your / his / her / its / our / their</li>
+<li>不定限定:every / each / some / any / all / no / both / either / neither / much / many / few / several / either / such</li>
+<li>数词:one / two / first / second / 1792 / 416</li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-007">S-007</a> 限定 = <em>every</em> day money(每一种)</p>
+<p class="ex"><a href="/breakdown/#s-026">S-026</a> 限定 = <em>such</em> a shock / <em>an entire</em> generation</p>
+<p class="ex"><a href="/breakdown/#s-046">S-046</a> 相关限定 = <em>Either</em> ... <em>or</em> ...</p>
+</div>
+
+<div class="term" id="interjection-pos">
+<h3>10. 感叹词 · Interjection</h3>
+<p class="def">独立的情感表达词,语法上不与句子其余成分相连。Ah / Oh / Alas / Indeed(也作语篇词) / Well / Hush / Wow / Ouch。常以逗号或破折号隔开。</p>
+<p class="ex"><a href="/breakdown/#s-079">S-079</a> 感叹词 = <em>Ah</em> — 与后面的句子用破折号隔开</p>
+</div>
+
+<hr>
+
+<h2 id="verb-types" class="term">⓪.5 动词分类 · Types of Verbs</h2>
+<p>动词是句子的发动机。按"携带语义"和"是否带宾语",可分以下几大类。</p>
+
+<div class="term" id="lexical-verb">
+<h3>1. 实义动词 · Lexical Verb</h3>
+<p class="def">表达具体动作或状态的"主动词",是句子的语义核心。</p>
+<p class="ex"><a href="/breakdown/#s-003">S-003</a> 实义 = <em>signed</em>(签署) — 主语 Hamilton 的核心动作</p>
+<p class="ex"><a href="/breakdown/#s-022">S-022</a> 实义 = <em>made</em>(使) / <em>emerge</em>(崛起)</p>
+</div>
+
+<div class="term" id="linking-verb">
+<h3>2. 系动词 · Linking Verb</h3>
+<p class="def">不带语义,把<strong>主语</strong>与<strong>表语</strong>"挂"在一起。常见:be 系列 (am/is/are/was/were/been/being) · become · seem · appear · look · feel · sound · taste · smell · get · grow · turn · remain · stay · prove · go(成为某种状态)。</p>
+<p class="def">系动词后接的不是宾语,而是<strong>表语</strong>(描述主语)。</p>
+<p class="ex"><a href="/breakdown/#s-014">S-014</a> 系 = <em>was</em> · 表语 = the Resumption Act of 1875</p>
+<p class="ex"><a href="/breakdown/#s-015">S-015</a> 系 = <em>seemed</em> · 表语 = prudent ... ruinous ...</p>
+<p class="ex"><a href="/breakdown/#s-026">S-026</a> 系 = <em>was</em> · 表语 = such a shock</p>
+<p class="ex"><a href="/breakdown/#s-049">S-049</a> 系 = <em>went</em>(变得) · 表语 = bankrupt(破产)</p>
+</div>
+
+<div class="term" id="auxiliary-verb">
+<h3>3. 助动词 · Auxiliary Verb(也叫"助词")</h3>
+<p class="def">不携带主要语义,辅助主动词构造时态、语态、否定、疑问、强调。三大主要助动词:</p>
+<ul>
+<li><strong>be</strong>(am/is/are/was/were/been/being) — 构造进行时(be + V-ing)和被动语态(be + V-en)</li>
+<li><strong>have</strong>(have/has/had/having) — 构造完成时(have + V-en)</li>
+<li><strong>do</strong>(do/does/did) — 构造一般疑问句、否定句、强调式</li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-006">S-006</a> 助动词 = <em>had been</em>(过去完成进行体: had + been + V-ing)</p>
+<p class="ex"><a href="/breakdown/#s-013">S-013</a> 被动助动词 = <em>was</em>(过去时被动 was + V-en)</p>
+<p class="ex"><a href="/breakdown/#s-027">S-027</a> 倒装助动词 = <em>did</em>(Nor did the country recover ...)</p>
+<p class="ex"><a href="/breakdown/#s-058">S-058</a> 强调助动词 = <em>did</em>(Cassandra did sound)</p>
+<p class="ex"><a href="/breakdown/#s-068">S-068</a> 4 助动词链 = <em>will have been</em> generating(将来完成进行)</p>
+</div>
+
+<div class="term" id="modal-verb">
+<h3>4. 情态动词 · Modal Verb</h3>
+<p class="def">表达"态度"或"语气":能力、可能性、必要性、推断、建议、决意。后接动词原形,本身不变化(no -s,no -ing,no past)。</p>
+<p class="def">完整列表:can/could · may/might · must · shall/should · will/would · ought to · need · dare(半情态:had better, would rather)。详见 <a href="#modals">⑤ 情态动词</a>。</p>
+<p class="ex"><a href="/breakdown/#s-043">S-043</a> 情态 = <em>could</em> move(能搬动)</p>
+<p class="ex"><a href="/breakdown/#s-062">S-062</a> 情态 = <em>shall</em> not face(法律式将来)</p>
+<p class="ex"><a href="/breakdown/#s-082">S-082</a> 半情态 = <em>had better</em> watch(强烈忠告)</p>
+</div>
+
+<div class="term" id="transitive-vs-intransitive">
+<h3>5. 及物 vs 不及物 · Transitive vs Intransitive</h3>
+<p class="def"><strong>及物动词</strong>(transitive)需要带宾语:sign / declare / weigh / replace / underwrite。"V + 谁/什么"。</p>
+<p class="def"><strong>不及物动词</strong>(intransitive)不带宾语:fall / weep / collapse / float / emerge / flow / cheer。"V + (无宾)"。</p>
+<p class="def">很多动词两用:<em>The dollar floats freely</em>(不及物) vs <em>He floats a proposal</em>(及物)。</p>
+<p class="ex"><a href="/breakdown/#s-049">S-049</a> 不及物 = <em>wept</em>(哭泣) / <em>cheered</em>(欢呼) — 后面没宾语</p>
+<p class="ex"><a href="/breakdown/#s-013">S-013</a> 及物 = <em>was issued</em>(被发行) — 主动是 issue + 宾语</p>
+</div>
+
+<div class="term" id="finite-vs-nonfinite">
+<h3>6. 限定动词 vs 非谓语动词 · Finite vs Non-finite</h3>
+<p class="def"><strong>限定动词</strong>(finite)有时态、人称、数变化,作句子谓语。"He <em>signs</em>" / "He <em>signed</em>" / "He <em>has signed</em>"。</p>
+<p class="def"><strong>非谓语动词</strong>(non-finite)不变化形式,不能单独作谓语。三种:</p>
+<ul>
+<li>不定式(to V) — to sign / to be signed</li>
+<li>动名词(V-ing) — signing</li>
+<li>分词(V-ing / V-en) — signing(现在分词) / signed(过去分词)</li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-072">S-072</a> 不定式作主语 = <em>To predict</em></p>
+<p class="ex"><a href="/breakdown/#s-015">S-015</a> 动名词作主语 = <em>Returning</em> to the gold standard</p>
+<p class="ex"><a href="/breakdown/#s-034">S-034</a> 过去分词短语 = <em>designed</em> by Keynes ...</p>
+</div>
+
+<hr>
+
+<h2 id="phrase-vs-clause" class="term">⓪.7 短语 vs 从句 · Phrase vs Clause</h2>
+
+<div class="term" id="phrase">
+<h3>短语 · Phrase</h3>
+<p class="def">一组词紧密配合,共同作一种成分。<strong>没有"主语+谓语"结构</strong>。</p>
+<p class="def">类型:</p>
+<ul>
+<li><strong>名词短语</strong>(NP) — the silver dollar / a quiet admission / every American banknote</li>
+<li><strong>动词短语</strong>(VP) — has floated / will be challenging / had been warning</li>
+<li><strong>形容词短语</strong>(AdjP) — almost three times as often as ...</li>
+<li><strong>副词短语</strong>(AdvP) — almost overnight / very nearly</li>
+<li><strong>介词短语</strong>(PP) — at the Philadelphia mint / by the Bureau / through American memory</li>
+<li><strong>不定式短语</strong>(InfP) — to finance a war / to predict the dollar's future</li>
+<li><strong>动名词短语</strong>(GerP) — Returning to the gold standard / By insisting on free silver</li>
+<li><strong>分词短语</strong>(PartP) — designed by Keynes / slumbering since the 1950s</li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-002">S-002</a> 介词短语 = <em>at the Philadelphia mint</em></p>
+<p class="ex"><a href="/breakdown/#s-016">S-016</a> 动名词短语 = <em>By insisting on free silver</em></p>
+</div>
+
+<div class="term" id="clause">
+<h3>从句 · Clause</h3>
+<p class="def">一组词,有<strong>自己的"主语+谓语"</strong>结构。可独立成句(主句)或嵌入主句(从句)。</p>
+<p class="def">从句按"在主句中作什么成分"分三大类:</p>
+<ul>
+<li><strong>名词性从句</strong> — 作主、宾、表、同位。详见 <a href="#noun-clauses">⑦</a></li>
+<li><strong>定语从句</strong> — 修饰名词。详见 <a href="#relative-clauses">⑧</a></li>
+<li><strong>状语从句</strong> — 修饰整句或动词。详见 <a href="#adv-clauses">⑨</a></li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-014">S-014</a> 主语从句 = <em>What restored monetary order after Reconstruction</em>(从句内有主"What" + 谓"restored")</p>
+<p class="ex"><a href="/breakdown/#s-009">S-009</a> 定语从句 = <em>that Hamilton designed</em>(从句内有主"Hamilton" + 谓"designed")</p>
+<p class="ex"><a href="/breakdown/#s-021">S-021</a> 状语从句 = <em>When the First World War broke out</em>(从句内有主"the First World War" + 谓"broke out")</p>
+</div>
+
+<div class="term" id="main-vs-subordinate">
+<h3>主句 vs 从句 · Main vs Subordinate Clause</h3>
+<p class="def">一个完整句子可由<strong>一个主句</strong>独立组成,或<strong>主句 + 一或多个从句</strong>组合而成。</p>
+<p class="def">主句能单独成立;从句必须依附于主句。</p>
+<p class="def">连接词标志:从属连词(when/while/although/because/if/that/...) 或 关系代词/副词(that/which/who/where/when)。</p>
+<p class="ex"><a href="/breakdown/#s-018">S-018</a> 主句 = <em>his oratory still echoes through American memory</em> · 从句 = <em>Although Bryan lost the election</em></p>
+<p class="ex"><a href="/breakdown/#s-032">S-032</a> 主句 = <em>the dollar today would still hang from a chain of gold</em> · 从句 = <em>If the Great Depression had lasted only briefly</em>(条件状从)</p>
+</div>
 
 <hr>
 
