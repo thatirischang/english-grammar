@@ -2,6 +2,7 @@
 layout: page
 title: Terms · 句子成分术语
 subtitle: What is a subject? a predicate? an object? — the complete sentence-constituent dictionary, EN + 中文.
+permalink: /terms/
 ---
 
 <p>每个句子可被拆解为若干个<strong>成分</strong>。这一页把英语句子里所有的成分都写一遍 — 中文叫什么、英文叫什么、长什么样、在句子里站哪里、可由什么形态充当。每条都附三例,一例链回 <a href="/breakdown/">breakdown</a> 中的具体句子。</p>

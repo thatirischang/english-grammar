@@ -2,6 +2,7 @@
 layout: page
 title: Breakdown · 八十句拆解
 subtitle: Each sentence color-coded by constituent. Each grammar pattern named in EN + 中文.
+permalink: /breakdown/
 ---
 
 <div class="legend">
