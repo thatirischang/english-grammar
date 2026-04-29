@@ -111,32 +111,52 @@ body{
 }
 
 /* ==========================================================================
-   Ruby annotation for IPA above each English word.
-   <ruby class="w" title="中文">word<rt>IPA</rt></ruby>
+   Word stack: 3 lines per English word (always visible)
+   <span class="ws"><i>IPA</i><b>WORD</b><s>中文</s></span>
    ========================================================================== */
-ruby.w{
-  ruby-position: over;
-  -webkit-ruby-position: before;
-  margin: 0;
-  padding: 0;
+.ws{
+  display: inline-flex !important;
+  flex-direction: column;
+  align-items: center;
   vertical-align: baseline;
-  cursor: help;
-}
-ruby.w rt{
-  font-size: 0.58em;
-  font-weight: 400;
-  font-family: "Doulos SIL", "Charis SIL", "Lucida Sans Unicode", monospace;
-  letter-spacing: -0.02em;
+  margin: 0 0.18em;
+  line-height: 1.0;
   text-align: center;
   white-space: nowrap;
 }
-.bk ruby.w rt{ color: rgba(255,255,255,0.95); }
-.legend ruby.w rt{ color: #555; }
-ruby.w[title]:hover{
-  outline: 1px dashed rgba(255,255,255,0.5);
-  outline-offset: 1px;
-  border-radius: 2px;
+.ws > i{
+  font-style: normal;
+  font-size: 0.85em;            /* IPA: large enough to read */
+  font-family: "Doulos SIL", "Charis SIL", "Lucida Sans Unicode", "Arial Unicode MS", monospace;
+  letter-spacing: -0.01em;
+  opacity: 1;
+  margin-bottom: 2px;
+  font-weight: 400;
 }
+.ws > b{
+  font-weight: 500;
+  font-size: 1.0em;
+  line-height: 1.15;
+  display: block;
+}
+.ws > s{
+  text-decoration: none !important;
+  font-size: 0.85em;            /* Chinese: large enough to read */
+  font-family: "Songti SC", "Noto Serif CJK SC", "PingFang SC", "Source Han Serif", serif;
+  opacity: 1;
+  margin-top: 2px;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+/* Inside colored content spans, all three lines white */
+.bk span.s .ws > i, .bk span.v .ws > i, .bk span.o .ws > i, .bk span.c .ws > i,
+.bk span.a .ws > i, .bk span.m .ws > i, .bk span.fn .ws > i, .bk span.cl .ws > i,
+.bk span.s .ws > s, .bk span.v .ws > s, .bk span.o .ws > s, .bk span.c .ws > s,
+.bk span.a .ws > s, .bk span.m .ws > s, .bk span.fn .ws > s, .bk span.cl .ws > s{
+  color: rgba(255,255,255,0.92);
+}
+/* Outside any colored span (rare), use muted ink */
+.legend .ws > i, .legend .ws > s{ color: #666; }
 
 /* ==========================================================================
    CONSTITUENT MARKING — hex literals (not CSS variables) for max compat.
