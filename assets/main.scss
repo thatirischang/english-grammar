@@ -111,6 +111,34 @@ body{
 }
 
 /* ==========================================================================
+   Ruby annotation for IPA above each English word.
+   <ruby class="w" title="中文">word<rt>IPA</rt></ruby>
+   ========================================================================== */
+ruby.w{
+  ruby-position: over;
+  -webkit-ruby-position: before;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  cursor: help;
+}
+ruby.w rt{
+  font-size: 0.58em;
+  font-weight: 400;
+  font-family: "Doulos SIL", "Charis SIL", "Lucida Sans Unicode", monospace;
+  letter-spacing: -0.02em;
+  text-align: center;
+  white-space: nowrap;
+}
+.bk ruby.w rt{ color: rgba(255,255,255,0.95); }
+.legend ruby.w rt{ color: #555; }
+ruby.w[title]:hover{
+  outline: 1px dashed rgba(255,255,255,0.5);
+  outline-offset: 1px;
+  border-radius: 2px;
+}
+
+/* ==========================================================================
    CONSTITUENT MARKING — hex literals (not CSS variables) for max compat.
    .s 主 / .v 谓 / .o 宾 / .c 补 / .a 状 / .m 修饰 / .fn 功能词 / .cl 从句引导
    ========================================================================== */
@@ -120,12 +148,12 @@ body{
 .legend span.a, .legend span.m, .legend span.fn, .legend span.cl {
   position: relative !important;
   display: inline-block !important;
-  padding: 0.2em 0.45em 0.15em !important;
-  margin: 0.7em 0.1em 0.2em !important;
+  padding: 1.0em 0.45em 0.15em !important;   /* big top for ruby IPA */
+  margin: 1.4em 0.1em 0.4em !important;       /* big top for tag label */
   border-radius: 4px !important;
   font-weight: 500 !important;
   vertical-align: baseline !important;
-  line-height: 1.4 !important;
+  line-height: 1.0 !important;
   color: #ffffff !important;
 }
 
@@ -145,11 +173,11 @@ body{
 .legend span.a::before, .legend span.m::before, .legend span.fn::before, .legend span.cl::before{
   content: attr(data-tag);
   position: absolute;
-  top: -0.95em;
-  left: 0.45em;
-  font-size: 0.62rem;
+  top: -1.6em;
+  left: 0.2em;
+  font-size: 0.65rem;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
   background: #fafaf7;
   padding: 0 0.35em;
@@ -157,6 +185,7 @@ body{
   border: 1px solid currentColor;
   white-space: nowrap;
   color: inherit;
+  z-index: 2;
 }
 .bk span.s::before,  .legend span.s::before  { color: #C62828; }
 .bk span.v::before,  .legend span.v::before  { color: #1565C0; }
@@ -235,10 +264,11 @@ body{
   border-bottom: 1px solid var(--rule);
 }
 .bk .en, .bk .zh{
-  line-height: 3.3;          /* extra room for the top labels */
-  margin: 1em 0;
+  line-height: 4.5;          /* extra-large room for ruby IPA + tag label above */
+  margin: 1.5em 0;
   font-size: 1.05rem;
 }
+.bk .zh{ line-height: 3.0; }   /* Chinese row has no ruby, less line-height */
 .bk .zh{ font-family: "Songti SC", "Noto Serif CJK SC", serif; }
 
 .bk .grammar{
