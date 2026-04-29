@@ -1,10 +1,19 @@
-title: English Grammar
-description: Tense · Voice · Clause · Subjunctive · 例句速查
+title: English Grammar · 一句一语法
+description: 美元的漫长一天 · 一篇英文,八十句话,把所有英文语法都写一遍
 baseurl: ""
 url: https://learningenglish.irischanglabs.com
 theme: minima
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+author:
+  name: Iris Chang Studio
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  skin: classic
+
+# Top nav (works with minima default behavior — pages with `nav: true` show up)
+header_pages:
+  - breakdown.md
+  - terms.md

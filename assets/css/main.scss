@@ -1,0 +1,180 @@
+---
+---
+
+@import "minima";
+
+/* === Sakura / Iris Chang Studio palette overlay === */
+:root{
+  --ink:#1a1a1a;
+  --ink-soft:#444;
+  --paper:#fafaf7;
+  --rule:#e7e3d8;
+  --accent:#C62828;       /* 朱印 / 主语 */
+  --verb:#1565C0;         /* 谓语 */
+  --object:#2E7D32;       /* 宾语 */
+  --comp:#6A1B9A;         /* 补语 */
+  --adv:#5D4037;          /* 状语 */
+  --mod:#8a8a8a;          /* 修饰/限定 */
+}
+
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family: "Noto Serif", "Source Serif Pro", "Times New Roman", "Songti SC", serif;
+}
+
+.site-header{ border-top:none; border-bottom:1px solid var(--rule); }
+.site-title, .site-title:visited{ color:var(--ink); font-weight:600; letter-spacing:0.02em; }
+.site-nav .page-link{ color:var(--ink-soft); }
+.site-footer{ border-top:1px solid var(--rule); color:var(--ink-soft); }
+
+/* === Article (homepage) === */
+.article-meta{
+  font-style:italic;
+  color:var(--ink-soft);
+  margin-bottom:2rem;
+  border-bottom:1px solid var(--rule);
+  padding-bottom:1rem;
+}
+.article p{
+  font-size:1.05rem;
+  line-height:1.85;
+  margin-bottom:1.1em;
+}
+.article .sentence{
+  display:inline;
+}
+.article .sentence:hover{
+  background: rgba(198,40,40,0.06);
+  border-radius:2px;
+}
+.article .sn{
+  display:inline-block;
+  width:2.2em;
+  font-size:0.7rem;
+  color:var(--accent);
+  vertical-align:super;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  text-decoration:none;
+  user-select:none;
+}
+.article .sn:hover{ text-decoration:underline; }
+
+/* === Audio play button === */
+.play{
+  display:inline-block;
+  cursor:pointer;
+  font-size:0.7rem;
+  color:#888;
+  border:1px solid var(--rule);
+  border-radius:99px;
+  padding:0.05em 0.55em;
+  margin: 0 0.2em;
+  vertical-align: 1px;
+  background:#fff;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  user-select:none;
+  transition: all 0.15s ease;
+}
+.play:hover{
+  color:#fff;
+  background:var(--accent);
+  border-color:var(--accent);
+}
+.play.playing{
+  color:#fff;
+  background:var(--verb);
+  border-color:var(--verb);
+}
+
+/* === Constituent color marks (used on /breakdown/) === */
+.s, .v, .o, .c, .a, .m {
+  position:relative;
+  padding: 0 0.05em;
+  border-bottom: 2px solid currentColor;
+  white-space: nowrap;
+}
+.s{ color:var(--accent); }
+.v{ color:var(--verb); }
+.o{ color:var(--object); }
+.c{ color:var(--comp); }
+.a{ color:var(--adv); }
+.m{ color:var(--mod); border-bottom-style:dotted; }
+
+.s::before, .v::before, .o::before, .c::before, .a::before, .m::before{
+  content: attr(data-tag);
+  position:absolute;
+  top:-0.95em;
+  left:0;
+  font-size:0.55rem;
+  font-weight:600;
+  letter-spacing:0.05em;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  color: currentColor;
+  opacity:0.85;
+}
+
+/* === Breakdown blocks === */
+.bk{
+  margin: 2em 0;
+  padding: 1.25em 1.4em 1em;
+  border-left: 3px solid var(--rule);
+  background: #fff;
+  border-radius: 0 4px 4px 0;
+  scroll-margin-top: 80px;
+}
+.bk:target{
+  border-left-color: var(--accent);
+  background: #fffaf5;
+}
+.bk h3{
+  margin: 0 0 0.6em;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+}
+.bk .en, .bk .zh{
+  line-height: 2.3;
+  margin: 0.6em 0;
+  font-size: 1.05rem;
+}
+.bk .zh{ font-family: "Songti SC", "Noto Serif CJK SC", serif; }
+.bk .grammar{
+  margin: 0.8em 0;
+  padding: 0.35em 0.7em;
+  background: #f5f1e8;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.bk .grammar b{ color: var(--accent); }
+.bk .roles{
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin: 0.3em 0 0.7em;
+  padding-left: 0.2em;
+}
+
+/* === Terms page === */
+.term{
+  margin: 2.5em 0;
+  padding-bottom: 1em;
+  border-bottom: 1px solid var(--rule);
+}
+.term h2{
+  font-size: 1.3rem;
+  color: var(--accent);
+  margin-bottom: 0.3em;
+}
+.term .def{ color: var(--ink-soft); font-style: italic; margin-bottom: 0.8em; }
+.term ul{ margin: 0.4em 0 0.8em 1.5em; }
+
+/* === Responsive === */
+@media (max-width: 600px){
+  .article p{ font-size: 0.98rem; line-height: 1.75; }
+  .bk{ padding: 1em 0.9em; }
+}
