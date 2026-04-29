@@ -741,6 +741,51 @@ permalink: /breakdown/
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 须知，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 由是，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元的漫长一日，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 正如此句，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 不过才刚刚开始</p>
 </div>
 
+<div class="bk" id="s-081">
+<h3>S-081 · Absolute Construction (独立主格)</h3>
+<p class="en"><span class="m" data-tag="M">Trust restored</span>, <span class="s" data-tag="S">the dollar</span> <span class="a" data-tag="A">quietly</span> <span class="v" data-tag="V">resumed</span> <span class="o" data-tag="O">its authority</span> <span class="a" data-tag="A">over global trade</span>.</p>
+<p class="roles"><a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = Trust restored，<a href="/terms/#subject" class="role-link"><b>主</b></a> = the dollar，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = quietly / over global trade，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = resumed，<a href="/terms/#object" class="role-link"><b>宾</b></a> = its authority</p>
+<p class="grammar"><b>Grammar:</b> 独立主格结构 (absolute construction) · "名词 + 分词/形容词/介词短语" 自带"小主语",修饰主句。比从句更紧凑,文学性强。同类:<em>The vote tallied, …</em> · <em>His patience exhausted, …</em> · <em>With trust restored, …</em></p>
+<p class="zh"><span class="m" data-tag="独立主格">信任既已恢复</span>，<span class="s" data-tag="主">美元</span> <span class="a" data-tag="状">悄然</span> <span class="v" data-tag="谓">重拾</span> <span class="o" data-tag="宾">它的威权</span> <span class="a" data-tag="状">在全球贸易之上</span>。</p>
+<p class="roles"><a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 信任既已恢复，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 悄然 / 在全球贸易之上，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 重拾，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 它的威权</p>
+</div>
+
+<div class="bk" id="s-082">
+<h3>S-082 · had better (情态半助动词 · 强烈建议/警告)</h3>
+<p class="en"><span class="s" data-tag="S">Whoever holds dollars in the years ahead</span> <span class="v" data-tag="V">had better watch</span> <span class="o" data-tag="O">the politics</span> <span class="m" data-tag="M">that back them</span>.</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = Whoever holds dollars in the years ahead，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = had better watch，<a href="/terms/#object" class="role-link"><b>宾</b></a> = the politics，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = that back them</p>
+<p class="grammar"><b>Grammar:</b> had better + 动词原形 · 表强烈建议、警告或忠告(语气比 should 更急迫,带"否则后果不堪"的潜台词)。否定式:had better not。</p>
+<p class="zh"><span class="s" data-tag="主">凡是在未来岁月里持有美元的人</span> <span class="v" data-tag="谓">最好留意</span> <span class="o" data-tag="宾">支撑这一货币的政治</span>。</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 凡是在未来岁月里持有美元的人，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 最好留意，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 支撑这一货币的政治</p>
+</div>
+
+<div class="bk" id="s-083">
+<h3>S-083 · would rather (情态半助动词 · 宁愿)</h3>
+<p class="en"><span class="s" data-tag="S">Most savers</span>, <span class="a" data-tag="A">even today</span>, <span class="v" data-tag="V">would rather keep</span> <span class="o" data-tag="O">dollars</span> <span class="c" data-tag="C">than hold gold for a generation</span>.</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = Most savers，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = even today，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = would rather keep，<a href="/terms/#object" class="role-link"><b>宾</b></a> = dollars，<a href="/terms/#complement" class="role-link"><b>补</b></a> = than hold gold for a generation</p>
+<p class="grammar"><b>Grammar:</b> would rather + 动词原形 (+ than + 动词原形) · 表"宁愿做 X 而不做 Y"。如果跟从句:would rather + S + 过去时(虚拟,与现在事实相反)。</p>
+<p class="zh"><span class="s" data-tag="主">大多数存款人</span>，<span class="a" data-tag="状">即便今天</span>，<span class="v" data-tag="谓">也宁愿持守</span> <span class="o" data-tag="宾">美元</span>，<span class="c" data-tag="补">而非攥着黄金度过一代人之久</span>。</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 大多数存款人，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 即便今天，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 也宁愿持守，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 美元，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 而非攥着黄金度过一代人之久</p>
+</div>
+
+<div class="bk" id="s-084">
+<h3>S-084 · It's high time + Past Subjunctive (虚拟特殊式 · 该是时候了)</h3>
+<p class="en"><span class="s" data-tag="S">It's high time</span> <span class="o" data-tag="O">the world admitted that no single currency can carry the global economy alone</span>.</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = It's high time，<a href="/terms/#object" class="role-link"><b>宾</b></a> = the world admitted that no single currency can carry the global economy alone</p>
+<p class="grammar"><b>Grammar:</b> It's (high / about) time + that 从句,从句用过去时(虚拟用法,实际指现在或将来) — 表"该是时候做某事了,而且早该做了"。同类:<em>It's about time you said something. · It's high time we acted.</em></p>
+<p class="zh"><span class="s" data-tag="句式">该是时候了</span> — <span class="o" data-tag="虚拟从句">这世界承认没有任何单一货币能独自扛起全球经济</span>。</p>
+<p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 该是时候了，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 这世界承认没有任何单一货币能独自扛起全球经济</p>
+</div>
+
+<div class="bk" id="s-085">
+<h3>S-085 · Multiplier · three times as ... as (倍数比较)</h3>
+<p class="en"><span class="a" data-tag="A">Today</span>, <span class="s" data-tag="S">the dollar</span> <span class="v" data-tag="V">is traded</span> <span class="c" data-tag="C">almost three times as often as the euro and the yen combined</span>.</p>
+<p class="roles"><a href="/terms/#adverbial" class="role-link"><b>状</b></a> = Today，<a href="/terms/#subject" class="role-link"><b>主</b></a> = the dollar，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = is traded，<a href="/terms/#complement" class="role-link"><b>补</b></a> = almost three times as often as the euro and the yen combined</p>
+<p class="grammar"><b>Grammar:</b> 倍数比较 · "倍数 + as + 形/副 + as ..."(如 twice as much, three times as often)。亦可用"倍数 + 比较级 + than":<em>three times bigger than ...</em>。两种结构英语母语者都常用。</p>
+<p class="zh"><span class="a" data-tag="状">今天</span>，<span class="s" data-tag="主">美元的成交量</span> <span class="v" data-tag="谓">几乎是</span> <span class="c" data-tag="比较">欧元和日元加总的三倍</span>。</p>
+<p class="roles"><a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 今天，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元的成交量，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 几乎是，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 欧元和日元加总的三倍</p>
+</div>
+
 <hr>
 
-<p class="article-meta">完整 80 句 · 整句每个部分都涂了颜色 · 12 时态全 / 主被动 / 情态 / 非谓语 / 各类从句 / 虚拟语气 / 倒装强调省略 / 比较并列 / 同位独立成分。<a href="/">回首页</a> · <a href="/terms/">术语词典</a></p>
+<p class="article-meta">完整 85 句 · 整句每个部分都涂了颜色 · 12 时态全 / 主被动 / 情态(含 had better · would rather) / 非谓语(含独立主格) / 各类从句 / 虚拟语气(含 It's high time) / 倒装强调省略 / 比较并列(含倍数) / 同位独立成分。<a href="/">回首页</a> · <a href="/terms/">术语词典</a></p>

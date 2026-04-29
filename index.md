@@ -120,9 +120,19 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-080"><a class="sn" href="/breakdown/#s-080">[80]</a> Be it noted, then: the dollar's long day, like this sentence, has only just begun. <button class="play" data-audio="/assets/audio/s-080.mp3" aria-label="play">▶</button></span>
 </p>
 
+<h2>VII · Coda · The Dollar in 2030+ (补五句 · 81–85)</h2>
+
+<p>
+<span class="sentence" id="s-081"><a class="sn" href="/breakdown/#s-081">[81]</a> Trust restored, the dollar quietly resumed its authority over global trade. <button class="play" data-audio="/assets/audio/s-081.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-082"><a class="sn" href="/breakdown/#s-082">[82]</a> Whoever holds dollars in the years ahead had better watch the politics that back them. <button class="play" data-audio="/assets/audio/s-082.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-083"><a class="sn" href="/breakdown/#s-083">[83]</a> Most savers, even today, would rather keep dollars than hold gold for a generation. <button class="play" data-audio="/assets/audio/s-083.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-084"><a class="sn" href="/breakdown/#s-084">[84]</a> It's high time the world admitted that no single currency can carry the global economy alone. <button class="play" data-audio="/assets/audio/s-084.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-085"><a class="sn" href="/breakdown/#s-085">[85]</a> Today, the dollar is traded almost three times as often as the euro and the yen combined. <button class="play" data-audio="/assets/audio/s-085.mp3" aria-label="play">▶</button></span>
+</p>
+
 <hr>
 
-<p class="article-meta">Iris Chang Studio · 80 sentences · 80 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
+<p class="article-meta">Iris Chang Studio · 85 sentences · 85 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
 
 </div>
 
