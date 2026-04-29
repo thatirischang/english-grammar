@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms · 完整语法术语索引
-subtitle: 85 句涵盖的所有语法点 · 每条带定义 + S-NN 例句链接 · 中英双解。
+subtitle: 106 句涵盖的所有语法点 · 16 大章 151 条术语 · 每条带 S-NN 例句链接 · 中英双解。
 permalink: /terms/
 ---
 
