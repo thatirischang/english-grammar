@@ -6,7 +6,12 @@ permalink: /breakdown/
 ---
 
 <div class="legend">
-<p><strong style="color:#444;font-size:0.92rem;">点击任一颜色块,跳到「术语」页查看完整定义。每句话的标签会更具体（表语、宾补、介词、关代等)。鼠标悬停每个英文词可查 IPA 音标。</strong></p>
+<p style="font-size:0.93rem;line-height:1.85;color:#444;margin:0 0 0.5em;">
+<strong style="color:#C62828;">▶</strong> 每句左上角播放按钮,点击听 Microsoft AvaNeural 朗读。&nbsp;
+<strong style="color:#1565C0;">音标</strong> 每个英文词上方有小字 IPA(始终可见)。&nbsp;
+<strong style="color:#2E7D32;">中文释义</strong> 鼠标悬停英文词,弹出该词中文意思(手机长按)。&nbsp;
+<strong style="color:#6A1B9A;">语法成分</strong> 每个色块标签精确到词级。点击下方任一色块跳「术语」页。
+</p>
 <p>
 <a href="/terms/#subject" class="legend-link"><span class="s" data-tag="主">主语 Subject</span></a>
 <a href="/terms/#predicate" class="legend-link"><span class="v" data-tag="谓">谓语 Verb</span></a>
