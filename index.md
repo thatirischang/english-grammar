@@ -120,7 +120,7 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-080"><a class="sn" href="/breakdown/#s-080">[80]</a> Be it noted, then: the dollar's long day, like this sentence, has only just begun. <button class="play" data-audio="/assets/audio/s-080.mp3" aria-label="play">▶</button></span>
 </p>
 
-<h2>VII · Coda · The Dollar in 2030+ (补五句 · 81–85)</h2>
+<h2>VII · Coda · The Dollar Beyond Numbers</h2>
 
 <p>
 <span class="sentence" id="s-081"><a class="sn" href="/breakdown/#s-081">[81]</a> Trust restored, the dollar quietly resumed its authority over global trade. <button class="play" data-audio="/assets/audio/s-081.mp3" aria-label="play">▶</button></span>
@@ -128,11 +128,6 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-083"><a class="sn" href="/breakdown/#s-083">[83]</a> Most savers, even today, would rather keep dollars than hold gold for a generation. <button class="play" data-audio="/assets/audio/s-083.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-084"><a class="sn" href="/breakdown/#s-084">[84]</a> It's high time the world admitted that no single currency can carry the global economy alone. <button class="play" data-audio="/assets/audio/s-084.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-085"><a class="sn" href="/breakdown/#s-085">[85]</a> Today, the dollar is traded almost twice as often as the euro and the yen combined. <button class="play" data-audio="/assets/audio/s-085.mp3" aria-label="play">▶</button></span>
-</p>
-
-<h2>VIII · Coda II · 收尾 12 句(补全语法 86–97)</h2>
-
-<p>
 <span class="sentence" id="s-086"><a class="sn" href="/breakdown/#s-086">[86]</a> Where, then, does the dollar's power truly come from? <button class="play" data-audio="/assets/audio/s-086.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-087"><a class="sn" href="/breakdown/#s-087">[87]</a> Consider, for a moment, the quiet decisions that a single dollar carries. <button class="play" data-audio="/assets/audio/s-087.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-088"><a class="sn" href="/breakdown/#s-088">[88]</a> Keynes once wrote, with characteristic bluntness, "When the facts change, I change my mind." <button class="play" data-audio="/assets/audio/s-088.mp3" aria-label="play">▶</button></span>
@@ -145,11 +140,6 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-095"><a class="sn" href="/breakdown/#s-095">[95]</a> If the dollar ever falters, so will most of the world's price stability. <button class="play" data-audio="/assets/audio/s-095.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-096"><a class="sn" href="/breakdown/#s-096">[96]</a> Not until the gold standard collapsed did the world fully realize how much it had relied on a single piece of metal. <button class="play" data-audio="/assets/audio/s-096.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-097"><a class="sn" href="/breakdown/#s-097">[97]</a> So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime. <button class="play" data-audio="/assets/audio/s-097.mp3" aria-label="play">▶</button></span>
-</p>
-
-<h2>IX · Coda III · 收尾 9 句(补 98–106)</h2>
-
-<p>
 <span class="sentence" id="s-098"><a class="sn" href="/breakdown/#s-098">[98]</a> There was no easy way back to gold once confidence had broken. <button class="play" data-audio="/assets/audio/s-098.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-099"><a class="sn" href="/breakdown/#s-099">[99]</a> It took decades for the dollar to become the language of global trade. <button class="play" data-audio="/assets/audio/s-099.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-100"><a class="sn" href="/breakdown/#s-100">[100]</a> Economists still debate why the dollar survived when so many rivals failed. <button class="play" data-audio="/assets/audio/s-100.mp3" aria-label="play">▶</button></span>
