@@ -167,8 +167,8 @@ body{
 .legend span.a, .legend span.m, .legend span.fn, .legend span.cl {
   position: relative !important;
   display: inline-block !important;
-  padding: 1.0em 0.45em 0.15em !important;   /* big top for ruby IPA */
-  margin: 1.4em 0.1em 0.4em !important;       /* big top for tag label */
+  padding: 0.3em 0.45em 0.4em !important;     /* IPA + 中文 in stack are below word inside span */
+  margin: 1.6em 0.1em 0.6em !important;       /* top margin reserves space for tag label */
   border-radius: 4px !important;
   font-weight: 500 !important;
   vertical-align: baseline !important;
@@ -282,12 +282,16 @@ body{
   padding-bottom: 0.5em;
   border-bottom: 1px solid var(--rule);
 }
-.bk .en, .bk .zh{
-  line-height: 4.5;          /* extra-large room for ruby IPA + tag label above */
+.bk .en{
+  line-height: 5.8;            /* room for: tag label + word + IPA + 中文 stacked + margin */
   margin: 1.5em 0;
   font-size: 1.05rem;
 }
-.bk .zh{ line-height: 3.0; }   /* Chinese row has no ruby, less line-height */
+.bk .zh{
+  line-height: 2.8;             /* Chinese row has no per-word stack, smaller line-height */
+  margin: 1.2em 0;
+  font-size: 1.05rem;
+}
 .bk .zh{ font-family: "Songti SC", "Noto Serif CJK SC", serif; }
 
 .bk .grammar{
