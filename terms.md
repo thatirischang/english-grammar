@@ -1113,4 +1113,60 @@ permalink: /terms/
 
 <hr>
 
-<p class="article-meta">本术语索引覆盖 97 句拆解里的所有语法点(16 大章 142+ 条术语)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>
+<div class="term" id="plain-there-be">
+<h3>13. 普通 there be 句型 · Plain There-Be</h3>
+<p class="def">基础 there + be + NP · 表存在或不存在。区别于 S-059 的文学倒装(There came / There stood),后者是动词+主语倒置,且动词不限于 be。</p>
+<p class="ex"><a href="/breakdown/#s-098">S-098</a> <em>There was no easy way back to gold once confidence had broken.</em></p>
+</div>
+
+<div class="term" id="it-took-time">
+<h3>14. It took/takes + 时间 + for + to-V (花费时间结构)</h3>
+<p class="def">It 是形式主语,不定式短语是真主语。表「花了 X 时间让 Y 做某事」。同类 It will take ten years for X to recover.</p>
+<p class="ex"><a href="/breakdown/#s-099">S-099</a> <em>It took decades for the dollar to become the language of global trade.</em></p>
+</div>
+
+<div class="term" id="indirect-question">
+<h3>15. 间接疑问句 · Indirect Question</h3>
+<p class="def">debate / wonder / ask / explain / question + wh- 引导从句。<strong>关键</strong>:从句用<strong>陈述语序</strong>,无主谓倒装。区别于直接疑问句 S-086(does the dollar...)。</p>
+<p class="ex"><a href="/breakdown/#s-100">S-100</a> <em>Economists still debate why the dollar survived when so many rivals failed.</em></p>
+</div>
+
+<div class="term" id="reciprocal-pronoun">
+<h3>16. 相互代词 · Reciprocal Pronoun (one another / each other)</h3>
+<p class="def">表「互相」。形式上作宾语或介宾。一般两者通用,部分语法书认为 each other 用于两人/物、one another 用于多人/物。</p>
+<p class="ex"><a href="/breakdown/#s-101">S-101</a> <em>Through the dollar markets, nations lent to one another even when their politics could not.</em></p>
+</div>
+
+<div class="term" id="adj-object-complement">
+<h3>17. 形容词作宾补 · V + O + Adj</h3>
+<p class="def">consider / find / deem / think / call + 宾 + 形容词 · 形容词作宾补,描述宾语状态。区别于 S-022 的 V + O + 不带 to 不定式。</p>
+<p class="ex"><a href="/breakdown/#s-102">S-102</a> <em>Markets considered the dollar safe even when American politics looked dangerously unstable.</em></p>
+</div>
+
+<div class="term" id="should-have-done">
+<h3>18. should have + 过去分词 (本该做却没做)</h3>
+<p class="def">表「过去本该做却没做」,含批评、遗憾。是情态完成式四子类之一,与 might-have(可能曾)、could-have(本可)、must-have(肯定曾)对照。</p>
+<p class="ex"><a href="/breakdown/#s-103">S-103</a> <em>Regulators should have seen the danger of unchecked leverage long before the autumn of 2008.</em></p>
+</div>
+
+<div class="term" id="must-have-done">
+<h3>19. must have + 过去分词 (对过去的肯定推断)</h3>
+<p class="def">表「对过去事实的肯定推断」。否定式不用 must not have,用 can't have done。区别于 must + V(对现在的推断)。</p>
+<p class="ex"><a href="/breakdown/#s-104">S-104</a> <em>Investors must have believed, even in the darkest week, that the Federal Reserve would act.</em></p>
+</div>
+
+<div class="term" id="if-only">
+<h3>20. If only + 过去完成时(虚拟感叹 · 早知如此)</h3>
+<p class="def">表「对过去未发生事的强烈遗憾」。语气比 I wish 更感慨。结构 If only + S + had + V-en, S + might/would have + V-en。</p>
+<p class="ex"><a href="/breakdown/#s-105">S-105</a> <em>If only policymakers had acted sooner, the panic of 2008 might have ended very differently.</em></p>
+</div>
+
+<div class="term" id="extraposition-mandative">
+<h3>21. It is essential that + V 原形 (Extraposition Mandative)</h3>
+<p class="def">It is + adj-of-importance + that + S + V原形。形式主语 it 加正式虚拟语气从句。adj 常见 essential / necessary / important / vital / crucial / imperative。从句动词用<strong>原形</strong>(retain,不是 retains)。</p>
+<p class="ex"><a href="/breakdown/#s-106">S-106</a> <em>It is essential that every reserve currency retain the confidence of strangers, generation after generation.</em></p>
+</div>
+
+<hr>
+
+<p class="article-meta">本术语索引覆盖 106 句拆解里的所有语法点(16 大章 151+ 条术语)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>

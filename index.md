@@ -147,9 +147,23 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-097"><a class="sn" href="/breakdown/#s-097">[97]</a> So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime. <button class="play" data-audio="/assets/audio/s-097.mp3" aria-label="play">▶</button></span>
 </p>
 
+<h2>IX · Coda III · 收尾 9 句(补 98–106)</h2>
+
+<p>
+<span class="sentence" id="s-098"><a class="sn" href="/breakdown/#s-098">[98]</a> There was no easy way back to gold once confidence had broken. <button class="play" data-audio="/assets/audio/s-098.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-099"><a class="sn" href="/breakdown/#s-099">[99]</a> It took decades for the dollar to become the language of global trade. <button class="play" data-audio="/assets/audio/s-099.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-100"><a class="sn" href="/breakdown/#s-100">[100]</a> Economists still debate why the dollar survived when so many rivals failed. <button class="play" data-audio="/assets/audio/s-100.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-101"><a class="sn" href="/breakdown/#s-101">[101]</a> Through the dollar markets, nations lent to one another even when their politics could not. <button class="play" data-audio="/assets/audio/s-101.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-102"><a class="sn" href="/breakdown/#s-102">[102]</a> Markets considered the dollar safe even when American politics looked dangerously unstable. <button class="play" data-audio="/assets/audio/s-102.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-103"><a class="sn" href="/breakdown/#s-103">[103]</a> Regulators should have seen the danger of unchecked leverage long before the autumn of 2008. <button class="play" data-audio="/assets/audio/s-103.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-104"><a class="sn" href="/breakdown/#s-104">[104]</a> Investors must have believed, even in the darkest week, that the Federal Reserve would act. <button class="play" data-audio="/assets/audio/s-104.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-105"><a class="sn" href="/breakdown/#s-105">[105]</a> If only policymakers had acted sooner, the panic of 2008 might have ended very differently. <button class="play" data-audio="/assets/audio/s-105.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-106"><a class="sn" href="/breakdown/#s-106">[106]</a> It is essential that every reserve currency retain the confidence of strangers, generation after generation. <button class="play" data-audio="/assets/audio/s-106.mp3" aria-label="play">▶</button></span>
+</p>
+
 <hr>
 
-<p class="article-meta">Iris Chang Studio · 97 sentences · 97 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
+<p class="article-meta">Iris Chang Studio · 106 sentences · 106 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
 
 </div>
 
