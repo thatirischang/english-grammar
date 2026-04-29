@@ -82,7 +82,7 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <p>
 <span class="sentence" id="s-048"><a class="sn" href="/breakdown/#s-048">[48]</a> In 1979, Volcker raised the federal funds rate to a level no banker dared imagine. <button class="play" data-audio="/assets/audio/s-048.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-049"><a class="sn" href="/breakdown/#s-049">[49]</a> Borrowers wept and farmers went bankrupt, yet bond traders cheered. <button class="play" data-audio="/assets/audio/s-049.mp3" aria-label="play">▶</button></span>
-<span class="sentence" id="s-050"><a class="sn" href="/breakdown/#s-050">[50]</a> By the mid-1980s, inflation has been beaten back, and the long bull market in U.S. assets has begun in earnest. <button class="play" data-audio="/assets/audio/s-050.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-050"><a class="sn" href="/breakdown/#s-050">[50]</a> By the mid-1980s, inflation had been beaten back, and to this day, a price spiral of that scale has not been seen on American soil. <button class="play" data-audio="/assets/audio/s-050.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-051"><a class="sn" href="/breakdown/#s-051">[51]</a> The Plaza Accord of 1985 was not only an attempt to weaken the dollar, but also a quiet admission that even superpowers must compromise. <button class="play" data-audio="/assets/audio/s-051.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-052"><a class="sn" href="/breakdown/#s-052">[52]</a> If the dollar were to weaken further, American manufacturing might at last find its footing. <button class="play" data-audio="/assets/audio/s-052.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-053"><a class="sn" href="/breakdown/#s-053">[53]</a> By 1995, foreign central banks held trillions of dollars in reserve — the largest store of foreign exchange the world had ever known. <button class="play" data-audio="/assets/audio/s-053.mp3" aria-label="play">▶</button></span>
@@ -130,9 +130,26 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-085"><a class="sn" href="/breakdown/#s-085">[85]</a> Today, the dollar is traded almost three times as often as the euro and the yen combined. <button class="play" data-audio="/assets/audio/s-085.mp3" aria-label="play">▶</button></span>
 </p>
 
+<h2>VIII · Coda II · 收尾 12 句(补全语法 86–97)</h2>
+
+<p>
+<span class="sentence" id="s-086"><a class="sn" href="/breakdown/#s-086">[86]</a> Where, then, does the dollar's power truly come from? <button class="play" data-audio="/assets/audio/s-086.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-087"><a class="sn" href="/breakdown/#s-087">[87]</a> Consider, for a moment, the quiet decisions that a single dollar carries. <button class="play" data-audio="/assets/audio/s-087.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-088"><a class="sn" href="/breakdown/#s-088">[88]</a> Keynes once wrote, with characteristic bluntness, "When the facts change, I change my mind." <button class="play" data-audio="/assets/audio/s-088.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-089"><a class="sn" href="/breakdown/#s-089">[89]</a> The truth is that no fiat currency in modern history has held the world's confidence for as long as the dollar. <button class="play" data-audio="/assets/audio/s-089.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-090"><a class="sn" href="/breakdown/#s-090">[90]</a> With Bretton Woods dismantled and gold finally untethered, the dollar entered a new and unfamiliar age. <button class="play" data-audio="/assets/audio/s-090.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-091"><a class="sn" href="/breakdown/#s-091">[91]</a> The more the world distrusts its own governments, the more it seems, paradoxically, to trust the dollar. <button class="play" data-audio="/assets/audio/s-091.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-092"><a class="sn" href="/breakdown/#s-092">[92]</a> The dollar's strength lies not so much in America's economy as in the world's collective fear of any alternative. <button class="play" data-audio="/assets/audio/s-092.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-093"><a class="sn" href="/breakdown/#s-093">[93]</a> Where every other currency would have faltered under the same pressure, the dollar somehow did not. <button class="play" data-audio="/assets/audio/s-093.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-094"><a class="sn" href="/breakdown/#s-094">[94]</a> Volcker said, in the autumn of 1980, that he would crush inflation no matter the political cost. <button class="play" data-audio="/assets/audio/s-094.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-095"><a class="sn" href="/breakdown/#s-095">[95]</a> If the dollar ever falters, so will most of the world's price stability. <button class="play" data-audio="/assets/audio/s-095.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-096"><a class="sn" href="/breakdown/#s-096">[96]</a> Not until the gold standard collapsed did the world fully realize how much it had relied on a single piece of metal. <button class="play" data-audio="/assets/audio/s-096.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-097"><a class="sn" href="/breakdown/#s-097">[97]</a> So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime. <button class="play" data-audio="/assets/audio/s-097.mp3" aria-label="play">▶</button></span>
+</p>
+
 <hr>
 
-<p class="article-meta">Iris Chang Studio · 85 sentences · 85 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
+<p class="article-meta">Iris Chang Studio · 97 sentences · 97 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
 
 </div>
 

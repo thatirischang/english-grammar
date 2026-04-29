@@ -37,6 +37,7 @@ permalink: /terms/
 <a href="#inversion">倒装/强调/省略/it</a>
 <a href="#comparison">比较与并列</a>
 <a href="#independent-elements">独立成分</a>
+<a href="#extras">⑯ 补充语法 86–97</a>
 </p>
 </div>
 
@@ -1028,4 +1029,88 @@ permalink: /terms/
 
 <hr>
 
-<p class="article-meta">本术语索引覆盖 85 句拆解里的所有语法点。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>
+<hr>
+
+<h2 id="extras" class="term">⑯ 补充语法 86–97 · 收尾的 12 项</h2>
+<p>这 12 项是文章末尾(S-086 至 S-097)新增的语法点,补齐核心语法的最后边角。</p>
+
+<div class="term" id="wh-question">
+<h3>1. Wh- 直接疑问句 · Wh-Question</h3>
+<p class="def">Wh- 词(where/what/who/why/how)开头的直接问句。形式:<strong>Wh-词 + 助动词 + 主语 + 主动词</strong>。区别于 wh- 名词从句(嵌套句中,无倒装)。</p>
+<p class="ex"><a href="/breakdown/#s-086">S-086</a> <em>Where, then, does the dollar's power truly come from?</em></p>
+</div>
+
+<div class="term" id="imperative">
+<h3>2. 普通祈使句 · Imperative</h3>
+<p class="def">省略主语(默认 you),动词原形开头。表命令、请求、引导、建议。否定式 Don't + V 或 Never + V。</p>
+<p class="ex"><a href="/breakdown/#s-087">S-087</a> <em>Consider, for a moment, the quiet decisions that a single dollar carries.</em></p>
+</div>
+
+<div class="term" id="direct-speech">
+<h3>3. 直接引语 · Direct Speech</h3>
+<p class="def">用引号原文复述说话内容。<strong>说话人 + 引述动词(said / wrote / declared) + 逗号 + 引号内容</strong>。引号内时态、人称完全不变。</p>
+<p class="ex"><a href="/breakdown/#s-088">S-088</a> <em>Keynes once wrote, with characteristic bluntness, "When the facts change, I change my mind."</em></p>
+</div>
+
+<div class="term" id="predicative-clause">
+<h3>4. 表语从句 · Predicative Clause</h3>
+<p class="def">系动词后的 that 从句作表语。结构:<strong>主语 + 系动词 + that-从句</strong>。<em>The truth is that ...</em> / <em>The fact is that ...</em> / <em>The point is that ...</em> 是经典论述句式。</p>
+<p class="ex"><a href="/breakdown/#s-089">S-089</a> <em>The truth is that no fiat currency in modern history has held the world's confidence for as long as the dollar.</em></p>
+</div>
+
+<div class="term" id="with-compound">
+<h3>5. With-复合结构 · With + NP + V/Adj/PP</h3>
+<p class="def">with + 名词 + 分词/形容词/介词短语,作伴随状语。功能等同独立主格,但更常用、更口语。</p>
+<p class="ex"><a href="/breakdown/#s-090">S-090</a> <em>With Bretton Woods dismantled and gold finally untethered, the dollar entered a new and unfamiliar age.</em></p>
+</div>
+
+<div class="term" id="the-more-the-more">
+<h3>6. The more..., the more... · 越...越...</h3>
+<p class="def">比较级关联结构,表正比。两个比较级前都用 the。同类:<em>the bigger, the better</em> / <em>the harder you try, the more you fail</em>。</p>
+<p class="ex"><a href="/breakdown/#s-091">S-091</a> <em>The more the world distrusts its own governments, the more it seems, paradoxically, to trust the dollar.</em></p>
+</div>
+
+<div class="term" id="not-so-much-as">
+<h3>7. Not so much...as... · 与其说 X,不如说 Y</h3>
+<p class="def">两项对比,弱化前者、突出后者。等价于 "rather Y than X" 或 "less X than Y"。常用于辩论、论文。</p>
+<p class="ex"><a href="/breakdown/#s-092">S-092</a> <em>The dollar's strength lies not so much in America's economy as in the world's collective fear of any alternative.</em></p>
+</div>
+
+<div class="term" id="do-substitution">
+<h3>8. 替代结构 · Do / So / One Substitution</h3>
+<p class="def">为避免重复,用 do / so / one 替代上文出现的内容。</p>
+<ul>
+<li><strong>do/does/did</strong> 替代动作动词:<em>I sleep, and so does he.</em>(他也睡)</li>
+<li><strong>so</strong> 替代整个 that-从句:<em>I think so.</em>(= I think that ...)</li>
+<li><strong>one/ones</strong> 替代名词:<em>I want a red one.</em>(= a red car)</li>
+</ul>
+<p class="ex"><a href="/breakdown/#s-093">S-093</a> <em>Where every other currency would have faltered under the same pressure, the dollar somehow did not.</em>(did not = did not falter)</p>
+</div>
+
+<div class="term" id="reported-speech-backshift">
+<h3>9. 间接引语(带 backshift) · Reported Speech with Tense Backshift</h3>
+<p class="def">不用引号,用 that-从句转述,关键特征是<strong>时态后移(backshift)</strong>:will → would / can → could / am-is-are → was-were / 现在 → 过去 / 过去 → 过完。</p>
+<p class="ex"><a href="/breakdown/#s-094">S-094</a> <em>Volcker said, in the autumn of 1980, that he would crush inflation no matter the political cost.</em>(原话:I will crush inflation. 转述时 will → would)</p>
+</div>
+
+<div class="term" id="so-inversion-ellipsis">
+<h3>10. So + 倒装省略 · So + Aux + Subject</h3>
+<p class="def">表"X 也如此",省略前文动词。<em>I'm tired. — So am I.</em>(我也累)。<em>If A falters, so will B.</em>(B 也将随之 falter,但不重复 falter)。否定式用 neither/nor。</p>
+<p class="ex"><a href="/breakdown/#s-095">S-095</a> <em>If the dollar ever falters, so will most of the world's price stability.</em>(so will = will [also falter])</p>
+</div>
+
+<div class="term" id="not-until-inversion">
+<h3>11. Not until 倒装 · Not until + 时间 + 主谓倒装</h3>
+<p class="def">Not until + 时间/从句 前置,引发主句倒装。表"直到 X 才 Y"。从句不动,主句"助动词 + 主语 + 动词"。</p>
+<p class="ex"><a href="/breakdown/#s-096">S-096</a> <em>Not until the gold standard collapsed did the world fully realize how much it had relied on a single piece of metal.</em></p>
+</div>
+
+<div class="term" id="so-adj-that-inversion">
+<h3>12. So + Adj + that 倒装 · So thorough was X that Y</h3>
+<p class="def">So + 形容词前置,主谓倒装,后接 that 结果从句。强调"如此 X 以致 Y"。区别于普通 so...that(无倒装)。<em>So thorough was X that Y</em> = <em>X was so thorough that Y</em> 的强调倒装版。</p>
+<p class="ex"><a href="/breakdown/#s-097">S-097</a> <em>So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime.</em></p>
+</div>
+
+<hr>
+
+<p class="article-meta">本术语索引覆盖 97 句拆解里的所有语法点(16 大章 142+ 条术语)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>
