@@ -127,7 +127,7 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 <span class="sentence" id="s-082"><a class="sn" href="/breakdown/#s-082">[82]</a> Whoever holds dollars in the years ahead had better watch the politics that back them. <button class="play" data-audio="/assets/audio/s-082.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-083"><a class="sn" href="/breakdown/#s-083">[83]</a> Most savers, even today, would rather keep dollars than hold gold for a generation. <button class="play" data-audio="/assets/audio/s-083.mp3" aria-label="play">▶</button></span>
 <span class="sentence" id="s-084"><a class="sn" href="/breakdown/#s-084">[84]</a> It's high time the world admitted that no single currency can carry the global economy alone. <button class="play" data-audio="/assets/audio/s-084.mp3" aria-label="play">▶</button></span>
-<span class="sentence" id="s-085"><a class="sn" href="/breakdown/#s-085">[85]</a> Today, the dollar is traded almost three times as often as the euro and the yen combined. <button class="play" data-audio="/assets/audio/s-085.mp3" aria-label="play">▶</button></span>
+<span class="sentence" id="s-085"><a class="sn" href="/breakdown/#s-085">[85]</a> Today, the dollar is traded almost twice as often as the euro and the yen combined. <button class="play" data-audio="/assets/audio/s-085.mp3" aria-label="play">▶</button></span>
 </p>
 
 <h2>VIII · Coda II · 收尾 12 句(补全语法 86–97)</h2>
