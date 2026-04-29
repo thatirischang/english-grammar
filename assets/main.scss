@@ -357,6 +357,59 @@ body{
 .term ul{ margin: 0.4em 0 0.8em 1.5em; }
 
 /* ==========================================================================
+   Homepage 中译全篇 — Keyu-Jin-style flowing prose (single essay version).
+   Lives at the bottom of index.md, below the English article and the <hr>.
+   ========================================================================== */
+.zh-essay{
+  font-family: "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC",
+               "PingFang SC", serif;
+  margin: 2.5em 0 2em;
+  padding: 1.6em 1.4em 1.4em;
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--c-s);
+  background: #fcf8ed;
+  color: var(--ink);
+  line-height: 2.0;
+}
+.zh-essay-title{
+  font-size: 1.5rem;
+  margin: 0 0 0.3em;
+  color: var(--c-s);
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+.zh-essay-subtitle{
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  margin: 0 0 1.2em;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+.zh-essay h3{
+  font-size: 1.12rem;
+  color: var(--c-v);
+  margin: 1.6em 0 0.6em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px dashed var(--rule);
+  letter-spacing: 0.04em;
+}
+.zh-essay p{
+  font-size: 1.04rem;
+  line-height: 2.0;
+  margin: 0.6em 0 1.0em;
+  text-indent: 2em;
+  text-align: justify;
+}
+.zh-essay p.zh-essay-coda{
+  text-indent: 0;
+  text-align: right;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  margin-top: 1.6em;
+  font-style: italic;
+}
+
+/* ==========================================================================
    Mobile responsive — overrides for narrow screens (phones).
    Three tiers: ≤700px tablet/large phone, ≤480px phone, ≤360px small phone.
    ========================================================================== */
@@ -448,4 +501,18 @@ body{
   .ws > b{ font-size: 0.88em !important; }
   .ws > i{ font-size: 0.56em !important; }
   .ws > s{ font-size: 0.64em !important; }
+}
+
+/* === zh-essay responsive tightening === */
+@media (max-width: 700px){
+  .zh-essay{ padding: 1.2em 1em 1em; line-height: 1.95; }
+  .zh-essay-title{ font-size: 1.3rem; }
+  .zh-essay h3{ font-size: 1.05rem; margin-top: 1.3em; }
+  .zh-essay p{ font-size: 1rem; line-height: 1.95; text-indent: 2em; }
+}
+@media (max-width: 480px){
+  .zh-essay{ padding: 1em 0.85em 0.9em; }
+  .zh-essay-title{ font-size: 1.2rem; }
+  .zh-essay h3{ font-size: 1rem; }
+  .zh-essay p{ font-size: 0.97rem; line-height: 1.9; }
 }

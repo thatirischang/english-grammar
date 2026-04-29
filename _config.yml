@@ -16,4 +16,5 @@ minima:
 # Top nav (works with minima default behavior — pages with `nav: true` show up)
 header_pages:
   - breakdown.md
+  - cohesion.md
   - terms.md
