@@ -161,9 +161,39 @@ body{
   border:1px solid var(--rule);
   border-radius:6px;
 }
-.legend p{ line-height: 2.6; margin: 0; }
+.legend p{ line-height: 2.8; margin: 0.3em 0; }
 .legend .s,.legend .v,.legend .o,.legend .c,
 .legend .a,.legend .m,.legend .fn,.legend .cl{ margin-right: 0.4em; }
+
+/* Make legend boxes clickable links to /terms/ */
+.legend-link{
+  text-decoration: none !important;
+  display: inline-block;
+}
+.legend-link:hover .s,
+.legend-link:hover .v,
+.legend-link:hover .o,
+.legend-link:hover .c,
+.legend-link:hover .a,
+.legend-link:hover .m,
+.legend-link:hover .fn,
+.legend-link:hover .cl{
+  opacity: 0.85;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18);
+  transform: translateY(-1px);
+  transition: all 0.12s ease;
+}
+
+/* Roles row links — small constituent labels in each sentence's roles row */
+.bk .roles a.role-link{
+  color: var(--c-s);
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+.bk .roles a.role-link:hover{
+  color: var(--c-v);
+  border-bottom-style: solid;
+}
 
 /* === Breakdown blocks === */
 .bk{

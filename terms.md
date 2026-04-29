@@ -144,6 +144,38 @@ permalink: /terms/
 <p><strong>同位语从句:</strong> that 引导的从句也可作同位语,扩展抽象名词(<em>fact, idea, condition, hope, news, possibility</em>):<em>The new system rested upon a single condition: that no one ask for gold.</em>(<a href="/breakdown/#s-037">S-037</a>) — 注意:同位语从句解释名词内容,与定语从句修饰名词限定不同。</p>
 </div>
 
+<div class="term" id="function-word">
+<h2>功能词 · Function Word</h2>
+<p class="def">连词、介词、冠词、限定词等本身没有"实义"、但担负起句子结构粘合作用的词。<br>Words that carry no full lexical meaning but glue the structure of a sentence together.</p>
+
+<p><strong>三大类:</strong></p>
+<ul>
+<li><strong>并列连词 (Coordinator) — FANBOYS</strong>:<em>For, And, Nor, But, Or, Yet, So</em>。连接对等成分(短语/分句/句子)。</li>
+<li><strong>介词 (Preposition)</strong>:in / on / at / by / with / for / through / about / from / to / under / above / between ...,引出介宾。</li>
+<li><strong>冠词与限定词 (Article / Determiner)</strong>:a / an / the / this / that / these / those / my / your / his / every / each / some / any / all / no。</li>
+</ul>
+
+<p><strong>额外:</strong> 副词性连接词(<em>however, therefore, moreover, indeed, thus</em>)和填充类 there(<em>there came..., there is...</em>)也常被归入功能词或独立成分。</p>
+</div>
+
+<div class="term" id="clause-marker">
+<h2>从句引导词 · Clause Marker · Subordinator</h2>
+<p class="def">用以"开启"一个从句的词,告诉读者:接下来这一段不是主句,是嵌套进来的次级结构。<br>Words that introduce subordinate clauses, signaling: "what follows is a clause embedded in the main sentence."</p>
+
+<p><strong>按从句类型:</strong></p>
+<ul>
+<li><strong>名词性从句</strong>:that / whether / if / what / who / which / where / when / why / how。例 — <em>Whether Bretton Woods could survive a quarter-century …</em>(<a href="/breakdown/#s-036">S-036</a>)</li>
+<li><strong>定语从句(关系代词/副词)</strong>:that / which / who / whom / whose / when / where / why。例 — <em>The dollar that Hamilton designed …</em>(<a href="/breakdown/#s-009">S-009</a>)</li>
+<li><strong>时间状从</strong>:when / while / as / before / after / since / until / once。例 — <em>When the First World War broke out …</em>(<a href="/breakdown/#s-021">S-021</a>)</li>
+<li><strong>原因状从</strong>:because / since / as / for。</li>
+<li><strong>让步状从</strong>:although / though / even though / while。例 — <em>Although Bryan lost the election …</em>(<a href="/breakdown/#s-018">S-018</a>)</li>
+<li><strong>条件状从</strong>:if / unless / provided that / supposing / as long as。例 — <em>Provided that trust survives …</em>(<a href="/breakdown/#s-071">S-071</a>)</li>
+<li><strong>方式状从</strong>:as if / as though / as / the way。</li>
+<li><strong>目的状从</strong>:so that / in order that。</li>
+<li><strong>结果状从</strong>:so ... that / such ... that。</li>
+</ul>
+</div>
+
 <div class="term" id="independent">
 <h2>独立成分 · Independent Elements</h2>
 <p class="def">在语法上"独立"于句子主干 — 不充当主、谓、宾、补、状,但出现于句中传递语气、衔接、称呼或感叹。<br>Grammatically free-standing pieces — vocatives, interjections, discourse markers — set off by commas or dashes.</p>
