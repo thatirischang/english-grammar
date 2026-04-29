@@ -1,0 +1,10 @@
+title: English Grammar
+description: Tense · Voice · Clause · Subjunctive · 例句速查
+baseurl: /english-grammar
+url: https://thatirischang.github.io
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
