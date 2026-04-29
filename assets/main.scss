@@ -111,6 +111,31 @@ body{
 }
 
 /* ==========================================================================
+   zh-flow: polished Chinese translation block (Keyu Jin style), inserted
+   right below the EN sentence inside each .bk. Distinct from the existing
+   p.zh which keeps grammar color spans for teaching.
+   ========================================================================== */
+.bk .zh-flow{
+  font-family: "Songti SC", "Noto Serif CJK SC", "PingFang SC", "Source Han Serif", serif;
+  font-size: 1.06rem;
+  line-height: 1.95;
+  letter-spacing: 0.01em;
+  margin: 0.7em 0 1em;
+  padding: 0.85em 1.1em 0.9em;
+  border-left: 3px solid #C62828;
+  background: #fcf8ed;
+  color: #1a1a1a;
+  border-radius: 0 4px 4px 0;
+}
+.bk .zh-flow::before{
+  content: "中译 · ";
+  font-size: 0.78em;
+  color: #888;
+  letter-spacing: 0.06em;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+/* ==========================================================================
    Word stack: WORD on top, IPA below, 中文 below — block-stacked, always visible
    <span class="ws"><b>WORD</b><i>IPA</i><s>中文</s></span>
    ========================================================================== */
