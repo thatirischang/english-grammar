@@ -1075,148 +1075,579 @@ SVOC:I called him <em>a fool</em>(him = a fool,他就是 fool)<br>
 
 <h2 id="tenses" class="term">③ 时态 · 12 时态全套 + 3 特殊式</h2>
 
-<div class="term" id="simple-present">
+<div class="term term-deep" id="simple-present">
 <h3>1. 一般现在时 · Simple Present</h3>
-<p class="def">表示普遍真理、习惯、谚语、客观陈述。基本形式:动词原形(第三人称单数加 -s)。</p>
-<p class="ex"><a href="/breakdown/#s-001">S-001</a> <em>Money tells a story; the dollar tells one of the longest.</em></p>
+<p class="def-quick"><b>一句话:</b> 表达<b>普遍真理 / 习惯 / 谚语 / 客观规律</b>的时态。和具体「现在这一刻」无关,而是讲「永远这样」或「经常这样」。</p>
+<p class="def-deep"><b>详细:</b> 一般现在时是英语最基础的时态,也是中国学生最易误用的时态 — 它<b>不是表示「现在正在做」</b>(那是现在进行时),而是表达「一般情况 / 习惯 / 真理」。Money tells a story 不是「金钱此刻正在讲」,而是「金钱总是讲故事」(普遍真理)。</p>
+<p class="def-position"><b>形式 / 用法:</b> 动词原形(I / you / we / they go);第三人称单数加 -s(he / she / it goes)。否定 don't / doesn't,疑问 do / does。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「我喜欢咖啡」「他每天跑步」对应英文一般现在时,但中文动词不变化(「喜欢」「跑步」)。英文必须区分单数 / 复数主语 — He likes coffee(三单加 s),They like coffee(复数原形)。</p>
+<p class="def-forms"><b>5 大用法:</b><br>
+① <em>普遍真理</em>:Money tells a story / The earth orbits the sun.<br>
+② <em>习惯 / 反复动作</em>:He drinks coffee every morning.<br>
+③ <em>谚语 / 格言</em>:Time flies / Practice makes perfect.<br>
+④ <em>客观规律</em>:Water boils at 100°C.<br>
+⑤ <em>未来时间表(时刻表式)</em>:The train leaves at 8 tomorrow.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>一般现在 vs 现在进行</b> — 一般现在表「永远 / 经常」,现在进行表「此刻正在」。He drinks coffee(他爱喝咖啡 — 习惯)/ He is drinking coffee(他正在喝 — 此刻)。<br>
+<b>一般现在 vs 现在完成</b> — 一般现在不强调和过去的关联,完成时强调「过去到现在」。He lives here(他住这儿 — 客观陈述)/ He has lived here for 10 years(住了 10 年 — 起点在过去)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I am liking coffee</code>(状态动词不用进行时)<br>
+✓ <code>I like coffee</code><br>
+✗ <code>He always go to school</code>(三单漏 s)<br>
+✓ <code>He always goes to school</code><br>
+✗ <code>I drink coffee now</code>(具体当下要用进行时)<br>
+✓ <code>I am drinking coffee now</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-001">S-001</a> <em>Money tells a story; the dollar tells one of the longest.</em>(格言式陈述)<br>
+② <a href="/breakdown/#s-020">S-020</a> <em>Today, every American banknote is printed by ...</em>(客观规律 + 被动)</p>
+<p class="def-related"><b>相关:</b> <a href="#historic-present">历史现在时</a> · <a href="#present-continuous">现在进行</a> · <a href="#present-perfect">现在完成</a></p>
 </div>
 
-<div class="term" id="historic-present">
-<h3>2. 历史(叙事)现在时 · Historic / Narrative Present</h3>
-<p class="def">用一般现在时讲述过去事件,使叙事更有临场感。常见于新闻、散文、历史写作。</p>
-<p class="ex"><a href="/breakdown/#s-002">S-002</a> <em>The year is 1792, and a young republic stamps out its first silver dollar at the Philadelphia mint.</em></p>
+<div class="term term-deep" id="historic-present">
+<h3>2. 历史 / 叙事现在时 · Historic / Narrative Present</h3>
+<p class="def-quick"><b>一句话:</b> 用<b>一般现在时讲过去的故事</b>,让叙事有「现场感」。常见于新闻报道、文学散文、历史写作。</p>
+<p class="def-deep"><b>详细:</b> 这是英语高级写作的修辞手法,不是「错用现在时」。1792 年是过去事件,但用 stamps out(现在时)代替 stamped out(过去时),让读者仿佛置身那个时刻 — 「时间是 1792 年,一个年轻的共和国正在铸造它的第一枚银元」。中国学生需要识别这是<b>故意的修辞</b>而非语法错。</p>
+<p class="def-position"><b>形式 / 用法:</b> 形式与一般现在时完全相同,但语境是过去事件。常配以「具体的过去年份」(The year is 1792)、「具体的过去地点」(at the Philadelphia mint)等,与现在时形成戏剧张力。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有类似手法:「话说 1792 年,一个年轻的共和国铸下第一枚银元」 — 用「话说」引出过去事件,但语法上没有专门的时态。英文则用动词形式直接体现这种修辞。</p>
+<p class="def-forms"><b>典型用法场景:</b><br>
+① <em>新闻报道(尤其体育、突发新闻)</em>:Federer serves an ace.<br>
+② <em>历史叙事</em>:The year is 1792, and Hamilton signs the Coinage Act.<br>
+③ <em>文学散文</em>:Bryan rises to speak; the audience falls silent.<br>
+④ <em>电影 / 小说情节梗概</em>:The hero meets the villain.<br>
+⑤ <em>讲笑话 / 故事</em>:A man walks into a bar ...</p>
+<p class="def-confuse"><b>易混淆:</b> <b>历史现在时 vs 一般现在时</b> — 形式相同,语境不同。一般现在表「永远 / 现在」(Money tells stories);历史现在表「过去 / 一时」(The year is 1792)。读者通过<b>时间锚点</b>(1792 / 那一年)判断。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 在普通历史描述里乱用 — 不是所有过去叙事都该用 historic present,只在文学性叙事或追求临场感时用<br>
+✓ 一般历史描述用 simple past:Hamilton signed the Act in 1792<br>
+✓ 文学性叙事用 historic present:The year is 1792 ... Hamilton signs the Act<br>
+✗ <code>Yesterday I go to school and I see him</code>(口语化的乱用 — 书面应避免)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-002">S-002</a> <em>The year is 1792, and a young republic stamps out its first silver dollar at the Philadelphia mint.</em>(开篇即用历史现在时,把读者拉入 1792 年现场)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-present">一般现在时</a> · <a href="#simple-past">一般过去时</a></p>
 </div>
 
-<div class="term" id="present-continuous">
+<div class="term term-deep" id="present-continuous">
 <h3>3. 现在进行时 · Present Continuous</h3>
-<p class="def">表示当前正在进行的动作,或一段时间内持续进行的动作。形式:am/is/are + V-ing。</p>
-<p class="ex">(本文以历史叙事为主,见 S-002 narrative present 的同源用法)</p>
+<p class="def-quick"><b>一句话:</b> 表「<b>此刻正在进行</b>」或「<b>当前一段时间持续进行</b>」的动作。形式:am / is / are + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 现在进行时是英语「当下进行中」最直接的表达。它的核心是「动作未结束、还在进行」。中国学生易误用 — 把所有「现在」一律用进行时,但状态动词(love / know / believe / contain)通常不用进行时。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主语 + am/is/are + V-ing。否定:am/is/are + not + V-ing。疑问:Am/Is/Are + S + V-ing?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「正在 / 在」标记进行(我正在吃饭 / 我在写信),英文必须有 be 动词:I <em>am</em> eating(漏 be 是中国学生最常见错)。中文进行时和一般时的边界模糊,英文严格区分。</p>
+<p class="def-forms"><b>4 种用法:</b><br>
+① <em>当下正在</em>:I am writing this letter now.<br>
+② <em>近期持续(可能中断)</em>:I am reading a great novel(this week).<br>
+③ <em>近期计划好的将来</em>:I am leaving tomorrow.<br>
+④ <em>反复 / 抱怨情绪</em>(加 always):He is always complaining(他总抱怨 — 反感语气)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>状态动词不用进行时</b> — love / know / believe / contain / belong / understand / want 等表「状态」的动词通常不用进行时。✗ I am loving you / ✓ I love you。例外:see / think / have 在某些用法中可用进行时(I'm seeing him today = 我今天要见他)。<br>
+<b>现在进行 vs 现在完成进行</b> — 进行强调当下动作,完成进行强调「从过去到现在持续」。I am studying(此刻在学)/ I have been studying for 3 hours(已学 3 小时,还在学)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I am know him</code>(状态动词不用进行)<br>
+✓ <code>I know him</code><br>
+✗ <code>He is have a book</code>(have 表拥有时不用进行)<br>
+✓ <code>He has a book</code><br>
+✗ <code>I writing now</code>(漏 be)<br>
+✓ <code>I am writing now</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+本课文以历史叙事为主,现在进行时未直接出现。可参照同源结构:<br>
+① <a href="/breakdown/#s-002">S-002</a> 历史现在 <em>stamps out</em>(类似进行义,但用一般现在为修辞)<br>
+② <a href="/breakdown/#s-066">S-066</a> 含进行结构 <em>is going to issue</em>(be going to + 原形)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-present">一般现在时</a> · <a href="#past-continuous">过去进行</a> · <a href="#present-perfect-continuous">现在完成进行</a></p>
 </div>
 
-<div class="term" id="present-perfect">
+<div class="term term-deep" id="present-perfect">
 <h3>4. 现在完成时 · Present Perfect</h3>
-<p class="def">连接过去起点与现在;表对现在仍有影响的动作或经验。形式:have/has + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-042">S-042</a> <em>The dollar has floated freely ever since.</em>(美元从那时起便一直自由浮动。)</p>
+<p class="def-quick"><b>一句话:</b> 「<b>过去发生 + 对现在仍有影响</b>」。连接过去起点和现在,强调「到目前为止」。形式:have / has + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 现在完成时是英语最有特色、最难掌握的时态。它在中文里没有直接对应 — 中文用「了 / 过」标记完成体。它有 4 大用法:经验、结果、未完成持续、近期发生。判断要用现在完成时还是一般过去时,关键看「这件事跟现在有没有关系」。</p>
+<p class="def-position"><b>形式 / 用法:</b> have / has + 过去分词(三单用 has)。常配 since / for / already / yet / ever / never / just / so far / recently / lately。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文不区分「我去过北京」(经验 — 现完)和「我去了北京」(陈述 — 一般过去)— 都用「了 / 过」。英文必须严格分:I have been to Beijing(经验)/ I went to Beijing yesterday(具体过去)。中国学生最大盲区:用一般过去时表达本应是现在完成的语义。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>经验</em>(到目前为止做过):I <b>have visited</b> Paris three times.<br>
+② <em>结果</em>(过去做了 → 现在是这样):He <b>has lost</b> his keys.(还没找到)<br>
+③ <em>未完成持续</em>(从过去延续到现在):He <b>has lived</b> here for 10 years.(还住着)<br>
+④ <em>近期发生</em>(刚刚 / 最近):She <b>has just arrived</b>.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>现在完成 vs 一般过去</b> — 这是英语时态最易错的对子。<br>
+✓ I <em>have lost</em> my keys.(强调结果:现在还没找到)<br>
+✓ I <em>lost</em> my keys yesterday.(强调过去:具体时间点)<br>
+判断方法:有具体过去时间(yesterday / last year / in 1792)→ 一般过去;无明确时间或与现在相关 → 现在完成。<br>
+<b>已经发生过的具体过去时间不能用现在完成</b>:✗ I have seen him yesterday → ✓ I saw him yesterday.</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have went there</code>(过去分词是 gone,不是 went)<br>
+✓ <code>I have gone there</code> 或 <code>I have been there</code>(have been = 去过并回来)<br>
+✗ <code>I have seen him yesterday</code>(yesterday 是具体过去时间,不能用现完)<br>
+✓ <code>I saw him yesterday</code><br>
+✗ <code>I have studied English since 5 years</code>(since + 时间点 / for + 时间长度)<br>
+✓ <code>I have studied English for 5 years</code> 或 <code>since 2020</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-042">S-042</a> <em>The dollar has floated freely ever since.</em>(从尼克松冲击至今 — 持续到现在)<br>
+② <a href="/breakdown/#s-018">S-018</a> <em>his oratory still echoes</em>(类比 = has echoed 一直回响)<br>
+③ <a href="/breakdown/#s-085">S-085</a> <em>Today, the dollar is traded almost twice as often ...</em>(隐含 has been traded)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-past">一般过去</a> · <a href="#past-perfect">过去完成</a> · <a href="#present-perfect-continuous">现在完成进行</a></p>
 </div>
 
-<div class="term" id="present-perfect-continuous">
+<div class="term term-deep" id="present-perfect-continuous">
 <h3>5. 现在完成进行时 · Present Perfect Continuous</h3>
-<p class="def">动作从过去开始,持续至今且可能继续。形式:have/has + been + V-ing。</p>
-<p class="ex">(本文用 past perfect continuous 类比体感,见 <a href="/breakdown/#s-006">S-006</a>)</p>
+<p class="def-quick"><b>一句话:</b> 「<b>从过去开始,持续到现在,还在继续</b>」。强调动作的<b>持续性</b>而非完成。形式:have / has + been + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 现在完成进行时融合「现在完成」(过去到现在)+「进行」(持续未完)两层语义。它的关键标志是「动作还在进行」 — 现在完成可能动作已结束,完成进行强调还没结束。中国学生掌握现在完成已经困难,完成进行更难。</p>
+<p class="def-position"><b>形式 / 用法:</b> have / has + been + V-ing。常配 for / since / how long / all day / lately。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文表「一直在 + 时间」(他已经学英语 5 年了)对应英文完成进行,但中文动词形态不变,仅靠「一直 / 还在」等副词表达。英文必须用 have been + V-ing 完整结构。</p>
+<p class="def-forms"><b>2 大用法:</b><br>
+① <em>动作从过去到现在持续</em>:I have been studying English for 5 years.(还在学)<br>
+② <em>近期反复 / 最近一直</em>:He has been calling me lately.(最近一直打电话)<br><br>
+<b>对比现在完成:</b><br>
+现完:I have written 3 books.(强调结果 — 写了 3 本)<br>
+完进:I have been writing this book for a year.(强调持续 — 写了一年还在写)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>完进 vs 现完</b> — 完进强调持续过程,现完强调结果。He has worked here(他在这工作过)/ He has been working here for 10 years(已工作 10 年还在)。<br>
+<b>状态动词不用完进</b> — know / love / believe 等不用完进时。✗ I have been knowing him → ✓ I have known him。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have been studied English for 5 years</code>(have been + V-ing,不是 V-en)<br>
+✓ <code>I have been studying English for 5 years</code><br>
+✗ <code>I have been knowing him for years</code>(状态动词不用完进)<br>
+✓ <code>I have known him for years</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-006">S-006</a> 类比的 <em>had been warning</em>(过去完成进行,概念同源)<br>
+② <a href="/breakdown/#s-068">S-068</a> 将来完成进行 <em>will have been generating</em>(同结构,时间锚点改为将来)</p>
+<p class="def-related"><b>相关:</b> <a href="#present-perfect">现在完成</a> · <a href="#past-perfect-continuous">过去完成进行</a> · <a href="#future-perfect-continuous">将来完成进行</a></p>
 </div>
 
-<div class="term" id="simple-past">
+<div class="term term-deep" id="simple-past">
 <h3>6. 一般过去时 · Simple Past</h3>
-<p class="def">叙事的基本时态,描述过去某明确时刻完成的动作。形式:动词过去式。</p>
-<p class="ex"><a href="/breakdown/#s-003">S-003</a> <em>On April 2 of that year, Alexander Hamilton signed the Coinage Act into law.</em></p>
+<p class="def-quick"><b>一句话:</b> 描述<b>过去某明确时间发生的动作</b>。叙事的基本时态。形式:动词过去式(规则 + -ed,不规则需记)。</p>
+<p class="def-deep"><b>详细:</b> 一般过去时是英语叙事的「主时态」 — 几乎所有讲故事、讲历史的句子都用它。它的核心是「过去 + 已结束 + 与现在无关」。如果想强调「与现在相关」,要用现在完成时;如果想表达「过去一段时间持续进行」,用过去进行;如果想表达「过去之前的过去」,用过去完成。</p>
+<p class="def-position"><b>形式 / 用法:</b> 规则动词:V + ed(signed / circulated / borrowed)。不规则动词:特殊形式(go → went / see → saw / sign 是规则但 sign → signed)。否定 didn't + 原形;疑问 Did + S + 原形?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「了」标记完成(我去了北京),不区分一般过去和现在完成。英文必须区分(I went to Beijing 一般过去 / I have been to Beijing 现在完成),且必须有过去时间标志(yesterday / last year / in 1792)。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>过去具体时刻发生</em>:Hamilton signed the Act on April 2, 1792.<br>
+② <em>过去习惯</em>(常配 used to / would):He used to live here.<br>
+③ <em>过去状态</em>:He was tired yesterday.<br>
+④ <em>过去叙事链</em>:He arrived, sat down, and ordered coffee.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>一般过去 vs 现在完成</b> — 见 #present-perfect 的「易混淆」段落。判断:有具体过去时间 → 一般过去;无具体时间或强调对现在影响 → 现在完成。<br>
+<b>一般过去 vs 过去完成</b> — 一般过去是单一过去事件;过去完成是「过去之前的过去」。He arrived(他来了)/ He had arrived before I left(我走前他已到了)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have seen him yesterday</code>(yesterday 是具体过去时间)<br>
+✓ <code>I saw him yesterday</code><br>
+✗ <code>He goed to school</code>(go 不规则,过去式 went)<br>
+✓ <code>He went to school</code><br>
+✗ <code>Did you went there?</code>(疑问句 did 后用原形)<br>
+✓ <code>Did you go there?</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-003">S-003</a> <em>On April 2 of that year, Alexander Hamilton signed the Coinage Act into law.</em><br>
+② <a href="/breakdown/#s-013">S-013</a> 被动 <em>The greenback was issued in 1862</em>(过去时被动)<br>
+③ <a href="/breakdown/#s-049">S-049</a> 三分句平行 <em>Borrowers wept and farmers went bankrupt, yet bond traders cheered</em></p>
+<p class="def-related"><b>相关:</b> <a href="#present-perfect">现在完成</a> · <a href="#past-continuous">过去进行</a> · <a href="#past-perfect">过去完成</a> · <a href="#used-to">used to</a></p>
 </div>
 
-<div class="term" id="past-continuous">
+<div class="term term-deep" id="past-continuous">
 <h3>7. 过去进行时 · Past Continuous</h3>
-<p class="def">两个同时进行的过去动作,常以 while / when 引导。形式:was/were + V-ing。</p>
-<p class="ex"><a href="/breakdown/#s-004">S-004</a> <em>While Hamilton was building a national bank, Thomas Jefferson was drafting the very arguments meant to one day destroy it.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>过去某时正在进行</b>」的动作。常用于两个同时进行的过去动作。形式:was / were + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 过去进行时的核心是「过去某点 + 正在进行」。它和一般过去时的区别:一般过去时是「过去做了」(动作已结束),过去进行时是「过去正在做」(动作还在进行中)。常用 while / when 引导,描绘两个同时进行的动作。</p>
+<p class="def-position"><b>形式 / 用法:</b> was/were + V-ing。was 配单数(I/he/she/it),were 配复数(you/we/they)。常配 while / when / as / at 8 PM yesterday。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「正在 + 动词 + 那时 / 当时」对应英文 was/were + V-ing。中文动词不变(我那时正在吃饭),英文必须用 was/were + V-ing 完整结构。</p>
+<p class="def-forms"><b>3 大用法:</b><br>
+① <em>过去某时正在进行</em>:At 8 PM, I was studying.<br>
+② <em>两个同时进行的过去动作</em>(while):While Hamilton was building, Jefferson was drafting.<br>
+③ <em>过去进行 + 一般过去</em>(中断):I was eating when he called.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>while + 过去进行 vs when + 一般过去</b> — while 强调持续过程(While I was reading);when 强调时间点(When he came in)。两者常配合:While I was reading, when he came in.<br>
+<b>过去进行 vs 一般过去</b> — 进行表过程,一般表完成。He was reading when she called(他正在读 — 过程中)/ He read it when she called(她叫他时他读了 — 完成动作)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I was eat when he called</code>(进行 = was + V-ing)<br>
+✓ <code>I was eating when he called</code><br>
+✗ <code>While I am reading, he came in</code>(过去时间用 was)<br>
+✓ <code>While I was reading, he came in</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-004">S-004</a> 双过去进行 <em>While Hamilton was building a national bank, Thomas Jefferson was drafting the very arguments meant to one day destroy it.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#simple-past">一般过去</a> · <a href="#present-continuous">现在进行</a> · <a href="#past-perfect-continuous">过去完成进行</a></p>
 </div>
 
-<div class="term" id="past-perfect">
+<div class="term term-deep" id="past-perfect">
 <h3>8. 过去完成时 · Past Perfect</h3>
-<p class="def">在过去某参照点之前已发生或延续的动作。"By + 时间"是经典锚点。形式:had + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-005">S-005</a> <em>By 1811, Spanish reales had circulated through the thirteen colonies for nearly a century.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>过去某点之前已发生 / 已延续</b>」的动作。「过去之前的过去」。形式:had + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 过去完成时是英语时态的「时间分层」工具 — 它把「过去」再分成两层:过去 vs 过去之前。这在叙事里非常有用 — 主线在过去,但偶尔需要回溯到「更早的过去」。它的标志触发词是 <b>By + 过去时间</b> / <b>Before + 过去事件</b>:By 1811 had circulated / Before he came, I had finished。</p>
+<p class="def-position"><b>形式 / 用法:</b> had + 过去分词(单复数都用 had,不变)。常配 by + 过去时间 / before / by the time / when / after / already / yet / for / since。</p>
+<p class="def-bilingual"><b>中英对照 · 中国学生最大盲区:</b> 中文不严格区分「过去」和「过去之前的过去」 — 都用「了 / 过」。英文必须严格:By 1811(过去时间锚点)+ had circulated(过去之前)。<br>
+✗ <code>By 1811, Spanish reales circulated for nearly a century</code>(一般过去 — 语义不准)<br>
+✓ <code>By 1811, Spanish reales had circulated for nearly a century</code>(过完 — 强调到 1811 之前已持续)</p>
+<p class="def-forms"><b>3 大用法:</b><br>
+① <em>过去时间点之前已完成</em>:By 1811, reales <b>had circulated</b> for a century.<br>
+② <em>过去事件之前已完成</em>:Before he came, I <b>had finished</b>.<br>
+③ <em>过去虚拟条件</em>(配 if):If he <b>had studied</b>, he would have passed.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>过去完成 vs 一般过去</b> — 过完表「过去之前的过去」(双层),一般过去表「单一过去事件」。<br>
+<b>By + 时间锚点</b>必须用过完 — 这是英语硬性搭配。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>By 2000, I lived here for 5 years</code>(必须 had lived)<br>
+✓ <code>By 2000, I had lived here for 5 years</code><br>
+✗ <code>Before he came, I have finished</code>(已经在过去,不用现完)<br>
+✓ <code>Before he came, I had finished</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-005">S-005</a> <em>By 1811, Spanish reales had circulated through the thirteen colonies for nearly a century.</em>(经典 By + had + V-en)<br>
+② <a href="/breakdown/#s-040">S-040</a> 被动版 <em>By the late 1960s, more than half of America's postwar gold had been spent abroad.</em><br>
+③ <a href="/breakdown/#s-098">S-098</a> 配 once 子句 <em>There was no easy way back to gold once confidence had broken.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#simple-past">一般过去</a> · <a href="#past-perfect-continuous">过去完成进行</a> · <a href="#anchor-time">时间锚点</a> · <a href="#past-perfect-passive">过完被动</a></p>
 </div>
 
-<div class="term" id="past-perfect-continuous">
+<div class="term term-deep" id="past-perfect-continuous">
 <h3>9. 过去完成进行时 · Past Perfect Continuous</h3>
-<p class="def">强调动作在过去某点之前已"持续进行"了一段时间。形式:had + been + V-ing。</p>
-<p class="ex"><a href="/breakdown/#s-006">S-006</a> <em>For two decades, the Jeffersonians had been warning their countrymen against centralized finance.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>过去某点之前已持续进行</b>」的动作 — 强调持续性。形式:had + been + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 过去完成进行时融合「过去完成」(过去之前)+「进行」(持续未完)两层语义。它专门表达「过去某时之前,这件事已持续了一段时间」。最经典搭配:For + 时间长度 + had been V-ing。</p>
+<p class="def-position"><b>形式 / 用法:</b> had + been + V-ing(三种成分缺一不可)。常配 for / since。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「他已经一直在 + 动 + 时间长度 + 那时」对应英文 had been + V-ing for + 时间。中文动词不变,英文必须三层结构(had + been + V-ing)。</p>
+<p class="def-forms"><b>2 大用法:</b><br>
+① <em>过去某点之前持续进行</em>:For 20 years, the Jeffersonians <b>had been warning</b> their countrymen.<br>
+② <em>过去某点之前刚结束</em>(余韵):She was tired because she <b>had been running</b>.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>过完 vs 过完进行</b> — 过完强调结果(I had finished by 8),过完进行强调持续过程(I had been working for 5 hours by 8)。<br>
+<b>状态动词不用过完进行</b> — know / love / believe 等不用完进时。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>For 20 years, the Jeffersonians had warned</code>(失去持续语义)<br>
+✓ <code>For 20 years, the Jeffersonians had been warning</code><br>
+✗ <code>I had been knew him for years before that</code>(状态动词)<br>
+✓ <code>I had known him for years before that</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-006">S-006</a> <em>For two decades, the Jeffersonians had been warning their countrymen against centralized finance.</em>(经典 for + had been + V-ing)</p>
+<p class="def-related"><b>相关:</b> <a href="#past-perfect">过去完成</a> · <a href="#present-perfect-continuous">现在完成进行</a> · <a href="#past-continuous">过去进行</a></p>
 </div>
 
-<div class="term" id="simple-future">
+<div class="term term-deep" id="simple-future">
 <h3>10. 一般将来时 · Simple Future (will)</h3>
-<p class="def">将来某时将发生的动作。表预测、承诺、当场决定。形式:will + 动词原形。</p>
-<p class="ex"><a href="/breakdown/#s-065">S-065</a> <em>The dollar will outlive the men who fear for its life.</em></p>
+<p class="def-quick"><b>一句话:</b> 表「<b>将来某时将发生</b>」 — 预测、承诺、当场决定。形式:will + 动词原形。</p>
+<p class="def-deep"><b>详细:</b> 一般将来时是英语表「将来」最简单也最直接的形式。will 同时承担<b>预测</b>(I think it will rain)、<b>承诺</b>(I will help you)、<b>当场决定</b>(I'll have coffee)、<b>客观未来</b>(The dollar will outlive us)。中国学生易和 be going to 混淆 — 后者偏「计划好的」或「迹象表明的」。</p>
+<p class="def-position"><b>形式 / 用法:</b> will + 动词原形(主语无人称变化)。否定 will not / won't,疑问 Will + S + V?也可用 shall(I/we 主语,英式较多)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「将 / 会 / 要」表将来,无形态变化(我将去 / 我会去 / 我要去)。英文 will 是必备的助动词,绝不能省。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>预测</em>:The dollar will outlive its critics.<br>
+② <em>承诺 / 决意</em>:I will help you tomorrow.<br>
+③ <em>当场决定</em>:OK, I'll have coffee.<br>
+④ <em>客观未来 / 法律式</em>:The Senate will convene at noon.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>will vs be going to</b> — will 偏即时决定 / 中性预测;be going to 偏「已计划好」或「有迹象表明」。<br>
+✓ Look at the clouds — it's going to rain(有迹象)<br>
+✓ I think it will rain(主观预测)<br>
+✓ I'll have coffee(当场决定)<br>
+✓ I'm going to study tonight(已计划好)<br>
+<b>will vs shall</b> — shall 在现代英语逐渐被 will 取代,但在法律 / 正式场合(政府宣告 / 法律条款)仍用。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I will to go tomorrow</code>(will 后是原形)<br>
+✓ <code>I will go tomorrow</code><br>
+✗ <code>If it will rain, I won't go</code>(if 从句中表将来用一般现在)<br>
+✓ <code>If it rains, I won't go</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-065">S-065</a> 预测 <em>The dollar will outlive the men who fear for its life.</em><br>
+② <a href="/breakdown/#s-062">S-062</a> 法律式 <em>shall not face</em>(郑重宣告)<br>
+③ <a href="/breakdown/#s-063">S-063</a> 将来进行 <em>will be challenging</em></p>
+<p class="def-related"><b>相关:</b> <a href="#be-going-to">be going to</a> · <a href="#future-continuous">将来进行</a> · <a href="#future-perfect">将来完成</a> · <a href="#shall">shall</a></p>
 </div>
 
-<div class="term" id="be-going-to">
+<div class="term term-deep" id="be-going-to">
 <h3>11. be going to 将来式</h3>
-<p class="def">基于现有迹象或已有计划的将来。形式:am/is/are going to + 动词原形。比 will 更"已成定局"。</p>
-<p class="ex"><a href="/breakdown/#s-066">S-066</a> <em>Some economists insist that, sooner or later, every government is going to issue a digital version of its own currency.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>已经计划好的</b>」或「<b>有迹象表明的</b>」将来。比 will 更「板上钉钉」。形式:am / is / are + going to + 动词原形。</p>
+<p class="def-deep"><b>详细:</b> be going to 和 will 都表「将来」,但语义微妙差别 — be going to 强调「已经决定」或「有迹象指向」,will 偏「即时决定 / 中性预测」。在新闻、政经评论里 be going to 出现频率高于 will,因为它的语气更「确定」。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主语 + am/is/are + going to + 动词原形。否定 am/is/are not going to,疑问 Am/Is/Are + S + going to?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「打算 / 准备 / 即将」对应 be going to,「会 / 将」对应 will。中国学生常分不清,统一用 will。其实 be going to 在「计划」「迹象」语境更地道。</p>
+<p class="def-forms"><b>2 大用法:</b><br>
+① <em>已计划好的将来</em>:I am going to study English tonight.(计划)<br>
+② <em>迹象表明即将发生</em>:Look at those clouds — it's going to rain.(迹象)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>be going to vs will</b> — going to 偏「计划 / 迹象」;will 偏「即时决定 / 预测」。详见 #simple-future。<br>
+<b>going to + V vs going to + 名词</b> — 前者是将来式(I'm going to study);后者是「去...」的字面义(I'm going to school)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I am going study tonight</code>(漏 to)<br>
+✓ <code>I am going to study tonight</code><br>
+✗ <code>I will study tonight, I have planned it</code>(已计划用 be going to 更地道)<br>
+✓ <code>I am going to study tonight</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-066">S-066</a> <em>Some economists insist that, sooner or later, every government is going to issue a digital version of its own currency.</em>(语气比 will issue 更「板上钉钉」)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-future">will 将来</a> · <a href="#future-continuous">将来进行</a></p>
 </div>
 
-<div class="term" id="future-continuous">
+<div class="term term-deep" id="future-continuous">
 <h3>12. 将来进行时 · Future Continuous</h3>
-<p class="def">将来某时正在进行,或将来一段时间内持续展开。形式:will + be + V-ing。</p>
-<p class="ex"><a href="/breakdown/#s-063">S-063</a> <em>Within a decade, a new species of money will be challenging the dollar's monopoly on global reserves.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>将来某时正在进行</b>」或「<b>将来一段时间内持续进行</b>」。形式:will + be + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 将来进行时是「将来」+「进行」的组合。它的语用价值:① 把将来事件「描绘成进行中」让叙事更生动;② 表示「将来一段时间会持续做某事」(更礼貌、更间接的将来表达)。</p>
+<p class="def-position"><b>形式 / 用法:</b> will + be + V-ing。常配 at 8 tomorrow / this time next week / for the next decade。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「将一直在 + 动 + 时间」对应英文 will be + V-ing。中文不严格区分「将做」(will do)和「将正在做」(will be doing)。英文则严格区分。</p>
+<p class="def-forms"><b>3 大用法:</b><br>
+① <em>将来某时正在进行</em>:At 8 tomorrow, I will be studying.<br>
+② <em>将来一段时间持续</em>:For the next decade, the dollar will be facing challenges.<br>
+③ <em>礼貌问询</em>(委婉表达):Will you be using the car tonight?(委婉问 = 你今晚要用车吗?)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>将来进行 vs 一般将来</b> — 一般将来表「将做」(I will study),将来进行表「将正在做 / 将一直在做」(I will be studying)。<br>
+<b>将来进行 vs 将来完成进行</b> — 进行不强调起点,完成进行强调「从某点开始持续」。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I will be study tomorrow</code>(进行 = be + V-ing)<br>
+✓ <code>I will be studying tomorrow</code><br>
+✗ <code>状态动词用进行</code> — ✗ I will be knowing → ✓ I will know</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-063">S-063</a> <em>Within a decade, a new species of money will be challenging the dollar's monopoly on global reserves.</em>(将来一段时间持续挑战)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-future">一般将来</a> · <a href="#past-continuous">过去进行</a> · <a href="#future-perfect-continuous">将来完成进行</a></p>
 </div>
 
-<div class="term" id="future-perfect">
+<div class="term term-deep" id="future-perfect">
 <h3>13. 将来完成时 · Future Perfect</h3>
-<p class="def">在将来某参照点之前已完成的动作。形式:will + have + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-067">S-067</a> <em>By 2030, every major central bank will have launched, or at least tested, its own central-bank digital currency.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>将来某时之前已完成</b>」的动作。形式:will + have + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 将来完成时是英语时态系统的「未来分层」工具 — 把将来再分成两层:「未来某点」vs「未来某点之前」。它的标志触发词是 <b>By + 将来时间</b>:By 2030 will have launched / By the time you arrive, I will have finished。</p>
+<p class="def-position"><b>形式 / 用法:</b> will + have + 过去分词。常配 by + 将来时间 / by the time + 从句。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「到 + 将来时间 + 时,已经做了 + 动」对应英文 By + 时间 + will have + V-en。中文动词不变,英文必须 will + have + V-en 三层结构。</p>
+<p class="def-forms"><b>2 大用法:</b><br>
+① <em>将来时间点之前已完成</em>:By 2030, all banks will have launched CBDCs.<br>
+② <em>将来事件之前已完成</em>:By the time you arrive, I will have finished.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>将来完成 vs 一般将来</b> — 一般将来表「将做」(I will finish),将来完成表「到那时已经做完」(By 8 PM, I will have finished)。<br>
+<b>将来完成 vs 现在完成</b> — 时间轴不同。现完是「过去到现在」,将完是「现在到将来」。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>By 2030, every bank will launch CBDC</code>(必须用 will have + V-en)<br>
+✓ <code>By 2030, every bank will have launched CBDC</code><br>
+✗ <code>By 8 PM, I will finished</code>(漏 have)<br>
+✓ <code>By 8 PM, I will have finished</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-067">S-067</a> <em>By 2030, every major central bank will have launched, or at least tested, its own central-bank digital currency.</em>(经典 By + will have + V-en)</p>
+<p class="def-related"><b>相关:</b> <a href="#future-perfect-continuous">将来完成进行</a> · <a href="#past-perfect">过去完成</a> · <a href="#anchor-time">时间锚点</a></p>
 </div>
 
-<div class="term" id="future-perfect-continuous">
+<div class="term term-deep" id="future-perfect-continuous">
 <h3>14. 将来完成进行时 · Future Perfect Continuous</h3>
-<p class="def">至将来某点持续进行的动作。十二大时态中最罕见。形式:will + have + been + V-ing。</p>
-<p class="ex"><a href="/breakdown/#s-068">S-068</a> <em>By the time you finish reading this article, the world will have been generating new dollars, new debts, and new questions every second.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>到将来某点 + 一直在持续进行</b>」 — 12 大时态中最罕见也最复杂。形式:will + have + been + V-ing。</p>
+<p class="def-deep"><b>详细:</b> 这是英语 12 时态里最复杂的一种 — 4 个动词成分(will + have + been + V-ing)。它表达「到将来某时之前,这件事已经持续做了多久」。语用价值高,但在日常对话中使用频率低,主要见于学术、政经、文学写作。</p>
+<p class="def-position"><b>形式 / 用法:</b> will + have + been + V-ing(4 个成分)。常配 by + 将来时间 / by the time + 从句 / for + 时间长度。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「到时候 + 已经 + 一直在 + 动 + 多久」对应英文 By + will have been + V-ing for + 时间。中文需 5 层副词修饰,英文用 4 个动词成分一气呵成。</p>
+<p class="def-forms"><b>典型用法:</b> 表「到将来某时,这件事已持续了 X 时间」<br>
+By 2030, the world will have been generating digital currencies for 20 years.<br>
+By the time you finish reading, I will have been writing this article for 3 hours.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>将完进 vs 将完</b> — 将完强调结果(已完成),将完进强调持续(已持续 X 时间)。<br>
+By 2030, will have launched(已发行)/ By 2030, will have been generating(已持续生成 X 年)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>By 2030, I will been studying for 10 years</code>(漏 have)<br>
+✓ <code>By 2030, I will have been studying for 10 years</code><br>
+✗ <code>状态动词用完进</code> — ✗ will have been knowing → ✓ will have known</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-068">S-068</a> <em>By the time you finish reading this article, the world will have been generating new dollars, new debts, and new questions every second.</em>(本课文极珍贵的将来完成进行例)</p>
+<p class="def-related"><b>相关:</b> <a href="#future-perfect">将来完成</a> · <a href="#past-perfect-continuous">过去完成进行</a> · <a href="#present-perfect-continuous">现在完成进行</a></p>
 </div>
 
-<div class="term" id="future-in-past">
+<div class="term term-deep" id="future-in-past">
 <h3>15. 过去将来时 · Future-in-the-Past</h3>
-<p class="def">从过去角度看的将来。形式:would / was-going-to / was-about-to + 动词原形。</p>
-<p class="ex"><a href="/breakdown/#s-004">S-004</a> 嵌入用法 <em>... arguments meant to one day destroy it</em>(从过去看的将来)</p>
-<p class="ex"><a href="/breakdown/#s-041">S-041</a> <em>... what would later be called the Nixon Shock.</em></p>
+<p class="def-quick"><b>一句话:</b> 「从过去角度看的将来」 — 站在过去某时点,谈那时之后将发生的事。形式:would / was-going-to / was-about-to / was-to + 动词原形。</p>
+<p class="def-deep"><b>详细:</b> 过去将来时是叙事文里常见的视角技巧 — 站在过去时间点上,讲述「那时之后将发生的事」。在新闻报道、历史叙事、传记里高频使用,因为它能创造「悬念」或「回忆视角」。语法上常用 would 的「将来」义(不是过去式 will,而是「过去角度的将来」)。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+① would + 动词原形(最常见):He said he would come.<br>
+② was/were going to + 动词原形:I was going to call you.<br>
+③ was/were to + 动词原形(注定 / 命定语气):He was to die a year later.<br>
+④ was/were about to + 动词原形(即将):I was about to leave when ...</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「将 / 会」+ 过去时间锚标(他说他会来),英文用 would + V。中文不区分「现在的将来」和「过去的将来」,英文严格区分(will / would)。</p>
+<p class="def-forms"><b>4 种形式 + 语气差别:</b><br>
+① <em>would + V</em>:中性「将」<br>
+② <em>was going to + V</em>:已计划好<br>
+③ <em>was to + V</em>:命定 / 注定(文学色彩)<br>
+④ <em>was about to + V</em>:即将(时间紧迫)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>would 的多重身份</b> — 过去将来(He said he would come)/ 过去习惯(He would always smile)/ 虚拟语气(I would go if I could)/ 委婉(Would you help?)。看上下文判断。<br>
+<b>was/were to + V</b> — 注定的命运(He was to become president)— 文学色彩浓,类似「命中注定」。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He said he will come</code>(主从时态不一致)<br>
+✓ <code>He said he would come</code>(过去说 → 用过去将来)<br>
+✗ <code>I was about leave when ...</code>(漏 to)<br>
+✓ <code>I was about to leave when ...</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-004">S-004</a> 嵌入命定式 <em>arguments meant to one day destroy it</em>(从过去角度看的将来)<br>
+② <a href="/breakdown/#s-041">S-041</a> 命定式 <em>what would later be called the Nixon Shock</em>(would + 被动)<br>
+③ <a href="/breakdown/#s-044">S-044</a> 嵌入式 <em>Inflation, slumbering since the 1950s, awoke in the 1970s</em>(隐含「将来」回看)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-future">一般将来</a> · <a href="#would-habitual">would 过去习惯</a> · <a href="#modal-perfect">情态完成式</a></p>
 </div>
 
 <hr>
 
 <h2 id="voice" class="term">④ 语态 · 八种被动</h2>
 
-<div class="term" id="present-passive">
+<div class="term term-deep" id="present-passive">
 <h3>1. 一般现在时被动 · Simple Present Passive</h3>
-<p class="def">am/is/are + 过去分词。表当前事实的被动。</p>
-<p class="ex"><a href="/breakdown/#s-020">S-020</a> <em>Today, every American banknote is printed by the Bureau of Engraving and Printing under Federal Reserve authority.</em></p>
+<p class="def-quick"><b>一句话:</b> 「主语<b>被</b>怎么样」的现在事实。形式:am / is / are + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 被动语态把动作的「承受者」推到主语位置 — 强调结果而非施动者,常用于客观描述、新闻报道、规章制度。一般现在被动表「现在的客观事实」(美钞由 X 印制 / 法律由 Y 制定)。</p>
+<p class="def-position"><b>形式 / 用法:</b> S(承受者)+ am/is/are + V-en + (by + 施动者)。否定 not 加 be 后,疑问 be 提前。施动者可省(默认或不重要时)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「被 / 由」标记被动(钞票由央行印制 / 房子被烧了),无形态变化。英文必须 be + 过去分词。中国学生最大盲区:用主动思维表达被动。✗ Bank prints banknote → ✓ Banknote is printed by bank.</p>
+<p class="def-forms"><b>2 大用法:</b><br>
+① <em>客观陈述事实</em>(施动者明确但不重要):Banknotes are printed by the Bureau.<br>
+② <em>施动者未知 / 不明</em>(默认省略):My wallet was stolen.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>被动 vs 系动词 + 形容词</b> — He is tired(系动词 + 形容词,不是被动)/ He is loved(被动 — be + V-en)。判断:V-en 是否带动作意味?是 → 被动;否 → 形容词。<br>
+<b>不及物动词无被动</b> — happen / occur / appear / arrive 不能被动化(✗ The accident was happened)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The accident was happened</code>(happen 不及物)<br>
+✓ <code>The accident happened</code><br>
+✗ <code>The book is written by I</code>(by 后用宾格)<br>
+✓ <code>The book is written by me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-020">S-020</a> <em>Today, every American banknote is printed by the Bureau of Engraving and Printing under Federal Reserve authority.</em>(经典 is + V-en + by)</p>
+<p class="def-related"><b>相关:</b> <a href="#voice">④ 语态</a> · <a href="#past-passive">过去被动</a> · <a href="#transitive-vs-intransitive">及物动词</a></p>
 </div>
 
-<div class="term" id="present-perfect-passive">
+<div class="term term-deep" id="present-perfect-passive">
 <h3>2. 现在完成时被动 · Present Perfect Passive</h3>
-<p class="def">have/has + been + 过去分词。融合"完成体"与"被动"。</p>
-<p class="ex"><a href="/breakdown/#s-050">S-050</a> <em>By the mid-1980s, inflation has been beaten back, and the long bull market in U.S. assets has begun in earnest.</em></p>
+<p class="def-quick"><b>一句话:</b> 「主语<b>已被</b>怎么样,且对现在仍有影响」。融合「现在完成」+「被动」两层语义。形式:have / has + been + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 这是英语高级时态的常用形式 — 既要表达「过去到现在」的完成体,又要表达「主语是承受者」的被动义。新闻、政经评论里频繁出现。</p>
+<p class="def-position"><b>形式 / 用法:</b> have / has + been + V-en。否定 have/has not been。常配 since / for / already / never。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「已经被 + 动 + 了 / 至今」对应英文 has been + V-en。中文「了」不分主被动,英文必须显式 be + V-en。</p>
+<p class="def-forms"><b>典型用法:</b> 表「过去到现在已被完成的某事」<br>
+The dollar has been traded for centuries.<br>
+The novel has been translated into 30 languages.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>现完被动 vs 一般现在被动</b> — 一般现在表当前事实,现完被动表「过去到现在持续 / 累计」。Banknotes are printed(每天都印 — 现在事实)vs Banknotes have been printed for 100 years(已印 100 年 — 累计持续)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The book has been writing for years</code>(被动 = been + V-en,不是 V-ing)<br>
+✓ <code>The book has been written</code>(被动)/ <code>has been being written</code>(完成进行被动 — 罕见)<br>
+✗ <code>The book has wrote</code>(混淆 V-ed vs V-en)<br>
+✓ <code>The book has been written</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-050">S-050</a> 同句双被动 <em>By the mid-1980s, inflation had been beaten back, and to this day, a price spiral of that scale has not been seen on American soil.</em>(过完被动 + 现完被动 同句对照)</p>
+<p class="def-related"><b>相关:</b> <a href="#present-perfect">现在完成</a> · <a href="#past-perfect-passive">过完被动</a></p>
 </div>
 
-<div class="term" id="past-passive">
+<div class="term term-deep" id="past-passive">
 <h3>3. 一般过去时被动 · Past Passive</h3>
-<p class="def">was/were + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-013">S-013</a> <em>The greenback was issued in 1862 to finance a war the Treasury could no longer pay for in coin.</em></p>
+<p class="def-quick"><b>一句话:</b> 「主语<b>过去某时被</b>怎么样」。形式:was / were + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 一般过去被动是叙事文最常用的被动形式 — 描述过去发生在主语身上的事件。它把「谁做了什么」改写成「什么被做了」,聚焦事件本身而非施动者。新闻报道极常见(法律被签 / 协议达成 / 战争爆发)。</p>
+<p class="def-position"><b>形式 / 用法:</b> S + was/were + V-en + (by + 施动者)。was 配单数,were 配复数。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「被 / 由」标记过去被动(他被打了 / 法律由 X 签订),英文必须 was/were + V-en。</p>
+<p class="def-forms"><b>典型用法:</b><br>
+① 历史叙事:The Coinage Act was signed in 1792.<br>
+② 受害陈述:My wallet was stolen yesterday.<br>
+③ 经过描写:The bridge was built in 1900.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>过去被动 vs 过去时 be + 形容词</b> — He was tired(系 + 形容词)/ He was hired(被动 — be + V-en)。判断:V-en 带动作?是 → 被动;否 → 形容词性。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The Act was sign in 1792</code>(被动用 V-en)<br>
+✓ <code>The Act was signed in 1792</code><br>
+✗ <code>It was happened yesterday</code>(happen 不及物,无被动)<br>
+✓ <code>It happened yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-013">S-013</a> 经典过去被动 <em>The greenback was issued in 1862 to finance a war the Treasury could no longer pay for in coin.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#simple-past">一般过去</a> · <a href="#past-perfect-passive">过完被动</a> · <a href="#present-passive">现在被动</a></p>
 </div>
 
-<div class="term" id="past-perfect-passive">
+<div class="term term-deep" id="past-perfect-passive">
 <h3>4. 过去完成时被动 · Past Perfect Passive</h3>
-<p class="def">had + been + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-040">S-040</a> <em>By the late 1960s, more than half of America's postwar gold had been spent abroad.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>过去某时之前已被</b>怎么样」。融合「过去完成」+「被动」两层语义。形式:had + been + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 这是英语叙事写作里高频的复合时态。它表「过去之前的过去 + 被动」 — 在过去某锚点之前,某事已被完成。和过完一样,典型搭配是 By + 过去时间。</p>
+<p class="def-position"><b>形式 / 用法:</b> had + been + V-en(单复数都 had)。常配 by + 过去时间 / before / by the time。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「到 + 过去时间 + 已经被 + 动 + 了」对应 By + had been + V-en。中文动词不变,英文必须三层结构(had + been + V-en)。</p>
+<p class="def-forms"><b>典型用法:</b><br>
+By 1968, half of America's gold had been spent abroad.<br>
+By the time he arrived, the decision had been made.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>过完被动 vs 过去被动</b> — 过完被动有时间分层(过去之前的过去 + 被动),过去被动是单一过去事件 + 被动。<br>
+By 1968 → had been spent(过完被动)<br>
+In 1968 → was spent(过去被动)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>By 1968, half of the gold was spent abroad</code>(By + 过去时间必配 had been)<br>
+✓ <code>By 1968, half of the gold had been spent abroad</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-040">S-040</a> 经典过完被动 <em>By the late 1960s, more than half of America's postwar gold had been spent abroad.</em><br>
+② <a href="/breakdown/#s-050">S-050</a> 同句过完被动 + 现完被动 <em>By the mid-1980s, inflation had been beaten back ...</em></p>
+<p class="def-related"><b>相关:</b> <a href="#past-perfect">过去完成</a> · <a href="#anchor-time">时间锚点</a></p>
 </div>
 
-<div class="term" id="future-passive">
+<div class="term term-deep" id="future-passive">
 <h3>5. 一般将来时被动 · Future Passive</h3>
-<p class="def">will + be + 过去分词。</p>
-<p class="ex"><a href="/breakdown/#s-069">S-069</a> <em>If the dollar ever does lose its reserve status, every commodity, every loan, and every contract on earth will be rewritten.</em></p>
+<p class="def-quick"><b>一句话:</b> 「主语<b>将被</b>怎么样」。形式:will + be + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 将来被动用于「未来某事将发生在主语身上」。常见于政经评论、预测、计划文书。结构上是「will(将来助动词)+ be(被动 be)+ V-en(过去分词)」三层。</p>
+<p class="def-position"><b>形式 / 用法:</b> will + be + V-en。否定 will not be。也可用 shall be(正式)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「将被 + 动」对应英文 will be + V-en。中文动词不变,英文三层结构。</p>
+<p class="def-forms"><b>典型用法:</b><br>
+The bill will be signed tomorrow.<br>
+Every contract will be rewritten if the dollar falls.<br>
+The matter will be discussed at the next meeting.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>将来被动 vs 一般将来</b> — 将来用 will + V(I will sign);将来被动用 will be + V-en(It will be signed)。<br>
+<b>将来被动 vs 情态被动</b> — 将来被动专指 will,情态被动包括 must / may / should + be + V-en(见下条)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The bill will be sign</code>(被动 = V-en)<br>
+✓ <code>The bill will be signed</code><br>
+✗ <code>It will sign tomorrow</code>(语义混乱 — 是签还是被签?)<br>
+✓ <code>It will be signed tomorrow</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-069">S-069</a> 三项并列将来被动 <em>If the dollar ever does lose its reserve status, every commodity, every loan, and every contract on earth will be rewritten.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#simple-future">一般将来</a> · <a href="#modal-passive">情态被动</a></p>
 </div>
 
-<div class="term" id="modal-passive">
+<div class="term term-deep" id="modal-passive">
 <h3>6. 情态被动 · Modal Passive</h3>
-<p class="def">情态动词 + be + 过去分词。must/can/may/should/will + be + V-en。</p>
-<p class="ex"><a href="/breakdown/#s-017">S-017</a> <em>... that mankind must not be crucified upon a cross of gold.</em></p>
-<p class="ex"><a href="/breakdown/#s-060">S-060</a> <em>Lehman Brothers must be remembered as the night the old order cracked.</em></p>
+<p class="def-quick"><b>一句话:</b> 「主语<b>必须 / 应当 / 可以 / 可能被</b>怎么样」。形式:情态动词 + be + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 情态被动是英语「态度 / 必要 / 推断 + 被动」的复合。它在政经评论、规章、判断陈述里高频出现 — 不只是事实陈述,而是「该这样 / 必须这样 / 可能这样」的判断。</p>
+<p class="def-position"><b>形式 / 用法:</b> 情态动词(must / can / may / should / will / could / might / would / ought to)+ be + V-en。情态后必须接动词原形,被动化即 be + V-en。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「应被 / 须被 / 可被」对应英文 should/must/can be + V-en。中文情态修饰主动很多,被动版本相对少见,但英文里情态被动是政经写作的常用句式。</p>
+<p class="def-forms"><b>常见情态被动:</b><br>
+① <em>must be + V-en</em>(必须被):It must be done by tomorrow.<br>
+② <em>should be + V-en</em>(应当被):The bill should be signed today.<br>
+③ <em>can be + V-en</em>(能被):The job can be done by anyone.<br>
+④ <em>may be + V-en</em>(可能被 / 允许被):It may be revised later.<br>
+⑤ <em>will be + V-en</em>(将被)— 见 future passive<br>
+⑥ <em>ought to be + V-en</em>(理应被):It ought to be discussed.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>must not be vs need not be</b> — must not be = 不准被(禁止);need not be = 不必被(不需)。<br>
+<b>情态被动 vs 情态完成被动</b> — should be done(应当做)/ should have been done(本该做却没做)— 后者见 #modal-perfect。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>It must to be done</code>(情态后无 to)<br>
+✓ <code>It must be done</code><br>
+✗ <code>It should done by tomorrow</code>(漏 be)<br>
+✓ <code>It should be done by tomorrow</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-017">S-017</a> 否定情态被动 <em>that mankind must not be crucified upon a cross of gold</em><br>
+② <a href="/breakdown/#s-060">S-060</a> <em>Lehman Brothers must be remembered as the night the old order cracked.</em>(must be remembered = 必须被记住)</p>
+<p class="def-related"><b>相关:</b> <a href="#modal-verb">情态动词</a> · <a href="#modal-perfect">情态完成式</a> · <a href="#future-passive">将来被动</a></p>
 </div>
 
-<div class="term" id="get-passive">
+<div class="term term-deep" id="get-passive">
 <h3>7. Get-被动 · Get-Passive</h3>
-<p class="def">get + 过去分词。比 be-被动更口语,强调"突然发生变化",常带负面或意外色彩。</p>
-<p class="ex"><a href="/breakdown/#s-028">S-028</a> <em>On April 5, 1933, every gold coin in private hands got recalled to the Treasury.</em></p>
+<p class="def-quick"><b>一句话:</b> 用 <b>get</b> 代替 be 构造的被动。比 be-被动更<b>口语化</b>,强调「<b>突然发生变化</b>」,常带负面或意外色彩。形式:get + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> Get-被动是英语口语和半正式写作的特殊被动形式。它和 be-被动的关键区别:① 语用色彩 — get 暗示「事件发生 / 状态变化」,be 偏静态;② 情感色彩 — get 常带「负面 / 意外」(get fired / get robbed / get hit);③ 文体差异 — get 偏口语,be 偏正式。</p>
+<p class="def-position"><b>形式 / 用法:</b> get + V-en(get / gets / got / has gotten)。无 by + 施动者(罕见)。否定 didn't get。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「被 + 动」可以对应 be 也可以对应 get,但「突然」「意外」语境更对应 get。「他被解雇了」如果强调突然 → He got fired(口语);如果中性 → He was fired(中性)。</p>
+<p class="def-forms"><b>典型场景:</b><br>
+① <em>负面 / 意外事件</em>:He got fired / She got robbed / I got hit by a car.<br>
+② <em>突然变化</em>:The situation got resolved last week.<br>
+③ <em>口语化的「成为」</em>:They got married last year.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>get-被动 vs be-被动</b> — get 偏口语 + 突然 + 负面;be 偏正式 + 中性。He got fired(口语,突然 — 没预警就被开)/ He was fired(中性 — 客观陈述)。<br>
+<b>get + 形容词 vs get-被动</b> — He got tired(系 + 形 — 变累)/ He got fired(被动 — 被解雇)。判断:V-en 带动作?是 → 被动;否 → 形容词。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 在正式书面语中过度使用 get-被动 — 显得不够正式<br>
+✓ 学术 / 政经 / 法律写作首选 be-被动<br>
+✓ 新闻、文学、口语转写可用 get-被动<br>
+✗ <code>He got fire yesterday</code>(被动用 V-en,fire → fired)<br>
+✓ <code>He got fired yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-028">S-028</a> 经典 get-被动(强调「突然 / 强制」) <em>On April 5, 1933, every gold coin in private hands got recalled to the Treasury.</em>(政府强制召回 — get 比 was 更带「突然 / 强制」色彩)</p>
+<p class="def-related"><b>相关:</b> <a href="#voice">④ 语态</a> · <a href="#past-passive">过去被动</a></p>
 </div>
 
-<div class="term" id="causative-passive">
+<div class="term term-deep" id="causative-passive">
 <h3>8. 使役被动 · Causative "have something done"</h3>
-<p class="def">have + 宾语 + 过去分词 = "让某物被(他人)做"。对照 make/let + 不带 to 不定式。</p>
-<p class="ex"><a href="/breakdown/#s-029">S-029</a> <em>Within weeks, Roosevelt had the confiscated metal reminted into bullion bars and shipped to Fort Knox.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>让某物 / 某事被(他人)做</b>」。主语自己不做,而是安排别人做。形式:have + 宾语 + 过去分词。</p>
+<p class="def-deep"><b>详细:</b> 使役被动是英语极重要、中文里没有直接对应的结构。它的语义不是「我做」,也不是「我被做」,而是「<b>我让某物被(其他人)做</b>」 — 三方关系。在政经、商业写作里高频出现(have a contract signed / have the system updated / have the metal reminted)。</p>
+<p class="def-position"><b>形式 / 用法:</b> have + 宾语(物)+ 过去分词。可变形:get + 宾语 + V-en(更口语)。常配时间状语。</p>
+<p class="def-bilingual"><b>中英对照 · 中国学生最大盲区:</b> 中文「让 X 被 Y 做」用「让 + 名词 + 被 + 动」(让金属被重铸)— 但中文几乎不这么用,常用主动形式(让人重铸金属)。英文则严格用 have + N + V-en。<br>
+✗ <code>I let my hair cut</code>(let 不能用于这种使役)<br>
+✓ <code>I had my hair cut</code><br>
+✗ <code>I had my hair cutted</code>(cut 是不规则,过分仍是 cut)<br>
+✓ <code>I had my hair cut</code></p>
+<p class="def-forms"><b>3 种相近结构对比:</b><br>
+① <em>have + O + V-en</em>(让 X 被做 — 客观):I had my hair cut.<br>
+② <em>get + O + V-en</em>(让 X 被做 — 口语):I got my hair cut.<br>
+③ <em>have + O + V 原形</em>(让某人做某事 — 不是被动):I had him cut my hair.<br>
+④ <em>have + O + V-ing</em>(让 X 在做):I had him waiting outside.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>使役被动 vs 完成时</b> — I have cut my hair(我自己剪了 — 完成时)/ I have my hair cut(我让人剪了 — 使役被动)。<br>
+<b>使役被动 vs make / let + 不带 to 不定式</b> — make/let 是「使某人做」(主动);have something done 是「让某物被做」(被动)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I will repair my car next week</code>(自己修)→ ✓ <code>I will have my car repaired next week</code>(让人修)<br>
+✗ <code>I let my hair cut</code>(let 不用于「让某物被做」)<br>
+✓ <code>I had my hair cut</code><br>
+✗ <code>The metal was reminted by Roosevelt</code>(失去「让 X 安排」的语义)<br>
+✓ <code>Roosevelt had the metal reminted</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-029">S-029</a> 双重使役被动 <em>Within weeks, Roosevelt had the confiscated metal reminted into bullion bars and shipped to Fort Knox.</em>(罗斯福让金属被重铸 + 被运输 — 双过分)</p>
+<p class="def-related"><b>相关:</b> <a href="#voice">④ 语态</a> · <a href="#auxiliary-verb">have 助动词</a> · <a href="#nonfinite">非谓语动词</a></p>
 </div>
 
 <hr>
