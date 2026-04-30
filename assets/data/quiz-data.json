@@ -1,0 +1,4768 @@
+{
+  "sentences": [
+    {
+      "id": "s-001",
+      "grammar": "S-001 · Simple Present (一般现在时)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Money"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "tells"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a story"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "tells"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "one of the longest"
+        }
+      ]
+    },
+    {
+      "id": "s-002",
+      "grammar": "S-002 · Historic / Narrative Present (历史现在时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "The year is 1792"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a young republic"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "stamps out"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "its first silver dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "at the Philadelphia mint"
+        }
+      ]
+    },
+    {
+      "id": "s-003",
+      "grammar": "S-003 · Simple Past (一般过去时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "On April 2 of that year"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Alexander Hamilton"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "signed"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the Coinage Act"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "into law"
+        }
+      ]
+    },
+    {
+      "id": "s-004",
+      "grammar": "S-004 · Past Continuous (过去进行时)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "While"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Hamilton"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "was building"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a national bank"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "was drafting"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the very arguments"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "meant to one day destroy it"
+        }
+      ]
+    },
+    {
+      "id": "s-005",
+      "grammar": "S-005 · Past Perfect (过去完成时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By 1811"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Spanish reales"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "had circulated"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "through the thirteen colonies"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for nearly a century"
+        }
+      ]
+    },
+    {
+      "id": "s-006",
+      "grammar": "S-006 · Past Perfect Continuous (过去完成进行时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "For two decades"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the Jeffersonians"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "had"
+        },
+        {
+          "role": "v",
+          "tag": "进行助",
+          "text": "been"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "warning"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "their countrymen"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "against centralized finance"
+        }
+      ]
+    },
+    {
+      "id": "s-007",
+      "grammar": "S-007 · Used to (过去常做)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "American farmers"
+        },
+        {
+          "role": "v",
+          "tag": "半情态",
+          "text": "used to"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "carry"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 1",
+          "text": "tobacco notes"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 2",
+          "text": "Spanish coin"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 3",
+          "text": "even gold dust"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "as everyday money"
+        }
+      ]
+    },
+    {
+      "id": "s-008",
+      "grammar": "S-008 · Would (Habitual Past · 过去习惯)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "On Saturday mornings"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a country shopkeeper"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "would shave"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a thin sliver"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "off any silver dollar"
+        },
+        {
+          "role": "s",
+          "tag": "零关代从主",
+          "text": "he"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "did"
+        },
+        {
+          "role": "fn",
+          "tag": "否定",
+          "text": "not"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "trust"
+        }
+      ]
+    },
+    {
+      "id": "s-009",
+      "grammar": "S-009 · Restrictive Relative + Prep Fronted (限定性定从 · 介词前置)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "Hamilton"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "designed"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "weighed"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "exactly 416 grains"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "of"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "which"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "371.25 grains"
+        },
+        {
+          "role": "v",
+          "tag": "从系",
+          "text": "were"
+        },
+        {
+          "role": "c",
+          "tag": "从表",
+          "text": "pure silver"
+        }
+      ]
+    },
+    {
+      "id": "s-010",
+      "grammar": "S-010 · Non-restrictive Relative + as ... as (非限定性定从 + 同级比较)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Andrew Jackson"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "who"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "distrusted"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "bankers"
+        },
+        {
+          "role": "fn",
+          "tag": "同级比较",
+          "text": "as"
+        },
+        {
+          "role": "a",
+          "tag": "程度",
+          "text": "deeply"
+        },
+        {
+          "role": "fn",
+          "tag": "同级比较",
+          "text": "as"
+        },
+        {
+          "role": "s",
+          "tag": "比较从主",
+          "text": "he"
+        },
+        {
+          "role": "v",
+          "tag": "比较从谓",
+          "text": "distrusted"
+        },
+        {
+          "role": "o",
+          "tag": "比较从宾",
+          "text": "aristocrats"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "vetoed"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the Second Bank's charter"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in 1832"
+        }
+      ]
+    },
+    {
+      "id": "s-011",
+      "grammar": "S-011 · Inverted Type-3 Conditional + Modal Perfect (倒装第三条件 + 情态完成)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "倒装",
+          "text": "Had"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Jackson"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "trusted"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "central banking"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the Panic of 1837"
+        },
+        {
+          "role": "v",
+          "tag": "情态",
+          "text": "might"
+        },
+        {
+          "role": "fn",
+          "tag": "否定",
+          "text": "never"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "have"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "torn"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the frontier"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "apart"
+        }
+      ]
+    },
+    {
+      "id": "s-012",
+      "grammar": "S-012 · Cleft Sentence (分裂句 · It-cleft)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "形主",
+          "text": "It was"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the Civil War"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "more than any economic doctrine"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "that"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "finally"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "drove"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "Washington"
+        },
+        {
+          "role": "c",
+          "tag": "宾补(不定式)",
+          "text": "to print"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "paper money"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "on a national scale"
+        }
+      ]
+    },
+    {
+      "id": "s-013",
+      "grammar": "S-013 · Past Passive + To-infinitive of Purpose (过去时被动 + 不定式表目的)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The greenback"
+        },
+        {
+          "role": "v",
+          "tag": "过去被动",
+          "text": "was issued"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in 1862"
+        },
+        {
+          "role": "a",
+          "tag": "目的不定式",
+          "text": "to finance"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "a war"
+        },
+        {
+          "role": "s",
+          "tag": "零关代从主",
+          "text": "the Treasury"
+        },
+        {
+          "role": "v",
+          "tag": "情态",
+          "text": "could"
+        },
+        {
+          "role": "a",
+          "tag": "否定状",
+          "text": "no longer"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "pay"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "for"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in coin"
+        }
+      ]
+    },
+    {
+      "id": "s-014",
+      "grammar": "S-014 · Pseudo-cleft / Wh-noun Clause as Subject (假分裂句)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "主从代",
+          "text": "What"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "restored"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "monetary order"
+        },
+        {
+          "role": "a",
+          "tag": "时间",
+          "text": "after Reconstruction"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "the Resumption Act of 1875"
+        }
+      ]
+    },
+    {
+      "id": "s-015",
+      "grammar": "S-015 · Gerund as Subject (动名词作主语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Returning to the gold standard"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "seemed"
+        },
+        {
+          "role": "c",
+          "tag": "表语 1",
+          "text": "prudent"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to Eastern bankers"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "c",
+          "tag": "表语 2",
+          "text": "ruinous"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to Western farmers"
+        }
+      ]
+    },
+    {
+      "id": "s-016",
+      "grammar": "S-016 · Gerund after Preposition (介词后接动名词)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By insisting on free silver"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "William Jennings Bryan"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "rallied"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a generation of debt-stricken farmers"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "behind him"
+        }
+      ]
+    },
+    {
+      "id": "s-017",
+      "grammar": "S-017 · Noun Clause as Object + Modal Passive (宾语从句 + 情态被动)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "In 1896"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Bryan"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "declared"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "mankind"
+        },
+        {
+          "role": "v",
+          "tag": "情态被动",
+          "text": "must not be crucified"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "upon a cross of gold"
+        }
+      ]
+    },
+    {
+      "id": "s-018",
+      "grammar": "S-018 · Adverbial Clause of Concession (让步状语 · although)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "Although"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Bryan"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "lost"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the election"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "his oratory"
+        },
+        {
+          "role": "a",
+          "tag": "频率",
+          "text": "still"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "echoes"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "through American memory"
+        }
+      ]
+    },
+    {
+      "id": "s-019",
+      "grammar": "S-019 · Locative Inversion (地点倒装)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Out of the Panic of 1907"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "came"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the conviction"
+        },
+        {
+          "role": "cl",
+          "tag": "同位连",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the country"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "needed"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "a permanent central bank"
+        }
+      ]
+    },
+    {
+      "id": "s-020",
+      "grammar": "S-020 · Simple-Present Passive (一般现在时被动)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Today"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "every American banknote"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "is printed"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "by the Bureau of Engraving and Printing"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "under Federal Reserve authority"
+        }
+      ]
+    },
+    {
+      "id": "s-021",
+      "grammar": "S-021 · Adverbial Clause of Time (时间状语 · when)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "关副",
+          "text": "When"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the First World War"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "broke out"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "European gold"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "flowed"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "into American vaults"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "at an unprecedented rate"
+        }
+      ]
+    },
+    {
+      "id": "s-022",
+      "grammar": "S-022 · Bare Infinitive after \"make\" (使役动词后接不带 to 的不定式)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The war"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "made"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the dollar"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "emerge"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "almost overnight"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "as a credible reserve currency"
+        }
+      ]
+    },
+    {
+      "id": "s-023",
+      "grammar": "S-023 · Both ... and (相关并列连词)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "限定",
+          "text": "Both"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Britain and France"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "borrowed"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "heavily"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "from New York bankers"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the balance of monetary power"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "began to shift"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "across the Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "s-024",
+      "grammar": "S-024 · Mandative Subjunctive (虚拟语气 · 命令性)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "时间",
+          "text": "After"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "the armistice"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the French government"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "insisted"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "gold"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟谓",
+          "text": "be redistributed"
+        },
+        {
+          "role": "a",
+          "tag": "目的",
+          "text": "to restore the prewar parities"
+        }
+      ]
+    },
+    {
+      "id": "s-025",
+      "grammar": "S-025 · so + adv ... that (结果状语 · so...that)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The 1920s economy"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "grew"
+        },
+        {
+          "role": "c",
+          "tag": "程度",
+          "text": "so confidently"
+        },
+        {
+          "role": "cl",
+          "tag": "结果",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "few Americans"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "imagined"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "any cliff"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "ahead"
+        }
+      ]
+    },
+    {
+      "id": "s-026",
+      "grammar": "S-026 · such + n ... that (结果状语 · such...that)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The collapse of October 1929"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "such a shock"
+        },
+        {
+          "role": "cl",
+          "tag": "结果",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "an entire generation"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "lost"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "faith"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in finance"
+        }
+      ]
+    },
+    {
+      "id": "s-027",
+      "grammar": "S-027 · Nor with Subject-Aux Inversion (nor 引导倒装)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "Nor"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "did"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the country"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "recover"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "quickly"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "another decade of stagnation"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "lay"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "ahead"
+        }
+      ]
+    },
+    {
+      "id": "s-028",
+      "grammar": "S-028 · Get-Passive (get-被动)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "On April 5, 1933"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "every gold coin in private hands"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "got recalled"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to the Treasury"
+        }
+      ]
+    },
+    {
+      "id": "s-029",
+      "grammar": "S-029 · Causative \"have something done\" (使役 · 让人做)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Within weeks"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Roosevelt"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "had"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the confiscated metal"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "reminted"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "into bullion bars"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "shipped"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to Fort Knox"
+        }
+      ]
+    },
+    {
+      "id": "s-030",
+      "grammar": "S-030 · Negative-Fronting Inversion (否定前置倒装)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "否定前置",
+          "text": "Never before"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "had"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a peacetime president"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "dared to redraw"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the price of gold"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "by decree"
+        }
+      ]
+    },
+    {
+      "id": "s-031",
+      "grammar": "S-031 · Adverbial of Purpose · in order that (目的状语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Banks"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "were closed"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for four days"
+        },
+        {
+          "role": "cl",
+          "tag": "目的",
+          "text": "in order that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "public confidence"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "might begin"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "to recover"
+        }
+      ]
+    },
+    {
+      "id": "s-032",
+      "grammar": "S-032 · Mixed Conditional (混合条件句)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "If"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the Great Depression"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "had lasted"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "only briefly"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "today"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "would still hang"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "from a chain of gold"
+        }
+      ]
+    },
+    {
+      "id": "s-033",
+      "grammar": "S-033 · Should (Advice/道义)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Roosevelt"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "argued"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "again and again"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "no civilized nation"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "should ever again allow"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "gold"
+        },
+        {
+          "role": "c",
+          "tag": "宾补(不定式)",
+          "text": "to dictate"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "the limits"
+        },
+        {
+          "role": "m",
+          "tag": "介短定",
+          "text": "of human ambition"
+        }
+      ]
+    },
+    {
+      "id": "s-034",
+      "grammar": "S-034 · Past Participial Phrase (过去分词短语作定语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The Bretton Woods system"
+        },
+        {
+          "role": "m",
+          "tag": "过分定",
+          "text": "designed"
+        },
+        {
+          "role": "a",
+          "tag": "施动状",
+          "text": "by Keynes and Harry Dexter White"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "fixed"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the world's currencies"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "around a dollar pegged to gold at thirty-five dollars an ounce"
+        }
+      ]
+    },
+    {
+      "id": "s-035",
+      "grammar": "S-035 · Anticipatory \"it\" for Object (形式宾语 it)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Keynes"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "found"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "it"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "impossible"
+        },
+        {
+          "role": "o",
+          "tag": "真宾(不定式)",
+          "text": "to persuade"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "the Americans"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "of his bancor proposal"
+        }
+      ]
+    },
+    {
+      "id": "s-036",
+      "grammar": "S-036 · Whether-Noun Clause as Subject (whether 主语从句)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "是否连",
+          "text": "Whether"
+        },
+        {
+          "role": "s",
+          "tag": "主从主",
+          "text": "Bretton Woods"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "could survive"
+        },
+        {
+          "role": "o",
+          "tag": "主从宾",
+          "text": "a quarter-century"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "a question"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "its architects scarcely asked"
+        }
+      ]
+    },
+    {
+      "id": "s-037",
+      "grammar": "S-037 · Mandative Subjunctive in Apposition (虚拟 · 同位语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The new system"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "rested"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "upon a single condition"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "no one"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟谓",
+          "text": "ask"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for gold"
+        }
+      ]
+    },
+    {
+      "id": "s-038",
+      "grammar": "S-038 · As-If Manner Clause + were-subjunctive (虚拟过去 · as if)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "For two decades"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the system"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "worked"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "smoothly"
+        },
+        {
+          "role": "cl",
+          "tag": "方式",
+          "text": "as if"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "gold and the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟系",
+          "text": "were"
+        },
+        {
+          "role": "c",
+          "tag": "从表",
+          "text": "a single currency"
+        }
+      ]
+    },
+    {
+      "id": "s-039",
+      "grammar": "S-039 · Only-Fronting Inversion (only 前置倒装)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "强调",
+          "text": "Only when"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "France"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "began demanding"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "bullion"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for its dollars"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "did"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the cracks"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "become"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "visible"
+        }
+      ]
+    },
+    {
+      "id": "s-040",
+      "grammar": "S-040 · Past Perfect Passive (过去完成时被动)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By the late 1960s"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "more than half of America's postwar gold"
+        },
+        {
+          "role": "v",
+          "tag": "过完助",
+          "text": "had"
+        },
+        {
+          "role": "v",
+          "tag": "被动助",
+          "text": "been"
+        },
+        {
+          "role": "v",
+          "tag": "谓(过分)",
+          "text": "spent"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "abroad"
+        }
+      ]
+    },
+    {
+      "id": "s-041",
+      "grammar": "S-041 · Wh-Noun Clause as Object (what 引导宾语从句)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "On August 15, 1971"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Richard Nixon"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "announced"
+        },
+        {
+          "role": "cl",
+          "tag": "wh-从",
+          "text": "what"
+        },
+        {
+          "role": "v",
+          "tag": "过去将来被动",
+          "text": "would later be called"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "the Nixon Shock"
+        }
+      ]
+    },
+    {
+      "id": "s-042",
+      "grammar": "S-042 · Present Perfect (现在完成时)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "has floated"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "freely"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "ever since"
+        }
+      ]
+    },
+    {
+      "id": "s-043",
+      "grammar": "S-043 · Could (Ability/Possibility · 能力或可能)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "After 1971"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a single sentence from a central banker"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "could move"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "trillions of dollars"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "overnight"
+        }
+      ]
+    },
+    {
+      "id": "s-044",
+      "grammar": "S-044 · Present Participial Phrase (现在分词短语作定语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Inflation"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "slumbering since the 1950s"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "awoke"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in the 1970s"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "with sudden ferocity"
+        }
+      ]
+    },
+    {
+      "id": "s-045",
+      "grammar": "S-045 · Comparative + than (比较级)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Year after year"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "prices"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "rose"
+        },
+        {
+          "role": "c",
+          "tag": "比较",
+          "text": "faster than wages"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the average American"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "learned to mistrust"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "his own paycheck"
+        }
+      ]
+    },
+    {
+      "id": "s-046",
+      "grammar": "S-046 · Either ... or (相关并列连词)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "限定",
+          "text": "Either"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "confidence"
+        },
+        {
+          "role": "v",
+          "tag": "半情态",
+          "text": "had to"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "return"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "or"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar itself"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "would dissolve"
+        }
+      ]
+    },
+    {
+      "id": "s-047",
+      "grammar": "S-047 · Might (Possibility · 可能性)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "For a moment"
+        },
+        {
+          "role": "s",
+          "tag": "形主",
+          "text": "it"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "seemed"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "might dissolve"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "along with the country's patience"
+        }
+      ]
+    },
+    {
+      "id": "s-048",
+      "grammar": "S-048 · Dare Semi-Modal (情态半助动词)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "In 1979"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Volcker"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "raised"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the federal funds rate"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to a level"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "no banker dared imagine"
+        }
+      ]
+    },
+    {
+      "id": "s-049",
+      "grammar": "S-049 · FANBOYS \"yet\" (并列连词 yet · 转折)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Borrowers"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "wept"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "farmers"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "went"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "bankrupt"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "yet"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "bond traders"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "cheered"
+        }
+      ]
+    },
+    {
+      "id": "s-050",
+      "grammar": "S-050 · Past Perfect Passive + Present Perfect Passive (过完被动 + 现完被动)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By the mid-1980s"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "inflation"
+        },
+        {
+          "role": "v",
+          "tag": "过完被动",
+          "text": "had been beaten back"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "to this day"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a price spiral of that scale"
+        },
+        {
+          "role": "v",
+          "tag": "现完被动",
+          "text": "has not been seen"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "on American soil"
+        }
+      ]
+    },
+    {
+      "id": "s-051",
+      "grammar": "S-051 · Not only ... but also (相关并列 · 递进)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The Plaza Accord of 1985"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "not only"
+        },
+        {
+          "role": "c",
+          "tag": "表 1",
+          "text": "an attempt"
+        },
+        {
+          "role": "m",
+          "tag": "不定式定",
+          "text": "to weaken the dollar"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "but also"
+        },
+        {
+          "role": "c",
+          "tag": "表 2",
+          "text": "a quiet admission"
+        },
+        {
+          "role": "cl",
+          "tag": "同位连",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "even superpowers"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "must compromise"
+        }
+      ]
+    },
+    {
+      "id": "s-052",
+      "grammar": "S-052 · Type 2 Conditional (第二条件句 · 与现在事实相反)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "If"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟系",
+          "text": "were"
+        },
+        {
+          "role": "v",
+          "tag": "不定式谓",
+          "text": "to weaken"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "further"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "American manufacturing"
+        },
+        {
+          "role": "v",
+          "tag": "情态",
+          "text": "might"
+        },
+        {
+          "role": "a",
+          "tag": "时间",
+          "text": "at last"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "find"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "its footing"
+        }
+      ]
+    },
+    {
+      "id": "s-053",
+      "grammar": "S-053 · Superlative (最高级)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By 1995"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "foreign central banks"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "held"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "trillions of dollars"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in reserve"
+        },
+        {
+          "role": "m",
+          "tag": "同位 + 最高级",
+          "text": "the largest store of foreign exchange"
+        },
+        {
+          "role": "m",
+          "tag": "零关代定从",
+          "text": "the world had ever known"
+        }
+      ]
+    },
+    {
+      "id": "s-054",
+      "grammar": "S-054 · Adverbial of Cause · not because/but because (原因状语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "They"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "held"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "those dollars"
+        },
+        {
+          "role": "fn",
+          "tag": "否定",
+          "text": "not"
+        },
+        {
+          "role": "cl",
+          "tag": "原因",
+          "text": "because"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "they"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "loved"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "Washington"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "but"
+        },
+        {
+          "role": "cl",
+          "tag": "原因",
+          "text": "because"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "they"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "had"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "nowhere else"
+        },
+        {
+          "role": "m",
+          "tag": "不定式定",
+          "text": "to park their savings"
+        }
+      ]
+    },
+    {
+      "id": "s-055",
+      "grammar": "S-055 · Appositive · Parallel (同位语 · 并列三项)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar in those years"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "three things at once"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "the currency of America"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "the language of global trade"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "the silent partner in every contract"
+        }
+      ]
+    },
+    {
+      "id": "s-056",
+      "grammar": "S-056 · Discourse Marker (语篇衔接词 · Indeed)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "语篇",
+          "text": "Indeed"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Alan Greenspan"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "presided"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "over"
+        },
+        {
+          "role": "o",
+          "tag": "介宾",
+          "text": "a period"
+        },
+        {
+          "role": "a",
+          "tag": "时间",
+          "text": "now"
+        },
+        {
+          "role": "m",
+          "tag": "过分定",
+          "text": "called"
+        },
+        {
+          "role": "c",
+          "tag": "宾补",
+          "text": "the Great Moderation"
+        },
+        {
+          "role": "cl",
+          "tag": "关副",
+          "text": "when"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "markets"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "seemed to demand"
+        },
+        {
+          "role": "a",
+          "tag": "强调",
+          "text": "only"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "the gentlest of nudges"
+        }
+      ]
+    },
+    {
+      "id": "s-057",
+      "grammar": "S-057 · Type 3 Conditional (第三条件句 · 与过去事实相反)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "If"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "regulators"
+        },
+        {
+          "role": "v",
+          "tag": "过完虚拟",
+          "text": "had looked"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "closer"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the storm of 2008"
+        },
+        {
+          "role": "v",
+          "tag": "情态完成被动",
+          "text": "could have been seen"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "long before it broke"
+        }
+      ]
+    },
+    {
+      "id": "s-058",
+      "grammar": "S-058 · Emphatic \"do\" (强调助动词 do)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "They"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "did not look"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the warnings"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "which"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "Cassandra after Cassandra"
+        },
+        {
+          "role": "v",
+          "tag": "强调 do + 动原",
+          "text": "did sound"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "went"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "unheeded"
+        }
+      ]
+    },
+    {
+      "id": "s-059",
+      "grammar": "S-059 · There-Existential (存在句)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "存在",
+          "text": "There"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "came"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a Sunday in September 2008"
+        },
+        {
+          "role": "cl",
+          "tag": "关副",
+          "text": "when"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "Wall Street's old order"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "finally"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "cracked"
+        }
+      ]
+    },
+    {
+      "id": "s-060",
+      "grammar": "S-060 · Modal Passive (情态被动 must be V-en)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Lehman Brothers"
+        },
+        {
+          "role": "v",
+          "tag": "情态",
+          "text": "must"
+        },
+        {
+          "role": "v",
+          "tag": "被动助",
+          "text": "be"
+        },
+        {
+          "role": "v",
+          "tag": "谓(过分)",
+          "text": "remembered"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "as"
+        },
+        {
+          "role": "o",
+          "tag": "介宾",
+          "text": "the night"
+        },
+        {
+          "role": "s",
+          "tag": "零关代从主",
+          "text": "the old order"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "cracked"
+        }
+      ]
+    },
+    {
+      "id": "s-061",
+      "grammar": "S-061 · Could have V-en (情态完成 · 过去本可)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Without the Federal Reserve's emergency intervention"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "every major bank"
+        },
+        {
+          "role": "v",
+          "tag": "情态",
+          "text": "could"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "have"
+        },
+        {
+          "role": "v",
+          "tag": "谓(过分)",
+          "text": "collapsed"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "within a fortnight"
+        }
+      ]
+    },
+    {
+      "id": "s-062",
+      "grammar": "S-062 · Shall (Formal/法律式)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Central banks"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "declared"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "with rare unanimity"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the world"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "shall not face"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "another Lehman"
+        }
+      ]
+    },
+    {
+      "id": "s-063",
+      "grammar": "S-063 · Future Continuous (将来进行时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Within a decade"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "a new species of money"
+        },
+        {
+          "role": "v",
+          "tag": "将来助",
+          "text": "will"
+        },
+        {
+          "role": "v",
+          "tag": "进行助",
+          "text": "be"
+        },
+        {
+          "role": "v",
+          "tag": "谓(进行)",
+          "text": "challenging"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the dollar's monopoly on global reserves"
+        }
+      ]
+    },
+    {
+      "id": "s-064",
+      "grammar": "S-064 · Neither ... nor (双否相关并列)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Bitcoin"
+        },
+        {
+          "role": "m",
+          "tag": "同位",
+          "text": "a currency"
+        },
+        {
+          "role": "m",
+          "tag": "分词定",
+          "text": "needing"
+        },
+        {
+          "role": "fn",
+          "tag": "否定相关",
+          "text": "neither"
+        },
+        {
+          "role": "o",
+          "tag": "并列项 1",
+          "text": "a government to issue it"
+        },
+        {
+          "role": "fn",
+          "tag": "否定相关",
+          "text": "nor"
+        },
+        {
+          "role": "o",
+          "tag": "并列项 2",
+          "text": "a central bank to control it"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "was launched"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "on January 3, 2009"
+        }
+      ]
+    },
+    {
+      "id": "s-065",
+      "grammar": "S-065 · Future Simple \"will\" (一般将来时)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "will outlive"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the men"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "who"
+        },
+        {
+          "role": "m",
+          "tag": "定从",
+          "text": "fear for its life"
+        }
+      ]
+    },
+    {
+      "id": "s-066",
+      "grammar": "S-066 · Be going to (将来 · 计划/迹象)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Some economists"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "insist"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "a",
+          "tag": "插语",
+          "text": "sooner or later"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "every government"
+        },
+        {
+          "role": "v",
+          "tag": "be-going-to",
+          "text": "is going to issue"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "a digital version"
+        },
+        {
+          "role": "m",
+          "tag": "介短定",
+          "text": "of its own currency"
+        }
+      ]
+    },
+    {
+      "id": "s-067",
+      "grammar": "S-067 · Future Perfect (将来完成时)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "By 2030"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "every major central bank"
+        },
+        {
+          "role": "v",
+          "tag": "将来助",
+          "text": "will"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "have"
+        },
+        {
+          "role": "v",
+          "tag": "谓(过分)",
+          "text": "launched"
+        },
+        {
+          "role": "fn",
+          "tag": "并列",
+          "text": "or at least"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "tested"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "its own central-bank digital currency"
+        }
+      ]
+    },
+    {
+      "id": "s-068",
+      "grammar": "S-068 · Future Perfect Continuous (将来完成进行时)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "时间连",
+          "text": "By the time"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "you"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "finish"
+        },
+        {
+          "role": "o",
+          "tag": "动名词宾",
+          "text": "reading"
+        },
+        {
+          "role": "o",
+          "tag": "动名宾的宾",
+          "text": "this article"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the world"
+        },
+        {
+          "role": "v",
+          "tag": "将来助",
+          "text": "will"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "have"
+        },
+        {
+          "role": "v",
+          "tag": "进行助",
+          "text": "been"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "generating"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 1",
+          "text": "new dollars"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 2",
+          "text": "new debts"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾 3",
+          "text": "new questions"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "every second"
+        }
+      ]
+    },
+    {
+      "id": "s-069",
+      "grammar": "S-069 · Future Passive (一般将来时被动)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "If"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "ever"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "does lose"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "its reserve status"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "every commodity, every loan, and every contract on earth"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "will be rewritten"
+        }
+      ]
+    },
+    {
+      "id": "s-070",
+      "grammar": "S-070 · Reduced Relative (简化关系从句)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Money"
+        },
+        {
+          "role": "m",
+          "tag": "简化定从",
+          "text": "issued"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "by an algorithm"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "rather than"
+        },
+        {
+          "role": "o",
+          "tag": "对比项",
+          "text": "a parliament"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "something"
+        },
+        {
+          "role": "s",
+          "tag": "零关代从主",
+          "text": "the world"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "has never quite known"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "before"
+        }
+      ]
+    },
+    {
+      "id": "s-071",
+      "grammar": "S-071 · Adverbial of Condition · provided that (条件状语)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "条件",
+          "text": "Provided that"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "trust"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "survives"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "will continue to underwrite"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the architecture of global finance"
+        }
+      ]
+    },
+    {
+      "id": "s-072",
+      "grammar": "S-072 · To-infinitive as Subject (不定式作主语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "To predict the dollar's future"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in the end"
+        },
+        {
+          "role": "c",
+          "tag": "表(不定式)",
+          "text": "to predict"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "the future"
+        },
+        {
+          "role": "m",
+          "tag": "介短定",
+          "text": "of the United States"
+        },
+        {
+          "role": "m",
+          "tag": "同位强调",
+          "text": "itself"
+        }
+      ]
+    },
+    {
+      "id": "s-073",
+      "grammar": "S-073 · To-infinitive as Object (不定式作宾语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Most of us"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "have learned"
+        },
+        {
+          "role": "o",
+          "tag": "真宾",
+          "text": "to trust the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "without thinking about why"
+        }
+      ]
+    },
+    {
+      "id": "s-074",
+      "grammar": "S-074 · Wish + Past Perfect (虚拟语气 · wish)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Many a saver in 2008"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "might have wished"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "he"
+        },
+        {
+          "role": "v",
+          "tag": "过完虚拟",
+          "text": "had bought"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "gold"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "at the start of the decade"
+        }
+      ]
+    },
+    {
+      "id": "s-075",
+      "grammar": "S-075 · Rhetorical Question (修辞反问句)",
+      "phrases": [
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "Will"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "last"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "another century"
+        },
+        {
+          "role": "o",
+          "tag": "宾从",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "no honest economist"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "can answer"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "with certainty"
+        }
+      ]
+    },
+    {
+      "id": "s-076",
+      "grammar": "S-076 · Vocative · Direct Address (呼语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar"
+        },
+        {
+          "role": "fn",
+          "tag": "呼语",
+          "text": "dear reader"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "c",
+          "tag": "比较",
+          "text": "more than money"
+        },
+        {
+          "role": "s",
+          "tag": "形主",
+          "text": "it"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "c",
+          "tag": "表 1",
+          "text": "a record"
+        },
+        {
+          "role": "c",
+          "tag": "表 2",
+          "text": "a promise"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "c",
+          "tag": "表 3",
+          "text": "a memory"
+        }
+      ]
+    },
+    {
+      "id": "s-077",
+      "grammar": "S-077 · Exclamation How / What (感叹句)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "感叹",
+          "text": "How"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "fragile"
+        },
+        {
+          "role": "fn",
+          "tag": "感叹并列",
+          "text": "and yet how"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "durable"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "this single piece of paper"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "turns out"
+        },
+        {
+          "role": "v",
+          "tag": "不定式系",
+          "text": "to be"
+        }
+      ]
+    },
+    {
+      "id": "s-078",
+      "grammar": "S-078 · Tag Question (反意疑问句)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "And"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "money"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "tells"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a story"
+        },
+        {
+          "role": "fn",
+          "tag": "反问",
+          "text": "doesn't it"
+        }
+      ]
+    },
+    {
+      "id": "s-079",
+      "grammar": "S-079 · Interjection (感叹词独立成分)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "感叹",
+          "text": "Ah"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "money"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "century after century"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "keeps telling"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the human story"
+        }
+      ]
+    },
+    {
+      "id": "s-080",
+      "grammar": "S-080 · Formal Subjunctive · Be it noted (化石化虚拟)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "化石虚拟",
+          "text": "Be it noted"
+        },
+        {
+          "role": "fn",
+          "tag": "语篇",
+          "text": "then"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar's long day"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "like this sentence"
+        },
+        {
+          "role": "v",
+          "tag": "完成助",
+          "text": "has"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "only just"
+        },
+        {
+          "role": "v",
+          "tag": "谓(过分)",
+          "text": "begun"
+        }
+      ]
+    },
+    {
+      "id": "s-081",
+      "grammar": "S-081 · Absolute Construction (独立主格)",
+      "phrases": [
+        {
+          "role": "m",
+          "tag": "定",
+          "text": "Trust restored"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "quietly"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "resumed"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "its authority"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "over global trade"
+        }
+      ]
+    },
+    {
+      "id": "s-082",
+      "grammar": "S-082 · had better (情态半助动词 · 强烈建议/警告)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "Whoever"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "holds"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "dollars"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in the years ahead"
+        },
+        {
+          "role": "v",
+          "tag": "情态半助动",
+          "text": "had better"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "watch"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the politics"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "that"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "back"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "id": "s-083",
+      "grammar": "S-083 · would rather (情态半助动词 · 宁愿)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Most savers"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "even today"
+        },
+        {
+          "role": "v",
+          "tag": "情态半助动",
+          "text": "would rather"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "keep"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "dollars"
+        },
+        {
+          "role": "fn",
+          "tag": "比较连",
+          "text": "than"
+        },
+        {
+          "role": "v",
+          "tag": "并列谓",
+          "text": "hold"
+        },
+        {
+          "role": "o",
+          "tag": "并列宾",
+          "text": "gold"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for a generation"
+        }
+      ]
+    },
+    {
+      "id": "s-084",
+      "grammar": "S-084 · It's high time + Past Subjunctive (虚拟特殊式 · 该是时候了)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "句式",
+          "text": "It's high time"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the world"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟过去",
+          "text": "admitted"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "no single currency"
+        },
+        {
+          "role": "v",
+          "tag": "情态谓",
+          "text": "can carry"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "the global economy"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "alone"
+        }
+      ]
+    },
+    {
+      "id": "s-085",
+      "grammar": "S-085 · Multiplier · twice as ... as (倍数比较)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Today"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "is traded"
+        },
+        {
+          "role": "a",
+          "tag": "倍数",
+          "text": "almost twice"
+        },
+        {
+          "role": "fn",
+          "tag": "比较",
+          "text": "as"
+        },
+        {
+          "role": "a",
+          "tag": "频率",
+          "text": "often"
+        },
+        {
+          "role": "fn",
+          "tag": "比较",
+          "text": "as"
+        },
+        {
+          "role": "o",
+          "tag": "比较项",
+          "text": "the euro"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "o",
+          "tag": "比较项",
+          "text": "the yen"
+        },
+        {
+          "role": "m",
+          "tag": "分词定",
+          "text": "combined"
+        }
+      ]
+    },
+    {
+      "id": "s-086",
+      "grammar": "S-086 · Wh- Direct Question (特殊疑问句)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "wh疑问",
+          "text": "Where"
+        },
+        {
+          "role": "fn",
+          "tag": "语篇",
+          "text": "then"
+        },
+        {
+          "role": "v",
+          "tag": "助",
+          "text": "does"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar's power"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "truly"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "come"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "from"
+        }
+      ]
+    },
+    {
+      "id": "s-087",
+      "grammar": "S-087 · Imperative (普通祈使句)",
+      "phrases": [
+        {
+          "role": "v",
+          "tag": "谓(祈使)",
+          "text": "Consider"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "for a moment"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the quiet decisions"
+        },
+        {
+          "role": "cl",
+          "tag": "关代",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "a single dollar"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "carries"
+        }
+      ]
+    },
+    {
+      "id": "s-088",
+      "grammar": "S-088 · Direct Speech (直接引语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Keynes"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "once"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "wrote"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "with characteristic bluntness"
+        },
+        {
+          "role": "o",
+          "tag": "直接引语",
+          "text": "\"When the facts change, I change my mind.\""
+        }
+      ]
+    },
+    {
+      "id": "s-089",
+      "grammar": "S-089 · Predicative Clause (表语从句)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The truth"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "cl",
+          "tag": "表语连",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "no fiat currency in modern history"
+        },
+        {
+          "role": "v",
+          "tag": "从谓(现完)",
+          "text": "has held"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "the world's confidence"
+        },
+        {
+          "role": "a",
+          "tag": "状(同级比较)",
+          "text": "for as long as the dollar"
+        }
+      ]
+    },
+    {
+      "id": "s-090",
+      "grammar": "S-090 · With + Compound Construction (with-复合结构)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "With"
+        },
+        {
+          "role": "s",
+          "tag": "复合主 1",
+          "text": "Bretton Woods"
+        },
+        {
+          "role": "v",
+          "tag": "复合谓 1",
+          "text": "dismantled"
+        },
+        {
+          "role": "fn",
+          "tag": "并",
+          "text": "and"
+        },
+        {
+          "role": "s",
+          "tag": "复合主 2",
+          "text": "gold"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "finally"
+        },
+        {
+          "role": "v",
+          "tag": "复合谓 2",
+          "text": "untethered"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "entered"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "a new and unfamiliar age"
+        }
+      ]
+    },
+    {
+      "id": "s-091",
+      "grammar": "S-091 · The more..., the more... (越...越...)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "越...",
+          "text": "The more"
+        },
+        {
+          "role": "s",
+          "tag": "从主 1",
+          "text": "the world"
+        },
+        {
+          "role": "v",
+          "tag": "从谓 1",
+          "text": "distrusts"
+        },
+        {
+          "role": "o",
+          "tag": "从宾 1",
+          "text": "its own governments"
+        },
+        {
+          "role": "fn",
+          "tag": "越...",
+          "text": "the more"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "it"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "seems"
+        },
+        {
+          "role": "a",
+          "tag": "插语",
+          "text": "paradoxically"
+        },
+        {
+          "role": "c",
+          "tag": "表(不定式)",
+          "text": "to trust"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "the dollar"
+        }
+      ]
+    },
+    {
+      "id": "s-092",
+      "grammar": "S-092 · Not so much...as... (与其说 X,不如说 Y)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The dollar's strength"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "lies"
+        },
+        {
+          "role": "fn",
+          "tag": "不那么",
+          "text": "not so much"
+        },
+        {
+          "role": "a",
+          "tag": "原因 1",
+          "text": "in America's economy"
+        },
+        {
+          "role": "fn",
+          "tag": "而是",
+          "text": "as"
+        },
+        {
+          "role": "a",
+          "tag": "原因 2",
+          "text": "in the world's collective fear of any alternative"
+        }
+      ]
+    },
+    {
+      "id": "s-093",
+      "grammar": "S-093 · Do-Substitution (do/so/one 替代)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "让步从属",
+          "text": "Where"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "every other currency"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟完成",
+          "text": "would have faltered"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "under the same pressure"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "somehow"
+        },
+        {
+          "role": "v",
+          "tag": "do-替代(否定)",
+          "text": "did not"
+        }
+      ]
+    },
+    {
+      "id": "s-094",
+      "grammar": "S-094 · Indirect Speech with Backshift (间接引语 · 时态后移)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Volcker"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "said"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in the autumn of 1980"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "he"
+        },
+        {
+          "role": "v",
+          "tag": "backshift 谓",
+          "text": "would crush"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "inflation"
+        },
+        {
+          "role": "a",
+          "tag": "让步状",
+          "text": "no matter the political cost"
+        }
+      ]
+    },
+    {
+      "id": "s-095",
+      "grammar": "S-095 · So + Inversion Ellipsis (so + 倒装省略)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "条件",
+          "text": "If"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the dollar"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "ever"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "falters"
+        },
+        {
+          "role": "fn",
+          "tag": "倒装省略",
+          "text": "so"
+        },
+        {
+          "role": "v",
+          "tag": "助(省略式)",
+          "text": "will"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "most of the world's price stability"
+        }
+      ]
+    },
+    {
+      "id": "s-096",
+      "grammar": "S-096 · Not until + Inversion (Not until 倒装)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "否定前置",
+          "text": "Not until"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the gold standard"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "collapsed"
+        },
+        {
+          "role": "v",
+          "tag": "助(倒装)",
+          "text": "did"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the world"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "fully"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "realize"
+        },
+        {
+          "role": "cl",
+          "tag": "wh-从",
+          "text": "how much"
+        },
+        {
+          "role": "s",
+          "tag": "从主 2",
+          "text": "it"
+        },
+        {
+          "role": "v",
+          "tag": "过完",
+          "text": "had relied"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "on a single piece of metal"
+        }
+      ]
+    },
+    {
+      "id": "s-097",
+      "grammar": "S-097 · So + Adj + that Inversion (so 形容词前置倒装)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "so 形前置",
+          "text": "So thorough"
+        },
+        {
+          "role": "v",
+          "tag": "系(倒装)",
+          "text": "was"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Volcker's discipline"
+        },
+        {
+          "role": "cl",
+          "tag": "结果",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the inflation of the 1970s"
+        },
+        {
+          "role": "a",
+          "tag": "否定",
+          "text": "never"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "returned"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "in his lifetime"
+        }
+      ]
+    },
+    {
+      "id": "s-098",
+      "grammar": "S-098 · Plain There-Be (普通 there be 句型)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "引词",
+          "text": "There"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "was"
+        },
+        {
+          "role": "s",
+          "tag": "主(逻辑)",
+          "text": "no easy way"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "back to gold"
+        },
+        {
+          "role": "cl",
+          "tag": "时间",
+          "text": "once"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "confidence"
+        },
+        {
+          "role": "v",
+          "tag": "过完",
+          "text": "had broken"
+        }
+      ]
+    },
+    {
+      "id": "s-099",
+      "grammar": "S-099 · It Took + Time + for + to-V (花费时间结构)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "形主",
+          "text": "It"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "took"
+        },
+        {
+          "role": "o",
+          "tag": "宾(时长)",
+          "text": "decades"
+        },
+        {
+          "role": "fn",
+          "tag": "for-引出",
+          "text": "for"
+        },
+        {
+          "role": "o",
+          "tag": "for 的逻辑主",
+          "text": "the dollar"
+        },
+        {
+          "role": "c",
+          "tag": "不定式真主",
+          "text": "to become"
+        },
+        {
+          "role": "o",
+          "tag": "不定式宾",
+          "text": "the language of global trade"
+        }
+      ]
+    },
+    {
+      "id": "s-100",
+      "grammar": "S-100 · Indirect Question (间接疑问句)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Economists"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "still"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "debate"
+        },
+        {
+          "role": "cl",
+          "tag": "间接疑问引导",
+          "text": "why"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "从谓",
+          "text": "survived"
+        },
+        {
+          "role": "cl",
+          "tag": "时间",
+          "text": "when"
+        },
+        {
+          "role": "s",
+          "tag": "从主 2",
+          "text": "so many rivals"
+        },
+        {
+          "role": "v",
+          "tag": "从谓 2",
+          "text": "failed"
+        }
+      ]
+    },
+    {
+      "id": "s-101",
+      "grammar": "S-101 · Reciprocal Pronoun · one another (相互代词)",
+      "phrases": [
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "Through the dollar markets"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "nations"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "lent"
+        },
+        {
+          "role": "fn",
+          "tag": "介",
+          "text": "to"
+        },
+        {
+          "role": "o",
+          "tag": "相互代词(介宾)",
+          "text": "one another"
+        },
+        {
+          "role": "cl",
+          "tag": "让步",
+          "text": "even when"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "their politics"
+        },
+        {
+          "role": "v",
+          "tag": "情态省略",
+          "text": "could not"
+        }
+      ]
+    },
+    {
+      "id": "s-102",
+      "grammar": "S-102 · V + O + Adj 宾补 (Object Complement: Adjective)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Markets"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "considered"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the dollar"
+        },
+        {
+          "role": "c",
+          "tag": "宾补(adj)",
+          "text": "safe"
+        },
+        {
+          "role": "cl",
+          "tag": "让步",
+          "text": "even when"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "American politics"
+        },
+        {
+          "role": "v",
+          "tag": "从系",
+          "text": "looked"
+        },
+        {
+          "role": "c",
+          "tag": "从表",
+          "text": "dangerously unstable"
+        }
+      ]
+    },
+    {
+      "id": "s-103",
+      "grammar": "S-103 · should have done (本该做却没做)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Regulators"
+        },
+        {
+          "role": "v",
+          "tag": "情完(本该)",
+          "text": "should have seen"
+        },
+        {
+          "role": "o",
+          "tag": "宾",
+          "text": "the danger"
+        },
+        {
+          "role": "m",
+          "tag": "介短定",
+          "text": "of unchecked leverage"
+        },
+        {
+          "role": "a",
+          "tag": "状(时间)",
+          "text": "long before the autumn of 2008"
+        }
+      ]
+    },
+    {
+      "id": "s-104",
+      "grammar": "S-104 · must have done (对过去的肯定推断)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "Investors"
+        },
+        {
+          "role": "v",
+          "tag": "情完(肯定推断)",
+          "text": "must have believed"
+        },
+        {
+          "role": "a",
+          "tag": "插语",
+          "text": "even in the darkest week"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the Federal Reserve"
+        },
+        {
+          "role": "v",
+          "tag": "backshift 谓",
+          "text": "would act"
+        }
+      ]
+    },
+    {
+      "id": "s-105",
+      "grammar": "S-105 · If only + 过完 (虚拟感叹 · 早知如此)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "虚拟感叹",
+          "text": "If only"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "policymakers"
+        },
+        {
+          "role": "v",
+          "tag": "过完虚拟",
+          "text": "had acted"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "sooner"
+        },
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "the panic of 2008"
+        },
+        {
+          "role": "v",
+          "tag": "情完",
+          "text": "might have ended"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "very differently"
+        }
+      ]
+    },
+    {
+      "id": "s-106",
+      "grammar": "S-106 · It is essential that + V原形 (Extraposition Mandative)",
+      "phrases": [
+        {
+          "role": "fn",
+          "tag": "形主",
+          "text": "It"
+        },
+        {
+          "role": "v",
+          "tag": "系",
+          "text": "is"
+        },
+        {
+          "role": "c",
+          "tag": "表",
+          "text": "essential"
+        },
+        {
+          "role": "cl",
+          "tag": "从属",
+          "text": "that"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "every reserve currency"
+        },
+        {
+          "role": "v",
+          "tag": "虚拟原形",
+          "text": "retain"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "the confidence of strangers"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "generation after generation"
+        }
+      ]
+    },
+    {
+      "id": "s-107",
+      "grammar": "S-107 · Ditransitive Verb · S+V+IO+DO (双宾语)",
+      "phrases": [
+        {
+          "role": "s",
+          "tag": "主",
+          "text": "The Fed's emergency loans"
+        },
+        {
+          "role": "v",
+          "tag": "谓(双宾)",
+          "text": "gave"
+        },
+        {
+          "role": "o",
+          "tag": "间宾(IO)",
+          "text": "foreign banks"
+        },
+        {
+          "role": "o",
+          "tag": "直宾(DO)",
+          "text": "fresh dollars"
+        },
+        {
+          "role": "a",
+          "tag": "状",
+          "text": "at the height of the panic"
+        }
+      ]
+    },
+    {
+      "id": "s-108",
+      "grammar": "S-108 · That-Clause as Subject (that 引导主语从句)",
+      "phrases": [
+        {
+          "role": "cl",
+          "tag": "主从代",
+          "text": "That"
+        },
+        {
+          "role": "s",
+          "tag": "从主",
+          "text": "the dollar"
+        },
+        {
+          "role": "v",
+          "tag": "从谓(现完)",
+          "text": "has outlasted"
+        },
+        {
+          "role": "o",
+          "tag": "从宾",
+          "text": "every rival currency"
+        },
+        {
+          "role": "v",
+          "tag": "谓",
+          "text": "remains"
+        },
+        {
+          "role": "c",
+          "tag": "表(最高级)",
+          "text": "the most quiet"
+        },
+        {
+          "role": "m",
+          "tag": "介短定",
+          "text": "of America's miracles"
+        }
+      ]
+    }
+  ],
+  "role_labels": {
+    "s": "主语 Subject",
+    "v": "谓语 Verb",
+    "o": "宾语 Object",
+    "c": "表/补 Complement",
+    "a": "状语 Adverbial",
+    "m": "定/同 Modifier",
+    "fn": "功能词 Function",
+    "cl": "从句引导 Clause"
+  },
+  "version": 1
+}
