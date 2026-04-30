@@ -1220,9 +1220,9 @@ permalink: /terms/
 <p class="ex">见 <a href="/cohesion/#conjunction">Cohesion ④ 章 11 个真实案例</a></p>
 </div>
 
-<div class="term" id="discourse-marker">
-<h3>8. 语篇副词 · Discourse Marker</h3>
-<p class="def">不参与句子语法的副词,但在语篇层面承担「承上启下」「立场表态」的功能。常见:indeed / moreover / furthermore / nevertheless / paradoxically / ironically / surprisingly / in fact / crucially / be it noted。出现密度是「学者腔」的标志:每 200 词约 1 次。</p>
+<div class="term" id="discourse-marker-coh">
+<h3>8. 语篇副词 · Discourse Marker(语篇层面)</h3>
+<p class="def">不参与句子语法的副词,但在语篇层面承担「承上启下」「立场表态」的功能。常见:indeed / moreover / furthermore / nevertheless / paradoxically / ironically / surprisingly / in fact / crucially / be it noted。出现密度是「学者腔」的标志:每 200 词约 1 次。<br>(注:与 ⑬ 章 <a href="#discourse-marker">语篇副词</a> 的句法定义为同一对象,这里专指其衔接功能。)</p>
 <p class="ex"><a href="/cohesion/#c-18">C-18</a> · <em>... seems, <b>paradoxically</b>, to trust the dollar</em>(见 <a href="/breakdown/#s-091">S-091</a>)</p>
 <p class="ex"><a href="/cohesion/#c-24">C-24</a> · <em><b>Indeed</b>, Alan Greenspan presided over ...</em>(见 <a href="/breakdown/#s-056">S-056</a>)</p>
 </div>
