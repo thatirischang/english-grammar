@@ -1239,4 +1239,6 @@ permalink: /breakdown/
 
 <p class="article-meta">完整 108 句 · 整句每个部分都涂了颜色 · 12 时态全 / 主被动 / 情态(含 had better · would rather) / 非谓语(含独立主格) / 各类从句 / 虚拟语气(含 It's high time) / 倒装强调省略 / 比较并列(含倍数) / 同位独立成分。<a href="/">回首页</a> · <a href="/terms/">术语词典</a></p>
 
+<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em> <span class="sep">·</span> <a href="https://github.com/thatirischang/english-grammar">GitHub</a></p>
+
 <script src="/assets/js/play.js"></script>

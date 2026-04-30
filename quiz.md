@@ -32,4 +32,6 @@ permalink: /quiz/
   <p class="quiz-loading">正在载入 108 句题库 ...</p>
 </div>
 
+<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em> <span class="sep">·</span> <a href="https://github.com/thatirischang/english-grammar">GitHub</a></p>
+
 <script src="/assets/js/quiz.js"></script>

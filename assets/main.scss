@@ -58,6 +58,46 @@ body{
   border-bottom:1px solid var(--rule);
   padding-bottom:1rem;
 }
+
+/* Version footer · 5 个页面共用 · 简洁印记 */
+.site-version{
+  margin: 1.5em 0 1em;
+  padding: 0.7em 1em;
+  background: #f7f5ee;
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--c-s);
+  border-radius: 0 4px 4px 0;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  letter-spacing: 0.02em;
+  line-height: 1.7;
+  text-align: center;
+}
+.site-version b{
+  color: var(--c-s);
+  font-weight: 700;
+  margin-right: 0.4em;
+}
+.site-version em{
+  color: var(--c-v);
+  font-style: normal;
+  font-weight: 500;
+}
+.site-version .sep{
+  color: #ccc;
+  margin: 0 0.5em;
+  user-select: none;
+}
+.site-version a{
+  color: var(--c-v);
+  text-decoration: none;
+}
+.site-version a:hover{ text-decoration: underline; }
+@media (max-width: 700px){
+  .site-version{ font-size: 0.78rem; padding: 0.6em 0.8em; }
+  .site-version .sep{ display: block; height: 0; }
+}
 .article p{
   font-size:1.05rem;
   line-height:1.95;
