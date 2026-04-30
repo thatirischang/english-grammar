@@ -356,6 +356,108 @@ body{
 .term .def{ color: var(--ink-soft); font-style: italic; margin-bottom: 0.8em; }
 .term ul{ margin: 0.4em 0 0.8em 1.5em; }
 
+/* Deep-term entries (term-deep class) — 8 colored fields each.
+   Designed so a beginner can read top-down and self-teach without external
+   sources. Each field has a distinct visual identity. */
+.term-deep{
+  border-left: 3px solid var(--c-v);
+  padding: 0.8em 1em 1em 1.2em;
+  background: #fcfaf3;
+  border-radius: 0 4px 4px 0;
+}
+.term-deep h3{
+  margin-top: 0;
+  margin-bottom: 0.6em;
+  color: var(--c-s);
+  font-size: 1.15rem;
+}
+.term-deep p{
+  margin: 0.5em 0;
+  font-style: normal;
+  color: var(--ink);
+  line-height: 1.85;
+  padding: 0.55em 0.85em;
+  border-radius: 3px;
+  font-size: 0.96rem;
+}
+.term-deep p > b{ font-weight: 600; }
+.term-deep .def-quick{
+  background: #fff8e1;
+  border-left: 3px solid #FFB300;
+  font-size: 1rem;
+  color: #5d4e1f;
+}
+.term-deep .def-quick > b{ color: #BF360C; }
+.term-deep .def-deep{
+  background: #fff;
+  border-left: 3px solid #999;
+  color: var(--ink);
+}
+.term-deep .def-deep > b{ color: #555; }
+.term-deep .def-position{
+  background: #e8f5e9;
+  border-left: 3px solid var(--c-o);
+}
+.term-deep .def-position > b{ color: var(--c-o); }
+.term-deep .def-bilingual{
+  background: #fff3e0;
+  border-left: 3px solid #E65100;
+}
+.term-deep .def-bilingual > b{ color: #E65100; }
+.term-deep .def-forms{
+  background: #e3f2fd;
+  border-left: 3px solid var(--c-v);
+}
+.term-deep .def-forms > b{ color: var(--c-v); }
+.term-deep .def-confuse{
+  background: #f3e5f5;
+  border-left: 3px solid var(--c-c);
+}
+.term-deep .def-confuse > b{ color: var(--c-c); }
+.term-deep .def-error{
+  background: #ffebee;
+  border-left: 3px solid #c62828;
+}
+.term-deep .def-error > b{ color: #c62828; }
+.term-deep .def-error code{
+  background: rgba(198, 40, 40, 0.08);
+  padding: 0.05em 0.35em;
+  border-radius: 2px;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.92em;
+}
+.term-deep .def-examples{
+  background: #f7f5ee;
+  border-left: 3px solid var(--c-cl);
+}
+.term-deep .def-examples > b{ color: var(--c-cl); }
+.term-deep .def-examples a{ color: var(--c-v); text-decoration: none; }
+.term-deep .def-examples a:hover{ text-decoration: underline; }
+.term-deep .def-related{
+  background: transparent;
+  border-left: 3px solid var(--rule);
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.term-deep .def-related > b{ color: var(--ink-soft); }
+.term-deep .def-related a{ color: var(--c-v); margin-right: 0.4em; text-decoration: none; }
+.term-deep .def-related a:hover{ text-decoration: underline; }
+.term-deep em{ font-style: italic; color: var(--c-v); font-weight: 500; }
+.term-deep code{
+  background: rgba(0, 0, 0, 0.06);
+  padding: 0.05em 0.35em;
+  border-radius: 2px;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.92em;
+}
+
+@media (max-width: 700px){
+  .term-deep{ padding: 0.7em 0.7em 0.8em 0.85em; }
+  .term-deep p{ font-size: 0.94rem; padding: 0.45em 0.65em; line-height: 1.8; }
+  .term-deep h3{ font-size: 1.05rem; }
+}
+
 /* ==========================================================================
    /cohesion/ — language-cohesion teaching page.
    Each .coh-case ALSO has class .bk so it inherits all the breakdown-grade

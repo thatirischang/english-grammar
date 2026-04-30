@@ -49,102 +49,278 @@ permalink: /terms/
 <h2 id="parts-of-speech" class="term">⓪ 十大词类 · Parts of Speech</h2>
 <p>每个英文词,都属于以下 10 类之一。识别词类是看懂句子的第一步。</p>
 
-<div class="term" id="noun">
+<div class="term term-deep" id="noun">
 <h3>1. 名词 · Noun</h3>
-<p class="def">表示<strong>人 / 物 / 地点 / 抽象概念</strong>的词。可数名词有单复数(dollar/dollars),不可数名词不变(gold/inflation)。</p>
-<p class="def">名词在句中可作:主语、宾语、表语、补语、定语、同位语。</p>
-<p class="ex"><a href="/breakdown/#s-001">S-001</a> 名词 = <em>Money</em>(金钱) / <em>story</em>(故事) / <em>dollar</em>(美元)</p>
-<p class="ex"><a href="/breakdown/#s-005">S-005</a> 名词 = <em>reales</em>(银币) / <em>colonies</em>(殖民地) / <em>century</em>(世纪)</p>
+<p class="def-quick"><b>一句话:</b> 表示「人 / 事 / 物 / 地点 / 抽象概念」的词。回答「什么 / 谁」。</p>
+<p class="def-deep"><b>详细:</b> 名词是英语句子里出现频率最高、承担成分最多的词类。一切「能被指代、能被计数、能被冠词修饰」的对象,在英语里都是名词。它是句子的「主角」,谓语动词、形容词、定语都是围绕它来工作的。</p>
+<p class="def-position"><b>位置 / 用法:</b> 名词在句中可作 6 种成分 — <em>主语</em>(Money tells a story)、<em>宾语</em>(signed the Coinage Act)、<em>表语</em>(The dollar is a currency)、<em>宾补</em>(elected him president)、<em>定语</em>(silver dollar / gold standard)、<em>同位语</em>(Hamilton, the founder)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文名词无单复数变化(「我有一本书」「我有十本书」名词都是「书」),英文名词必须区分(book / books)。中文不可数概念可以加量词(「一杯水」),英文要么用 some / a lot of 等修饰,要么用复数化的容器(two glasses of water)。中国学生最容易漏掉「s」 — 「I have many book」是典型错。</p>
+<p class="def-forms"><b>分类(4 种):</b><br>
+① <em>可数名词</em>(Countable):有单复数,dollar / dollars,colony / colonies<br>
+② <em>不可数名词</em>(Uncountable):无复数,gold / inflation / confidence / authority<br>
+③ <em>专有名词</em>(Proper):首字母大写,Hamilton / Bretton Woods / the Federal Reserve<br>
+④ <em>抽象名词</em>(Abstract):情感、概念、品质,trust / oratory / panic / faith</p>
+<p class="def-confuse"><b>易混淆:</b> 名词 vs 动名词(gerund) — 动名词是动词加 -ing 后<b>充当名词</b>(returning to the gold standard),它本身仍带动作意味,后面可以接宾语;而纯名词不能接宾语。区分点:能否接宾语。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have many book</code>(漏复数 s)<br>
+✓ <code>I have many books</code><br>
+✗ <code>I drank two waters</code>(water 不可数,不能直接复数)<br>
+✓ <code>I drank two glasses of water</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-001">S-001</a> <em>Money</em>(抽象不可数) / <em>story</em>(可数) / <em>dollar</em>(可数,用 the 特指)<br>
+② <a href="/breakdown/#s-005">S-005</a> <em>reales</em>(专有 + 复数) / <em>colonies</em>(可数复数) / <em>century</em>(可数,a/the 修饰)<br>
+③ <a href="/breakdown/#s-029">S-029</a> <em>bullion bars</em> / <em>Fort Knox</em>(专有名词)</p>
+<p class="def-related"><b>相关:</b> <a href="#pronoun">代词</a> · <a href="#article">冠词</a> · <a href="#determiner">限定词</a> · <a href="#subject">主语</a> · <a href="#object">宾语</a> · <a href="#appositive">同位语</a></p>
 </div>
 
-<div class="term" id="pronoun">
+<div class="term term-deep" id="pronoun">
 <h3>2. 代词 · Pronoun</h3>
-<p class="def">用来<strong>替代名词</strong>,避免重复。</p>
-<p class="def">分类:人称代词(I/you/he/she/it/we/they) · 物主代词(my/your/his/her/its/our/their) · 反身代词(itself/myself) · 指示代词(this/that/these/those) · 不定代词(some/any/all/no one/everyone/everything) · 关系代词(that/which/who/whose) · 疑问代词(what/who/whom)。</p>
-<p class="ex"><a href="/breakdown/#s-008">S-008</a> 人称 = <em>he</em>(他) — 指代上文的 shopkeeper</p>
-<p class="ex"><a href="/breakdown/#s-035">S-035</a> 形式宾语 = <em>it</em> — 占位,真宾语在后</p>
-<p class="ex"><a href="/breakdown/#s-076">S-076</a> 人称 = <em>it</em>(它) — 指代 the dollar</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> 关系代词 = <em>that</em> / <em>which</em> — 引导定语从句</p>
+<p class="def-quick"><b>一句话:</b> 用来<b>替代名词</b>的词,避免重复。本质上是「指针」 — 指向上文已出现的人或物。</p>
+<p class="def-deep"><b>详细:</b> 代词承担英语「语篇衔接」的核心功能。母语者在同一段落内反复指代同一对象时,大约 70% 用代词承担,只在新段落开头或语义需要强调时才回到全名。代词使用的熟练度,直接决定写作的「英语感」。</p>
+<p class="def-position"><b>位置 / 用法:</b> 代词所占的句法位置和它替代的名词完全相同 — 可作主语(He / She / It)、宾语(him / her / it)、所有格(his / hers / its)、表语(It is he)、关系代词引导从句(the man who came)等。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文代词常被省略(「张三说他要去」中的「他」可以省略变成「张三说要去」),英文代词不能省 — 主语位置必须有词,即使是占位 it / there。中文「他、她、它」三者读音相同(tā),英文必须明确 he / she / it,且性别 / 物体严格区分。</p>
+<p class="def-forms"><b>分类(7 类):</b><br>
+① <em>人称代词</em>:I / you / he / she / it / we / they(主格) · me / him / her / us / them(宾格)<br>
+② <em>物主代词</em>:my / your / his / her / its / our / their(限定型) · mine / yours / his / hers / ours / theirs(独立型)<br>
+③ <em>反身代词</em>:myself / yourself / himself / herself / itself / ourselves / themselves<br>
+④ <em>指示代词</em>:this / that / these / those<br>
+⑤ <em>不定代词</em>:some / any / all / both / each / every / no one / everyone / something<br>
+⑥ <em>关系代词</em>:that / which / who / whom / whose(引导定语从句)<br>
+⑦ <em>疑问代词</em>:what / who / which / whose(疑问句)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>that 三种身份</b> — ① 指示代词(That is mine);② 关系代词(the book that I bought);③ 从属连词(He said that ...)。看上下文判断它在句子里做什么。<br>
+<b>it 三种用法</b> — ① 真代词(It = the dollar);② 形式主语(It is essential that ...);③ 形式宾语(I find it impossible)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Between you and I</code>(I 是主格,介词后必须用宾格)<br>
+✓ <code>Between you and me</code><br>
+✗ <code>The dollar, who is the world's reserve</code>(物用 who 错)<br>
+✓ <code>The dollar, which is the world's reserve</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-008">S-008</a> 人称 <em>he</em> — 回指上文 shopkeeper<br>
+② <a href="/breakdown/#s-035">S-035</a> 形式宾语 <em>it</em> — 真宾语在后(found it impossible to ...)<br>
+③ <a href="/breakdown/#s-076">S-076</a> 人称 <em>it</em> — 指代主题词 the dollar<br>
+④ <a href="/breakdown/#s-009">S-009</a> 关系代词 <em>that / which</em> — 引导定语从句</p>
+<p class="def-related"><b>相关:</b> <a href="#noun">名词</a> · <a href="#reference">指代衔接</a> · <a href="#relative-clauses">定语从句</a> · <a href="#it-cleft">it 句型</a></p>
 </div>
 
-<div class="term" id="verb">
+<div class="term term-deep" id="verb">
 <h3>3. 动词 · Verb</h3>
-<p class="def">表示<strong>动作或状态</strong>的词,是句子的核心。每句必须有一个限定动词作谓语。</p>
-<p class="def">详细分类见下文 <a href="#verb-types">「动词分类」</a> 一节(实义/系/助/情态;及物/不及物)。</p>
-<p class="ex"><a href="/breakdown/#s-003">S-003</a> 实义动词(及物) = <em>signed</em>(签署)</p>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> 系动词 = <em>was</em>(是) — 后接表语</p>
-<p class="ex"><a href="/breakdown/#s-029">S-029</a> 助动词 = <em>had</em> — 构造使役"have something done"</p>
+<p class="def-quick"><b>一句话:</b> 表示「动作或状态」的词。是句子的<b>引擎</b> — 一句话至少有一个动词,这个动词决定句子的全部时间、语态、语气。</p>
+<p class="def-deep"><b>详细:</b> 在英语里,谓语必须由<b>限定动词</b>(finite verb)承担,即「动词被时态、人称、单复数明确标记」的形式。动词不仅表达动作(run, signed),还包括状态(is, seems)、感知(believe, see)、抽象关系(belong, contain)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 谓语动词通常紧跟主语之后(SV / SVO 句型);疑问句、倒装句中助动词 / be 动词前移(Did he go? / Never had I seen ...);非谓语形式(动名词、不定式、分词)可放置在更多位置。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文动词无形态变化 —「我去」「他去」「我们昨天去」动词都是「去」。英文动词必须按时态、人称、数变化(go / goes / went / gone / going)。中文一句话可以连用多个动词(「我去吃饭」),英文必须有明确主从关系或并列连接(I go to eat / I will go and eat)。</p>
+<p class="def-forms"><b>分类(按功能 4 大类):</b><br>
+① <em>实义动词</em>:有具体语义,signed / built / circulated / borrowed<br>
+② <em>系动词</em>:无实义,连接主语和表语,is / was / become / seem / look / feel / remain<br>
+③ <em>助动词</em>:辅助构造时态 / 语态 / 否定 / 疑问,be / have / do / will / shall<br>
+④ <em>情态动词</em>:表「可能 / 必须 / 允许 / 建议」,can / may / must / should / would / might / could
+<br>详细分类见 <a href="#verb-types">⓪.5 动词分类</a> 章节。</p>
+<p class="def-confuse"><b>易混淆:</b> <b>动词 vs 动名词 vs 不定式</b> — 同一个词根可有 3 种形式:run(动词原形)/ running(动名词,作名词)/ to run(不定式,作名词或副词)。三者位置不同、功能不同。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He go to school</code>(第三人称单数漏 s)<br>
+✓ <code>He goes to school</code><br>
+✗ <code>I am studying English for 5 years</code>(应该用现在完成进行时)<br>
+✓ <code>I have been studying English for 5 years</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-003">S-003</a> 实义及物 <em>signed</em>(签署)— SVO 句型核心<br>
+② <a href="/breakdown/#s-014">S-014</a> 系动词 <em>was</em> — 后接表语 the Resumption Act<br>
+③ <a href="/breakdown/#s-029">S-029</a> 助动词 <em>had</em> — 构造使役 have something done<br>
+④ <a href="/breakdown/#s-068">S-068</a> 4 助动词 <em>will have been generating</em> — 将来完成进行时</p>
+<p class="def-related"><b>相关:</b> <a href="#verb-types">⓪.5 动词分类</a> · <a href="#tenses">③ 时态</a> · <a href="#voice">④ 语态</a> · <a href="#modals">⑤ 情态</a> · <a href="#nonfinite">⑥ 非谓语</a></p>
 </div>
 
-<div class="term" id="adjective">
+<div class="term term-deep" id="adjective">
 <h3>4. 形容词 · Adjective</h3>
-<p class="def">修饰<strong>名词</strong>,描述其性质或状态:young, silver, central, debt-stricken, fragile。</p>
-<p class="def">在句中可作:定语(放名词前)或表语/补语(放系动词后)。比较级 -er,最高级 -est;长形容词用 more/most。</p>
-<p class="ex"><a href="/breakdown/#s-002">S-002</a> 定语用法 = <em>young</em> republic, <em>first silver</em> dollar</p>
-<p class="ex"><a href="/breakdown/#s-077">S-077</a> 表语用法 = how <em>fragile</em>, how <em>durable</em></p>
+<p class="def-quick"><b>一句话:</b> 修饰<b>名词或代词</b>的词。回答「什么样的」。young, silver, central, fragile, durable。</p>
+<p class="def-deep"><b>详细:</b> 形容词描述名词的性质、状态或属性。它在句中只承担两种核心角色 — 定语(放在名词前)或表语 / 补语(放在系动词或宾语后)。形容词有比较级和最高级,用以表达「程度差异」。</p>
+<p class="def-position"><b>位置 / 用法:</b><br>
+① <b>定语位置</b>:形容词单词级 → <b>名词前</b>(young republic, silver dollar)<br>
+② <b>表语位置</b>:系动词后(The dollar is <em>fragile</em>)<br>
+③ <b>宾补位置</b>:宾语后(make the dollar <em>safe</em>)<br>
+④ <b>后置定语</b>:某些固定搭配 / 修饰人称代词(something <em>important</em>, the only book <em>available</em>)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文形容词作定语必加「的」 —「红色的车」;英文不加,直接 red car。中文形容词修饰序无强约束,英文有严格的<b>形容词序</b>:观点-大小-年龄-形状-颜色-来源-材料-用途(a beautiful small old round black wooden Chinese dining table)。中国学生写作时容易乱排序。</p>
+<p class="def-forms"><b>形态(比较 / 最高):</b><br>
+① <em>规则单音节</em>:tall / taller / tallest;cold / colder / coldest<br>
+② <em>规则多音节</em>:beautiful / more beautiful / most beautiful<br>
+③ <em>不规则</em>:good / better / best;bad / worse / worst<br>
+④ <em>双音节 -y 结尾</em>:happy / happier / happiest(去 y 加 ier)<br>
+⑤ <em>复合形容词</em>:debt-stricken / well-known / heart-breaking(连字符连)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>形容词 vs 副词</b> — 形容词修饰名词(a fast car),副词修饰动词(He runs fast)。许多形容词加 -ly 变副词(quick → quickly),但有些 -ly 词本身是形容词(friendly, lovely)。判断方法:看它修饰谁。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I am very like English</code>(like 是动词,不能用 very 修饰)<br>
+✓ <code>I like English very much</code><br>
+✗ <code>He is more taller than me</code>(taller 已是比较级,不再加 more)<br>
+✓ <code>He is taller than me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-002">S-002</a> 定语 <em>young</em> republic / <em>first silver</em> dollar(序:数-质-名)<br>
+② <a href="/breakdown/#s-077">S-077</a> 表语 how <em>fragile</em>, how <em>durable</em>(系动词 turn out 后)<br>
+③ <a href="/breakdown/#s-016">S-016</a> 复合 <em>debt-stricken</em> farmers(连字符复合定语)<br>
+④ <a href="/breakdown/#s-102">S-102</a> 宾补 <em>safe</em>(considered the dollar <em>safe</em>)</p>
+<p class="def-related"><b>相关:</b> <a href="#adverb">副词</a> · <a href="#modifier">定语</a> · <a href="#complement">补语</a> · <a href="#comparison">⑫ 比较级</a></p>
 </div>
 
-<div class="term" id="adverb">
+<div class="term term-deep" id="adverb">
 <h3>5. 副词 · Adverb</h3>
-<p class="def">修饰<strong>动词、形容词、副词或整句</strong>,通常以 -ly 结尾(但不限于)。</p>
-<p class="def">语义类型:时间(today, yesterday, often) / 地点(here, abroad, ahead) / 方式(quietly, smoothly, deeply) / 程度(very, almost, quite) / 频率(always, never, rarely) / 语篇(indeed, however, therefore)。</p>
-<p class="ex"><a href="/breakdown/#s-008">S-008</a> 方式 = <em>thinly</em>?(此句没有,但 silver 上的 sliver 是名词)</p>
-<p class="ex"><a href="/breakdown/#s-018">S-018</a> 程度+时间 = <em>still</em>(至今仍)</p>
-<p class="ex"><a href="/breakdown/#s-022">S-022</a> 程度 = <em>almost overnight</em>(几乎一夜之间)</p>
-<p class="ex"><a href="/breakdown/#s-056">S-056</a> 语篇 = <em>Indeed</em>(诚然)</p>
+<p class="def-quick"><b>一句话:</b> 修饰<b>动词、形容词、其他副词或整句</b>的词。回答「怎样 / 何时 / 何地 / 多频繁 / 多大程度」。</p>
+<p class="def-deep"><b>详细:</b> 副词比形容词的修饰范围广得多 — 它可以修饰几乎所有非名词成分。其中最特殊的一类是<b>语篇副词</b>(indeed / however / therefore),它不修饰具体词,而是修饰整句,标记句子之间的逻辑关系,是高级写作的标志。</p>
+<p class="def-position"><b>位置 / 用法:</b> 副词位置灵活 — 可在句首(<em>Indeed</em>, the dollar held)、句中(He <em>quickly</em> understood)、句尾(He spoke <em>quietly</em>)。频率副词(always / never)通常在助动词之后、实义动词之前。语篇副词通常用逗号隔开。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文副词常用「地」字标记(轻轻地、慢慢地),英文用 -ly 后缀(quietly, slowly)。但许多英文副词不加 -ly(today, here, fast, hard, well)。中文副词位置较固定(状语在动词前),英文位置非常灵活,可前可后可中。</p>
+<p class="def-forms"><b>语义类型(6 大类):</b><br>
+① <em>时间</em>:today / yesterday / now / then / often / lately / ever / never<br>
+② <em>地点</em>:here / there / abroad / ahead / inside / outside<br>
+③ <em>方式</em>:quietly / smoothly / deeply / paradoxically / unanimously<br>
+④ <em>程度</em>:very / quite / rather / almost / nearly / extremely / barely<br>
+⑤ <em>频率</em>:always / often / sometimes / rarely / never / occasionally<br>
+⑥ <em>语篇 / 评价</em>:indeed / however / therefore / moreover / paradoxically / surprisingly</p>
+<p class="def-confuse"><b>易混淆:</b> <b>good vs well</b> — good 是形容词(I am good),well 是副词(I sing well)。但 well 也可作形容词意为「健康」(I feel well = 我身体好)。<br>
+<b>hard vs hardly</b> — hard 副词「努力地」(work hard),hardly 副词「几乎不」(I hardly know him)。完全反义,中国学生最易错。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He runs very quick</code>(quick 是形容词)<br>
+✓ <code>He runs very quickly</code><br>
+✗ <code>I hardly worked all night</code>(hardly = 几乎不,与原意相反)<br>
+✓ <code>I worked hard all night</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-018">S-018</a> 时间 <em>still</em> echoes(至今仍回响)<br>
+② <a href="/breakdown/#s-022">S-022</a> 程度 <em>almost overnight</em>(几乎一夜之间)<br>
+③ <a href="/breakdown/#s-056">S-056</a> 语篇 <em>Indeed</em>(诚然 — 承上启下)<br>
+④ <a href="/breakdown/#s-091">S-091</a> 语篇 <em>paradoxically</em>(悖论的是 — 立场表态)</p>
+<p class="def-related"><b>相关:</b> <a href="#adjective">形容词</a> · <a href="#adverbial">状语</a> · <a href="#discourse-marker-coh">语篇副词</a> · <a href="#adv-clauses">⑨ 状语从句</a></p>
 </div>
 
-<div class="term" id="preposition">
+<div class="term term-deep" id="preposition">
 <h3>6. 介词 · Preposition</h3>
-<p class="def">放在<strong>名词或代词之前</strong>,与之构成"介词短语",表示时间、地点、方向、方式、原因等关系。</p>
-<p class="def">常见介词:in / on / at / by / with / for / from / to / of / about / through / under / between / among / against / during / since / until / without / despite / over。</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> 介词前置 = <em>of</em> which 371.25 grains were pure silver(of 是介词,提到 which 之前)</p>
-<p class="ex"><a href="/breakdown/#s-016">S-016</a> 介词 = <em>By</em> insisting on free silver(by 后接动名词)</p>
-<p class="ex"><a href="/breakdown/#s-020">S-020</a> 介词 = <em>by</em> the Bureau / <em>under</em> Federal Reserve authority</p>
+<p class="def-quick"><b>一句话:</b> 放在<b>名词或代词之前</b>的小词。和后面的名词构成「介词短语」,表达「在哪里 / 朝哪儿 / 用什么 / 因为什么」。</p>
+<p class="def-deep"><b>详细:</b> 介词本身没有实义,但它后面带的名词(称为「介词宾语」)构成的整个短语,在句子里可以承担状语、定语、表语、宾补等多种角色。英语介词有约 100 个,但常用的不到 30 个。介词的难点不是认识它,而是<b>选用哪一个</b>(in / on / at 时间区分,by / with / through 方式区分)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 介词必须有「介词宾语」(后面跟名词 / 代词宾格 / 动名词)。介词短语整体作:<br>
+① <em>状语</em>(主流用法):<em>in 1792</em> / <em>at the Philadelphia mint</em><br>
+② <em>定语</em>:the dollar <em>of varying purity</em><br>
+③ <em>表语</em>:The book is <em>on the table</em><br>
+④ 介词可以前置(prep fronting):<em>in</em> which / <em>with</em> whom — 正式书面语</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文介词数量少且语义模糊(在、于、向、对、从),英文介词数量多且语义精细(at / in / on / by / with / for / from / of / about / through / under / over / between / among / against / despite ...)。中国学生最大盲区是「介词搭配」 — depend ON、wait FOR、look AT,不是凭直觉,需要背。</p>
+<p class="def-forms"><b>常见介词分组:</b><br>
+① <em>时间</em>:at(点)/ on(日)/ in(月年)/ since(自从)/ until(直到)/ during(期间)/ by(到...时为止)<br>
+② <em>地点</em>:at(点)/ in(范围)/ on(表面)/ over / under / between / among<br>
+③ <em>方向</em>:to / from / into / onto / through / across / along<br>
+④ <em>方式 / 工具</em>:by(人 / 交通)/ with(工具)/ in(语言)<br>
+⑤ <em>原因 / 让步</em>:because of / due to / despite / in spite of</p>
+<p class="def-confuse"><b>易混淆:</b> <b>in / on / at 时间</b> — at 6 o'clock(精确点)/ on Monday(日)/ in May(月)/ in 2008(年)。<br>
+<b>between vs among</b> — between 用于「两者之间」(between you and me),among 用于「三者或更多」(among the crowd)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I will discuss about this</code>(discuss 已含"about"义,不再加)<br>
+✓ <code>I will discuss this</code><br>
+✗ <code>He arrived to Beijing</code>(arrive 用 in / at,不用 to)<br>
+✓ <code>He arrived in Beijing</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-009">S-009</a> 介词前置 <em>of which</em> 371.25 grains were pure silver(of 提到 which 之前,正式书面)<br>
+② <a href="/breakdown/#s-016">S-016</a> 动名词宾 <em>By insisting on</em> free silver(by + V-ing)<br>
+③ <a href="/breakdown/#s-020">S-020</a> 多重介词 <em>by</em> the Bureau / <em>under</em> Federal Reserve authority<br>
+④ <a href="/breakdown/#s-039">S-039</a> 兑换义 demanding bullion <em>for</em> its dollars</p>
+<p class="def-related"><b>相关:</b> <a href="#adverbial">状语</a> · <a href="#object">宾语(介宾)</a> · <a href="#prep-fronted">介词前置定从</a></p>
 </div>
 
-<div class="term" id="conjunction">
+<div class="term term-deep" id="conjunction">
 <h3>7. 连词 · Conjunction</h3>
-<p class="def">连接<strong>词、短语或分句</strong>。</p>
-<p class="def"><strong>并列连词 (Coordinating)</strong>:FANBOYS — For/And/Nor/But/Or/Yet/So,连接对等成分。</p>
-<p class="def"><strong>从属连词 (Subordinating)</strong>:that/whether/if/although/because/while/when/before/after/since/until/unless/provided/as if 等,引导从句。</p>
-<p class="def"><strong>相关连词 (Correlative)</strong>:both...and / either...or / neither...nor / not only...but also / whether...or,成对出现。</p>
-<p class="ex"><a href="/breakdown/#s-049">S-049</a> 并列 yet = <em>yet</em> bond traders cheered(转折,书面)</p>
-<p class="ex"><a href="/breakdown/#s-027">S-027</a> 并列 nor = <em>Nor</em> did the country recover quickly</p>
-<p class="ex"><a href="/breakdown/#s-018">S-018</a> 从属 although = <em>Although</em> Bryan lost the election</p>
-<p class="ex"><a href="/breakdown/#s-051">S-051</a> 相关 not only/but also = <em>not only</em> an attempt ... <em>but also</em> a quiet admission</p>
+<p class="def-quick"><b>一句话:</b> 连接<b>词、短语或分句</b>的词。是句子的「胶水」,让多个成分粘成一个整体。</p>
+<p class="def-deep"><b>详细:</b> 连词分两大类 — <b>并列连词</b>(coordinating)连接对等成分(同主语 / 同宾语 / 同分句),<b>从属连词</b>(subordinating)引出从句,让从句作主句的宾语 / 状语 / 定语。两者用法完全不同,中国学生最大错误就是把它们混用(although ... but ...)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 并列连词放在两个对等成分之间(A and B / A but B);从属连词放在从句的开头(although X, ... / because X, ... / when X, ...)。从属连词引出的从句可以前置(逗号隔开)或后置。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文里「虽然...但是...」「因为...所以...」是配对必出的,英文则<b>二选一不能同出</b>(although 和 but 不能同时;because 和 so 不能同时)。这是中国学生最常见的语法 transfer 错误。</p>
+<p class="def-forms"><b>分类(3 大类):</b><br>
+① <em>并列连词 (Coordinating)</em> — FANBOYS:<b>F</b>or / <b>A</b>nd / <b>N</b>or / <b>B</b>ut / <b>O</b>r / <b>Y</b>et / <b>S</b>o。连接对等成分。<br>
+② <em>从属连词 (Subordinating)</em>:that / whether / if / because / since / as / when / while / before / after / until / once / although / though / unless / provided / as if / so that / in order that。引导从句。<br>
+③ <em>相关连词 (Correlative)</em>:both...and / either...or / neither...nor / not only...but also / whether...or / no sooner...than。成对出现,强调关系。</p>
+<p class="def-confuse"><b>易混淆:</b> <b>so 三种身份</b> — ① 并列连词「所以」(I am tired, so I rest);② 副词「如此」(so beautiful);③ 替代「这样」(I think so)。<br>
+<b>like vs as</b> — like 是介词「像」(like a king),as 是连词「作为 / 当...时」(as a teacher / as I said)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Although it was raining, but I went</code>(中文搬过来)<br>
+✓ <code>Although it was raining, I went</code> 或 <code>It was raining, but I went</code><br>
+✗ <code>Because I was sick, so I stayed home</code><br>
+✓ <code>Because I was sick, I stayed home</code> 或 <code>I was sick, so I stayed home</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-049">S-049</a> 并列 <em>yet</em> bond traders cheered(转折,书面语,比 but 雅致)<br>
+② <a href="/breakdown/#s-027">S-027</a> 并列 <em>Nor</em> did the country recover(否定续接 + 倒装)<br>
+③ <a href="/breakdown/#s-018">S-018</a> 从属 <em>Although</em> Bryan lost the election(让步从句)<br>
+④ <a href="/breakdown/#s-051">S-051</a> 相关 <em>not only ... but also ...</em>(递进)<br>
+⑤ <a href="/breakdown/#s-023">S-023</a> 相关 <em>Both ... and ...</em>(并列双主语)</p>
+<p class="def-related"><b>相关:</b> <a href="#noun-clauses">⑦ 名词性从句</a> · <a href="#adv-clauses">⑨ 状语从句</a> · <a href="#conjunction-cohesion">连接词衔接</a> · <a href="#parallelism">平行结构</a></p>
 </div>
 
-<div class="term" id="article">
+<div class="term term-deep" id="article">
 <h3>8. 冠词 · Article</h3>
-<p class="def">放在名词前,标明"哪一个"。仅 3 个:</p>
-<ul>
-<li><strong>定冠词 the</strong> — 特指,双方都知道的那个。<em>the dollar(我们都在说的那种)</em></li>
-<li><strong>不定冠词 a / an</strong> — 泛指,新引入的一个。a 用辅音前,an 用元音前。<em>a story / an attempt</em></li>
-<li><strong>零冠词</strong> — 不可数名词、复数泛指、专有名词时不加。<em>Money tells / Spanish coin</em></li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-001">S-001</a> 不定冠词 <em>a</em> story · 定冠词 <em>the</em> dollar(同一句两种用法)</p>
-<p class="ex"><a href="/breakdown/#s-007">S-007</a> 零冠词 = <em>tobacco notes, Spanish coin</em>(复数泛指,不加)</p>
+<p class="def-quick"><b>一句话:</b> 放在名词前,告诉读者「这个名词是<b>哪一个</b>」。仅 3 种:<b>the</b>(特指)、<b>a / an</b>(泛指)、<b>零冠词</b>(不加)。</p>
+<p class="def-deep"><b>详细:</b> 冠词是英语里最小、最频繁、最难的词类之一。中文没有冠词,中国学生最大盲区。它的核心规则是「<b>讲话人和听话人是否都已经知道这是哪一个</b>」 — 都知道用 the,只讲话人知道(新引入)用 a/an,讲泛化抽象用零冠词。</p>
+<p class="def-position"><b>位置 / 用法:</b> 冠词必须在名词短语<b>最前面</b> — 放在限定词、形容词、名词这些之前(<em>the</em> young republic / <em>a</em> credible reserve currency)。一个名词短语只允许有一个冠词或限定词,不能 the my book。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「这 / 那 / 一个」表达类似功能,但不强制 — 可以说「我买书」也可以说「我买了一本书」。英文则强制 — 可数名词单数前必须有冠词或限定词,不能光秃秃地 I have book(必须 a book / the book / my book)。</p>
+<p class="def-forms"><b>三类详解:</b><br>
+① <b>定冠词 the</b> — 双方都知道的「那个」<br>
+&nbsp;&nbsp;· 上文已提:I bought a book. <em>The</em> book is good.<br>
+&nbsp;&nbsp;· 唯一性:<em>the</em> sun, <em>the</em> Federal Reserve, <em>the</em> Pacific Ocean<br>
+&nbsp;&nbsp;· 限定从句修饰:<em>the</em> dollar that Hamilton designed<br>
+② <b>不定冠词 a / an</b> — 新引入的「一个」<br>
+&nbsp;&nbsp;· a 用于辅音音素前:<em>a</em> story / <em>a</em> university(yu 是辅音音素)<br>
+&nbsp;&nbsp;· an 用于元音音素前:<em>an</em> attempt / <em>an</em> hour(h 不发音)<br>
+③ <b>零冠词</b> — 不加<br>
+&nbsp;&nbsp;· 不可数名词泛指:<em>Money</em> tells / <em>gold</em> standard<br>
+&nbsp;&nbsp;· 可数名词复数泛指:<em>tobacco notes</em>, <em>Spanish coin</em><br>
+&nbsp;&nbsp;· 专有名词(多数):<em>Hamilton</em>, <em>Bretton Woods</em>(但 the Federal Reserve / the United States 例外)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>专有名词加不加 the</b> — 国家、机构通常加 the(<em>the</em> United States, <em>the</em> Bureau of Engraving),但人名、城市、单一国家通常不加(Hamilton, London, China)。规则不绝对,需要逐个记忆。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have book</code>(可数单数必须有冠词)<br>
+✓ <code>I have a book</code> 或 <code>I have the book</code><br>
+✗ <code>The Mary is my sister</code>(人名前不加 the)<br>
+✓ <code>Mary is my sister</code><br>
+✗ <code>I went to school by the car</code>(交通方式 by + 零冠词)<br>
+✓ <code>I went to school by car</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-001">S-001</a> 同句两种:<em>a</em> story(新引入) / <em>the</em> dollar(全文已知)<br>
+② <a href="/breakdown/#s-007">S-007</a> 零冠词复数 <em>tobacco notes, Spanish coin</em><br>
+③ <a href="/breakdown/#s-019">S-019</a> 唯一性 <em>the</em> Panic of 1907 / <em>the</em> conviction(单一历史事件)<br>
+④ <a href="/breakdown/#s-022">S-022</a> 不定冠词 <em>a</em> credible reserve currency(新身份首次定义)</p>
+<p class="def-related"><b>相关:</b> <a href="#noun">名词</a> · <a href="#determiner">限定词</a> · <a href="#reference">指代衔接</a></p>
 </div>
 
-<div class="term" id="determiner">
+<div class="term term-deep" id="determiner">
 <h3>9. 限定词 · Determiner</h3>
-<p class="def">广义上包括<strong>冠词</strong>,但还包括其他放在名词前的修饰词:</p>
-<ul>
-<li>指示限定:this / that / these / those</li>
-<li>物主限定:my / your / his / her / its / our / their</li>
-<li>不定限定:every / each / some / any / all / no / both / either / neither / much / many / few / several / either / such</li>
-<li>数词:one / two / first / second / 1792 / 416</li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-007">S-007</a> 限定 = <em>every</em> day money(每一种)</p>
-<p class="ex"><a href="/breakdown/#s-026">S-026</a> 限定 = <em>such</em> a shock / <em>an entire</em> generation</p>
-<p class="ex"><a href="/breakdown/#s-046">S-046</a> 相关限定 = <em>Either</em> ... <em>or</em> ...</p>
+<p class="def-quick"><b>一句话:</b> 一组放在名词前、限定其「数量 / 归属 / 远近」的词。冠词是限定词的子集,但限定词还包含更多。</p>
+<p class="def-deep"><b>详细:</b> 限定词是英语语法的现代分类术语 — 把所有「指定哪一个」的词归为一类。它和形容词不同:形容词描述「什么样」,限定词指定「哪一个 / 多少个 / 谁的」。一个名词短语通常只允许一个限定词在最前面。</p>
+<p class="def-position"><b>位置 / 用法:</b> 限定词位于名词短语的<b>最前端</b>(冠词、限定词都不能并列,只能取一)。后续可以接形容词、名词:<em>the</em> + young + republic / <em>my</em> + first + book / <em>this</em> + silver + dollar。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「这 / 那 / 我的 / 每个 / 所有」也表达限定,但不强制连用。英文一旦使用可数单数名词,必须有限定词。中文「我书」是病句,但中文写作里更常说「我的书」也可以省略说「书」 — 英文不允许这种省略。</p>
+<p class="def-forms"><b>分类(5 大组):</b><br>
+① <em>冠词</em>:a / an / the(详见 <a href="#article">⑧ 冠词</a>)<br>
+② <em>指示限定</em>:this / that / these / those — 远近指代<br>
+③ <em>物主限定</em>:my / your / his / her / its / our / their — 归属<br>
+④ <em>不定限定</em>:every / each / some / any / all / no / both / either / neither / much / many / few / several / such<br>
+⑤ <em>数词限定</em>:基数(one / two / three / 1792)+ 序数(first / second / third)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>some vs any</b> — some 用于肯定 / 主动期待肯定回答的疑问句(Would you like some coffee?);any 用于否定 / 真正不确定的疑问句(Do you have any books?)。<br>
+<b>few vs a few</b> — few 表「几乎没有」(否定意),a few 表「有一些」(肯定意)。one-letter 之差,语义反转。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The my book</code>(冠词和物主限定不能并存)<br>
+✓ <code>my book</code> 或 <code>the book</code><br>
+✗ <code>I have few books, so I read often</code>(few = 几乎没有,语义错)<br>
+✓ <code>I have a few books, so I read often</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-007">S-007</a> 不定 <em>every</em> day money / <em>even</em> gold dust(每一种 / 甚至)<br>
+② <a href="/breakdown/#s-026">S-026</a> 复合限定 <em>such</em> a shock / <em>an entire</em> generation<br>
+③ <a href="/breakdown/#s-046">S-046</a> 相关限定 <em>Either</em> ... <em>or</em> ...(必要选择)<br>
+④ <a href="/breakdown/#s-009">S-009</a> 数词 <em>416</em> grains / <em>371.25</em> grains</p>
+<p class="def-related"><b>相关:</b> <a href="#article">冠词</a> · <a href="#noun">名词</a> · <a href="#pronoun">代词(物主代词)</a></p>
 </div>
 
-<div class="term" id="interjection-pos">
+<div class="term term-deep" id="interjection-pos">
 <h3>10. 感叹词 · Interjection</h3>
-<p class="def">独立的情感表达词,语法上不与句子其余成分相连。Ah / Oh / Alas / Indeed(也作语篇词) / Well / Hush / Wow / Ouch。常以逗号或破折号隔开。</p>
-<p class="ex"><a href="/breakdown/#s-079">S-079</a> 感叹词 = <em>Ah</em> — 与后面的句子用破折号隔开</p>
+<p class="def-quick"><b>一句话:</b> 独立的<b>情感表达词</b>,语法上不与句子其余部分构成关系。Ah / Oh / Alas / Wow / Ouch / Hush。</p>
+<p class="def-deep"><b>详细:</b> 感叹词是英语词类中最特殊的一类 — 它不参与句子的语法结构,纯粹表达说话人的即时情感(惊讶、痛苦、叹息、欢乐)。在书面语中常与正文用逗号、破折号、感叹号隔开。它在文学作品和口语中常见,在论说文中罕见。</p>
+<p class="def-position"><b>位置 / 用法:</b> 感叹词通常位于句首,后跟逗号或破折号,引出主句。在叙事性散文中可承担「叙述者声音介入」的修辞功能(如本课文 S-079)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中英感叹词大致对应 — 中文「啊」「哦」「呀」「哎」对应英文 Ah / Oh / Hey / Alas。但语义和语用强度不同,直译可能失味。母语者 Wow / Wow! 在不同语境差别极大。</p>
+<p class="def-forms"><b>常见感叹词分组:</b><br>
+① <em>惊讶 / 强调</em>:Wow / Oh / Hey / Goodness / Indeed(也作语篇副词)<br>
+② <em>痛苦 / 烦恼</em>:Ouch / Alas / Oh dear<br>
+③ <em>呼唤 / 唤起注意</em>:Hey / Hi / Hello / Hush(嘘 — 安静)<br>
+④ <em>叹息 / 沉思</em>:Ah / Oh well / Sigh<br>
+⑤ <em>欢呼 / 庆贺</em>:Hooray / Yay / Bravo / Cheers</p>
+<p class="def-confuse"><b>易混淆:</b> 感叹词 vs 语篇副词 — Indeed 既可作感叹词(独立)也可作语篇副词(承上启下)。区别在于上下文:句首独立、表达情感 = 感叹词;句首引出推论 = 语篇副词。</p>
+<p class="def-error"><b>中国学生常见错误:</b> 在正式论说文里滥用感叹词。母语者论说写作里几乎不用 Wow / Oh,这些只用在叙事或口语转写里。中国学生为表达情感经常误加,显得不专业。</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-079">S-079</a> <em>Ah</em> — 与后续句子用破折号隔开,叙述者的沉思介入</p>
+<p class="def-related"><b>相关:</b> <a href="#discourse-marker-coh">语篇副词</a> · <a href="#independent-elements">⑬ 独立成分</a></p>
 </div>
 
 <hr>
