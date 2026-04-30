@@ -9,7 +9,7 @@ permalink: /breakdown/
 <p style="font-size:0.93rem;line-height:1.85;color:#444;margin:0 0 0.5em;">
 <strong style="color:#C62828;">▶</strong> 每句左上角播放按钮,点击听 Microsoft AvaNeural 朗读。&nbsp;
 <strong style="color:#1565C0;">音标</strong> 每个英文词上方有小字 IPA(始终可见)。&nbsp;
-<strong style="color:#2E7D32;">中文释义</strong> 鼠标悬停英文词,弹出该词中文意思(手机长按)。&nbsp;
+<strong style="color:#2E7D32;">中文释义</strong> 每个英文词下方直接给出中文意思(始终可见)。&nbsp;
 <strong style="color:#6A1B9A;">语法成分</strong> 每个色块标签精确到词级。点击下方任一色块跳「术语」页。
 </p>
 <p>
