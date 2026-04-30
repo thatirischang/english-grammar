@@ -328,113 +328,286 @@ permalink: /terms/
 <h2 id="verb-types" class="term">⓪.5 动词分类 · Types of Verbs</h2>
 <p>动词是句子的发动机。按"携带语义"和"是否带宾语",可分以下几大类。</p>
 
-<div class="term" id="lexical-verb">
+<div class="term term-deep" id="lexical-verb">
 <h3>1. 实义动词 · Lexical Verb</h3>
-<p class="def">表达具体动作或状态的"主动词",是句子的语义核心。</p>
-<p class="ex"><a href="/breakdown/#s-003">S-003</a> 实义 = <em>signed</em>(签署) — 主语 Hamilton 的核心动作</p>
-<p class="ex"><a href="/breakdown/#s-022">S-022</a> 实义 = <em>made</em>(使) / <em>emerge</em>(崛起)</p>
+<p class="def-quick"><b>一句话:</b> 携带<b>具体语义</b>的主动词。是句子真正讲「做了什么 / 是什么样」的那个词。</p>
+<p class="def-deep"><b>详细:</b> 实义动词是句子的语义核心,与之相对的是「助动词」(辅助构造时态)和「系动词」(只起连接作用)。每一个完整的英语句子里至少有一个实义动词,它单独承载意义,助动词和系动词只是它的辅助。</p>
+<p class="def-position"><b>位置 / 用法:</b> 实义动词通常在主语之后(SV / SVO 句型),作谓语。在多助动词的复杂时态里,实义动词永远<b>排在最末尾</b>,前面所有的助动词都为它服务(will have been <em>generating</em> — generating 才是实义)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「我看了那本书」中的「看」是动作核心,直接对应英文 read。但英文要把这个动作精确化成 read / have read / had read / will read / am reading 等不同形式 — 实义动词不变(read),只是它前面的助动词变。</p>
+<p class="def-forms"><b>形态变化(5 种):</b><br>
+① <em>原形</em>:sign(动词原形,不定式去掉 to 的形式)<br>
+② <em>第三人称单数</em>:signs(主语 he/she/it 时)<br>
+③ <em>过去式</em>:signed(规则)/ went / saw(不规则)<br>
+④ <em>过去分词</em>:signed / gone / seen(用于完成时和被动)<br>
+⑤ <em>现在分词 / 动名词</em>:signing(用于进行时和动名词)</p>
+<p class="def-confuse"><b>易混淆:</b> 实义动词 vs 系动词 — 同一个词如 look,既可作系动词(He looks tired = 后接形容词描述主语),也可作实义动词(He looks at me = 后接介词宾语)。判断方法:看后面是表语还是宾语。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have eat lunch</code>(have 后必须是过去分词,不是原形)<br>
+✓ <code>I have eaten lunch</code><br>
+✗ <code>He always study late</code>(三单漏 s)<br>
+✓ <code>He always studies late</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-003">S-003</a> 及物 <em>signed</em>(签署) — Hamilton 的核心动作<br>
+② <a href="/breakdown/#s-022">S-022</a> 实义 + 宾补 <em>made ... emerge</em>(战争使美元崛起)<br>
+③ <a href="/breakdown/#s-068">S-068</a> 4 助动词后实义 <em>generating</em>(将来完成进行)</p>
+<p class="def-related"><b>相关:</b> <a href="#linking-verb">系动词</a> · <a href="#auxiliary-verb">助动词</a> · <a href="#transitive-vs-intransitive">及物 / 不及物</a> · <a href="#predicate">谓语</a></p>
 </div>
 
-<div class="term" id="linking-verb">
+<div class="term term-deep" id="linking-verb">
 <h3>2. 系动词 · Linking Verb</h3>
-<p class="def">不带语义,把<strong>主语</strong>与<strong>表语</strong>"挂"在一起。常见:be 系列 (am/is/are/was/were/been/being) · become · seem · appear · look · feel · sound · taste · smell · get · grow · turn · remain · stay · prove · go(成为某种状态)。</p>
-<p class="def">系动词后接的不是宾语,而是<strong>表语</strong>(描述主语)。</p>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> 系 = <em>was</em> · 表语 = the Resumption Act of 1875</p>
-<p class="ex"><a href="/breakdown/#s-015">S-015</a> 系 = <em>seemed</em> · 表语 = prudent ... ruinous ...</p>
-<p class="ex"><a href="/breakdown/#s-026">S-026</a> 系 = <em>was</em> · 表语 = such a shock</p>
-<p class="ex"><a href="/breakdown/#s-049">S-049</a> 系 = <em>went</em>(变得) · 表语 = bankrupt(破产)</p>
+<p class="def-quick"><b>一句话:</b> 不携带具体语义,只起<b>连接</b>作用 — 把主语和它的「描述」(表语)挂在一起:X is/becomes/seems Y。</p>
+<p class="def-deep"><b>详细:</b> 系动词是英语 SVC 句型的核心。它本身不表「做」,只表「是 / 变成 / 看起来 / 保持」。系动词后面跟的不是宾语(动作受体),而是表语(主语状态描述) — 这是和实义动词最根本的区别。</p>
+<p class="def-position"><b>位置 / 用法:</b> 系动词夹在主语和表语中间(S + 系 + C 句型)。表语可以是形容词(seem prudent)、名词短语(was the Resumption Act)、介词短语(is in trouble)、不定式(seem to know)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「他高」「她漂亮」「天黑了」常常省略系动词,英文必须写 He <em>is</em> tall / She <em>is</em> beautiful / It <em>got</em> dark。中国学生最大盲区:漏掉 be 动词。「I tired」是病句,必须 I am tired。</p>
+<p class="def-forms"><b>常见系动词(分 5 类):</b><br>
+① <em>be 系列</em>:am / is / are / was / were / been / being(最核心)<br>
+② <em>变化类</em>(成为):become / get / grow / turn / go / come / fall(He went bankrupt)<br>
+③ <em>感官类</em>(看 / 听 / 摸 / 尝起来):look / sound / feel / taste / smell + 形容词<br>
+④ <em>持续类</em>(保持):remain / stay / keep / continue + 形容词<br>
+⑤ <em>显示类</em>(似乎 / 显得):seem / appear / prove / turn out + 形容词</p>
+<p class="def-confuse"><b>易混淆:</b> <b>look 双身份</b> — 系动词:He looks <em>tired</em>(他显得疲惫)。实义动词:He looks <em>at me</em>(他看着我)。后接形容词是系动词,后接介词是实义。<br>
+<b>系动词后用形容词不是副词</b> — He feels <em>bad</em>(✓ 系 + 形)/ He feels <em>badly</em>(✗ 错)。这是中国学生最常见错。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I tired today</code>(漏 be 动词)<br>
+✓ <code>I am tired today</code><br>
+✗ <code>The flower smells sweetly</code>(系 + 副词)<br>
+✓ <code>The flower smells sweet</code><br>
+✗ <code>He becomes angrily</code><br>
+✓ <code>He becomes angry</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-014">S-014</a> 系 <em>was</em> + 表语 the Resumption Act(强调句结构)<br>
+② <a href="/breakdown/#s-015">S-015</a> 系 <em>seemed</em> + 双表语 prudent / ruinous<br>
+③ <a href="/breakdown/#s-026">S-026</a> 系 <em>was</em> + 表语 such a shock(SVC + that 强调)<br>
+④ <a href="/breakdown/#s-049">S-049</a> 变化系 <em>went</em> + 表语 bankrupt(变得破产)</p>
+<p class="def-related"><b>相关:</b> <a href="#lexical-verb">实义动词</a> · <a href="#complement">表语 / 补语</a> · <a href="#pattern-5">SVC 句型</a></p>
 </div>
 
-<div class="term" id="auxiliary-verb">
-<h3>3. 助动词 · Auxiliary Verb(也叫"助词")</h3>
-<p class="def">不携带主要语义,辅助主动词构造时态、语态、否定、疑问、强调。三大主要助动词:</p>
-<ul>
-<li><strong>be</strong>(am/is/are/was/were/been/being) — 构造进行时(be + V-ing)和被动语态(be + V-en)</li>
-<li><strong>have</strong>(have/has/had/having) — 构造完成时(have + V-en)</li>
-<li><strong>do</strong>(do/does/did) — 构造一般疑问句、否定句、强调式</li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-006">S-006</a> 助动词 = <em>had been</em>(过去完成进行体: had + been + V-ing)</p>
-<p class="ex"><a href="/breakdown/#s-013">S-013</a> 被动助动词 = <em>was</em>(过去时被动 was + V-en)</p>
-<p class="ex"><a href="/breakdown/#s-027">S-027</a> 倒装助动词 = <em>did</em>(Nor did the country recover ...)</p>
-<p class="ex"><a href="/breakdown/#s-058">S-058</a> 强调助动词 = <em>did</em>(Cassandra did sound)</p>
-<p class="ex"><a href="/breakdown/#s-068">S-068</a> 4 助动词链 = <em>will have been</em> generating(将来完成进行)</p>
+<div class="term term-deep" id="auxiliary-verb">
+<h3>3. 助动词 · Auxiliary Verb</h3>
+<p class="def-quick"><b>一句话:</b> 不携带主要语义,只<b>辅助实义动词</b>构造时态 / 语态 / 否定 / 疑问 / 强调的「工具词」。</p>
+<p class="def-deep"><b>详细:</b> 助动词是英语时态系统的「拼装零件」 — be / have / do 三大基础助动词组合不同实义动词形式,可以构造英语全部 12 种时态 + 8 种语态 + 各种否定、疑问、倒装、强调形式。掌握助动词等于掌握了英语句子的「机械原理」。</p>
+<p class="def-position"><b>位置 / 用法:</b> 助动词通常紧贴主语之后、实义动词之前(He <em>has</em> signed)。在疑问句和倒装句里助动词跑到主语前(<em>Has</em> he signed? / Never <em>did</em> the country recover)。在多重时态里,多个助动词排成链(will + have + been + V-ing,共 4 个助动词带 1 个实义)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文没有真正的助动词。中文表完成靠「了 / 过」(我看过了),表进行靠「正在」(我正在看),表被动靠「被」(被看见)。英文必须用 has / had / is / was 等助动词,这是中国学生学英语时态最难的部分。</p>
+<p class="def-forms"><b>3 大主助动词 + 形态:</b><br>
+① <b>be</b>(am / is / are / was / were / been / being)<br>
+&nbsp;&nbsp;· 构造<em>进行时</em>:be + V-ing(is going)<br>
+&nbsp;&nbsp;· 构造<em>被动语态</em>:be + V-en(was issued)<br>
+② <b>have</b>(have / has / had / having)<br>
+&nbsp;&nbsp;· 构造<em>完成时</em>:have + V-en(has signed / had circulated)<br>
+③ <b>do</b>(do / does / did)<br>
+&nbsp;&nbsp;· 构造<em>否定</em>:do not / does not / did not<br>
+&nbsp;&nbsp;· 构造<em>疑问</em>:Do you ...? / Did he ...?<br>
+&nbsp;&nbsp;· 构造<em>强调</em>:He <em>did</em> sound the warning<br>
+&nbsp;&nbsp;· 构造<em>倒装</em>:Nor <em>did</em> the country recover<br>
+④ <em>组合链</em>(可堆叠):will have been V-ing(将来完成进行)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>have 三种身份</b> — ① 助动词 have(I have signed);② 实义动词「拥有」(I have a book);③ 使役 have(I have someone do it = 让某人做)。<br>
+<b>do 三种身份</b> — ① 助动词(疑问 / 否定 / 强调);② 实义动词「做」(I do my homework);③ 替代动词(So do I)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He doesn't likes coffee</code>(do 后必须是原形)<br>
+✓ <code>He doesn't like coffee</code><br>
+✗ <code>I have went there</code>(have 后必须是过去分词 gone,不是 went)<br>
+✓ <code>I have gone there</code><br>
+✗ <code>I am study English</code>(进行时是 be + V-ing,不是 V 原形)<br>
+✓ <code>I am studying English</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-006">S-006</a> 助动词链 <em>had been</em> warning(过完进行 had + been + V-ing)<br>
+② <a href="/breakdown/#s-013">S-013</a> 被动 <em>was</em> issued(was + V-en)<br>
+③ <a href="/breakdown/#s-027">S-027</a> 倒装 <em>did</em>(Nor did the country recover)<br>
+④ <a href="/breakdown/#s-058">S-058</a> 强调 <em>did</em> sound(Cassandra did sound)<br>
+⑤ <a href="/breakdown/#s-068">S-068</a> 4 助动词链 <em>will have been</em> + generating</p>
+<p class="def-related"><b>相关:</b> <a href="#lexical-verb">实义动词</a> · <a href="#tenses">③ 时态</a> · <a href="#voice">④ 语态</a> · <a href="#inversion">⑪ 倒装</a></p>
 </div>
 
-<div class="term" id="modal-verb">
+<div class="term term-deep" id="modal-verb">
 <h3>4. 情态动词 · Modal Verb</h3>
-<p class="def">表达"态度"或"语气":能力、可能性、必要性、推断、建议、决意。后接动词原形,本身不变化(no -s,no -ing,no past)。</p>
-<p class="def">完整列表:can/could · may/might · must · shall/should · will/would · ought to · need · dare(半情态:had better, would rather)。详见 <a href="#modals">⑤ 情态动词</a>。</p>
-<p class="ex"><a href="/breakdown/#s-043">S-043</a> 情态 = <em>could</em> move(能搬动)</p>
-<p class="ex"><a href="/breakdown/#s-062">S-062</a> 情态 = <em>shall</em> not face(法律式将来)</p>
-<p class="ex"><a href="/breakdown/#s-082">S-082</a> 半情态 = <em>had better</em> watch(强烈忠告)</p>
+<p class="def-quick"><b>一句话:</b> 表达说话人「<b>态度 / 语气</b>」的特殊助动词 — 能力、可能性、必要性、推断、建议、决意。后接动词原形。</p>
+<p class="def-deep"><b>详细:</b> 情态动词是英语里最特殊的一类动词 — 它本身永远不变形(no -s, no -ing, no past),且后面必须接动词原形(不是不定式 to V,也不是 V-ing)。它表达的是说话人对某事的态度,而不是事件本身的事实。同一句话用不同情态动词,语义完全不同:He <em>can</em> swim(他会游泳)/ He <em>must</em> swim(他必须游)/ He <em>might</em> swim(他可能游)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 情态动词紧贴主语之后,实义动词之前(I <em>must</em> go / He <em>can</em> swim)。否定加 not(can not / cannot;won't = will not;mustn't)。疑问句倒装(Can you ...? / Must he ...?)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「能 / 会 / 该 / 必须 / 可能」表达情态,但句法上是普通动词。英文情态动词的特殊形态(无变化、必接原形)是中国学生最易错的地方。中文「他必须去了」翻译时不能用 must to go,只能 He must go。</p>
+<p class="def-forms"><b>11 个核心情态动词 + 半情态:</b><br>
+① <em>能力</em>:can / could(过去时或委婉)<br>
+② <em>许可</em>:may / might(might 更委婉)<br>
+③ <em>必要 / 推断</em>:must(强必要;肯定推断)<br>
+④ <em>建议 / 应当</em>:should / ought to<br>
+⑤ <em>意愿 / 将来</em>:will / would(would 更委婉)<br>
+⑥ <em>决意 / 法律式</em>:shall(古典「应该」)<br>
+⑦ <em>需要 / 敢</em>:need / dare(可作情态也可作普通动词)<br>
+⑧ <em>半情态</em>(2 词):had better(忠告)/ would rather(宁愿)<br>
+⑨ <em>完成情态</em>(对过去):should have done / must have done / could have done / might have done<br>
+详见 <a href="#modals">⑤ 情态动词</a> 章节。</p>
+<p class="def-confuse"><b>易混淆:</b> <b>must vs have to</b> — must 表说话人主观必要(I must read this),have to 表客观必要(I have to work tomorrow)。否定形式语义反:must not = 禁止 / don't have to = 不必。<br>
+<b>can vs could</b> — could 不只是 can 的过去时,还可表「委婉请求」(Could you help?)或「假设可能」(I could go if invited)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>You must to study</code>(must 后是原形,不带 to)<br>
+✓ <code>You must study</code><br>
+✗ <code>He can speaks French</code>(情态后必须原形)<br>
+✓ <code>He can speak French</code><br>
+✗ <code>You mustn't go</code> 误为「不必去」<br>
+✓ <code>You mustn't go</code> 是「禁止去」 / <code>You don't have to go</code> 才是「不必去」</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-043">S-043</a> 能力 <em>could</em> move(能搬动 trillions of dollars)<br>
+② <a href="/breakdown/#s-062">S-062</a> 法律式 <em>shall</em> not face(郑重宣告)<br>
+③ <a href="/breakdown/#s-082">S-082</a> 半情态 <em>had better</em> watch(强烈忠告)<br>
+④ <a href="/breakdown/#s-103">S-103</a> 完成式 <em>should have seen</em>(本该看见却没)<br>
+⑤ <a href="/breakdown/#s-104">S-104</a> 完成式 <em>must have believed</em>(对过去的肯定推断)</p>
+<p class="def-related"><b>相关:</b> <a href="#auxiliary-verb">助动词</a> · <a href="#modals">⑤ 情态动词</a> · <a href="#should-have-done">should have done</a> · <a href="#must-have-done">must have done</a></p>
 </div>
 
-<div class="term" id="transitive-vs-intransitive">
+<div class="term term-deep" id="transitive-vs-intransitive">
 <h3>5. 及物 vs 不及物 · Transitive vs Intransitive</h3>
-<p class="def"><strong>及物动词</strong>(transitive)需要带宾语:sign / declare / weigh / replace / underwrite。"V + 谁/什么"。</p>
-<p class="def"><strong>不及物动词</strong>(intransitive)不带宾语:fall / weep / collapse / float / emerge / flow / cheer。"V + (无宾)"。</p>
-<p class="def">很多动词两用:<em>The dollar floats freely</em>(不及物) vs <em>He floats a proposal</em>(及物)。</p>
-<p class="ex"><a href="/breakdown/#s-049">S-049</a> 不及物 = <em>wept</em>(哭泣) / <em>cheered</em>(欢呼) — 后面没宾语</p>
-<p class="ex"><a href="/breakdown/#s-013">S-013</a> 及物 = <em>was issued</em>(被发行) — 主动是 issue + 宾语</p>
+<p class="def-quick"><b>一句话:</b> 看动词后面<b>是否需要带宾语</b>。要带的叫及物(transitive),不带的叫不及物(intransitive)。</p>
+<p class="def-deep"><b>详细:</b> 这是动词最重要的语义分类之一 — 决定了句型的骨架。及物动词(sign / declare / weigh / replace)需要一个对象承接动作,语义才完整;不及物动词(weep / collapse / float / emerge)动作止于动作本身,不需要对象。同一个动词在不同上下文里可能两用。</p>
+<p class="def-position"><b>位置 / 用法:</b> 及物动词用于 SVO / SVOO / SVOC 句型 — 后面必须接宾语;不及物动词用于 SV 句型 — 后面可以是状语或直接结束。被动语态<b>只能</b>由及物动词构造(因为需要把宾语提到主语位置)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文动词不严格区分及物 / 不及物 — 同一个「跑」字可以「他跑」(不及物)、「他跑了 100 米」(及物)。英文区分严格,有些动词只能不及物(arrive / die / fall),不能加宾语:✗ He arrived Beijing → ✓ He arrived in Beijing。</p>
+<p class="def-forms"><b>常见动词分类:</b><br>
+① <em>纯及物</em>(必须带宾语):make / give / send / send / find / love / hate / want / need / discuss<br>
+② <em>纯不及物</em>(不可带宾语):arrive / come / go / die / fall / sleep / appear / disappear / occur<br>
+③ <em>两用动词</em>(因语境):read / write / open / close / change<br>
+&nbsp;&nbsp;· The door opens(不及物)/ He opens the door(及物)<br>
+④ <em>双宾动词</em>(带 2 个宾语 — 间宾 + 直宾):give / send / tell / show / offer / lend / pay / teach<br>
+&nbsp;&nbsp;· I gave <em>him</em>(间宾)<em>a book</em>(直宾)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>raise vs rise</b> — raise 及物,有宾语(raise the flag);rise 不及物,无宾语(The sun rises)。<br>
+<b>lay vs lie</b> — lay 及物(lay the book down);lie 不及物(He lies on the bed)。<br>
+<b>discuss</b> 及物 — 不带 about(✗ discuss about → ✓ discuss it)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He arrived Beijing yesterday</code>(arrive 不及物)<br>
+✓ <code>He arrived in Beijing yesterday</code><br>
+✗ <code>I will discuss about this</code>(discuss 及物,不加 about)<br>
+✓ <code>I will discuss this</code><br>
+✗ <code>The accident was happened</code>(happen 不及物,无被动)<br>
+✓ <code>The accident happened</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-049">S-049</a> 不及物 <em>wept</em> / <em>cheered</em>(后无宾语,SV 句型)<br>
+② <a href="/breakdown/#s-013">S-013</a> 及物变被动 <em>was issued</em>(主动 issue + 宾语 → 被动)<br>
+③ <a href="/breakdown/#s-022">S-022</a> 不及物 <em>emerge</em> + 状语 as a credible reserve currency<br>
+④ <a href="/breakdown/#s-107">S-107</a> 双宾 <em>gave</em> foreign banks 间宾 fresh dollars 直宾</p>
+<p class="def-related"><b>相关:</b> <a href="#object">宾语</a> · <a href="#patterns">① 五大句型</a> · <a href="#voice">④ 语态</a> · <a href="#pattern-3">SVOO 双宾</a></p>
 </div>
 
-<div class="term" id="finite-vs-nonfinite">
+<div class="term term-deep" id="finite-vs-nonfinite">
 <h3>6. 限定动词 vs 非谓语动词 · Finite vs Non-finite</h3>
-<p class="def"><strong>限定动词</strong>(finite)有时态、人称、数变化,作句子谓语。"He <em>signs</em>" / "He <em>signed</em>" / "He <em>has signed</em>"。</p>
-<p class="def"><strong>非谓语动词</strong>(non-finite)不变化形式,不能单独作谓语。三种:</p>
-<ul>
-<li>不定式(to V) — to sign / to be signed</li>
-<li>动名词(V-ing) — signing</li>
-<li>分词(V-ing / V-en) — signing(现在分词) / signed(过去分词)</li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-072">S-072</a> 不定式作主语 = <em>To predict</em></p>
-<p class="ex"><a href="/breakdown/#s-015">S-015</a> 动名词作主语 = <em>Returning</em> to the gold standard</p>
-<p class="ex"><a href="/breakdown/#s-034">S-034</a> 过去分词短语 = <em>designed</em> by Keynes ...</p>
+<p class="def-quick"><b>一句话:</b> <b>限定动词</b>有时态 / 人称 / 数变化,作句子谓语;<b>非谓语动词</b>不变化,不能单独作谓语,只能作其他成分(主 / 宾 / 定 / 状 / 表)。</p>
+<p class="def-deep"><b>详细:</b> 这是英语最深的二分概念。一个句子里只能有一个限定动词作谓语,但可以有任意多个非谓语动词作其他成分。Returning to the gold standard <b>seemed</b> prudent — seemed 是限定(谓语),Returning 是非谓语(动名词作主语)。掌握这个区分,英语长句立刻可读。</p>
+<p class="def-position"><b>位置 / 用法:</b><br>
+<em>限定动词</em>:句子谓语位置,主语后(He <em>signs</em> / He <em>signed</em>)<br>
+<em>非谓语动词</em>:可作主语、宾语、定语、状语、表语、宾补 — 几乎能取代名词或形容词的所有位置。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文连续动词(连动结构)极常见:「我去吃饭学英语」可以一连用「去」「吃」「学」三个动词。英文不允许 — 一句话只能有一个限定动词作谓语,其他都必须改成非谓语形式:I go <em>to eat</em> and <em>to study</em>(不定式)/ I go <em>eating</em> and <em>studying</em>(动名词)/ Going home, I ate(分词作状语)。</p>
+<p class="def-forms"><b>限定动词的形态(5 种):</b><br>
+① 原形:sign(用于祈使句、情态后)<br>
+② 第三单数现在:signs<br>
+③ 一般现在 / 过去:sign / signed<br>
+④ 进行时:is signing(限定标志在 is)<br>
+⑤ 完成时:has signed(限定标志在 has)<br><br>
+<b>非谓语动词的 3 大类:</b><br>
+① <em>不定式</em>(to V) — to sign / to be signed / to have signed<br>
+② <em>动名词</em>(V-ing) — signing(作名词)<br>
+③ <em>分词</em>:现在分词 V-ing(主动 / 进行)/ 过去分词 V-en(被动 / 完成)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>动名词 vs 现在分词</b> — 形态都是 V-ing,但功能不同:动名词作名词(<em>Returning</em> is hard = 主语);现在分词作形容词或副词(<em>Returning</em> home, I saw it = 状语)。判断方法:能不能换成名词?能,就是动名词。<br>
+<b>不定式作主语 vs 动名词作主语</b> — 不定式偏抽象 / 未来,动名词偏具体 / 习惯。To swim is healthy(抽象命题)/ Swimming is healthy(具体活动)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I want eat lunch</code>(连动 — 错)<br>
+✓ <code>I want to eat lunch</code>(want 后用不定式)<br>
+✗ <code>I enjoy to swim</code>(enjoy 后必须用动名词)<br>
+✓ <code>I enjoy swimming</code><br>
+✗ <code>The man stand there is my friend</code>(stand 不能作定语)<br>
+✓ <code>The man standing there is my friend</code>(现在分词作定语)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-072">S-072</a> 不定式作主语 <em>To predict</em> the dollar's future is, in the end, ...<br>
+② <a href="/breakdown/#s-015">S-015</a> 动名词作主语 <em>Returning</em> to the gold standard seemed prudent ...<br>
+③ <a href="/breakdown/#s-034">S-034</a> 过去分词作定语 <em>designed</em> by Keynes(被动 / 完成义)<br>
+④ <a href="/breakdown/#s-044">S-044</a> 现在分词作定语 <em>slumbering</em> since the 1950s(主动 / 进行义)</p>
+<p class="def-related"><b>相关:</b> <a href="#predicate">谓语</a> · <a href="#nonfinite">⑥ 非谓语动词</a> · <a href="#infinitive">不定式</a> · <a href="#gerund">动名词</a> · <a href="#participle">分词</a></p>
 </div>
 
 <hr>
 
 <h2 id="phrase-vs-clause" class="term">⓪.7 短语 vs 从句 · Phrase vs Clause</h2>
 
-<div class="term" id="phrase">
+<div class="term term-deep" id="phrase">
 <h3>短语 · Phrase</h3>
-<p class="def">一组词紧密配合,共同作一种成分。<strong>没有"主语+谓语"结构</strong>。</p>
-<p class="def">类型:</p>
-<ul>
-<li><strong>名词短语</strong>(NP) — the silver dollar / a quiet admission / every American banknote</li>
-<li><strong>动词短语</strong>(VP) — has floated / will be challenging / had been warning</li>
-<li><strong>形容词短语</strong>(AdjP) — almost three times as often as ...</li>
-<li><strong>副词短语</strong>(AdvP) — almost overnight / very nearly</li>
-<li><strong>介词短语</strong>(PP) — at the Philadelphia mint / by the Bureau / through American memory</li>
-<li><strong>不定式短语</strong>(InfP) — to finance a war / to predict the dollar's future</li>
-<li><strong>动名词短语</strong>(GerP) — Returning to the gold standard / By insisting on free silver</li>
-<li><strong>分词短语</strong>(PartP) — designed by Keynes / slumbering since the 1950s</li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-002">S-002</a> 介词短语 = <em>at the Philadelphia mint</em></p>
-<p class="ex"><a href="/breakdown/#s-016">S-016</a> 动名词短语 = <em>By insisting on free silver</em></p>
+<p class="def-quick"><b>一句话:</b> 多个词紧密配合,<b>共同作一种成分</b>,但<b>没有「主语+谓语」结构</b>。是「比单词大、比从句小」的语法单位。</p>
+<p class="def-deep"><b>详细:</b> 短语是英语句子的「中间砖块」 — 比单个词大,但又达不到完整从句的复杂度。它的关键判别标准是:<b>内部没有主谓关系</b>。"the silver dollar"(冠词+形容词+名词)是名词短语,但内部没有 a + V;一旦出现主谓关系(如 "the dollar that Hamilton designed" 里 Hamilton designed),它就变成了从句。</p>
+<p class="def-position"><b>位置 / 用法:</b> 短语作一种成分的整体使用 — 名词短语作主 / 宾,介词短语作状语 / 定语,动词短语作谓语,等等。短语内部的词序受语法规则约束(冠词在前、形容词次之、名词在后)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文短语判别相对简单(无主谓即可)。英文复杂在「短语类型多」 — 不定式短语、动名词短语、分词短语都是中文里没有的特殊结构。中国学生最难掌握的是后置短语作定语的规则:中文 「我设计的那枚银元」前置,英文 "the dollar <em>designed by Hamilton</em>" 后置。</p>
+<p class="def-forms"><b>8 大短语类型:</b><br>
+① <em>名词短语</em>(NP):the silver dollar / a quiet admission / every American banknote<br>
+② <em>动词短语</em>(VP):has floated / will be challenging / had been warning<br>
+③ <em>形容词短语</em>(AdjP):almost three times as often / quite ready<br>
+④ <em>副词短语</em>(AdvP):almost overnight / very nearly / quite recently<br>
+⑤ <em>介词短语</em>(PP):at the Philadelphia mint / by the Bureau / through American memory<br>
+⑥ <em>不定式短语</em>(InfP):to finance a war / to predict the dollar's future<br>
+⑦ <em>动名词短语</em>(GerP):Returning to the gold standard / By insisting on free silver<br>
+⑧ <em>分词短语</em>(PartP):designed by Keynes / slumbering since the 1950s</p>
+<p class="def-confuse"><b>易混淆:</b> <b>短语 vs 从句</b> — 关键区分点:短语<b>没有主谓</b>,从句<b>有主谓</b>。"the bank designed by Hamilton" 是分词短语(无主谓);"the bank that Hamilton designed" 是定语从句(Hamilton 是主、designed 是谓)。<br>
+<b>不定式 vs 介词 to</b> — to + V 是不定式(to sign);to + 名词是介词短语(to the bank)。看 to 后面接的是动词原形还是名词。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The book on the table it is mine</code>(短语 + 完整句不能直接并列)<br>
+✓ <code>The book on the table is mine</code>(整个 NP "The book on the table" 作主语)<br>
+✗ <code>I went store yesterday</code>(漏介词 to 形成完整介短)<br>
+✓ <code>I went to the store yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-002">S-002</a> 介词短语 <em>at the Philadelphia mint</em>(地点状语)<br>
+② <a href="/breakdown/#s-016">S-016</a> 动名词短语 <em>By insisting on free silver</em>(方式状语)<br>
+③ <a href="/breakdown/#s-044">S-044</a> 现在分词短语 <em>slumbering since the 1950s</em>(后置定语)<br>
+④ <a href="/breakdown/#s-072">S-072</a> 不定式短语 <em>To predict the dollar's future</em>(主语)</p>
+<p class="def-related"><b>相关:</b> <a href="#clause">从句</a> · <a href="#noun">名词短语</a> · <a href="#preposition">介词短语</a> · <a href="#nonfinite">⑥ 非谓语短语</a></p>
 </div>
 
-<div class="term" id="clause">
+<div class="term term-deep" id="clause">
 <h3>从句 · Clause</h3>
-<p class="def">一组词,有<strong>自己的"主语+谓语"</strong>结构。可独立成句(主句)或嵌入主句(从句)。</p>
-<p class="def">从句按"在主句中作什么成分"分三大类:</p>
-<ul>
-<li><strong>名词性从句</strong> — 作主、宾、表、同位。详见 <a href="#noun-clauses">⑦</a></li>
-<li><strong>定语从句</strong> — 修饰名词。详见 <a href="#relative-clauses">⑧</a></li>
-<li><strong>状语从句</strong> — 修饰整句或动词。详见 <a href="#adv-clauses">⑨</a></li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> 主语从句 = <em>What restored monetary order after Reconstruction</em>(从句内有主"What" + 谓"restored")</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> 定语从句 = <em>that Hamilton designed</em>(从句内有主"Hamilton" + 谓"designed")</p>
-<p class="ex"><a href="/breakdown/#s-021">S-021</a> 状语从句 = <em>When the First World War broke out</em>(从句内有主"the First World War" + 谓"broke out")</p>
+<p class="def-quick"><b>一句话:</b> 一组词,内部<b>有自己的「主语+谓语」</b>。可独立成句(主句)或嵌入主句作其中一个成分(从句)。</p>
+<p class="def-deep"><b>详细:</b> 从句是英语「长句生成」的核心机制 — 一句话能写得复杂、信息密度高,完全靠从句嵌套。理解从句的本质是「子主谓结构嵌入更大句子」,这是从初级英语跨进中高级写作的关键。一个完整句子至少有一个主句,可以包含 0 个或多个从句。</p>
+<p class="def-position"><b>位置 / 用法:</b> 主句独立成立;从句必须依附于主句,在主句中承担一种成分。从句开头通常有<b>从属连词</b>(although / because / when / if)或<b>关系代词 / 副词</b>(that / which / who / where / when)作为标志。从句可以前置(逗号隔开)或后置。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有从句意识,但缺少英文那么严谨的语法标志。「他来的时候我在吃饭」这句中文,英文必须用从属连词 when:When he came, I was eating。中文「我看的书」英文必须 the book that I read,加关系代词。中国学生最大盲区:漏掉从属连词 / 关系代词。</p>
+<p class="def-forms"><b>3 大从句类型(按在主句中的功能):</b><br>
+① <em>名词性从句</em>(Noun Clause)— 作主语 / 宾语 / 表语 / 同位语,等于一个名词的位置。详见 <a href="#noun-clauses">⑦</a><br>
+② <em>定语从句</em>(Relative / Adjective Clause)— 修饰名词,等于一个形容词的位置。详见 <a href="#relative-clauses">⑧</a><br>
+③ <em>状语从句</em>(Adverbial Clause)— 修饰整句或动词,等于一个副词的位置。详见 <a href="#adv-clauses">⑨</a></p>
+<p class="def-confuse"><b>易混淆:</b> <b>定语从句 vs 同位语从句</b> — 都用 that 引导,但定从中的 that 在从句内部充当成分(主语 / 宾语),省略后读者能补出;同位语从句中的 that 是纯连接词,不充当任何成分。<br>
+The fact <em>that</em> he failed shocked me(同位 — that 不充任何成分,只连接);The fact <em>that</em> I learned shocked me(定从 — that 是 learned 的宾语)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I know he is right</code>(口语可,书面要补 that)<br>
+✓ <code>I know that he is right</code>(书面 that 不省)<br>
+✗ <code>The book I read it is good</code>(关代 + 代词重复)<br>
+✓ <code>The book I read is good</code>(关代省了,it 也省)<br>
+✗ <code>Although it rained, but I went</code>(中文搬过来)<br>
+✓ <code>Although it rained, I went</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-014">S-014</a> wh- 主语从句 <em>What restored monetary order after Reconstruction</em><br>
+② <a href="/breakdown/#s-009">S-009</a> 定语从句 <em>that Hamilton designed</em>(主 Hamilton + 谓 designed)<br>
+③ <a href="/breakdown/#s-021">S-021</a> 状语从句 <em>When the First World War broke out</em>(主 the war + 谓 broke out)<br>
+④ <a href="/breakdown/#s-017">S-017</a> 宾语从句 <em>that mankind must not be crucified upon a cross of gold</em></p>
+<p class="def-related"><b>相关:</b> <a href="#phrase">短语</a> · <a href="#main-vs-subordinate">主句 vs 从句</a> · <a href="#noun-clauses">⑦ 名词性从句</a> · <a href="#relative-clauses">⑧ 定语从句</a> · <a href="#adv-clauses">⑨ 状语从句</a></p>
 </div>
 
-<div class="term" id="main-vs-subordinate">
+<div class="term term-deep" id="main-vs-subordinate">
 <h3>主句 vs 从句 · Main vs Subordinate Clause</h3>
-<p class="def">一个完整句子可由<strong>一个主句</strong>独立组成,或<strong>主句 + 一或多个从句</strong>组合而成。</p>
-<p class="def">主句能单独成立;从句必须依附于主句。</p>
-<p class="def">连接词标志:从属连词(when/while/although/because/if/that/...) 或 关系代词/副词(that/which/who/where/when)。</p>
-<p class="ex"><a href="/breakdown/#s-018">S-018</a> 主句 = <em>his oratory still echoes through American memory</em> · 从句 = <em>Although Bryan lost the election</em></p>
-<p class="ex"><a href="/breakdown/#s-032">S-032</a> 主句 = <em>the dollar today would still hang from a chain of gold</em> · 从句 = <em>If the Great Depression had lasted only briefly</em>(条件状从)</p>
+<p class="def-quick"><b>一句话:</b> <b>主句</b>能<b>独立成立</b>;<b>从句</b>必须<b>依附于主句</b>。一个英语完整句子是「1 个主句 + 0~多个从句」的组合。</p>
+<p class="def-deep"><b>详细:</b> 这是英语长句结构的核心二分。主句承载句子的主要信息(说话人最想表达的),从句是「修饰、限定、补充」主句的子结构。识别主句和从句的关系,等于识别一句话的逻辑骨架。</p>
+<p class="def-position"><b>位置 / 用法:</b> 主句独立、可以单写;从句必须以从属连词或关系代词 / 副词开头,前置(从句在前 + 逗号 + 主句)或后置(主句 + 从句无逗号)。前置时通常表示从句的语义优先;后置时主句优先。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文里主从关系常用「但 / 虽然 / 因为」等词标记,但句法上主从有时不那么严格区分。英文则严格 — 一句话只能有一个主句,从句必须有明显的连接词引导。中国学生最易错:把英文从句当成主句使用,导致句子片段(sentence fragment):✗ Although he was tired.(只有从句,没有主句)。</p>
+<p class="def-forms"><b>主从复合句的 4 种结构:</b><br>
+① <em>简单句</em>:1 个主句,无从句。Borrowers wept.(SV)<br>
+② <em>并列句</em>:2 个主句用并列连词连。Borrowers wept, <em>and</em> farmers went bankrupt.<br>
+③ <em>主从复合句</em>:1 个主句 + 1+ 个从句。<em>Although</em> Bryan lost, his oratory echoes.<br>
+④ <em>并列主从复合句</em>:多主句 + 多从句。Bryan lost, <em>but</em> his oratory still echoes <em>through</em> the memory <em>that</em> he created.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>从句 vs 完整句</b> — 完整句必须有「自己的限定动词作谓语」且「不依赖其他句子」。<em>Although Bryan lost</em> 单独写出是病句(只有从句,无主句);加上 <em>his oratory still echoes</em> 才完整。<br>
+<b>主句 vs 主语</b> — 主语是主句里的一个成分(谁做),主句是包含主语的整体。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Because I was tired.</code>(只有从句,缺主句 — sentence fragment)<br>
+✓ <code>Because I was tired, I went home.</code><br>
+✗ <code>He is smart, he studies hard.</code>(两个主句中间用逗号 — comma splice)<br>
+✓ <code>He is smart, and he studies hard.</code> 或 <code>He is smart; he studies hard.</code><br>
+✗ <code>Although he is rich, but he is unhappy.</code><br>
+✓ <code>Although he is rich, he is unhappy.</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-018">S-018</a> 主句 = <em>his oratory still echoes through American memory</em><br>
+&nbsp;&nbsp;&nbsp;&nbsp;从句 = <em>Although Bryan lost the election</em>(让步状从)<br>
+② <a href="/breakdown/#s-032">S-032</a> 主句 = <em>the dollar today would still hang from a chain of gold</em><br>
+&nbsp;&nbsp;&nbsp;&nbsp;从句 = <em>If the Great Depression had lasted only briefly</em>(条件状从)<br>
+③ <a href="/breakdown/#s-014">S-014</a> 主句 = <em>X was the Resumption Act of 1875</em><br>
+&nbsp;&nbsp;&nbsp;&nbsp;从句(作 X 主语)= <em>What restored monetary order after Reconstruction</em></p>
+<p class="def-related"><b>相关:</b> <a href="#clause">从句</a> · <a href="#phrase">短语</a> · <a href="#conjunction">连词</a> · <a href="#patterns">① 五大句型</a></p>
 </div>
 
 <hr>
@@ -442,34 +615,149 @@ permalink: /terms/
 <h2 id="patterns" class="term">① 五大基本句型</h2>
 <p>所有的英语句子,都是这五种骨架的扩展。先抓骨架,再看修饰。</p>
 
-<div class="term" id="pattern-1">
+<div class="term term-deep" id="pattern-1">
 <h3>① S + V — 主语 + 不及物动词</h3>
-<p class="def">最简单的句子。动词不带宾语。</p>
-<p class="ex"><a href="/breakdown/#s-049">S-049</a> <em>Borrowers wept.</em>(借款人哭泣。)</p>
+<p class="def-quick"><b>一句话:</b> 最简单的英语句型 — 主语 + 不及物动词,后面不带宾语。可后接状语,但不带动作对象。</p>
+<p class="def-deep"><b>详细:</b> SV 是英语句型的最基本骨架。所有更复杂的句型都是在它基础上扩展。SV 句型的动词必须是不及物动词(weep / fall / collapse / arrive / come / go / die),它们的动作止于动作本身,无需带对象。</p>
+<p class="def-position"><b>位置 / 用法:</b> 标准 SV 顺序 — 主语在前,动词紧接其后。可以加各种状语(地点 / 时间 / 方式),但不加宾语。Borrowers <em>wept</em>(SV)/ Borrowers wept <em>bitterly yesterday</em>(SV + 状语)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文 SV 句型也常见(他笑了 / 雨停了),但中文有时省略主语(下雨了 — 没有主语),英文绝不能省 — 必须 It is raining 加占位主语 it。</p>
+<p class="def-forms"><b>变体:</b><br>
+① <em>SV</em>:Borrowers wept.<br>
+② <em>SV + 时间状语</em>:The market opens at 9.<br>
+③ <em>SV + 地点状语</em>:He arrived in Beijing.<br>
+④ <em>SV + 方式状语</em>:She sings beautifully.<br>
+⑤ <em>状语前置 + SV</em>:Yesterday, the market crashed.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>SV vs SVC</b> — 都是 S + V 开头,但 SV 后是状语,SVC 后是表语。"He arrived <em>in Beijing</em>"(SV + 地点状语)vs "He is <em>tall</em>"(SVC + 表语形容词)。判断:动词是不及物实义动词(arrive)→ SV;动词是系动词(is)→ SVC。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Rained yesterday</code>(英文必须有主语)<br>
+✓ <code>It rained yesterday</code><br>
+✗ <code>He arrived Beijing</code>(arrive 不及物,要 in)<br>
+✓ <code>He arrived in Beijing</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-049">S-049</a> <em>Borrowers wept</em>(借款人哭泣 — 单纯 SV)<br>
+② <a href="/breakdown/#s-049">S-049</a> <em>bond traders cheered</em>(债券交易员欢呼 — 单纯 SV)<br>
+③ <a href="/breakdown/#s-021">S-021</a> <em>European gold flowed into American vaults</em>(SV + 地点状)</p>
+<p class="def-related"><b>相关:</b> <a href="#transitive-vs-intransitive">不及物动词</a> · <a href="#subject">主语</a> · <a href="#predicate">谓语</a></p>
 </div>
 
-<div class="term" id="pattern-2">
+<div class="term term-deep" id="pattern-2">
 <h3>② S + V + O — 主语 + 及物动词 + 宾语</h3>
-<p class="def">动词后带一个宾语。最常见句型。</p>
-<p class="ex"><a href="/breakdown/#s-003">S-003</a> <em>Hamilton signed the Coinage Act.</em>(汉密尔顿签署了《铸币法案》。)</p>
+<p class="def-quick"><b>一句话:</b> <b>最常见的英语句型</b> — 主语 + 及物动词 + 宾语。「谁 + 做 + 什么」的标准结构。</p>
+<p class="def-deep"><b>详细:</b> SVO 占英语句子的绝大多数。任何表达「主体对客体施加动作」的句子,基本都是这个骨架。掌握 SVO,就掌握了英语 70% 以上的句子。语序固定 — 主语必在动词前,宾语必在动词后,违反语序就改变语义甚至失去合法性。</p>
+<p class="def-position"><b>位置 / 用法:</b> 严格的 S-V-O 顺序,英语没有「宾语前置」的常规许可(只有特殊修辞如 What he said, I cannot agree)。可以加各种状语(时间 / 地点 / 方式),但不能改变核心三元素的位置。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文 SVO 也是主流(我吃饭),但中文允许多种语序(饭我吃了 / 我饭吃了),英文严格 SVO,几乎不允许动宾倒置。这是英语「分析语」(analytical language)的特征 — 靠词序而非词形决定语法关系。</p>
+<p class="def-forms"><b>变体:</b><br>
+① <em>SVO</em>:Hamilton signed the Coinage Act.<br>
+② <em>SVO + 状语</em>:Hamilton signed the Act in 1792.<br>
+③ <em>状语 + SVO</em>:In 1792, Hamilton signed the Act.<br>
+④ <em>SVO + 后置定语</em>:He signed the Act <em>that he had drafted</em>.<br>
+⑤ <em>从句作 O</em>:He believed <em>that the dollar would last</em>.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>SVO vs SVC</b> — 后接的是宾语还是表语?<br>
+SVO:He <em>made</em> the bank(他建立了银行 — make 是实义,bank 是宾语)<br>
+SVC:He <em>is</em> a banker(他是银行家 — is 是系动词,banker 是表语)<br>
+判断:动词是实义动词 → SVO;系动词 → SVC。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Yesterday I dinner ate</code>(中文「饭我吃了」语序搬过来)<br>
+✓ <code>Yesterday I ate dinner</code><br>
+✗ <code>I want to know what is his name</code>(宾从内不能倒装)<br>
+✓ <code>I want to know what his name is</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-003">S-003</a> <em>Hamilton signed the Coinage Act</em>(经典 SVO)<br>
+② <a href="/breakdown/#s-013">S-013</a> 被动版 SVO <em>The greenback was issued in 1862</em>(主动还原 = the government issued the greenback)<br>
+③ <a href="/breakdown/#s-017">S-017</a> 宾从作 O <em>Bryan declared that mankind must not be crucified</em></p>
+<p class="def-related"><b>相关:</b> <a href="#transitive-vs-intransitive">及物动词</a> · <a href="#object">宾语</a> · <a href="#voice">④ 语态</a></p>
 </div>
 
-<div class="term" id="pattern-3">
-<h3>③ S + V + IO + DO — 主语 + 双宾动词 + 间宾 + 直宾</h3>
-<p class="def">give / send / tell / show / offer / lend / pay / teach / hand / pass 等双宾语动词。先间宾(通常为人),后直宾(通常为物)。可改写为「V + DO + to/for + IO」。</p>
-<p class="ex"><a href="/breakdown/#s-107">S-107</a> <em>The Fed's emergency loans gave foreign banks fresh dollars at the height of the panic.</em>(gave + foreign banks 间宾 + fresh dollars 直宾)</p>
+<div class="term term-deep" id="pattern-3">
+<h3>③ S + V + IO + DO — 主语 + 双宾动词 + 间接宾语 + 直接宾语</h3>
+<p class="def-quick"><b>一句话:</b> 双宾语句型 — 主语 + 双宾动词 + <b>间接宾语</b>(通常是人) + <b>直接宾语</b>(通常是物)。「给谁什么 / 告诉谁什么 / 教谁什么」。</p>
+<p class="def-deep"><b>详细:</b> 双宾句的双宾动词数量有限,但都是高频核心动词:give / send / tell / show / offer / lend / pay / teach / hand / pass / write / make / buy / cook / get。它们都涉及「转移」语义 — 把某物从一方传给另一方。两种语序可互换:「V + 间宾 + 直宾」⇔「V + 直宾 + to/for + 间宾」。</p>
+<p class="def-position"><b>位置 / 用法:</b> 标准语序间宾在前(He gave <em>me</em> a book),改写时直宾在前(He gave <em>a book</em> to me)。两种语序在语义上几乎相同,但语用焦点不同 — 后置的更突出,所以英语母语者用第二种语序时往往是想强调「书」(a book)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有双宾(给我一本书 / 告诉我一件事),语序相同。但中文 to/for 改写较少使用。中国学生学双宾基本无障碍,问题主要在「哪些动词能用双宾」 — explain / introduce / suggest 这三个动词在中文里能直接「给我解释 / 介绍 / 建议某事」,英文必须用 to/for 形式(✗ explain me sth → ✓ explain sth to me)。</p>
+<p class="def-forms"><b>双宾动词的 2 种改写:</b><br>
+① <em>原型</em>:S + V + IO + DO<br>
+&nbsp;&nbsp;He gave me a book. / She told him the truth.<br>
+② <em>to-改写</em>(give 类,涉及给予):S + V + DO + <b>to</b> + IO<br>
+&nbsp;&nbsp;He gave a book to me. / She told the truth to him.<br>
+③ <em>for-改写</em>(buy 类,涉及为...):S + V + DO + <b>for</b> + IO<br>
+&nbsp;&nbsp;She bought a book for me. / He cooked dinner for us.<br>
+④ <em>必须改写的动词</em>(不能用原型):explain / introduce / suggest / describe / mention<br>
+&nbsp;&nbsp;✗ He explained me the rule → ✓ He explained the rule to me</p>
+<p class="def-confuse"><b>易混淆:</b> <b>SVOO vs SVOC</b> — 后两个名词是「两个对等宾语」(双宾)还是「宾语 + 宾补」?<br>
+SVOO:I gave him <em>a book</em>(him ≠ a book,他和书是不同对象)<br>
+SVOC:I called him <em>a fool</em>(him = a fool,他就是 fool)<br>
+判断:两个名词等同 → SVOC;两个名词不等同 → SVOO。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He explained me the rule</code>(explain 必须用 to)<br>
+✓ <code>He explained the rule to me</code><br>
+✗ <code>She suggested me a book</code>(suggest 必须用 to)<br>
+✓ <code>She suggested a book to me</code> 或 <code>She suggested that I read the book</code><br>
+✗ <code>He give me yesterday a book</code>(状语不能插在双宾中间)<br>
+✓ <code>He gave me a book yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-107">S-107</a> <em>The Fed's emergency loans gave foreign banks fresh dollars</em>(gave + 间宾 foreign banks + 直宾 fresh dollars)<br>
+② <a href="/breakdown/#s-101">S-101</a> <em>nations lent to one another</em>(lend 用 to-形式,因为间宾紧跟代词宾格)<br>
+③ <a href="/breakdown/#s-029">S-029</a> 含双宾改写 <em>Roosevelt had the metal reminted ...</em>(have + O + V-en 使役)</p>
+<p class="def-related"><b>相关:</b> <a href="#object">宾语(直 / 间)</a> · <a href="#transitive-vs-intransitive">及物动词</a> · <a href="#preposition">介词 to / for</a></p>
 </div>
 
-<div class="term" id="pattern-4">
-<h3>④ S + V + O + C — 主语 + 谓 + 宾 + 宾补</h3>
-<p class="def">使役动词 (make / let / have) 和感官动词 (see / hear / find) 后宾语 + 补足语。</p>
-<p class="ex"><a href="/breakdown/#s-022">S-022</a> <em>The war made the dollar emerge as a credible reserve currency.</em>(战争使美元崛起为储备货币。emerge=宾补)</p>
+<div class="term term-deep" id="pattern-4">
+<h3>④ S + V + O + C — 主语 + 谓语 + 宾语 + 宾补</h3>
+<p class="def-quick"><b>一句话:</b> 「宾语 + 宾补」结构 — 主语做了什么动作,使<b>宾语处于某种状态 / 做某事</b>。宾补描述宾语,不是描述主语。</p>
+<p class="def-deep"><b>详细:</b> SVOC 是英语高级写作的关键句型 — 它把「使役 / 感知 / 评价」三种语义紧凑表达。常见使役动词(make / let / have / get / cause)、感官动词(see / hear / find / watch / notice)、评价动词(consider / think / believe / call / find / deem)。宾补可以是名词、形容词、不定式、动名词、过去分词。</p>
+<p class="def-position"><b>位置 / 用法:</b> 严格的 S - V - O - C 顺序。宾补紧跟宾语,描述宾语状态。注意:宾补的形式因动词不同而异 — make / let / have 后跟动词原形不带 to;help 可带可不带 to;其他多数动词带 to V。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「我看到他走」对应英文 I saw him walk(感官动词后用动词原形),但中文「我让他做」对应英文 I made him do(make 后用原形)而不是 I made him to do。这种「宾补的形式选择」是中国学生最易错的细节。</p>
+<p class="def-forms"><b>SVOC 的 5 种宾补形式:</b><br>
+① <em>宾补 = 名词</em>:They <b>elected him president</b>(him = president)<br>
+② <em>宾补 = 形容词</em>:Markets considered the dollar <b>safe</b>(dollar 是 safe 的)<br>
+③ <em>宾补 = 不带 to 的不定式</em>(使役 / 感官):I made him <b>go</b> / I saw him <b>walk</b><br>
+④ <em>宾补 = to 不定式</em>(其他动词):I want him <b>to go</b> / I expect him <b>to come</b><br>
+⑤ <em>宾补 = 现在分词 / 过去分词</em>:I saw him <b>running</b>(进行)/ I had it <b>fixed</b>(被动)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>SVOC vs SVOO</b> — 见 ③ SVOO 章节。两个名词等同 → SVOC;不等同 → SVOO。<br>
+<b>make 的两种用法</b> — make 作及物(SVO):He made a cake(做了一个蛋糕);make 作使役(SVOC):He made me cry(让我哭)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I made him to go</code>(make 后宾补不带 to)<br>
+✓ <code>I made him go</code><br>
+✗ <code>I let him to do it</code>(let 后也不带 to)<br>
+✓ <code>I let him do it</code><br>
+✗ <code>I want he go</code>(want 后用 to V 不定式,且代词用宾格)<br>
+✓ <code>I want him to go</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-022">S-022</a> 使役 + 宾补 <em>The war made the dollar emerge as a reserve currency</em>(make + 宾 + 原形宾补)<br>
+② <a href="/breakdown/#s-035">S-035</a> 形宾补 <em>found it impossible to persuade</em>(form 句型 + 形容词宾补)<br>
+③ <a href="/breakdown/#s-102">S-102</a> 形宾补 <em>Markets considered the dollar safe</em>(considered + 宾 + 形宾补)<br>
+④ <a href="/breakdown/#s-029">S-029</a> 过分宾补 <em>had the metal reminted</em>(have something done = 让某物被做)</p>
+<p class="def-related"><b>相关:</b> <a href="#complement">宾补</a> · <a href="#object">宾语</a> · <a href="#adj-object-complement">形容词作宾补</a> · <a href="#nonfinite">非谓语动词</a></p>
 </div>
 
-<div class="term" id="pattern-5">
+<div class="term term-deep" id="pattern-5">
 <h3>⑤ S + V + C — 主语 + 系动词 + 表语</h3>
-<p class="def">系动词 (be / become / seem / appear / look / feel / sound / get) 后接表语,描述主语状态。</p>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> <em>What restored monetary order ... was the Resumption Act of 1875.</em>(...的,正是 1875 年的法案。was=系动词,the Resumption Act=表语)</p>
+<p class="def-quick"><b>一句话:</b> 系动词句型 — 主语 + 系动词 + <b>表语</b>(描述主语)。「X 是 Y / X 变成 Y / X 看起来 Y」。</p>
+<p class="def-deep"><b>详细:</b> SVC 不带宾语,因为系动词不表「动作」,只表「状态」或「状态变化」。表语是描述主语的,所以表语和主语<b>语义上等同或描述</b>(He is a doctor — he = a doctor;He seems tall — he 具有 tall 的特征)。这是英语判断句、描述句的核心结构。</p>
+<p class="def-position"><b>位置 / 用法:</b> 严格 S - V - C。表语紧跟系动词,可以是形容词、名词短语、介词短语、动名词、不定式、从句。系动词列表见 <a href="#linking-verb">⓪.5 系动词</a>。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文 SVC 中常省略系动词「是」(他高 / 我累),英文必须有 — He <em>is</em> tall / I <em>am</em> tired。中国学生最大盲区是<b>漏 be 动词</b>。「天黑了」必须 It <em>got</em> dark / It <em>is</em> dark,不能光说 Dark。</p>
+<p class="def-forms"><b>表语的 6 种形式:</b><br>
+① <em>名词 / 名词短语</em>:He is <b>a teacher</b> / It was <b>the Resumption Act</b><br>
+② <em>形容词</em>:She seems <b>happy</b> / The dollar is <b>fragile</b><br>
+③ <em>介词短语</em>:He is <b>in trouble</b> / The book is <b>on the table</b><br>
+④ <em>动名词</em>:My hobby is <b>reading</b> / Seeing is <b>believing</b><br>
+⑤ <em>不定式</em>:My plan is <b>to study</b> / The key is <b>to start now</b><br>
+⑥ <em>从句</em>(表语从句):The fact is <b>that he failed</b> / The truth is <b>that no fiat currency...</b></p>
+<p class="def-confuse"><b>易混淆:</b> <b>SVC vs SVO</b> — 见 ② SVO 章节。系动词 → SVC;实义动词 → SVO。<br>
+<b>表语形容词 vs 副词</b> — 系动词后必须用<b>形容词</b>,不是副词。✓ He looks happy / ✗ He looks happily(除非 happily 修饰另一动词)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I tired</code>(漏 be 动词)<br>
+✓ <code>I am tired</code><br>
+✗ <code>The cake tastes sweetly</code>(系 + 副词)<br>
+✓ <code>The cake tastes sweet</code><br>
+✗ <code>He become rich</code>(动词形态错)<br>
+✓ <code>He became rich</code> 或 <code>He has become rich</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-014">S-014</a> 名词表语 <em>What restored monetary order ... was the Resumption Act</em><br>
+② <a href="/breakdown/#s-015">S-015</a> 双形容词表语 <em>seemed prudent ... ruinous</em><br>
+③ <a href="/breakdown/#s-026">S-026</a> 形容词复合表语 <em>was such a shock</em><br>
+④ <a href="/breakdown/#s-076">S-076</a> 多名词表语 <em>The dollar is more than money: it is a record, a promise, and a memory</em></p>
+<p class="def-related"><b>相关:</b> <a href="#linking-verb">系动词</a> · <a href="#complement">表语</a> · <a href="#noun-clauses">表语从句</a></p>
 </div>
 
 <hr>
@@ -477,77 +765,310 @@ permalink: /terms/
 <h2 id="constituents" class="term">② 句子成分</h2>
 <p>每个句子拆开看,是若干"成分"在协作。下面是九个最重要的成分。</p>
 
-<div class="term" id="subject">
+<div class="term term-deep" id="subject">
 <h3>主语 · Subject</h3>
-<p class="def"><strong>谁/什么</strong>在做这个动作或处于某状态。一句话的"主"。</p>
-<p class="def">英语里,主语通常在谓语动词之前(倒装时除外)。可由名词、代词、动名词、不定式、that 从句、wh 从句、whether 从句等充当。</p>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> 主 = What restored monetary order(wh-从句作主语)</p>
-<p class="ex"><a href="/breakdown/#s-015">S-015</a> 主 = Returning to the gold standard(动名词作主语)</p>
-<p class="ex"><a href="/breakdown/#s-072">S-072</a> 主 = To predict the dollar's future(不定式作主语)</p>
+<p class="def-quick"><b>一句话:</b> 「<b>谁</b>做 / <b>什么</b>是」。一句话的发起者或描述对象,处于句子的最前面。</p>
+<p class="def-deep"><b>详细:</b> 主语是英语句子的「起点」 — 它决定了谓语动词的形态(单 / 复数、人称),也决定了句子的视角。一个独立的英语句子<b>必须</b>有主语,即使没有真正的「主语」也要用 it / there 占位(It rains / There is a book)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 默认在谓语动词之前(SV/SVO/SVC/SVOO/SVOC 都是 S 在最前)。倒装句中可移到助动词之后(Never <em>have I</em> seen ...)。强调句中可被 it 替代(<em>It</em> was Hamilton who signed the Act)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文常省略主语 —「下雨了」「累了」「该走了」都没主语。英文绝不能省 — 必须 It is raining / I am tired / We should go。这是中国学生最常忘掉的一条:写英文一句话之前先问「主语是什么」。中文「我父亲」翻译时不能 my father is(还要谓语),英文必须主语完整。</p>
+<p class="def-forms"><b>主语的 8 种形式:</b><br>
+① <em>名词</em>:<b>Money</b> tells a story.<br>
+② <em>代词</em>:<b>He</b> signed it.<br>
+③ <em>名词短语</em>:<b>The young republic</b> stamps out its first dollar.<br>
+④ <em>动名词 / 动名词短语</em>:<b>Returning</b> to the gold standard seemed prudent.<br>
+⑤ <em>不定式短语</em>:<b>To predict</b> the dollar's future is, in the end, ...<br>
+⑥ <em>that 从句</em>:<b>That</b> the dollar has outlasted every rival currency remains a miracle.<br>
+⑦ <em>wh 从句</em>:<b>What</b> restored monetary order ... was the Resumption Act.<br>
+⑧ <em>形式主语 it / there</em>:<b>It</b> is essential that ... / <b>There</b> was no easy way back.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>真主语 vs 形式主语</b> — It is essential <em>that he retain</em> the confidence 中,it 是形式主语,真主语是 that he retain ... 从句。位置上 it 在前,真主语在后(extraposition,「外置」)。<br>
+<b>主语 vs 主题</b>(中文里这叫「话题」)— 中文「这本书我读了」中「这本书」是话题,「我」是主语。英文不允许这种结构,必须写成「I read this book」或被动「This book was read by me」。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Is raining today</code>(漏主语)<br>
+✓ <code>It is raining today</code><br>
+✗ <code>Important to study English</code>(漏主语 + 系动词)<br>
+✓ <code>It is important to study English</code><br>
+✗ <code>What he said is true → What did he say is true</code>(主语从句不倒装)<br>
+✓ <code>What he said is true</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-014">S-014</a> wh-从句 <em>What restored monetary order after Reconstruction</em><br>
+② <a href="/breakdown/#s-015">S-015</a> 动名词 <em>Returning to the gold standard</em><br>
+③ <a href="/breakdown/#s-072">S-072</a> 不定式 <em>To predict the dollar's future</em><br>
+④ <a href="/breakdown/#s-108">S-108</a> that 从句 <em>That the dollar has outlasted every rival currency</em><br>
+⑤ <a href="/breakdown/#s-098">S-098</a> there 形式主语 <em>There was no easy way back to gold</em></p>
+<p class="def-related"><b>相关:</b> <a href="#predicate">谓语</a> · <a href="#patterns">① 五大句型</a> · <a href="#noun-clauses">主语从句</a> · <a href="#extraposition-mandative">It is + adj + that 句型</a></p>
 </div>
 
-<div class="term" id="predicate">
-<h3>谓语 · Predicate / Verb</h3>
-<p class="def">告诉我们主语<strong>做什么 / 是什么 / 怎么样</strong>。围绕动词展开。</p>
-<p class="def">可以是单动词、动词短语、助动词 + 主动词、情态动词 + 动词原形,或系动词 + 表语。</p>
-<p class="ex"><a href="/breakdown/#s-042">S-042</a> 谓 = has floated(现在完成时)</p>
-<p class="ex"><a href="/breakdown/#s-068">S-068</a> 谓 = will have been generating(将来完成进行时,4 助动词)</p>
+<div class="term term-deep" id="predicate">
+<h3>谓语 · Predicate / Verb Phrase</h3>
+<p class="def-quick"><b>一句话:</b> 告诉我们主语<b>做什么 / 是什么 / 怎么样</b>。围绕动词展开 — 整个动词组合(主动词 + 助动词 + 情态)都是谓语的一部分。</p>
+<p class="def-deep"><b>详细:</b> 谓语是句子的核心 — 它表达句子的动作、状态、关系,并通过时态、语态、语气携带<b>关于事件的全部时间和态度信息</b>。掌握谓语,就掌握了「时间 + 行为 + 态度」三层语义。一句话至少有一个谓语,且只有一个限定动词承担谓语功能。</p>
+<p class="def-position"><b>位置 / 用法:</b> 标准位置紧跟主语(He <em>signed</em>);倒装句中助动词在主语前(<em>Never have</em> I seen);疑问句中助动词在主语前(<em>Did</em> he sign?)。谓语可以是单动词,也可以是助动词链 + 主动词的组合(will have been generating — 4 个词共同充当一个谓语)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文谓语形态简单 —「我吃」「他吃」「我们吃过」动词都是「吃」,时间 / 体貌靠「了 / 过 / 着 / 正在」等小词标记。英文谓语必须按时态、人称、数变化(eat / eats / ate / eaten / eating),且需要助动词协同(have eaten / is eating / will have eaten)。中国学生最大盲区:不知道何时用 have / had / will,导致时态混乱。</p>
+<p class="def-forms"><b>谓语的 6 种构成:</b><br>
+① <em>单一限定动词</em>:He <b>signed</b> the Act.<br>
+② <em>助动词 + 主动词</em>(进行 / 完成 / 被动):He <b>has signed</b> / He <b>is signing</b> / It <b>was signed</b><br>
+③ <em>情态动词 + 动词原形</em>:He <b>must sign</b> / He <b>can speak</b><br>
+④ <em>系动词 + 表语</em>(SVC):He <b>is</b> a teacher / It <b>seems</b> easy<br>
+⑤ <em>多助动词链</em>:will + have + been + V-ing(He <b>will have been working</b> for 10 years by 2030)<br>
+⑥ <em>实义动词 + 宾语 + 宾补</em>(SVOC):I <b>made him go</b> / He <b>found it impossible</b></p>
+<p class="def-confuse"><b>易混淆:</b> <b>谓语 vs 非谓语</b> — 谓语是被时态、人称、数标记的限定动词,作句子主动词;非谓语(不定式、动名词、分词)不带这些标记,作其他成分。一句话只能有一个谓语,可以有多个非谓语。<br>
+<b>动词 vs 谓语</b> — 动词是词类,谓语是句法功能。一个动词词的某种形式(签 / 签了 / 签着 / 在签)在句中作谓语。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I yesterday go to school</code>(谓语形态不对,need to use past tense)<br>
+✓ <code>I went to school yesterday</code><br>
+✗ <code>He signed and going home</code>(两个动词形式不对等 — 平行结构)<br>
+✓ <code>He signed and went home</code> 或 <code>He, having signed, was going home</code><br>
+✗ <code>I am study English</code>(进行时 = be + V-ing,不是 be + 原形)<br>
+✓ <code>I am studying English</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-042">S-042</a> 现在完成 <em>has floated</em>(have + V-en)<br>
+② <a href="/breakdown/#s-068">S-068</a> 4 助动词链 <em>will have been generating</em>(将来完成进行)<br>
+③ <a href="/breakdown/#s-029">S-029</a> 使役 <em>had the metal reminted</em>(have + O + V-en)<br>
+④ <a href="/breakdown/#s-030">S-030</a> 倒装 <em>had ... dared</em>(Never before had a peacetime president dared)</p>
+<p class="def-related"><b>相关:</b> <a href="#verb">动词</a> · <a href="#auxiliary-verb">助动词</a> · <a href="#tenses">③ 时态</a> · <a href="#voice">④ 语态</a> · <a href="#finite-vs-nonfinite">限定 vs 非谓语</a></p>
 </div>
 
-<div class="term" id="object">
+<div class="term term-deep" id="object">
 <h3>宾语 · Object</h3>
-<p class="def">动作所及之物。"V 谁"、"V 什么"。</p>
-<p class="def">三种:直接宾语 (DO)、间接宾语 (IO)、介词宾语 (PO)。可由名词、代词、动名词、不定式、that 从句、wh 从句充当。</p>
-<p class="ex"><a href="/breakdown/#s-017">S-017</a> 宾从 = that mankind must not be crucified upon a cross of gold</p>
-<p class="ex"><a href="/breakdown/#s-073">S-073</a> 宾(不定式) = to trust the dollar</p>
+<p class="def-quick"><b>一句话:</b> 动作所及之物。回答「<b>V 谁 / V 什么</b>」。三种:直接宾语 (DO)、间接宾语 (IO)、介词宾语 (PO)。</p>
+<p class="def-deep"><b>详细:</b> 宾语是「动作的承受者」。只有及物动词才有宾语;介词后面也跟宾语(称为介词宾语)。宾语可以是简单名词,也可以是复杂结构(从句、动名词、不定式)。识别宾语,关键看动词后跟的是「动作的承受者」(SVO)还是「描述主语的状态」(SVC,这是表语,不是宾语)。</p>
+<p class="def-position"><b>位置 / 用法:</b> 直接宾语紧跟动词(He signed <em>the Act</em>);双宾结构 IO 在 DO 前(He gave <em>me</em> a book);介词宾语在介词后(in <em>1792</em>)。代词作宾语必须用<b>宾格</b>(me / him / her / us / them,不是主格)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文宾语位置很灵活,有「把」「将」「拿」字句允许提前(把书给我),英文严格不能提前。中文不严格区分宾格代词(他 = he/him),英文必须区分(主格 he 作主语,宾格 him 作宾语)。中国学生常忘记代词宾格变化。</p>
+<p class="def-forms"><b>宾语的 7 种形式:</b><br>
+① <em>名词 / 名词短语</em>:He signed <b>the Coinage Act</b>.<br>
+② <em>代词宾格</em>:He saw <b>him</b> / She trusts <b>them</b>.<br>
+③ <em>动名词 / 短语</em>:I enjoy <b>swimming</b> / He kept <b>insisting on free silver</b>.<br>
+④ <em>不定式 / 短语</em>:I want <b>to leave</b> / He learned <b>to predict the future</b>.<br>
+⑤ <em>that 从句</em>:He believed <b>that the dollar would last</b>.<br>
+⑥ <em>wh / whether 从句</em>:I wonder <b>what he said</b> / I asked <b>whether he came</b>.<br>
+⑦ <em>双宾</em>(IO + DO):He gave <b>me a book</b>.</p>
+<p class="def-confuse"><b>易混淆:</b> <b>宾语 vs 表语</b> — 看动词类型。实义及物动词(make / find / sign)后是宾语;系动词(be / seem / become)后是表语。He <em>made</em> a cake(make 是实义,a cake 是宾语)/ He <em>is</em> a teacher(is 是系动词,a teacher 是表语)。<br>
+<b>直接宾语 vs 间接宾语</b> — 双宾结构里,通常人是间接宾语(谁收到),物是直接宾语(收到什么)。改写时人前面加 to / for。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He saw she yesterday</code>(代词作宾语必须宾格)<br>
+✓ <code>He saw her yesterday</code><br>
+✗ <code>I enjoy to swim</code>(enjoy 后必须用动名词)<br>
+✓ <code>I enjoy swimming</code><br>
+✗ <code>I want know what is his name</code>(want 后用不定式 + 宾语从句)<br>
+✓ <code>I want to know what his name is</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-017">S-017</a> that 从句作宾 <em>that mankind must not be crucified upon a cross of gold</em><br>
+② <a href="/breakdown/#s-073">S-073</a> 不定式作宾 <em>to trust the dollar</em><br>
+③ <a href="/breakdown/#s-035">S-035</a> 形式宾语 <em>found it impossible to persuade</em>(it 是形式宾,真宾在后)<br>
+④ <a href="/breakdown/#s-107">S-107</a> 双宾 <em>gave foreign banks fresh dollars</em>(IO + DO)<br>
+⑤ <a href="/breakdown/#s-100">S-100</a> 间接疑问 <em>debate why the dollar survived</em></p>
+<p class="def-related"><b>相关:</b> <a href="#transitive-vs-intransitive">及物动词</a> · <a href="#preposition">介词(介宾)</a> · <a href="#patterns">SVO/SVOO/SVOC</a> · <a href="#noun-clauses">宾语从句</a></p>
 </div>
 
-<div class="term" id="complement">
+<div class="term term-deep" id="complement">
 <h3>表语 · 补语 · Complement</h3>
-<p class="def"><strong>表语 (Subject Complement)</strong> 出现在系动词之后,描述主语:<em>X is/becomes/seems Y</em>。</p>
-<p class="def"><strong>宾补 (Object Complement)</strong> 紧跟宾语之后,补足宾语的状态或行动:<em>find / make / consider / cause + O + C</em>。</p>
-<p class="ex"><a href="/breakdown/#s-026">S-026</a> 表 = such a shock(系动词 was 后)</p>
-<p class="ex"><a href="/breakdown/#s-022">S-022</a> 宾补 = emerge as a credible reserve currency(make + the dollar + emerge ...)</p>
-<p class="ex"><a href="/breakdown/#s-035">S-035</a> 宾补 = impossible(found + it + impossible)</p>
+<p class="def-quick"><b>一句话:</b> 「描述主语 / 宾语状态」的成分。<b>表语</b>(Subject Complement)在系动词后描述主语;<b>宾补</b>(Object Complement)在宾语后描述宾语。</p>
+<p class="def-deep"><b>详细:</b> 「补语」是英语 SVC 和 SVOC 句型的核心 — 它不是动作,而是描述。表语和宾语在中文语法里不那么常用,但英文里它们和宾语完全不同 — 宾语是动作的承受者(实义动词的对象),表语是状态的描述(系动词后的描述);宾补描述的是<b>宾语</b>而不是动作。</p>
+<p class="def-position"><b>位置 / 用法:</b><br>
+<em>表语</em>:S + 系动词 + <b>C</b>(He is <b>a teacher</b> / It seems <b>easy</b>)<br>
+<em>宾补</em>:S + V + O + <b>C</b>(I made him <b>angry</b> / He found it <b>impossible</b>)<br>
+表语永远紧跟系动词,描述主语;宾补永远紧跟宾语,描述宾语。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文不严格区分表语和宾语,系动词「是」也常省。「他高 / 他是医生」中文一致,英文必须 He is tall / He is a doctor。中国学生最大盲区:把宾补当宾语处理,导致句法分析错误。</p>
+<p class="def-forms"><b>补语的 6 种形式:</b><br>
+① <em>名词 / 名词短语</em>:They elected him <b>president</b>(宾补名)<br>
+② <em>形容词</em>:Markets considered the dollar <b>safe</b>(宾补形)/ He is <b>tall</b>(表语形)<br>
+③ <em>介词短语</em>:He is <b>in trouble</b>(表语介短)<br>
+④ <em>动名词</em>:Seeing is <b>believing</b>(表语动名词)<br>
+⑤ <em>不定式</em>(带 / 不带 to):I saw him <b>walk</b>(感官不带 to)/ I want him <b>to go</b>(其他动词带 to)<br>
+⑥ <em>分词</em>:I had it <b>fixed</b>(过分宾补 — 被动)/ I saw him <b>running</b>(现分宾补 — 进行)</p>
+<p class="def-confuse"><b>易混淆:</b> <b>表语 vs 宾语</b> — 表语描述主语,宾语是动作的对象。判断:看动词是系动词还是实义动词。<br>
+<b>宾补 vs 状语</b> — 宾补描述宾语状态(can be a noun/adj),状语描述动作(is usually adv/介短)。He saw her <em>tired</em>(tired 描述 her — 宾补)/ He saw her <em>yesterday</em>(yesterday 描述 saw — 状语)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He looks beautifully</code>(系动词后用形容词,不是副词)<br>
+✓ <code>He looks beautiful</code><br>
+✗ <code>I made him to cry</code>(make 后宾补不带 to)<br>
+✓ <code>I made him cry</code><br>
+✗ <code>I find this important very</code>(顺序错)<br>
+✓ <code>I find this very important</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-026">S-026</a> 表语 <em>such a shock</em>(系 was 后)<br>
+② <a href="/breakdown/#s-022">S-022</a> 宾补 <em>emerge as a credible reserve currency</em>(make + dollar + emerge)<br>
+③ <a href="/breakdown/#s-035">S-035</a> 形容词宾补 <em>impossible</em>(found + it + impossible)<br>
+④ <a href="/breakdown/#s-102">S-102</a> 形容词宾补 <em>safe</em>(considered + dollar + safe)<br>
+⑤ <a href="/breakdown/#s-029">S-029</a> 过分宾补 <em>reminted</em>(had + metal + reminted = 让金属被重铸)</p>
+<p class="def-related"><b>相关:</b> <a href="#linking-verb">系动词</a> · <a href="#object">宾语</a> · <a href="#patterns">SVC / SVOC 句型</a> · <a href="#adj-object-complement">形容词宾补</a></p>
 </div>
 
-<div class="term" id="adverbial">
+<div class="term term-deep" id="adverbial">
 <h3>状语 · Adverbial</h3>
-<p class="def">交代动作或状态的<strong>时间、地点、方式、原因、目的、结果、程度、条件、让步、伴随</strong>。</p>
-<p class="def">可由副词、介词短语、不定式、分词短语、状语从句充当。前置时常引发主谓倒装。</p>
-<p class="ex"><a href="/breakdown/#s-021">S-021</a> 时间状从 = When the First World War broke out</p>
-<p class="ex"><a href="/breakdown/#s-031">S-031</a> 目的状从 = in order that public confidence might begin to recover</p>
-<p class="ex"><a href="/breakdown/#s-019">S-019</a> 地点状语前置(倒装) = Out of the Panic of 1907 came the conviction ...</p>
+<p class="def-quick"><b>一句话:</b> 交代动作或状态的<b>时间 / 地点 / 方式 / 原因 / 目的 / 结果 / 程度 / 条件 / 让步 / 伴随</b>。回答「何时 / 何地 / 怎样 / 为何 / 多大程度」。</p>
+<p class="def-deep"><b>详细:</b> 状语是英语句子里最灵活、形式最丰富的成分。它本身不属于句子骨架(主谓宾),只是<b>背景信息</b> — 交代动作发生的环境。但在叙事写作里,状语承担「时间锚点」「逻辑连接」的核心功能,是高级写作的精华。</p>
+<p class="def-position"><b>位置 / 用法:</b> 状语位置极灵活 — 可句首、句中、句尾。前置状语用逗号隔开(<em>By 1811</em>, ...);后置状语紧跟动词或分句(He spoke <em>quietly</em>)。某些前置状语会触发主谓倒装(Out of the panic <em>came</em> the conviction;Only when X <em>did</em> Y happen)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文状语<b>固定在动词前</b>(我昨天在家学英语 — 时间 / 地点都在动词前),英文状语位置<b>非常自由</b>。这反而是中国学生写英语时显得呆板的原因 — 总把状语放在中文那个位置,缺少英文母语者的语序变化。</p>
+<p class="def-forms"><b>状语的 5 大形式 + 10 大语义类:</b><br>
+<b>形式上:</b><br>
+① <em>副词</em>:He spoke <b>quietly</b>.<br>
+② <em>介词短语</em>:He arrived <b>in 1792</b> / <b>at the mint</b>.<br>
+③ <em>不定式短语</em>:He went <b>to study</b>.<br>
+④ <em>分词短语</em>:<b>Trust restored</b>, the dollar resumed authority.(独立主格状语)<br>
+⑤ <em>状语从句</em>:<b>When the war broke out</b>, gold flowed in.<br><br>
+<b>语义上:</b><br>
+① 时间 · 地点 · 方式 · 原因 · 目的 · 结果 · 程度 · 条件 · 让步 · 伴随<br>
+详见 <a href="#adv-clauses">⑨ 状语从句</a>。</p>
+<p class="def-confuse"><b>易混淆:</b> <b>状语 vs 定语</b> — 状语修饰动词或全句,定语修饰名词。Quickly(状语,修饰动词)/ a quick decision(定语,修饰名词)。<br>
+<b>状语 vs 表语</b> — 看动词类型。He is <em>at home</em>(系动词后,at home 是表语介短) / He arrived <em>at home</em>(实义动词后,at home 是地点状语)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I yesterday went to school</code>(中文式状语位置)<br>
+✓ <code>Yesterday I went to school</code> 或 <code>I went to school yesterday</code><br>
+✗ <code>He very runs fast</code>(very 不修饰动词)<br>
+✓ <code>He runs very fast</code>(very 修饰副词 fast)<br>
+✗ <code>By 1811, Spanish reales circulated</code>(By + 时间锚点必配 had)<br>
+✓ <code>By 1811, Spanish reales had circulated</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-005">S-005</a> 时间锚 <em>By 1811</em>(配 had + V-en)<br>
+② <a href="/breakdown/#s-021">S-021</a> 时间状从 <em>When the First World War broke out</em><br>
+③ <a href="/breakdown/#s-031">S-031</a> 目的状从 <em>in order that public confidence might begin to recover</em><br>
+④ <a href="/breakdown/#s-019">S-019</a> 地点前置 + 倒装 <em>Out of the Panic of 1907 came the conviction ...</em><br>
+⑤ <a href="/breakdown/#s-039">S-039</a> Only when 强调 + 倒装 <em>Only when France began ... did the cracks become visible</em></p>
+<p class="def-related"><b>相关:</b> <a href="#adverb">副词</a> · <a href="#preposition">介词短语</a> · <a href="#adv-clauses">⑨ 状语从句</a> · <a href="#emphatic-inversion">强调倒装</a> · <a href="#anchor-time">时间锚点</a></p>
 </div>
 
-<div class="term" id="modifier">
+<div class="term term-deep" id="modifier">
 <h3>定语 · 修饰语 · Modifier</h3>
-<p class="def">修饰名词或名词短语:<strong>哪一个、什么样的、谁的</strong>。</p>
-<p class="def">形态丰富:形容词、名词作定、所有格、介词短语、不定式、过去/现在分词短语、定语从句。</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> 限定性定从 = that Hamilton designed</p>
-<p class="ex"><a href="/breakdown/#s-034">S-034</a> 过去分词短语 = designed by Keynes and Harry Dexter White</p>
-<p class="ex"><a href="/breakdown/#s-044">S-044</a> 现在分词短语 = slumbering since the 1950s</p>
+<p class="def-quick"><b>一句话:</b> 修饰<b>名词或代词</b>的成分。回答「<b>哪一本 / 什么样的 / 谁的 / 怎么样的</b>」。</p>
+<p class="def-deep"><b>详细:</b> 定语是英语和中文差别最大的语法成分。它本身不是句子骨架,但所有的「形容词、关系从句、介词短语、分词短语」放在名词身边都是定语。掌握英语定语的<b>位置规律</b>是理解英语长名词短语的关键 — 英文一个名词可以挂很多层修饰,远超中文的承受力。</p>
+<p class="def-position"><b>位置 / 用法 · 中国学生最大盲区:</b><br>
+① <em>单词级定语 → 前置</em>:形容词、名词作定、所有格 → 名词前(<em>young</em> republic / <em>silver</em> coin / <em>Hamilton's</em> bank)<br>
+② <em>短语级定语 → 后置</em>:介词短语、不定式短语、分词短语 → 名词后(arguments <em>of varying purity</em> / the way <em>to recover</em> / inflation <em>slumbering since the 1950s</em>)<br>
+③ <em>从句级定语 → 后置</em>:定语从句一律后置(the dollar <em>that Hamilton designed</em>)<br>
+④ <em>多重定语</em>:可以同时前后并存(the <em>young</em> republic <em>that Hamilton built</em>)</p>
+<p class="def-bilingual"><b>中英对照 · 关键差异:</b><br>
+中文定语<b>几乎全部前置 + 「的」</b>:「我看的书」「红色的车」「布雷顿森林体系下的世界」。<br>
+英文短语 / 从句级定语<b>必须后置</b>:✗ "I read book" → ✓ "the book <em>I read</em>" / ✗ "Hamilton designed dollar" → ✓ "the dollar <em>designed by Hamilton</em>"。<br>
+中国学生最常见错:把英文定语像中文一样硬塞到名词前面 → 句子破碎。</p>
+<p class="def-forms"><b>定语的 8 种形式:</b><br>
+① <em>形容词</em>:<b>young</b> republic / <b>fragile</b> dollar(前置)<br>
+② <em>名词作定</em>:<b>silver</b> dollar / <b>gold</b> standard(前置)<br>
+③ <em>所有格</em>:Hamilton<b>'s</b> bank / America<b>'s</b> reserve(前置)<br>
+④ <em>介词短语</em>:gold <b>of varying purity</b> / dollars <b>in the bank</b>(后置)<br>
+⑤ <em>不定式短语</em>:the way <b>to recover</b> / a system <b>to underwrite finance</b>(后置)<br>
+⑥ <em>现在分词短语</em>:inflation <b>slumbering since the 1950s</b>(后置 / 主动义)<br>
+⑦ <em>过去分词短语</em>:the system <b>designed by Keynes</b>(后置 / 被动义)<br>
+⑧ <em>定语从句</em>:the dollar <b>that Hamilton designed</b>(后置)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>定语 vs 同位语</b> — 定语是「修饰」(描述这个名词怎么样);同位语是「重命名」(用另一种说法指代同一对象)。"Hamilton<em>'s</em> bank"(定语:谁的银行 — 定语描述);"the dollar, <em>America's currency</em>"(同位语:美元就是美国的货币 — 重命名)。<br>
+<b>定语 vs 表语</b> — 都是修饰性的,但位置不同。定语紧贴名词;表语在系动词后描述主语。<em>young</em> republic(定语)/ The republic is <em>young</em>(表语)。<br>
+<b>现在分词 vs 过去分词作定语</b> — 现在分词带主动义(inflation slumbering = 通胀在沉睡);过去分词带被动义(the system designed = 体系被设计)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have a friend works in Beijing</code>(漏 who,变成两个谓语)<br>
+✓ <code>I have a friend who works in Beijing</code><br>
+✗ <code>The book I bought it is good</code>(关代省了,it 也要省 — 不能双重指代)<br>
+✓ <code>The book I bought is good</code><br>
+✗ <code>Designed by Hamilton dollar</code>(短语级定语必须后置)<br>
+✓ <code>The dollar designed by Hamilton</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-002">S-002</a> 形容词前置 <em>young</em> republic / <em>first silver</em> dollar(序:数 + 质 + 名)<br>
+② <a href="/breakdown/#s-009">S-009</a> 限定性定从后置 <em>that Hamilton designed</em>(关代 that 是 designed 的宾语)<br>
+③ <a href="/breakdown/#s-034">S-034</a> 过分短语后置 <em>designed by Keynes and Harry Dexter White</em>(被动义)<br>
+④ <a href="/breakdown/#s-044">S-044</a> 现分短语后置 <em>slumbering since the 1950s</em>(主动 + 进行义)<br>
+⑤ <a href="/breakdown/#s-064">S-064</a> 现分短语后置 <em>needing neither a government to issue it nor a central bank to control it</em></p>
+<p class="def-related"><b>相关:</b> <a href="#adjective">形容词</a> · <a href="#noun">名词</a> · <a href="#appositive">同位语</a> · <a href="#relative-clauses">⑧ 定语从句</a> · <a href="#participle-past">过去分词</a> · <a href="#participle-present">现在分词</a></p>
 </div>
 
-<div class="term" id="appositive">
+<div class="term term-deep" id="appositive">
 <h3>同位语 · Appositive</h3>
-<p class="def">紧跟一个名词,对其重命名或扩展。可由逗号、破折号、冒号引出,或紧贴。</p>
-<p class="ex"><a href="/breakdown/#s-055">S-055</a> 三项并列同位 = the currency of America, the language of global trade, and the silent partner in every contract</p>
-<p class="ex"><a href="/breakdown/#s-064">S-064</a> 分词同位短语 = a currency needing neither a government to issue it nor a central bank to control it</p>
+<p class="def-quick"><b>一句话:</b> 紧跟一个名词,用<b>另一种说法</b>对其重命名 / 解释 / 扩展。前后两部分指<b>同一对象</b>。</p>
+<p class="def-deep"><b>详细:</b> 同位语是英语写作里常见的「补充说明」结构。它和定语的关键区别:<b>定语是修饰</b>(描述名词怎么样),<b>同位语是重命名</b>(用另一种身份指代同一名词)。同位语让英语句子可以在不增加从句的情况下,塞入额外信息,是新闻、政经、学术写作的标志。</p>
+<p class="def-position"><b>位置 / 用法:</b> 同位语紧跟所修饰的名词,通常用<b>逗号 / 破折号 / 冒号</b>隔开(也可紧贴无标点)。可前可后:<br>
+① 后置同位:Hamilton, <em>the founder of the Federal Reserve's predecessor</em>, ...<br>
+② 前置同位:<em>An economist of rare vision</em>, Keynes saw the future.<br>
+③ 紧贴无标点:my friend Tom / the verb sign / the year 1792</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文同位语也存在(我的朋友小张 / 1792 年),但中文相对克制,且很少用复杂的同位结构。英文同位语极常见,也允许复杂嵌套。中国学生写英语常少用同位语,导致信息密度低 — 这是简洁紧凑的关键技巧。</p>
+<p class="def-forms"><b>同位语的 6 种形式:</b><br>
+① <em>名词 / 名词短语</em>:my friend <b>Tom</b> / the year <b>1792</b><br>
+② <em>逗号引出名词短语</em>:Bryan, <b>the great orator</b>, lost the election.<br>
+③ <em>破折号引出</em>:The dollar — <b>America's silent partner</b> — survives.<br>
+④ <em>冒号引出</em>:He had one goal: <b>to recover the gold standard</b>.<br>
+⑤ <em>三项并列同位</em>(列举):The dollar is three things at once: <b>the currency of America</b>, <b>the language of global trade</b>, and <b>the silent partner in every contract</b>.<br>
+⑥ <em>分词同位短语</em>:Bitcoin, <b>a currency needing neither a government to issue it nor a central bank to control it</b>, was launched in 2009.<br>
+⑦ <em>同位语从句</em>(that 引导,见下):The fact <b>that he failed</b> shocked me.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>同位语 vs 定语</b> — 都跟在名词身边,但同位语是<b>重命名</b>(等同关系),定语是<b>描述</b>(从属关系)。<br>
+"the dollar, <em>America's currency</em>"(同位:dollar = America's currency)<br>
+"<em>America's</em> currency"(定语:America's 修饰 currency)<br>
+<b>同位语 vs 后置定语</b> — 后置定语通常是分词或介词短语,描述名词;同位语是名词短语,等同于前面的名词。<br>
+<b>同位语从句 vs 定语从句</b> — 都用 that 引导:同位语从句中 that <b>不充当任何成分</b>(纯连接);定语从句中 that <b>充当主语 / 宾语</b>(可省略)。<br>
+✓ The fact <em>that</em> he failed(同位 — that 不充任何成分)<br>
+✓ The book <em>that</em> I bought(定语 — that 是 bought 的宾语)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>My friend, he is a doctor, came yesterday</code>(中文「我朋友,他是医生」直译 — 英文不允许同位语再用代词重指)<br>
+✓ <code>My friend, a doctor, came yesterday</code><br>
+✗ <code>The fact he failed shocked me</code>(同位语从句的 that 不能省 — 否则缺连接)<br>
+✓ <code>The fact that he failed shocked me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-055">S-055</a> 三项并列同位 <em>the currency of America, the language of global trade, and the silent partner in every contract</em>(冒号引出)<br>
+② <a href="/breakdown/#s-064">S-064</a> 现分同位短语 <em>a currency needing neither a government to issue it nor a central bank to control it</em>(逗号引出)<br>
+③ <a href="/breakdown/#s-076">S-076</a> 三项同位 <em>a record, a promise, and a memory</em>(冒号引出 — 同位语 vs 表语 hybrid)</p>
+<p class="def-related"><b>相关:</b> <a href="#noun">名词</a> · <a href="#modifier">定语</a> · <a href="#noun-clauses">同位语从句</a> · <a href="#independent">独立成分</a></p>
 </div>
 
-<div class="term" id="independent">
+<div class="term term-deep" id="independent">
 <h3>独立成分 · Independent Elements</h3>
-<p class="def">语法上"独立"于句子主干,不充当任何核心成分,但传递语气、衔接、称呼、感叹。</p>
-<p class="ex"><a href="/breakdown/#s-076">S-076</a> 呼语 = dear reader</p>
-<p class="ex"><a href="/breakdown/#s-079">S-079</a> 感叹词 = Ah</p>
-<p class="ex"><a href="/breakdown/#s-056">S-056</a> 语篇衔接词 = Indeed</p>
+<p class="def-quick"><b>一句话:</b> 语法上「<b>独立</b>」于句子主干,不充当主谓宾任何核心成分,但<b>传递语气、衔接、称呼、感叹</b>。</p>
+<p class="def-deep"><b>详细:</b> 独立成分是英语句子里的「附加层」 — 它不参与句法骨架,但承载说话人的<b>语用</b>(立场 / 情感 / 衔接)。在正式写作中,独立成分(尤其是语篇副词如 indeed / however / paradoxically)是「学者腔」的标志,出现密度直接显示作者写作的成熟度。</p>
+<p class="def-position"><b>位置 / 用法:</b> 独立成分通常用逗号、破折号或感叹号与主干隔开。可在句首、句中、句尾。<br>
+① 句首引导:<em>Indeed,</em> Greenspan presided over ...<br>
+② 句中插入:The world, <em>paradoxically,</em> trusts the dollar.<br>
+③ 句尾追加:He failed, <em>didn't he?</em>(反意疑问)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「呢 / 吗 / 啊 / 当然 / 显然」的独立成分极常见;英文也有等价物(indeed / surely / obviously / of course),但<b>语篇副词</b>(discourse markers)如 paradoxically / nevertheless / furthermore 是中文几乎没有的特殊形式。中国学生写英语作文常缺这一层,显得不够成熟。</p>
+<p class="def-forms"><b>独立成分的 6 大类:</b><br>
+① <em>呼语</em>(称呼):<b>Dear reader,</b> the dollar is more than money.<br>
+② <em>感叹词</em>:<b>Ah</b> — and money keeps telling the human story.<br>
+③ <em>语篇副词</em>:<b>Indeed,</b> Greenspan presided ... / The world, <b>paradoxically,</b> trusts the dollar.<br>
+④ <em>插入语</em>(parenthetical):The dollar — <b>like all reserve currencies</b> — depends on trust.<br>
+⑤ <em>反意疑问</em>:Money tells a story, <b>doesn't it?</b><br>
+⑥ <em>独立主格</em>(absolute):见下条目。</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>独立成分 vs 状语</b> — 状语修饰句子(交代时间 / 地点 / 方式),独立成分不修饰具体词。"Yesterday, I left"(状语 — 修饰 left);"Indeed, I left"(独立成分 — 表态度,不修饰)。<br>
+<b>语篇副词 vs 普通副词</b> — 普通副词修饰具体动词或形容词(He spoke <em>quickly</em>);语篇副词修饰整个句子,标记句间逻辑(<em>Indeed</em>, he spoke quickly)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>However but I went</code>(however 自身就是转折,不能再加 but)<br>
+✓ <code>However, I went</code><br>
+✗ <code>Indeed I am tired</code>(独立成分应有逗号)<br>
+✓ <code>Indeed, I am tired</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-076">S-076</a> 呼语 <em>dear reader</em>(逗号隔开)<br>
+② <a href="/breakdown/#s-079">S-079</a> 感叹词 <em>Ah</em>(破折号引出后续)<br>
+③ <a href="/breakdown/#s-056">S-056</a> 语篇副词 <em>Indeed</em>(承上启下)<br>
+④ <a href="/breakdown/#s-091">S-091</a> 中插语篇副词 <em>paradoxically</em>(逗号包围)<br>
+⑤ <a href="/breakdown/#s-078">S-078</a> 反意疑问 <em>doesn't it?</em>(尾部追加)</p>
+<p class="def-related"><b>相关:</b> <a href="#adverb">副词</a> · <a href="#interjection-pos">感叹词</a> · <a href="#discourse-marker-coh">语篇副词(衔接)</a> · <a href="#absolute">独立主格</a> · <a href="#independent-elements">⑬ 独立成分(深细)</a></p>
 </div>
 
-<div class="term" id="absolute">
+<div class="term term-deep" id="absolute">
 <h3>独立主格 · Absolute Construction</h3>
-<p class="def">"名词 + 分词/形容词/介词短语" 自带"小主语",修饰整个主句。比从句更紧凑,文学性强。</p>
-<p class="ex"><a href="/breakdown/#s-081">S-081</a> 独立主格 = Trust restored, the dollar quietly resumed its authority over global trade.</p>
+<p class="def-quick"><b>一句话:</b> 「名词 + 分词 / 形容词 / 介词短语」自带<b>小主语</b>,作为状语修饰整个主句。比从句更紧凑,文学性强。</p>
+<p class="def-deep"><b>详细:</b> 独立主格是英语高级写作的标志结构之一。它本身有自己的「逻辑主语」(不同于主句主语),但语法上不是从句(无从属连词),也不是分词短语(分词短语的逻辑主语必须是主句主语)。它把一个伴随事件、状态、原因压缩成短小、紧凑的形式,代替冗长的从句。</p>
+<p class="def-position"><b>位置 / 用法:</b> 通常前置或后置,用逗号与主句隔开。<br>
+① 前置:<em>Trust restored,</em> the dollar quietly resumed authority.<br>
+② 后置:He left, <em>his head held high.</em></p>
+<p class="def-bilingual"><b>中英对照:</b> 中文没有完全等价的结构。最接近的是「N 既 V,S 便 V」式的文言句法。但口语中文不用这种形式。所以独立主格对中国学生来说<b>不是用错的问题,而是「想不到用」</b>。学会主动使用,是写出英语文学感的标志。</p>
+<p class="def-forms"><b>独立主格的 4 种构成:</b><br>
+① <em>N + 过去分词</em>(被动 / 完成义):<em>Trust restored,</em> the dollar resumed authority.<br>
+② <em>N + 现在分词</em>(主动 / 进行义):<em>The sun setting,</em> we headed home.<br>
+③ <em>N + 形容词 / 介词短语</em>:<em>His face pale,</em> he confessed everything. / <em>Hands in pockets,</em> he walked on.<br>
+④ <em>N + to-不定式</em>(将来 / 目的义):<em>So much to do,</em> we hurried up.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>独立主格 vs 分词短语</b> — 分词短语的逻辑主语必须是主句主语;独立主格自带不同的小主语。<br>
+✓ <em>Walking down the street,</em> I saw him.(分词,逻辑主语 = I)<br>
+✓ <em>The night falling,</em> we headed home.(独立主格,小主语 = the night;主句主语 = we)<br>
+<b>独立主格 vs 状语从句</b> — 独立主格无连接词;状语从句必有连词(when / because / if 等)。<br>
+✓ <em>Trust restored,</em> the dollar resumed authority.(独立主格)<br>
+✓ <em>When trust was restored,</em> the dollar resumed authority.(状语从句)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The book opened, he read it.</code>(逻辑混乱)<br>
+✓ <code>The book open, he read it.</code> 或 <code>With the book open, he read it.</code><br>
+✗ <code>Walking down the street, the dog saw me.</code>(悬垂分词 — 逻辑主语错位)<br>
+✓ <code>Walking down the street, I saw the dog.</code> 或独立主格 <code>I walking down the street, the dog saw me.</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-081">S-081</a> 独立主格 <em>Trust restored,</em> the dollar quietly resumed its authority(N + 过去分词)<br>
+② <a href="/breakdown/#s-090">S-090</a> 含 with 的独立主格变体 <em>With Bretton Woods dismantled and gold finally untethered,</em> the dollar entered ...(With + N + 过去分词)</p>
+<p class="def-related"><b>相关:</b> <a href="#nonfinite">非谓语动词</a> · <a href="#adverbial">状语</a> · <a href="#adv-clauses">⑨ 状语从句</a> · <a href="#independent">独立成分</a></p>
 </div>
 
 <hr>
