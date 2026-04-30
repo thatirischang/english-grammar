@@ -68,6 +68,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> Past Continuous · 两个同时持续的过去动作,常以 while 引导。</p>
 <p class="zh"><span class="cl" data-tag="从">当...之时</span> <span class="s" data-tag="主">汉密尔顿</span> <span class="v" data-tag="谓">在建立</span> <span class="o" data-tag="宾">国家银行</span>，<span class="s" data-tag="主">托马斯 · 杰斐逊</span> <span class="v" data-tag="谓">正在起草</span> <span class="o" data-tag="宾">那些主张</span> <span class="m" data-tag="定">日后注定将摧毁它的</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 当...之时，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 汉密尔顿 / 托马斯 · 杰斐逊，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 在建立 / 正在起草，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 国家银行 / 那些主张，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 日后注定将摧毁它的</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-01">C-01</a> it 回指上一句的机构</p>
 </div>
 
 <div class="bk" id="s-005">
@@ -79,6 +80,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> Past Perfect · 在过去某参照点(1811)之前已发生或延续的动作。"By + 时间"是经典锚点。</p>
 <p class="zh"><span class="a" data-tag="状">到 1811 年时</span>，<span class="s" data-tag="主">西班牙银币</span> <span class="a" data-tag="状">在十三殖民地</span> <span class="v" data-tag="谓">已流通了</span> <span class="a" data-tag="状">近一个世纪</span>。</p>
 <p class="roles"><a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 到 1811 年时 / 在十三殖民地 / 近一个世纪，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 西班牙银币，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 已流通了</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-21">C-21</a> By + 时间锚点(过去完成的标志)</p>
 </div>
 
 <div class="bk" id="s-006">
@@ -112,6 +114,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> would · 表过去反复发生的习惯动作。和 used to 在表"反复动作"时可换用,但 would 不能表过去状态。</p>
 <p class="zh"><span class="a" data-tag="状">每逢周六上午</span>，<span class="s" data-tag="主">乡镇店主</span> <span class="v" data-tag="谓">总会削下</span> <span class="o" data-tag="宾">一片薄银屑</span> <span class="a" data-tag="状">从任何一枚银元上</span> <span class="m" data-tag="定">他不信任的</span>。</p>
 <p class="roles"><a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 每逢周六上午 / 从任何一枚银元上，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 乡镇店主，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 总会削下，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 一片薄银屑，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 他不信任的</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-10">C-10</a> 关系代词 that 省略(零关系)</p>
 </div>
 
 <div class="bk" id="s-009">
@@ -167,6 +170,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> was issued = 过去被动语态(be + 过去分词);"to finance" 表目的;后跟省略 that 的接触关系从句。</p>
 <p class="zh"><span class="s" data-tag="主">绿背钞</span> <span class="a" data-tag="状">在 1862 年</span> <span class="v" data-tag="谓">被发行</span>，<span class="a" data-tag="状">为支付一场战争</span> <span class="m" data-tag="定">国库已无法再以硬币维持的</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 绿背钞，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 在 1862 年 / 为支付一场战争，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 被发行，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 国库已无法再以硬币维持的</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-19">C-19</a> 不定式表目的(to + V)</p>
 </div>
 
 <div class="bk" id="s-014">
@@ -222,6 +226,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> although 引导让步状从,表"尽管 X,但 Y"。同义:though, even though。</p>
 <p class="zh"><span class="cl" data-tag="从">尽管</span> <span class="s" data-tag="主">布莱恩</span> <span class="v" data-tag="谓">输掉了</span> <span class="o" data-tag="宾">那场选举</span>，<span class="s" data-tag="主">他的演说</span> <span class="a" data-tag="状">至今仍</span> <span class="v" data-tag="谓">回荡</span> <span class="a" data-tag="状">在美国的记忆中</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 尽管，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 布莱恩 / 他的演说，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 输掉了 / 回荡，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 那场选举，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 至今仍 / 在美国的记忆中</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-02">C-02</a> his 物主代词,跨从句回指 · <a href="/cohesion/#c-16">C-16</a> Although 让步从句</p>
 </div>
 
 <div class="bk" id="s-019">
@@ -255,6 +260,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> when-从句为时间状语,定位主句动作的时间。同类:while, as, before, after, since, until, once。</p>
 <p class="zh"><span class="cl" data-tag="从">当...时</span> <span class="s" data-tag="主">一战</span> <span class="v" data-tag="谓">爆发</span>，<span class="s" data-tag="主">欧洲黄金</span> <span class="a" data-tag="状">以前所未有的速率</span> <span class="v" data-tag="谓">涌入</span> <span class="a" data-tag="状">美国金库</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 当...时，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 一战 / 欧洲黄金，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 爆发 / 涌入，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 以前所未有的速率 / 美国金库</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-22">C-22</a> When + 时间从句</p>
 </div>
 
 <div class="bk" id="s-022">
@@ -277,6 +283,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> Both ... and 并列两个对等主语,谓语用复数。相关连词家族:both/and · either/or · neither/nor · not only/but also。</p>
 <p class="zh"><span class="fn" data-tag="并列">既...又</span> <span class="s" data-tag="主">英国和法国</span> <span class="v" data-tag="谓">大举借款</span> <span class="a" data-tag="状">从纽约银行家手中</span>，<span class="fn" data-tag="并列">而</span> <span class="s" data-tag="主">货币势力的天平</span> <span class="v" data-tag="谓">开始倾斜</span> <span class="a" data-tag="状">向大西洋彼岸</span>。</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 既...又 / 而，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 英国和法国 / 货币势力的天平，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 大举借款 / 开始倾斜，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 从纽约银行家手中 / 向大西洋彼岸</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-14">C-14</a> Both ... and ... 双主语并列</p>
 </div>
 
 <div class="bk" id="s-024">
@@ -321,6 +328,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> Nor 置句首 → 主谓倒装 ("Nor + aux + S + V")。追加平行的否定陈述。Neither 同此规则。</p>
 <p class="zh"><span class="fn" data-tag="否定">也并未</span> <span class="s" data-tag="主">国家</span> <span class="a" data-tag="状">迅速</span> <span class="v" data-tag="谓">复苏</span>:<span class="s" data-tag="主">又一个十年的停滞</span> <span class="v" data-tag="谓">横亘</span> <span class="a" data-tag="状">在前</span>。</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 也并未，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 国家 / 又一个十年的停滞，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 迅速 / 在前，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 复苏 / 横亘</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-04">C-04</a> the country 词汇回指(已知国家) · <a href="/cohesion/#c-11">C-11</a> Nor 倒装 + 前文否定省略</p>
 </div>
 
 <div class="bk" id="s-028">
@@ -365,6 +373,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> in order that / so that 引导目的状从,常含 may/might/can/could。比 to + V 更正式。</p>
 <p class="zh"><span class="s" data-tag="主">银行</span> <span class="v" data-tag="谓">被关闭</span> <span class="a" data-tag="状">达四天</span>，<span class="a" data-tag="目的">为的是让公众信心有机会开始恢复</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 银行，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 被关闭，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 达四天 / 为的是让公众信心有机会开始恢复</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-20">C-20</a> in order that + 从句(正式目的)</p>
 </div>
 
 <div class="bk" id="s-032">
@@ -453,6 +462,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> "Only + 状语" 前置时,主句要倒装。强调"直到 X 才 Y"。</p>
 <p class="zh"><span class="fn" data-tag="只有">只有当</span> <span class="s" data-tag="主">法国</span> <span class="v" data-tag="谓">开始索要</span> <span class="o" data-tag="宾">金条</span> <span class="a" data-tag="状">为它的美元</span>，<span class="s" data-tag="主">裂缝</span> <span class="v" data-tag="谓">才显现</span>。</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 只有当，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 法国 / 裂缝，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 开始索要 / 才显现，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 金条，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 为它的美元</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-23">C-23</a> Only when + 主谓倒装(强调句式)</p>
 </div>
 
 <div class="bk" id="s-040">
@@ -563,6 +573,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> yet 是 FANBOYS 七连词之一(For/And/Nor/But/Or/Yet/So),表转折,语气比 but 更书面文学化。</p>
 <p class="zh"><span class="s" data-tag="主">借款人</span> <span class="v" data-tag="谓">哭泣</span>，<span class="s" data-tag="主">农人</span> <span class="v" data-tag="谓">破产</span>，<span class="fn" data-tag="转折">然而</span> <span class="s" data-tag="主">债券交易员</span> <span class="v" data-tag="谓">却欢呼</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 借款人 / 农人 / 债券交易员，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 哭泣 / 破产 / 却欢呼，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 然而</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-12">C-12</a> 三分句平行 + 连词错落 · <a href="/cohesion/#c-17">C-17</a> yet 转折(比 but 更书面)</p>
 </div>
 
 <div class="bk" id="s-050">
@@ -585,6 +596,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> not only ... but also 并列两个对等成分,带递进强调。两半语法结构必须平行。</p>
 <p class="zh"><span class="s" data-tag="主">1985 年的《广场协议》</span> <span class="v" data-tag="系">是</span> <span class="fn" data-tag="并列">不仅</span> <span class="c" data-tag="表 1">削弱美元的一次尝试</span>，<span class="fn" data-tag="并列">也是</span> <span class="c" data-tag="表 2">即便超级大国也必须妥协的一次默认</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 1985 年的《广场协议》，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 是，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 不仅 / 也是，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 削弱美元的一次尝试 / 即便超级大国也必须妥协的一次默认</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-15">C-15</a> not only ... but also ... 递进</p>
 </div>
 
 <div class="bk" id="s-052">
@@ -640,6 +652,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 语篇衔接词 (Indeed/Moreover/Nevertheless/Therefore/Furthermore/Crucially/Thus) 标示与前文的逻辑关系。</p>
 <p class="zh"><span class="fn" data-tag="语篇">诚然</span>，<span class="s" data-tag="主">艾伦 · 格林斯潘</span> <span class="v" data-tag="谓">主政了</span> <span class="a" data-tag="状">一个如今被称为"大缓和"的时代</span>，<span class="m" data-tag="定">在那时市场似乎只需最轻微的拨动</span>。</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 诚然，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 艾伦 · 格林斯潘，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 主政了，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 一个如今被称为"大缓和"的时代，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 在那时市场似乎只需最轻微的拨动</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-24">C-24</a> Indeed 强化前文(承上启下)</p>
 </div>
 
 <div class="bk" id="s-057">
@@ -728,6 +741,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> neither ... nor 并列两个否定项 = "既不 X 也不 Y"。谓语就近原则。</p>
 <p class="zh"><span class="s" data-tag="主">比特币</span>，<span class="m" data-tag="同位">一种既不需要政府发行,也不需要央行管控的货币</span>，<span class="a" data-tag="状">于 2009 年 1 月 3 日</span> <span class="v" data-tag="谓">被启动</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 比特币，<a href="/terms/#modifier" class="role-link"><b>修饰</b></a> = 一种既不需要政府发行,也不需要央行管控的货币，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 于 2009 年 1 月 3 日，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 被启动</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-03">C-03</a> 一句之中两次回指同一对象</p>
 </div>
 
 <div class="bk" id="s-065">
@@ -739,6 +753,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 一般将来时 will + V · 用于预测、承诺、当场决定。区别于 be going to(已有计划/迹象)。</p>
 <p class="zh"><span class="s" data-tag="主">美元</span> <span class="v" data-tag="谓">将活得</span> <span class="c" data-tag="比较">比那些为它担忧的人更长久</span>。</p>
 <p class="roles"><a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 将活得，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 比那些为它担忧的人更长久</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-06">C-06</a> who 关系代词 + its 同句反向指代</p>
 </div>
 
 <div class="bk" id="s-066">
@@ -761,6 +776,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 将来完成时 will + have + V-en · 标示在将来某参照点之前已完成的动作。</p>
 <p class="zh"><span class="a" data-tag="状">到 2030 年</span>，<span class="s" data-tag="主">每一家主要的央行</span> <span class="v" data-tag="谓">都将已经启动</span>，<span class="fn" data-tag="并列">或至少</span> <span class="v" data-tag="谓">试运行过</span>，<span class="o" data-tag="宾">它自己的央行数字货币</span>。</p>
 <p class="roles"><a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 到 2030 年，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 每一家主要的央行，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 都将已经启动 / 试运行过，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 或至少，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 它自己的央行数字货币</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-09">C-09</a> 动词替代 + 平行省略组合</p>
 </div>
 
 <div class="bk" id="s-068">
@@ -871,6 +887,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 感叹句:How + 形/副(强调程度)或 What + (a/an) + 形 + 名。后续可主谓正常或倒装。</p>
 <p class="zh"><span class="fn" data-tag="感叹">多么</span> <span class="c" data-tag="补">脆弱</span>，<span class="fn" data-tag="感叹">又多么</span> <span class="c" data-tag="补">坚韧</span>，<span class="s" data-tag="主">这薄薄的一张纸</span> <span class="v" data-tag="谓">到头来居然如此</span>!</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 多么 / 又多么，<a href="/terms/#complement" class="role-link"><b>补</b></a> = 脆弱 / 坚韧，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 这薄薄的一张纸，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 到头来居然如此</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-05">C-05</a> this single piece of paper(贬抑式回指)</p>
 </div>
 
 <div class="bk" id="s-078">
@@ -904,6 +921,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 化石化虚拟语气 — 古英语沿袭的固定形式:Be it noted / Long live the king / God save the queen / Come what may / So be it。</p>
 <p class="zh"><span class="cl" data-tag="化石虚拟">须知</span>，<span class="fn" data-tag="语篇">由是</span>:<span class="s" data-tag="主">美元的漫长一日</span>，<span class="a" data-tag="状">正如此句</span>，<span class="v" data-tag="谓">不过才刚刚开始</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 须知，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 由是，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元的漫长一日，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 正如此句，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 不过才刚刚开始</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-25">C-25</a> Be it noted, then(古典语篇副词)</p>
 </div>
 
 <div class="bk" id="s-081">
@@ -1025,6 +1043,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> the more X, the more Y · 比较级关联结构,表正比。两个比较级前都用 the。同类:the bigger, the better;the harder X tries, the more Y fails。</p>
 <p class="zh"><span class="fn" data-tag="越...">世界越</span><span class="v" data-tag="从谓">不信任</span><span class="o" data-tag="从宾">本国政府</span>,<span class="fn" data-tag="越...">便越</span><span class="a" data-tag="插语">悖谬地</span><span class="v" data-tag="谓">信任</span><span class="o" data-tag="宾">美元</span>。</p>
 <p class="roles"><a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 世界越 / 便越，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 不信任 / 信任，<a href="/terms/#object" class="role-link"><b>宾</b></a> = 本国政府 / 美元，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 悖谬地</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-18">C-18</a> paradoxically 副词转折</p>
 </div>
 
 <div class="bk" id="s-092">
@@ -1047,6 +1066,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> 替代结构 · <code>did not</code> 替代 <code>did not falter</code> 整个动作短语,避免重复。同类:'I will if you will'(替代 'will go')、'I want a red one'(one 替代 noun)、'I think so'(so 替代整个 that-从句)。</p>
 <p class="zh"><span class="cl" data-tag="让步从属">其他每一种货币</span><span class="a" data-tag="状">在同等压力下</span><span class="v" data-tag="虚拟完成">本会动摇</span>,<span class="s" data-tag="主">美元</span><span class="a" data-tag="状">却莫名地</span><span class="v" data-tag="do-替代">没有动摇</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 其他每一种货币，<a href="/terms/#adverbial" class="role-link"><b>状</b></a> = 在同等压力下 / 却莫名地，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 本会动摇 / 没有动摇，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-07">C-07</a> do-substitution(动作替代)</p>
 </div>
 
 <div class="bk" id="s-094">
@@ -1069,6 +1089,7 @@ permalink: /breakdown/
 <p class="grammar"><b>Grammar:</b> so + 助动词 + 主语 · 表「X 也如此」,省略前文动词。例: I'm tired — So am I (我也累)。本句 <code>so will most of the world's price stability</code> = will [falter] 中 falter 被省略。</p>
 <p class="zh"><span class="cl" data-tag="条件">倘若</span><span class="s" data-tag="从主">美元</span><span class="v" data-tag="从谓">动摇</span>,<span class="fn" data-tag="倒装省略">也将随之</span><span class="v" data-tag="助(省略)">动摇</span><span class="s" data-tag="主">世界大多数的物价稳定</span>。</p>
 <p class="roles"><a href="/terms/#clause-marker" class="role-link"><b>从句</b></a> = 倘若，<a href="/terms/#subject" class="role-link"><b>主</b></a> = 美元 / 世界大多数的物价稳定，<a href="/terms/#predicate" class="role-link"><b>谓</b></a> = 动摇 / 动摇，<a href="/terms/#function-word" class="role-link"><b>功能词</b></a> = 也将随之</p>
+<p class="coh-link"><b>语篇衔接 →</b> <a href="/cohesion/#c-08">C-08</a> so + aux 倒装替代 · <a href="/cohesion/#c-13">C-13</a> 时态助动词省略(剩 will 一字)</p>
 </div>
 
 <div class="bk" id="s-096">

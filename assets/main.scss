@@ -357,6 +357,185 @@ body{
 .term ul{ margin: 0.4em 0 0.8em 1.5em; }
 
 /* ==========================================================================
+   /cohesion/ — language-cohesion teaching page.
+   Each .coh-case ALSO has class .bk so it inherits all the breakdown-grade
+   word-stack + constituent-color + role-link styles unchanged. We only add
+   here: cohesion-specific page chrome (intro, toc, section), the per-case
+   added fields (.coh-grammar / .coh-phenomenon / .coh-tip / .coh-source),
+   and the .coh-device <mark> highlight that draws the eye to the cohesive
+   word(s) inside the rich English line.
+   ========================================================================== */
+
+.cohesion-intro{
+  background: #fff8e1;
+  border-left: 4px solid var(--c-s);
+  padding: 1.2em 1.4em;
+  margin: 1.5em 0 2em;
+  line-height: 1.85;
+  color: var(--ink);
+}
+.cohesion-intro p{ margin: 0.5em 0; }
+.cohesion-intro strong{ color: var(--c-s); }
+.cohesion-intro a{ color: var(--c-v); }
+
+.coh-toc{
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 0.9em 1.4em;
+  margin: 1em 0 2em;
+  font-size: 0.95rem;
+  line-height: 1.95;
+}
+.coh-toc a{ color: var(--c-v); text-decoration: none; margin-right: 1em; }
+.coh-toc a:hover{ text-decoration: underline; }
+
+.coh-section{ margin: 2.5em 0; }
+.coh-section > h2{
+  color: var(--c-s);
+  font-size: 1.45rem;
+  border-bottom: 2px solid var(--rule);
+  padding-bottom: 0.3em;
+  margin: 1em 0 0.8em;
+}
+.coh-section > h3{
+  color: #444;
+  font-size: 1.05rem;
+  margin: 1.4em 0 0.5em;
+  letter-spacing: 0.02em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px dashed var(--rule);
+}
+.coh-section > p{
+  line-height: 1.85;
+  color: #333;
+}
+
+/* Per-case add-on fields (the .bk styles handle .en / .zh / .roles / .zh-flow
+   already; we only style the new fields). */
+.coh-case{ border-left: 3px solid var(--c-v); }
+.coh-case > h4{
+  margin: 0 0 0.5em;
+  font-size: 1rem;
+  color: var(--c-s);
+  letter-spacing: 0.04em;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+}
+.coh-case .coh-grammar{
+  font-size: 0.88rem;
+  color: #555;
+  margin: 0.4em 0;
+  padding: 0.4em 0.7em;
+  background: #f3eef0;
+  border-left: 2px solid #aaa;
+  border-radius: 0 3px 3px 0;
+}
+.coh-case .coh-grammar a{ color: var(--c-v); text-decoration: none; }
+.coh-case .coh-grammar a:hover{ text-decoration: underline; }
+.coh-case .coh-phenomenon{
+  margin: 0.7em 0 0.4em;
+  padding: 0.6em 0.85em;
+  background: #fff8e1;
+  border-radius: 3px;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--ink);
+}
+.coh-case .coh-phenomenon b{ color: #BF360C; }
+.coh-case .coh-tip{
+  margin: 0.5em 0 0.4em;
+  padding: 0.6em 0.85em;
+  background: #e8f5e9;
+  border-radius: 3px;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--ink);
+}
+.coh-case .coh-tip b{ color: var(--c-o); }
+.coh-case .coh-source{
+  font-size: 0.82rem;
+  color: #888;
+  margin: 0.5em 0 0;
+  padding-top: 0.5em;
+  border-top: 1px dotted var(--rule);
+}
+.coh-case .coh-source a{
+  color: var(--c-v);
+  text-decoration: none;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+}
+.coh-case .coh-source a:hover{ text-decoration: underline; }
+
+/* The cohesive device highlight — a <mark> wrapped around the ws stack of
+   the cohesive word(s). Draws attention without breaking word-stack layout. */
+mark.coh-device{
+  background: linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 55%,
+    #fff176 55%,
+    #fff176 100%
+  );
+  padding: 0;
+  border-radius: 2px;
+  box-shadow: 0 0 0 2px rgba(255, 193, 7, 0.55);
+}
+mark.coh-device > .ws > b{ color: var(--c-s) !important; }
+
+/* Lexical chain panels (no ws, just <ol> with code links). */
+.coh-chain{
+  background: #fff;
+  border: 1px solid var(--rule);
+  padding: 1em 1.3em;
+  margin: 1em 0;
+  border-radius: 4px;
+}
+.coh-chain h4{
+  margin: 0 0 0.5em;
+  color: var(--c-m);
+  font-size: 1rem;
+}
+.coh-chain ol, .coh-chain p{ margin: 0.4em 0; line-height: 1.85; }
+.coh-chain code{
+  background: #f5f1e8;
+  padding: 0.1em 0.4em;
+  border-radius: 2px;
+  font-size: 0.9em;
+}
+
+.coh-tips{
+  background: #fffbe8;
+  border: 1px solid #f3eac7;
+  padding: 1.2em 1.4em;
+  margin: 2em 0;
+  border-radius: 4px;
+}
+.coh-tips h3{ color: #BF360C; margin-top: 0; }
+.coh-tips ol{ margin: 0.6em 0; line-height: 1.95; }
+.coh-tips li{ margin: 0.5em 0; }
+
+/* Reverse anchor on breakdown.md — small chip at the bottom of bk blocks
+   that are also referenced from /cohesion/. */
+.bk .coh-link{
+  margin: 0.7em 0 0;
+  padding: 0.45em 0.7em;
+  background: #fff8e1;
+  border-left: 2px solid #FFB300;
+  border-radius: 0 3px 3px 0;
+  font-size: 0.88rem;
+  color: #555;
+  line-height: 1.7;
+}
+.bk .coh-link a{
+  color: var(--c-v);
+  text-decoration: none;
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  margin-right: 0.6em;
+}
+.bk .coh-link a:hover{ text-decoration: underline; }
+.bk .coh-link b{ color: #BF360C; margin-right: 0.4em; }
+
+/* ==========================================================================
    Homepage 中译全篇 — Keyu-Jin-style flowing prose (single essay version).
    Lives at the bottom of index.md, below the English article and the <hr>.
    ========================================================================== */

@@ -38,6 +38,7 @@ permalink: /terms/
 <a href="#comparison">比较与并列</a>
 <a href="#independent-elements">独立成分</a>
 <a href="#extras">⑯ 补充语法 86–97</a>
+<a href="#chapter-17">⑰ 语篇衔接 · Cohesion</a>
 </p>
 </div>
 
@@ -1169,4 +1170,90 @@ permalink: /terms/
 
 <hr>
 
-<p class="article-meta">本术语索引覆盖 108 句拆解里的所有语法点(16 大章 151+ 条术语,真覆盖率 ~99.5%)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句。回 <a href="/">首页</a> 重新读全文。</p>
+<h2 id="chapter-17" class="term">⑰ 语篇衔接 · Cohesion(段落级)</h2>
+<p>前面 ① 至 ⑯ 章是<b>句子层面</b>的语法。本章是<b>段落层面</b>的语法 — 句子和句子之间靠什么粘起来,让一段话读起来是一个整体而不是孤立句子的堆叠。这一层是中国学生英语写作的最大盲区:每句都对,但段落像散沙。每条术语下方附 C-NN 链接,直跳 <a href="/cohesion/">Cohesion</a> 页查看真实案例。</p>
+
+<div class="term" id="cohesion">
+<h3>1. 语篇衔接(总称) · Cohesion</h3>
+<p class="def">一段文字里,把句子粘合成连贯整体的所有语法/词汇手段的总称。Halliday & Hasan(1976)将其归为五大类:<b>reference</b>(指代) / <b>substitution</b>(替代) / <b>ellipsis</b>(省略) / <b>conjunction</b>(连接词) / <b>lexical cohesion</b>(词汇衔接)。</p>
+<p class="ex">→ 全部 25 个真实案例见 <a href="/cohesion/">Cohesion 专页</a></p>
+</div>
+
+<div class="term" id="reference">
+<h3>2. 指代 · Reference</h3>
+<p class="def">用代词、物主代词、指示代词、定冠词,把后文与前文的同一对象绑在一起。母语者在<b>同段内</b>约 70% 的人称指代用代词承担。</p>
+<p class="ex"><a href="/cohesion/#c-01">C-01</a> · <em>... arguments meant to one day destroy <b>it</b></em>(it 回指 a national bank,见 <a href="/breakdown/#s-004">S-004</a>)</p>
+<p class="ex"><a href="/cohesion/#c-02">C-02</a> · <em>Although Bryan lost the election, <b>his</b> oratory still echoes</em>(his 跨从句回指 Bryan,见 <a href="/breakdown/#s-018">S-018</a>)</p>
+</div>
+
+<div class="term" id="anaphora-cataphora">
+<h3>3. 回指 / 下指 · Anaphora / Cataphora</h3>
+<p class="def"><b>回指(anaphora)</b>:代词指向<b>前面</b>已出现的名词(最常见);<b>下指(cataphora)</b>:代词指向<b>后面</b>才出现的名词(用于悬念或正式文体)。本教材 108 句中的代词几乎全部是回指。</p>
+<p class="ex">回指例:<a href="/breakdown/#s-076">S-076</a> <em>The dollar... <b>it</b> is a record</em></p>
+<p class="ex">下指例:<em><b>Before he could finish</b>, the chairman interrupted</em>(he 指向后文 the chairman)</p>
+</div>
+
+<div class="term" id="lexical-reference">
+<h3>4. 词汇回指 · Lexical Reference</h3>
+<p class="def">不能或不想用代词时,用「<b>the</b> + 上位词/同义词」回指前文。比代词更明确,但不像重复全名那么呆板。</p>
+<p class="ex"><a href="/cohesion/#c-04">C-04</a> · <em>Nor did <b>the country</b> recover</em>(the country 回指 the United States,见 <a href="/breakdown/#s-027">S-027</a>)</p>
+<p class="ex"><a href="/cohesion/#c-05">C-05</a> · <em>How fragile, ... <b>this single piece of paper</b></em>(贬抑式回指 the dollar,见 <a href="/breakdown/#s-077">S-077</a>)</p>
+</div>
+
+<div class="term" id="substitution">
+<h3>5. 替代 · Substitution</h3>
+<p class="def">用 do / so / one 等占位词,替代上文已出现的<b>整段</b>动作或名词。和 ellipsis(完全省略)的区别:substitution <b>留一个占位词</b>,ellipsis 什么都不留。三种主要形式:<b>verbal</b>(do/does/did)、<b>nominal</b>(one/ones)、<b>clausal</b>(so/not)。</p>
+<p class="ex"><a href="/cohesion/#c-07">C-07</a> · <em>the dollar somehow <b>did not</b></em>(did not = did not falter,见 <a href="/breakdown/#s-093">S-093</a>)</p>
+<p class="ex"><a href="/cohesion/#c-08">C-08</a> · <em><b>so will</b> most of the world's price stability</em>(so will = will also falter,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+</div>
+
+<div class="term" id="ellipsis">
+<h3>6. 省略 · Ellipsis</h3>
+<p class="def">明示性省略 — 关系代词、连词、主语、谓语、助动词等被略去,但读者能从上下文 100% 补出。三种主要形式:<b>nominal</b>(名词省略)、<b>verbal</b>(动词省略)、<b>clausal</b>(从句省略)。中国学生在写作时倾向于「不敢省」,这是中式英语最显眼的特征之一。</p>
+<p class="ex"><a href="/cohesion/#c-10">C-10</a> · <em>any silver dollar [that] he did not trust</em>(关代 that 省略,见 <a href="/breakdown/#s-008">S-008</a>)</p>
+<p class="ex"><a href="/cohesion/#c-13">C-13</a> · <em>so will most of the world's price stability [falter]</em>(主动词 falter 省略,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+</div>
+
+<div class="term" id="conjunction-cohesion">
+<h3>7. 连接词衔接 · Conjunction</h3>
+<p class="def">显性的逻辑词,告诉读者两句之间的关系。Halliday-Hasan 分四大类:<b>additive</b>(顺承/递进:and / both...and / not only ... but also / moreover)、<b>adversative</b>(转折:but / yet / although / however / paradoxically)、<b>causal</b>(因果:because / so / to-V / in order that)、<b>temporal</b>(时序:when / by + 时间 / as / once / only when)。</p>
+<p class="ex">见 <a href="/cohesion/#conjunction">Cohesion ④ 章 11 个真实案例</a></p>
+</div>
+
+<div class="term" id="discourse-marker">
+<h3>8. 语篇副词 · Discourse Marker</h3>
+<p class="def">不参与句子语法的副词,但在语篇层面承担「承上启下」「立场表态」的功能。常见:indeed / moreover / furthermore / nevertheless / paradoxically / ironically / surprisingly / in fact / crucially / be it noted。出现密度是「学者腔」的标志:每 200 词约 1 次。</p>
+<p class="ex"><a href="/cohesion/#c-18">C-18</a> · <em>... seems, <b>paradoxically</b>, to trust the dollar</em>(见 <a href="/breakdown/#s-091">S-091</a>)</p>
+<p class="ex"><a href="/cohesion/#c-24">C-24</a> · <em><b>Indeed</b>, Alan Greenspan presided over ...</em>(见 <a href="/breakdown/#s-056">S-056</a>)</p>
+</div>
+
+<div class="term" id="lexical-cohesion">
+<h3>9. 词汇衔接 · Lexical Cohesion</h3>
+<p class="def">隐形的、最强大的衔接手段。三种形式:<b>repetition</b>(主题词反复) / <b>synonymy</b>(同义词链) / <b>antonymy</b>(反义对照)。中国学生最大的写作问题:同一个名词反复出现,缺乏词汇变换。母语者会在同义词链中游走。</p>
+<p class="ex">同义词链:见 <a href="/cohesion/#lexical">Cohesion ⑤.1 美元的 9 种说法</a></p>
+<p class="ex">反义对照:gold ↔ paper money,贯穿 108 句中 10 个位置(见 <a href="/cohesion/#lexical">Cohesion ⑤.3</a>)</p>
+</div>
+
+<div class="term" id="anchor-time">
+<h3>10. 时间锚点 · Time Anchor</h3>
+<p class="def">用各种形式的时间状语「钉」住叙事的时点,是历史散文最重要的衔接手段。常见:<b>By + 时间</b>(过去完成时的标志) / <b>When + 从句</b> / <b>On + 具体日期</b> / <b>For + 时间长度</b> / <b>Within + 时间范围</b> / <b>Year after year</b> / <b>By the time + 从句</b>。</p>
+<p class="ex"><a href="/cohesion/#c-21">C-21</a> · <em><b>By 1811</b>, Spanish reales had circulated...</em>(By + 年份 → 必须 had + V-en,见 <a href="/breakdown/#s-005">S-005</a>)</p>
+<p class="ex">完整时间链见 <a href="/cohesion/#lexical">Cohesion ⑤.2 时间锚点链</a></p>
+</div>
+
+<div class="term" id="parallelism">
+<h3>11. 平行结构 · Parallelism</h3>
+<p class="def">两个或更多语法成分使用相同形式,在视觉与节奏上形成「衔接」效果。常见:三分句平行(borrowers wept / farmers went bankrupt / bond traders cheered) / not only ... but also / both ... and。能写出节奏感的散文,80% 靠平行结构。</p>
+<p class="ex"><a href="/cohesion/#c-12">C-12</a> · <em>Borrowers wept and farmers went bankrupt, yet bond traders cheered</em>(三分句平行,见 <a href="/breakdown/#s-049">S-049</a>)</p>
+</div>
+
+<div class="term" id="emphatic-inversion">
+<h3>12. 强调倒装 · Emphatic Inversion(语篇层面)</h3>
+<p class="def">把否定/限定状语前置(Only when / Not until / Never before / Hardly had ...),触发主谓倒装,把读者的注意力锁在某个关键节点。这是<b>语篇层面</b>的强调手段 — 不仅改变句法,更改变读者的阅读节奏。</p>
+<p class="ex"><a href="/cohesion/#c-23">C-23</a> · <em><b>Only when</b> France began demanding bullion ... <b>did the cracks become visible</b></em>(见 <a href="/breakdown/#s-039">S-039</a>)</p>
+<p class="ex"><a href="/cohesion/#c-25">C-25</a> · <em><b>Be it noted, then</b>: ...</em>(虚拟倒装语篇副词,见 <a href="/breakdown/#s-080">S-080</a>)</p>
+</div>
+
+<hr>
+
+<p class="article-meta">本术语索引覆盖 108 句拆解里的所有语法点(<b>17 大章 163+ 条术语</b>,真覆盖率 ~99.5%,含段落级语篇衔接)。每条 S-NN 链接直跳 <a href="/breakdown/">breakdown</a> 中的具体例句;每条 C-NN 链接直跳 <a href="/cohesion/">cohesion</a> 中的真实段落级案例。回 <a href="/">首页</a> 重新读全文。</p>
