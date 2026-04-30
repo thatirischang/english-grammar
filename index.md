@@ -234,7 +234,7 @@ Click <span class="sn-demo">[NN]</span> to jump to its full grammatical breakdow
 
 <p class="article-meta">Iris Chang Studio · 108 sentences · 108 grammars · TTS: Microsoft Edge en-US-AvaNeural · For full grammatical breakdown, see <a href="/breakdown/">Breakdown</a>; for term definitions, see <a href="/terms/">Terms</a>.</p>
 
-<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em> <span class="sep">·</span> <a href="https://github.com/thatirischang/english-grammar">GitHub</a></p>
+<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em></p>
 
 </div>
 

@@ -480,6 +480,6 @@ permalink: /cohesion/
 
 <p class="article-meta">本页 25 个 cohesion 案例 + 3 条词汇衔接链,全部从《<a href="/breakdown/">一百零八句拆解</a>》中抽出,达到 breakdown 同等的「叶子级」精度。每条案例 S-NN 链接直跳 breakdown 看完整语法解析。配套术语见 <a href="/terms/#chapter-17">Terms · 第 ⑰ 章 语篇衔接术语</a>。回 <a href="/">首页</a> 通读 108 句美元历史叙事。</p>
 
-<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em> <span class="sep">·</span> <a href="https://github.com/thatirischang/english-grammar">GitHub</a></p>
+<p class="site-version"><b>v6.1</b> · 2026-04-30 <span class="sep">·</span> <em>108 句</em> / <em>167 术语</em> / <em>25 衔接案例</em> / <em>10 题型</em></p>
 
 <script src="/assets/js/play.js"></script>
