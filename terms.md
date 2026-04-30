@@ -2261,128 +2261,522 @@ You had better rest(不休息要出事!)<br>
 <h2 id="noun-clauses" class="term">⑦ 名词性从句</h2>
 <p>that / what / whether / who / which / where / when / why / how 引导的从句,作主语、宾语、表语、同位语。</p>
 
-<div class="term" id="that-clause-subject">
-<h3>1. that 引导的主语从句</h3>
-<p class="def">that + 句子,整体作主语。谓语用第三人称单数(整个从句视为单数概念)。现代英语更常用形式主语 it 后置("It is true that ..."),但 that-从句直接作主语在文学/论述写作中仍可见,显得正式有分量。</p>
-<p class="ex"><a href="/breakdown/#s-108">S-108</a> <em>That the dollar has outlasted every rival currency remains the most quiet of America's miracles.</em></p>
+<div class="term term-deep" id="that-clause-subject">
+<h3>1. that 引导的主语从句 · That-Clause as Subject</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>that + 完整句</b>」整个作主语。谓语用第三单(从句视为单数概念)。</p>
+<p class="def-deep"><b>详细:</b> that 主语从句是英语正式写作的特殊结构。它把一个完整命题(that the dollar has outlasted every rival)整体作为主语。现代英语更常用形式主语 it 后置(It is X that...),但直接的 that 主语从句在文学、论述、宣言里仍可见,显得郑重有分量。</p>
+<p class="def-position"><b>形式 / 用法:</b> That + S + V + ... + 主句谓语。注意:that 不能省略;整个从句作主语,谓语单数。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 一句话 + 是 + 形容词 / 名词」对应英文 That + 从句 + 主句。但中文不需要标志词「that」,英文的 that 是必须的。中国学生最大盲区:不敢用 that 主语从句,觉得「太长」。</p>
+<p class="def-forms"><b>2 种结构:</b><br>
+① <em>that 从句直接作主语</em>(正式 / 文学):<b>That</b> the dollar has outlasted every rival currency remains a miracle.<br>
+② <em>形式主语 it 替代</em>(更常见):<b>It</b> remains a miracle <b>that</b> the dollar has outlasted every rival currency.<br>
+两者语义同,② 更口语化、更自然。</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>that 主语 vs that 同位</b> — 主语从句独立作主语;同位从句紧跟抽象名词(the fact that...)。<br>
+<b>that 主语 vs that 宾语</b> — 主语在主谓动词前;宾语在主谓动词后。<br>
+<b>that 不能省</b>(主语从句中)— 否则缺主语。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The dollar has outlasted every rival currency is a miracle</code>(缺 that)<br>
+✓ <code>That the dollar has outlasted every rival currency is a miracle</code><br>
+或更地道 ✓ <code>It is a miracle that the dollar has outlasted every rival currency</code><br>
+✗ <code>That he failed are sad</code>(主语从句作单数)<br>
+✓ <code>That he failed is sad</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-108">S-108</a> <em>That the dollar has outlasted every rival currency remains the most quiet of America's miracles.</em>(经典 that 主语从句作单数)</p>
+<p class="def-related"><b>相关:</b> <a href="#that-clause-object">that 宾语从句</a> · <a href="#appositive-clause">同位语从句</a> · <a href="#extraposition-mandative">It is essential that 句型</a></p>
 </div>
 
-<div class="term" id="that-clause-object">
-<h3>2. that 引导的宾语从句</h3>
-<p class="def">动词后接 that 从句作宾语。that 可省略。常见动词:say, declare, argue, insist, believe, know, think, hope。</p>
-<p class="ex"><a href="/breakdown/#s-017">S-017</a> <em>... Bryan declared that mankind must not be crucified upon a cross of gold.</em></p>
-<p class="ex"><a href="/breakdown/#s-033">S-033</a> <em>Roosevelt argued ... that no civilized nation should ever again allow gold ...</em></p>
-<p class="ex"><a href="/breakdown/#s-066">S-066</a> <em>Some economists insist that ... every government is going to issue ...</em></p>
+<div class="term term-deep" id="that-clause-object">
+<h3>2. that 引导的宾语从句 · That-Clause as Object</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>动词 + that + 完整句</b>」 — 从句作动词的宾语。常用于「说 / 想 / 相信 / 主张」类动词。</p>
+<p class="def-deep"><b>详细:</b> that 宾语从句是英语最常见的从句结构。任何「言说 / 思考 / 相信 / 主张」类动词后都可接 that 从句承担宾语。它是间接引语的核心结构。在口语中 that 常省略,在书面语中通常保留以避免歧义。</p>
+<p class="def-position"><b>形式 / 用法:</b> S + V + (that) + S + V + ...。that 在口语中可省,书面正式语中保留。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 想 / 说 / 知道 / 认为 + 后接句子」对应英文 V + that + 从句。中文动词后直接跟句子,不需 that;英文书面则用 that 标记。</p>
+<p class="def-forms"><b>常见接 that 宾语从句的动词:</b><br>
+① <em>言说</em>:say / tell / declare / argue / insist / claim / state / announce<br>
+② <em>思考</em>:think / believe / suppose / imagine / consider / suspect<br>
+③ <em>认知</em>:know / realize / understand / notice / find<br>
+④ <em>情感</em>:hope / wish / fear / regret / doubt</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>that 省略 vs 保留</b> — 在 say / think / know 等高频动词后,口语中常省;书面语中通常保留。<br>
+<b>that 宾语从句 vs 直接引语</b> — 直接引语保留原话(He said, "I am tired"),that 从句改为间接(He said that he was tired,注意时态后移)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He said he is tired</code>(主从时态不一致)<br>
+✓ <code>He said he was tired</code> 或 <code>He said that he was tired</code><br>
+✗ <code>I think that he should comes</code>(从句谓语错)<br>
+✓ <code>I think that he should come</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-017">S-017</a> declare + 情态被动 <em>Bryan declared that mankind must not be crucified upon a cross of gold.</em><br>
+② <a href="/breakdown/#s-033">S-033</a> argue + 情态 <em>Roosevelt argued ... that no civilized nation should ever again allow gold ...</em><br>
+③ <a href="/breakdown/#s-066">S-066</a> insist + be going to <em>Some economists insist that ... every government is going to issue ...</em></p>
+<p class="def-related"><b>相关:</b> <a href="#that-clause-subject">that 主语从句</a> · <a href="#object">宾语</a> · <a href="#reported-speech-backshift">间接引语 backshift</a></p>
 </div>
 
-<div class="term" id="wh-clause-subject">
-<h3>3. wh- 主语从句(假分裂句)</h3>
-<p class="def">what / whoever / whatever 等引导的从句作主语。"What ... was X" 是 pseudo-cleft 强调结构。</p>
-<p class="ex"><a href="/breakdown/#s-014">S-014</a> <em>What restored monetary order after Reconstruction was the Resumption Act of 1875.</em></p>
+<div class="term term-deep" id="wh-clause-subject">
+<h3>3. wh- 主语从句 / 假分裂句 · Wh-Cleft (Pseudo-Cleft)</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>What / Whoever / Whatever + 句子</b>」整体作主语。常用于「<b>What X is/was Y</b>」的强调结构(假分裂句)。</p>
+<p class="def-deep"><b>详细:</b> wh- 主语从句承担「指代未知或抽象的主体」的功能。它最重要的语用是「假分裂句」(pseudo-cleft)— 用 What X was Y 的结构强调 Y。这是英语强调最常用的句式之一,比 it-cleft 更柔和、更书面。</p>
+<p class="def-position"><b>形式 / 用法:</b> What/Whoever/Whatever + 主谓 + 主句 be 动词 + 表语。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「...的(就)是...」对应英文 What... was/is... 的假分裂结构。「真正解决问题的是 X」 = What solved the problem was X。</p>
+<p class="def-forms"><b>3 种用法:</b><br>
+① <em>假分裂句</em>(强调):<b>What restored monetary order</b> was the Resumption Act.(强调结果)<br>
+② <em>不定主语</em>:<b>Whoever signed</b> the Act made history.<br>
+③ <em>抽象主语</em>:<b>What he said</b> shocked everyone.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>wh- 主语从句 vs 间接疑问句</b> — wh- 主语从句作主语(What he said is true);间接疑问句作宾语(I want to know what he said)。看在主句中的角色。<br>
+<b>假分裂 vs it-cleft</b> — pseudo-cleft 用 What... was Y(更柔和);it-cleft 用 It was Y that...(更直接强调)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>What did he say is true</code>(主语从句不倒装)<br>
+✓ <code>What he said is true</code><br>
+✗ <code>What he said are true</code>(从句作单数)<br>
+✓ <code>What he said is true</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-014">S-014</a> 经典假分裂句 <em>What restored monetary order after Reconstruction was the Resumption Act of 1875.</em>(强调「答案是 Resumption Act」)</p>
+<p class="def-related"><b>相关:</b> <a href="#wh-clause-object">wh- 宾语从句</a> · <a href="#cleft-sentence">it-cleft</a> · <a href="#pseudo-cleft">假分裂句</a></p>
 </div>
 
-<div class="term" id="wh-clause-object">
-<h3>4. wh- 宾语从句</h3>
-<p class="def">what / who / where / when 等引导的从句作宾语。</p>
-<p class="ex"><a href="/breakdown/#s-041">S-041</a> <em>On August 15, 1971, Richard Nixon announced what would later be called the Nixon Shock.</em></p>
+<div class="term term-deep" id="wh-clause-object">
+<h3>4. wh- 宾语从句 / 间接疑问句 · Wh-Clause as Object / Indirect Question</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>动词 + what / who / where / when / why / how + 句子</b>」 — 从句作宾语。等于「我问 / 我知道 / 我看见 + 一个疑问」。</p>
+<p class="def-deep"><b>详细:</b> wh- 宾语从句是英语<b>间接疑问句</b>的核心结构。它把直接疑问(What did he say?)变成陈述语序的从句(I want to know what he said)。中国学生最大盲区:从句内部仍用倒装语序 — 实际应改回陈述语序。</p>
+<p class="def-position"><b>形式 / 用法:</b> S + V + wh-词 + S + V + ...(从句陈述语序,不倒装)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文间接疑问保留疑问语序的「他说了什么」,英文必须改为陈述语序 what he said。中国学生最大错:把直接疑问的倒装(What did he say?)硬塞进从句变成 *what did he say in a clause。</p>
+<p class="def-forms"><b>常见 wh-词 + 例:</b><br>
+① <em>what</em>:I know <b>what</b> he said.<br>
+② <em>who / whom</em>:I asked <b>who</b> came.<br>
+③ <em>where</em>:Tell me <b>where</b> you live.<br>
+④ <em>when</em>:I forgot <b>when</b> he arrived.<br>
+⑤ <em>why</em>:Economists debate <b>why</b> the dollar survived.<br>
+⑥ <em>how</em>:I learned <b>how</b> it works.<br>
+⑦ <em>which / whether</em>:I don't know <b>which</b> to choose.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>间接疑问从句不倒装</b> —<br>
+✗ I want to know <em>where is he</em>(从句倒装错)<br>
+✓ I want to know <em>where he is</em>(陈述语序)<br>
+<b>间接疑问 vs 直接疑问</b> — 直接疑问倒装(Where is he?);间接疑问从句陈述语序(I asked where he was)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I want to know what is his name</code>(从句倒装错)<br>
+✓ <code>I want to know what his name is</code><br>
+✗ <code>I asked where did he go</code><br>
+✓ <code>I asked where he went</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-041">S-041</a> 命定语意 + 被动 <em>Richard Nixon announced what would later be called the Nixon Shock.</em>(announced 后接 what 引导的从句)<br>
+② <a href="/breakdown/#s-100">S-100</a> debate + why <em>Economists still debate why the dollar survived when so many rivals failed.</em>(经典间接疑问 — debate 后 why 从句陈述语序)</p>
+<p class="def-related"><b>相关:</b> <a href="#wh-clause-subject">wh- 主语从句</a> · <a href="#indirect-question">间接疑问句</a> · <a href="#object">宾语</a></p>
 </div>
 
-<div class="term" id="whether-clause">
-<h3>5. whether / if 名词从句</h3>
-<p class="def">由"是否..."的问句变成名词性结构。作主语只能用 whether,不能用 if;作宾语时两者都可。</p>
-<p class="ex"><a href="/breakdown/#s-036">S-036</a> <em>Whether Bretton Woods could survive a quarter-century was a question its architects scarcely asked.</em></p>
+<div class="term term-deep" id="whether-clause">
+<h3>5. whether / if 名词从句 · Whether-Clause</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>是否...</b>」的从句作名词性成分。<b>主语只能用 whether</b>,宾语两者皆可,但 whether 更正式。</p>
+<p class="def-deep"><b>详细:</b> whether 从句源自 yes/no 疑问句,转化为名词性从句承担主、宾、表语功能。它和 if 是同义词,但有严格的句法区分:作主语和介词宾语只能用 whether;作普通宾语两者皆可。这是中国学生最常错的细节。</p>
+<p class="def-position"><b>形式 / 用法:</b> whether/if + S + V + ...(陈述语序,不倒装)。可加 or not(强调对立 — whether or not)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 是否 / 是不是 + 句子」对应 whether/if 从句。中文不区分主从位置,英文严格区分。中国学生易混淆 whether vs if 的使用场景。</p>
+<p class="def-forms"><b>4 种用法:</b><br>
+① <em>作主语</em>(只能 whether):<b>Whether</b> Bretton Woods could survive was a question.<br>
+② <em>作宾语</em>(两者皆可):I asked <b>whether/if</b> he was coming.<br>
+③ <em>作表语</em>(只能 whether):The question is <b>whether</b> we should go.<br>
+④ <em>作介词宾语</em>(只能 whether):It depends on <b>whether</b> he comes.<br>
+⑤ <em>or not</em>:Whether <b>or not</b> he comes, ...(强调对立)</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>whether vs if</b> — 作主语 / 表语 / 介宾,只能 whether;作普通宾语,两者皆可。<br>
+<b>whether 名词从句 vs if 条件状从</b> — whether/if 名词从句表「是否」(I asked if he is coming);if 条件状从表「如果」(If he comes, I'll ...)。看在主句中的角色 — 名词性 vs 状语性。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>If he comes is unclear</code>(主语只能 whether)<br>
+✓ <code>Whether he comes is unclear</code><br>
+✗ <code>I am thinking about if he will come</code>(介宾只能 whether)<br>
+✓ <code>I am thinking about whether he will come</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-036">S-036</a> 主语从句 <em>Whether Bretton Woods could survive a quarter-century was a question its architects scarcely asked.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#that-clause-subject">that 主语从句</a> · <a href="#wh-clause-object">wh- 宾语从句</a> · <a href="#adv-condition">if 条件状从</a></p>
 </div>
 
-<div class="term" id="appositive-clause">
-<h3>6. that 同位语从句</h3>
-<p class="def">that 从句紧跟抽象名词 (fact, idea, condition, hope, news, possibility),解释其内容。区别于定从(后者修饰)。</p>
-<p class="ex"><a href="/breakdown/#s-019">S-019</a> 同位 = the conviction <em>that the country needed a permanent central bank</em></p>
-<p class="ex"><a href="/breakdown/#s-037">S-037</a> 同位 = a single condition: <em>that no one ask for gold</em>(虚拟同位)</p>
+<div class="term term-deep" id="appositive-clause">
+<h3>6. that 同位语从句 · Appositive Clause</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>抽象名词 + that + 完整句</b>」 — 从句解释抽象名词的<b>具体内容</b>。是名词的「重命名」。</p>
+<p class="def-deep"><b>详细:</b> 同位语从句紧跟抽象名词(fact / idea / belief / hope / news / possibility / conviction / condition),用一个完整命题解释这个名词的具体含义。它和定语从句的关键区别:同位从句中 that <b>不充当任何成分</b>(纯连接词);定从中 that <b>充当主语 / 宾语</b>(可省)。</p>
+<p class="def-position"><b>形式 / 用法:</b> 抽象名词 + that + 完整句子。that 不能省。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 抽象名词 + 即 / 是 + 句子」(那个事实是他失败了)对应英文 the fact that he failed。中文「即」可省略,英文 that 不能省。</p>
+<p class="def-forms"><b>常见接同位从句的抽象名词:</b><br>
+① <em>认知类</em>:fact / idea / belief / opinion / view / understanding<br>
+② <em>感情类</em>:hope / fear / wish / desire<br>
+③ <em>表态类</em>:conviction / claim / argument / suggestion<br>
+④ <em>条件类</em>:condition / requirement / possibility / chance<br>
+⑤ <em>消息类</em>:news / report / rumor / announcement</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>同位语从句 vs 定语从句</b> — 都用 that,但 that 角色不同:<br>
+✓ The fact <em>that</em> he failed(同位 — that 不充任何成分,纯连接)<br>
+✓ The book <em>that</em> I bought(定从 — that 是 bought 的宾语,可省)<br>
+判断:that 后的句子完整(主谓宾齐全)→ 同位;缺一个成分(主或宾)→ 定从。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The fact he failed shocked me</code>(同位从句的 that 不能省)<br>
+✓ <code>The fact that he failed shocked me</code><br>
+✗ <code>The fact which he failed</code>(同位从句不能用 which)<br>
+✓ <code>The fact that he failed</code>(同位从句必须用 that)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-019">S-019</a> 同位 <em>the conviction that the country needed a permanent central bank</em>(名词 conviction + that 从句解释)<br>
+② <a href="/breakdown/#s-037">S-037</a> 虚拟同位 <em>a single condition: that no one ask for gold</em>(同位 + 虚拟语气 — ask 而非 asks)</p>
+<p class="def-related"><b>相关:</b> <a href="#appositive">同位语</a> · <a href="#restrictive-relative">限定性定从</a> · <a href="#that-clause-object">that 宾语从句</a></p>
 </div>
 
 <hr>
 
 <h2 id="relative-clauses" class="term">⑧ 定语从句</h2>
 
-<div class="term" id="restrictive-relative">
-<h3>1. 限定性定语从句 · Restrictive Relative</h3>
-<p class="def">限定先行词,不可省、不加逗号。关系代词:that / which / who / whom / whose。关系副词:when / where / why。可省略关系词成"接触从句"。</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> <em>The dollar that Hamilton designed weighed exactly 416 grains ...</em></p>
-<p class="ex"><a href="/breakdown/#s-008">S-008</a> 接触从句 = any silver dollar [that] he did not trust</p>
+<div class="term term-deep" id="restrictive-relative">
+<h3>1. 限定性定语从句 · Restrictive Relative Clause</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>不可省、不加逗号</b>」的定语从句。它对前面的名词起<b>限定</b>作用 — 没有它,先行词就不知道是哪个。</p>
+<p class="def-deep"><b>详细:</b> 限定性定从是英语长名词短语的核心机制。它把一个完整命题「下挂」到名词上,起精确限定作用。如果省略,主句就语义不完整或对象不明。是新闻、政经、学术写作的标志。中国学生最大盲区:① 不敢省略宾格关代;② 错用 that 引导非限定性。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+名词 + 关代 / 关副 + 主谓宾...<br>
+<em>关代</em>:that / which / who / whom / whose<br>
+<em>关副</em>:when / where / why<br>
+关代是从句的宾格时<b>可省略</b>(成「接触从句」)。</p>
+<p class="def-bilingual"><b>中英对照 · 关键:</b> 中文定语<b>前置 + 「的」</b>(「我读的书」),英文定从<b>必后置</b>(the book that I read)。中国学生最大错:把英文定从前置或漏关代。</p>
+<p class="def-forms"><b>5 种关系词 + 用法:</b><br>
+① <em>that</em>(人 / 物均可,最通用):the dollar <b>that</b> Hamilton designed<br>
+② <em>which</em>(只指物):the system <b>which</b> Keynes built<br>
+③ <em>who</em>(指人,主格):the men <b>who</b> fear for its life<br>
+④ <em>whom</em>(指人,宾格 — 现代英语少用):the man <b>whom</b> I saw<br>
+⑤ <em>whose</em>(所有格):the bank <b>whose</b> charter was vetoed<br>
+⑥ <em>关代省略</em>(关代是宾格时):any silver dollar [that] he did not trust<br>
+⑦ <em>where / when / why</em>(关副):the place <b>where</b> I was born / the time <b>when</b> ...</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>限定性 vs 非限定性</b> — 限定性必有,无逗号;非限定性可省,有逗号。<br>
+✓ The book <em>that I read</em> is good(限定 — 哪本书)<br>
+✓ This book, <em>which I read yesterday</em>, is good(非限定 — 补充)<br>
+<b>that vs which</b> — 限定性两者皆可(美式偏 that,英式偏 which);非限定性<b>只能用 which</b>。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I have a friend works in Beijing</code>(漏关代 who)<br>
+✓ <code>I have a friend who works in Beijing</code><br>
+✗ <code>The book that I read it is good</code>(关代 + 代词重复)<br>
+✓ <code>The book that I read is good</code> 或 <code>The book I read is good</code><br>
+✗ <code>This book, that I read, is good</code>(非限定不能用 that)<br>
+✓ <code>This book, which I read, is good</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-009">S-009</a> 限定 + 关代 that <em>The dollar that Hamilton designed weighed exactly 416 grains ...</em><br>
+② <a href="/breakdown/#s-008">S-008</a> 关代省略(接触从句) <em>any silver dollar [that] he did not trust</em><br>
+③ <a href="/breakdown/#s-065">S-065</a> 限定 + who <em>the men who fear for its life</em></p>
+<p class="def-related"><b>相关:</b> <a href="#non-restrictive-relative">非限定性定从</a> · <a href="#prep-fronted">介词前置定从</a> · <a href="#reduced-relative-clause">简化定从</a> · <a href="#modifier">定语</a></p>
 </div>
 
-<div class="term" id="non-restrictive-relative">
-<h3>2. 非限定性定语从句 · Non-restrictive Relative</h3>
-<p class="def">逗号隔开,补充信息可省略不影响主句意思。不能用 that 引导。</p>
-<p class="ex"><a href="/breakdown/#s-010">S-010</a> <em>Andrew Jackson, who distrusted bankers as deeply as he distrusted aristocrats, vetoed the Second Bank's charter ...</em></p>
+<div class="term term-deep" id="non-restrictive-relative">
+<h3>2. 非限定性定语从句 · Non-restrictive Relative Clause</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>逗号隔开 + 可省略 + 不能用 that</b>」的定语从句。它<b>补充信息</b>而非限定 — 去掉它主句仍完整。</p>
+<p class="def-deep"><b>详细:</b> 非限定性定从是英语「插入式补充信息」的关键工具。它用逗号(或破折号)与主句隔开,提供「顺便说一句」的额外信息。不影响先行词的指代,只丰富信息。在散文、报告、政经评论里高频出现。</p>
+<p class="def-position"><b>形式 / 用法:</b> 名词,关代 / 关副 + 主谓宾,(主句继续)。两侧用逗号隔开。从句可省略不影响主句完整。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「,他...」(分句)或「(他...)」(括号)表达类似补充,英文用「, who/which...,」结构。中国学生最常错:把非限定写成限定(漏逗号)或用 that(不允许)。</p>
+<p class="def-forms"><b>关键规则:</b><br>
+① 必有逗号 / 破折号<br>
+② <b>不能用 that</b> — 必须用 which / who / whom / whose / when / where<br>
+③ 关代<b>不能省略</b> — 否则缺连接<br>
+④ 可介词前置(in which / of whom)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>限定性 vs 非限定性</b> — 见上条。看逗号判断。<br>
+<b>非限定性 vs 同位语</b> — 同位语用名词短语作补充(my friend, a doctor),非限定性用完整从句作补充(my friend, who is a doctor)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Andrew Jackson, that distrusted bankers, vetoed ...</code>(非限定不能用 that)<br>
+✓ <code>Andrew Jackson, who distrusted bankers, vetoed ...</code><br>
+✗ <code>Andrew Jackson who distrusted bankers vetoed ...</code>(漏逗号 → 变限定,语义不准)<br>
+✓ <code>Andrew Jackson, who distrusted bankers, vetoed ...</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-010">S-010</a> 非限定 + who <em>Andrew Jackson, who distrusted bankers as deeply as he distrusted aristocrats, vetoed the Second Bank's charter in 1832.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#restrictive-relative">限定性定从</a> · <a href="#appositive">同位语</a> · <a href="#prep-fronted">介词前置定从</a></p>
 </div>
 
-<div class="term" id="prep-fronted">
+<div class="term term-deep" id="prep-fronted">
 <h3>3. 介词前置定语从句 · Prep + Relative Pronoun</h3>
-<p class="def">介词提到关系代词之前,正式书面语。"of which" / "in which" / "for whom" / "to whom"。</p>
-<p class="ex"><a href="/breakdown/#s-009">S-009</a> <em>... 416 grains, of which 371.25 grains were pure silver.</em>(of=介词前置)</p>
+<p class="def-quick"><b>一句话:</b> 「<b>介词放到关代之前</b>」的定从。比口语版「关代 + 主谓 + 介词在末尾」更<b>正式 / 书面</b>。</p>
+<p class="def-deep"><b>详细:</b> 这是英语正式书面语的标志结构。同样的语义,可以用两种方式表达:<br>
+① 口语版:the dollar <em>which</em> 371.25 grains <em>of</em> were pure silver(of 在末尾,不通顺)<br>
+② 正式版:the dollar, <em>of which</em> 371.25 grains were pure silver(of 提到 which 之前)<br>
+正式版多用于学术、法律、政经文献。</p>
+<p class="def-position"><b>形式 / 用法:</b> 名词 + 介词 + which / whom + 主谓宾。注意:介词前置时只能用 which / whom,不能用 that。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文不需要这种结构(中文「其中 X」可以前置)。英文则有这条「正式 vs 口语」的句法选择 — 中国学生写英文论文时学会用 of which / in which 立刻显得正式。</p>
+<p class="def-forms"><b>常见介词 + 关代搭配:</b><br>
+① <em>of which</em>(其中):416 grains, <b>of which</b> 371.25 were pure silver<br>
+② <em>in which</em>(在...之中):the era <b>in which</b> we live<br>
+③ <em>for which</em>(为之):the cause <b>for which</b> they fought<br>
+④ <em>to which</em>(向...):the place <b>to which</b> he went<br>
+⑤ <em>by which</em>(凭借):the means <b>by which</b> he succeeded<br>
+⑥ <em>on which</em>(关于):the subject <b>on which</b> we agree<br>
+⑦ <em>with whom</em>(和...):the man <b>with whom</b> I work</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>介词前置 vs 末尾</b> — 同语义,前置更正式,末尾更口语。<br>
+✓ 正式:the man <em>to whom</em> I spoke<br>
+✓ 口语:the man <em>who</em> I spoke <em>to</em><br>
+<b>介词前置不能用 that</b> — 必须 which / whom。✗ of that → ✓ of which。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The man to that I spoke</code>(介词前置不能用 that)<br>
+✓ <code>The man to whom I spoke</code><br>
+✗ <code>The book on which I read it</code>(关代 + 重复代词)<br>
+✓ <code>The book on which I read</code> 或 <code>The book I read</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-009">S-009</a> 介词前置 of which <em>... 416 grains, of which 371.25 grains were pure silver.</em>(of 提到 which 之前 — 高度正式)</p>
+<p class="def-related"><b>相关:</b> <a href="#restrictive-relative">限定性定从</a> · <a href="#non-restrictive-relative">非限定性定从</a> · <a href="#preposition">介词</a></p>
 </div>
 
-<div class="term" id="reduced-relative-clause">
-<h3>4. 简化定从 · Reduced Relative</h3>
-<p class="def">省略 "which is/was",只留过去分词或现在分词。</p>
-<p class="ex"><a href="/breakdown/#s-070">S-070</a> <em>Money issued by an algorithm rather than a parliament ...</em></p>
+<div class="term term-deep" id="reduced-relative-clause">
+<h3>4. 简化定语从句 · Reduced Relative</h3>
+<p class="def-quick"><b>一句话:</b> 完整定从「<b>which / who is V-en / V-ing</b>」省略「<b>which / who is</b>」,只留分词,变成<b>过 / 现分词短语作定语</b>。</p>
+<p class="def-deep"><b>详细:</b> 简化定从是英语紧凑写作的关键技巧。它把冗长的定从压缩成简洁的分词短语,信息密度极高。新闻、政经、学术写作里高频。理解这个简化机制,有助于看懂英文长句结构。</p>
+<p class="def-position"><b>简化的 2 个步骤:</b><br>
+原句:Money <b>which is issued</b> by an algorithm is something new.<br>
+① 去 which is(关代 + be):<br>
+&nbsp;&nbsp;Money <b>issued</b> by an algorithm is something new.<br>
+② 简化版即过分短语作定语</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文没有定从,因此「简化」概念对中国学生不易理解。但中文「被 X 的 N」直接对应英文简化版的 N + V-en。中文里其实经常使用类似简化逻辑(我吃过的菜 = 我曾经吃过的那道菜),只是不带语法术语。</p>
+<p class="def-forms"><b>2 种简化版本:</b><br>
+① <em>过去分词版</em>(被动 / 完成):<br>
+&nbsp;&nbsp;the system <b>which is designed</b> by Keynes → the system <b>designed</b> by Keynes<br>
+② <em>现在分词版</em>(主动 / 进行):<br>
+&nbsp;&nbsp;the man <b>who is sitting</b> there → the man <b>sitting</b> there</p>
+<p class="def-confuse"><b>易混淆 · 简化的限制条件:</b><br>
+能简化必须满足 3 条:<br>
+① <em>限定性定从</em>(非限定性也可,但更常见在限定性);<br>
+② <em>关代是从句的主语</em>(不是宾语);<br>
+③ <em>从句谓语是 be + V-en / V-ing</em>。<br>
+不满足时不能简化:<br>
+✓ The book <em>that was written</em> in 1900 → The book <em>written</em> in 1900(可)<br>
+✗ The book <em>that I read</em>(关代是宾语,不能简化)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 把不能简化的硬简化:<code>The book read by me is good</code>(关代 that 是 read 的宾语,不能省)<br>
+✓ <code>The book that I read is good</code><br>
+✗ <code>Money issuing by algorithm</code>(被动义应用过分)<br>
+✓ <code>Money issued by algorithm</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-070">S-070</a> 过分简化版 <em>Money issued by an algorithm rather than a parliament is something the world has never quite known before.</em>(原型 = Money <em>which is issued</em> by ...)<br>
+② <a href="/breakdown/#s-044">S-044</a> 现分简化版 <em>Inflation, slumbering since the 1950s, awoke ...</em>(原型 = Inflation, <em>which had been slumbering</em>, awoke ...)</p>
+<p class="def-related"><b>相关:</b> <a href="#past-participial">过去分词短语</a> · <a href="#present-participial">现在分词短语</a> · <a href="#restrictive-relative">限定性定从</a></p>
 </div>
 
 <hr>
 
 <h2 id="adv-clauses" class="term">⑨ 状语从句 · 八大类</h2>
 
-<div class="term" id="adv-time">
-<h3>1. 时间状语从句 · Adv. of Time</h3>
-<p class="def">when / while / as / before / after / since / until / once 等引导。</p>
-<p class="ex"><a href="/breakdown/#s-021">S-021</a> <em>When the First World War broke out, European gold flowed into American vaults ...</em></p>
+<div class="term term-deep" id="adv-time">
+<h3>1. 时间状语从句 · Adverbial of Time</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>when / while / as / before / after / since / until / once / by the time</b> 引导,描述主句动作发生的时间。</p>
+<p class="def-deep"><b>详细:</b> 时间状语从句是英语叙事写作的脊柱。它把两个事件用时间关系绑在一起 — 同时发生(when / while)、先后发生(before / after)、起点终点(since / until)、关键节点(once)。从句和主句的时态搭配是中国学生最易错的部分。</p>
+<p class="def-position"><b>形式 / 用法:</b> 时间从句可前置(逗号隔开)或后置(无逗号)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「当...时 / 之前 / 之后 / 自从」对应英文 when / before / after / since。中国学生最大盲区:从句中表将来用一般现在(When he comes,not When he will come)— 这是英语硬性规则。</p>
+<p class="def-forms"><b>常见时间连词:</b><br>
+① <em>同时</em>:when / while / as<br>
+② <em>之前</em>:before / by the time<br>
+③ <em>之后</em>:after / once / as soon as<br>
+④ <em>起点</em>:since(常配现在完成时)<br>
+⑤ <em>持续到</em>:until / till<br>
+⑥ <em>临时</em>:the moment / the minute / the second</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>when vs while</b> — when 既可瞬时也可持续;while 强调持续过程。While I was reading, he came in.<br>
+<b>从句中表将来用一般现在</b> — ✗ When he <em>will come</em> → ✓ When he <em>comes</em>(I will...)<br>
+<b>By + 时间锚点</b>必配过去完成时(见 past-perfect)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>When I will arrive, please call me</code>(从句中将来用一般现在)<br>
+✓ <code>When I arrive, please call me</code><br>
+✗ <code>By 1811, Spanish reales circulated</code>(By + 时间锚必配 had + V-en)<br>
+✓ <code>By 1811, Spanish reales had circulated</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-021">S-021</a> when 同时 <em>When the First World War broke out, European gold flowed ...</em><br>
+② <a href="/breakdown/#s-068">S-068</a> by the time 锚点 <em>By the time you finish reading this article, the world will have been generating ...</em><br>
+③ <a href="/breakdown/#s-098">S-098</a> once 关键节点 <em>There was no easy way back to gold once confidence had broken.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#adverbial">状语</a> · <a href="#anchor-time">时间锚点</a> · <a href="#past-perfect">过去完成时</a></p>
 </div>
 
-<div class="term" id="adv-cause">
-<h3>2. 原因状语从句 · Adv. of Cause</h3>
-<p class="def">because / since / as / for 等引导。"not because X, but because Y" 是相关并列。</p>
-<p class="ex"><a href="/breakdown/#s-054">S-054</a> <em>They held those dollars not because they loved Washington, but because they had nowhere else to park their savings.</em></p>
+<div class="term term-deep" id="adv-cause">
+<h3>2. 原因状语从句 · Adverbial of Cause</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>because / since / as / for / now that</b> 引导,说明主句动作的<b>原因</b>。</p>
+<p class="def-deep"><b>详细:</b> 原因状从是英语表「为什么」的核心结构。4 个常用连词语气强弱不同:because 最直接、最强;since / as 偏书面、含「众所周知」语气;for 古风、文学;now that 强调「既然现在...」。中国学生最大盲区:习惯于「因为...所以...」配对,但英语中 because 和 so 不能同时出现。</p>
+<p class="def-position"><b>形式 / 用法:</b> 原因从句可前置或后置(因为 X, 所以 Y / Y 因为 X)。常配相关并列「not because X, but because Y」(不是因为 X,而是因为 Y)。</p>
+<p class="def-bilingual"><b>中英对照 · 关键:</b> 中文「因为...所以...」是必用配对,英文<b>不能同用</b>:<br>
+✗ <code>Because I was sick, so I stayed home</code><br>
+✓ <code>Because I was sick, I stayed home</code> 或 <code>I was sick, so I stayed home</code></p>
+<p class="def-forms"><b>5 个原因连词 + 强弱:</b><br>
+① <em>because</em>:最强、最直接 — He left <b>because</b> he was tired.<br>
+② <em>since</em>:已知 / 不强调 — <b>Since</b> you know him, please introduce me.<br>
+③ <em>as</em>:口语 / 弱 — He left, <b>as</b> he was tired.<br>
+④ <em>for</em>:古风 / 文学 — He left, <b>for</b> he was tired.<br>
+⑤ <em>now that</em>:既然现在 — <b>Now that</b> you're here, let's begin.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>because vs because of</b> — because 后接从句(主谓);because of 后接名词或动名词。<br>
+✓ He left <em>because</em> he was tired(从句)<br>
+✓ He left <em>because of</em> his fatigue(名词)<br>
+<b>since 三种身份</b> — 时间状从「自从」/ 原因状从「因为」/ 介词「自...以来」。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Because I was sick, so I stayed home</code>(因为 + 所以 不能同用)<br>
+✓ <code>Because I was sick, I stayed home</code><br>
+✗ <code>Because of he was tired</code>(because of 后用名词)<br>
+✓ <code>Because of his fatigue</code> 或 <code>Because he was tired</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-054">S-054</a> not because X, but because Y <em>They held those dollars not because they loved Washington, but because they had nowhere else to park their savings.</em>(精彩的相关并列原因从句)</p>
+<p class="def-related"><b>相关:</b> <a href="#adv-concession">让步状从</a> · <a href="#conjunction">连词</a></p>
 </div>
 
-<div class="term" id="adv-concession">
-<h3>3. 让步状语从句 · Adv. of Concession</h3>
-<p class="def">although / though / even though / while 等引导。表"尽管 X,但 Y"。</p>
-<p class="ex"><a href="/breakdown/#s-018">S-018</a> <em>Although Bryan lost the election, his oratory still echoes through American memory.</em></p>
+<div class="term term-deep" id="adv-concession">
+<h3>3. 让步状语从句 · Adverbial of Concession</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>although / though / even though / while / no matter</b> 引导,表「<b>尽管 X,但 Y</b>」。X 和 Y 在语义上对立。</p>
+<p class="def-deep"><b>详细:</b> 让步状从是英语「转折」的核心结构。它的语义模式是「事实是 X(让步),结果反而是 Y」。although / though / even though 三者基本同义,语气微差。中国学生最大错:把「虽然...但是...」配对硬塞进英文 — 必须二选一。</p>
+<p class="def-position"><b>形式 / 用法:</b> 让步从句可前置(逗号隔开)或后置(无逗号)。强调对立时常前置。</p>
+<p class="def-bilingual"><b>中英对照 · 关键:</b> 中文「虽然...但是...」是配对,英文<b>不能同用</b>:<br>
+✗ <code>Although Bryan lost, but his oratory echoes</code><br>
+✓ <code>Although Bryan lost, his oratory echoes</code><br>
+中国学生最常见错。</p>
+<p class="def-forms"><b>5 大让步连词:</b><br>
+① <em>although</em>:正式 / 通用 — <b>Although</b> he is rich, he is unhappy.<br>
+② <em>though</em>:口语 / 弱 — <b>Though</b> tired, he kept working. / He kept working, <b>though</b>.<br>
+③ <em>even though</em>:强调极端让步 — <b>Even though</b> it rained, we went.<br>
+④ <em>while</em>(让步义)— <b>While</b> I admire him, I disagree.<br>
+⑤ <em>no matter + wh-</em>:无论 — <b>No matter how</b> hard he tried ...</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>although vs though</b> — 同义。although 更正式,though 更口语 / 可句末。<br>
+<b>although / though / even though vs but / however</b> — 不能同句配对。要么用从句连词,要么用并列连词。<br>
+<b>while 三种身份</b> — 时间从「当...时」/ 让步从「虽然」/ 对比 / 并列连词。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Although it rained, but we went</code>(although + but 不能同用)<br>
+✓ <code>Although it rained, we went</code> 或 <code>It rained, but we went</code><br>
+✗ <code>Despite he was tired, he worked</code>(despite 后用名词,不是从句)<br>
+✓ <code>Despite his fatigue, he worked</code> 或 <code>Although he was tired, he worked</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-018">S-018</a> 经典 although <em>Although Bryan lost the election, his oratory still echoes through American memory.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#adv-cause">原因状从</a> · <a href="#conjunction">连词</a> · <a href="#yet">yet 转折</a></p>
 </div>
 
-<div class="term" id="adv-condition">
-<h3>4. 条件状语从句 · Adv. of Condition</h3>
-<p class="def">if / unless / provided (that) / providing / as long as / on condition that / supposing / in case 等引导。条件句也有此功能。</p>
-<p class="ex"><a href="/breakdown/#s-052">S-052</a> <em>If the dollar were to weaken further, American manufacturing might at last find its footing.</em></p>
-<p class="ex"><a href="/breakdown/#s-071">S-071</a> <em>Provided that trust survives, the dollar will continue to underwrite the architecture of global finance.</em></p>
+<div class="term term-deep" id="adv-condition">
+<h3>4. 条件状语从句 · Adverbial of Condition</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>if / unless / provided (that) / as long as / supposing / in case</b> 引导,表「<b>如果 X,那么 Y</b>」。</p>
+<p class="def-deep"><b>详细:</b> 条件状从是英语虚拟语气的母体。它和虚拟语气紧密相关 — 真实条件用一般时态(If it rains, I'll stay),非真实条件用虚拟降一格(If it rained, I would stay)。完整虚拟分类见 ⑩ 虚拟语气章节。</p>
+<p class="def-position"><b>形式 / 用法:</b> 条件从句通常前置或后置。If 是默认条件词,unless 是 if not 的精炼版。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「如果...就... / 假如 / 除非」对应英文 if / unless。中文不严格区分真实 vs 虚拟,英文必须用时态变化区分。中国学生最大盲区:不知道虚拟降一格(详见 #type1-conditional, #type2-conditional, #type3-conditional)。</p>
+<p class="def-forms"><b>常见条件连词:</b><br>
+① <em>if</em>:最通用 — <b>If</b> it rains, I'll stay.<br>
+② <em>unless</em>(= if not):除非 — I'll go <b>unless</b> it rains.<br>
+③ <em>provided / providing (that)</em>:提供 / 假设 — <b>Provided that</b> trust survives, the dollar will last.<br>
+④ <em>as long as</em>:只要 — <b>As long as</b> you're happy, I'm happy.<br>
+⑤ <em>supposing / suppose</em>:假定 — <b>Suppose</b> he comes, what then?<br>
+⑥ <em>in case</em>:以防 — Take an umbrella <b>in case</b> it rains.<br>
+⑦ <em>were 倒装</em>:正式虚拟 — <b>Were</b> I rich, I would travel.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>if 名词从句 vs if 条件状从</b> — if 名词从句表「是否」(I asked if he is coming);if 条件状从表「如果」(If he comes, ...)。看在主句中的角色。<br>
+<b>unless vs if not</b> — 多数语境同义,但 unless 不能用于不可控条件:✗ Unless I die → ✓ If I don't die。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>If it will rain, I won't go</code>(if 从句中将来用一般现在)<br>
+✓ <code>If it rains, I won't go</code><br>
+✗ <code>If I would be rich, I would travel</code>(if 从句中虚拟用过去时,不是 would)<br>
+✓ <code>If I were rich, I would travel</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-052">S-052</a> 第二虚拟 + were to <em>If the dollar were to weaken further, American manufacturing might at last find its footing.</em>(超级谨慎假设)<br>
+② <a href="/breakdown/#s-071">S-071</a> Provided that <em>Provided that trust survives, the dollar will continue to underwrite the architecture of global finance.</em><br>
+③ <a href="/breakdown/#s-095">S-095</a> if + so will 倒装 <em>If the dollar ever falters, so will most of the world's price stability.</em><br>
+④ <a href="/breakdown/#s-105">S-105</a> if only + 过完 <em>If only policymakers had acted sooner, the panic of 2008 might have ended very differently.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#subjunctive">⑩ 虚拟语气</a> · <a href="#type1-conditional">第一虚拟</a> · <a href="#type2-conditional">第二虚拟</a> · <a href="#type3-conditional">第三虚拟</a></p>
 </div>
 
-<div class="term" id="adv-purpose">
-<h3>5. 目的状语从句 · Adv. of Purpose</h3>
-<p class="def">in order that / so that 引导,从句中常含 may/might/can/could。比 to + V 更正式。</p>
-<p class="ex"><a href="/breakdown/#s-031">S-031</a> <em>Banks were closed for four days, in order that public confidence might begin to recover.</em></p>
+<div class="term term-deep" id="adv-purpose">
+<h3>5. 目的状语从句 · Adverbial of Purpose</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>so that / in order that</b> 引导,表「<b>为了让 X 做 Y</b>」。从句中常含情态动词 may / might / can / could。</p>
+<p class="def-deep"><b>详细:</b> 目的状从用于表「目的」 — 比 to + V 不定式更正式、更书面。in order that 偏古典 / 法律式;so that 偏中性。从句中的情态动词(may / might)反映「目的的不确定 / 期望」语气。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主句 + so that / in order that + 从句。从句中常带 may / might / can / could。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「以图 / 为了让 / 以便」对应 in order that / so that。中文不需要情态动词标记,英文用 may / might 让目的语气更精细。</p>
+<p class="def-forms"><b>2 大目的连词:</b><br>
+① <em>so that</em>(常用):He studies hard <b>so that</b> he can pass.<br>
+② <em>in order that</em>(正式):Banks were closed for four days <b>in order that</b> public confidence might begin to recover.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>so that 目的 vs so that 结果</b> — 完全不同!<br>
+✓ He studies hard <em>so that</em> he can pass(目的 — so that + may/might/can/could)<br>
+✓ He studied hard, <em>so that</em> he passed(结果 — so + that 表结果)<br>
+判断:从句有情态(may / might / can / could)→ 目的;无情态 → 结果。<br>
+<b>in order that vs in order to</b> — that + 从句;to + V 原形。语义同。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He studied so that pass the exam</code>(从句必须有主谓)<br>
+✓ <code>He studied so that he could pass the exam</code><br>
+✗ 在简单语境中过用 in order that(显得拘谨)<br>
+✓ 简单目的用 to + V,正式 / 古典用 in order that</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-031">S-031</a> in order that + might <em>Banks were closed for four days, in order that public confidence might begin to recover.</em>(高度正式)</p>
+<p class="def-related"><b>相关:</b> <a href="#to-inf-purpose">to + V 表目的</a> · <a href="#adv-result">结果状从</a> · <a href="#may-might">may / might</a></p>
 </div>
 
-<div class="term" id="adv-result">
-<h3>6. 结果状语从句 · Adv. of Result</h3>
-<p class="def">"so + 形/副 + that ..." 与 "such + (a/an) + 形 + 名 + that ..." 表程度-结果。</p>
-<p class="ex"><a href="/breakdown/#s-025">S-025</a> <em>The 1920s economy grew so confidently that few Americans imagined any cliff ahead.</em></p>
-<p class="ex"><a href="/breakdown/#s-026">S-026</a> <em>The collapse of October 1929 was such a shock that an entire generation lost faith in finance.</em></p>
+<div class="term term-deep" id="adv-result">
+<h3>6. 结果状语从句 · Adverbial of Result</h3>
+<p class="def-quick"><b>一句话:</b> 用 「<b>so + 形 / 副 + that</b>」 或 「<b>such + (a/an) + 形 + 名 + that</b>」 表「<b>程度 → 结果</b>」。</p>
+<p class="def-deep"><b>详细:</b> 结果状从是英语「程度 + 后果」的标志结构。它前半句描述程度 / 性质,后半句描述由此产生的结果。是描述性写作的核心修辞。语法上有两种结构 — so + 形容词;such + 名词短语 — 中国学生最易混。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+① <em>so + 形 / 副 + that</em>:He is <b>so</b> tall <b>that</b> he can reach the ceiling.<br>
+② <em>such + (a/an) + 形 + 名 + that</em>:It was <b>such</b> a shock <b>that</b> ...</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「如此...以致 / 太...以至于」对应英文 so / such ... that。中国学生最大错:用 so 修饰名词或用 such 修饰形容词。</p>
+<p class="def-forms"><b>2 种基本结构 + 倒装变体:</b><br>
+① <em>so + 形 / 副 + that</em>:He is <b>so</b> tall.<br>
+② <em>such + (a/an) + 形 + 名 + that</em>:He is <b>such</b> a tall man.<br>
+③ <em>so + 形 + a / an + 名</em>(倒装变体,正式):<b>So</b> tall <b>a</b> man can hardly fit.<br>
+④ <em>So + 形 / 副 + 倒装</em>(强调,见 ⑪ 倒装):<b>So thorough was</b> Volcker's discipline that ...</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>so 修饰形 / 副 vs such 修饰名词</b> —<br>
+✓ He is <em>so</em> tall(形容词 — so)<br>
+✓ He is <em>such</em> a tall man(名词短语 — such)<br>
+✗ He is <em>so</em> tall man(× so 不能直接修饰名词短语)<br>
+<b>so that 目的 vs so + 形 + that 结果</b> — 见 #adv-purpose。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He is so tall man</code>(so 直接修饰名词错)<br>
+✓ <code>He is such a tall man</code> 或 <code>He is so tall</code><br>
+✗ <code>It was so a shock</code>(so + a/an 错)<br>
+✓ <code>It was such a shock</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-025">S-025</a> so + 副 + that <em>The 1920s economy grew so confidently that few Americans imagined any cliff ahead.</em><br>
+② <a href="/breakdown/#s-026">S-026</a> such + 名 + that <em>The collapse of October 1929 was such a shock that an entire generation lost faith in finance.</em><br>
+③ <a href="/breakdown/#s-097">S-097</a> So + 形 + 倒装 <em>So thorough was Volcker's discipline that the inflation of the 1970s never returned ...</em>(强调倒装版)</p>
+<p class="def-related"><b>相关:</b> <a href="#adv-purpose">目的状从</a> · <a href="#so-adj-that-inversion">So + 形 + that 倒装</a></p>
 </div>
 
-<div class="term" id="adv-manner">
-<h3>7. 方式状语从句 · Adv. of Manner</h3>
-<p class="def">as if / as though 引导,表"似乎,仿佛"。与事实不符时谓语降一格(虚拟):现在事实用过去时(were 不用 was);过去事实用过去完成时。</p>
-<p class="ex"><a href="/breakdown/#s-038">S-038</a> <em>For two decades, the system worked smoothly, as if gold and the dollar were a single currency.</em></p>
+<div class="term term-deep" id="adv-manner">
+<h3>7. 方式状语从句 · Adverbial of Manner</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>as / as if / as though</b> 引导,表「<b>像...一样 / 仿佛</b>」。as if / as though 与事实不符时用<b>虚拟语气降一格</b>。</p>
+<p class="def-deep"><b>详细:</b> 方式状从是英语描写「类比 / 仿真」的核心结构。as if / as though 在与事实不符时触发虚拟语气 — 现在事实用过去时(were / V-ed),过去事实用过去完成时(had + V-en)。这是高级英语写作的标志。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主句 + as / as if / as though + 从句。as if / as though 后的虚拟语气是关键。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「仿佛 / 好像 / 如同」对应英文 as if / as though。中文不需要时态降一格,英文必须降一格表虚拟。这是中国学生最难的细节。</p>
+<p class="def-forms"><b>3 大用法:</b><br>
+① <em>as</em>:像...那样(中性,不必虚拟)— Do <b>as</b> I say.<br>
+② <em>as if / as though + 现在虚拟</em>(过去时):He acts <b>as if</b> he <b>knew</b> everything.(他装作什么都懂 — 实际不懂)<br>
+③ <em>as if / as though + 过去虚拟</em>(过完):He acts <b>as if</b> he <b>had seen</b> a ghost.(像见过鬼一样 — 实际没见过)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>as if + 虚拟 vs as if + 真实</b> — 与事实不符用虚拟(He looks <em>as if he were</em> sick — 其实没病);事实可能为真用一般时态(He looks <em>as if he is</em> sick — 也许真病了)。<br>
+<b>were vs was</b>(虚拟)— 正式英语用 were(He acts as if he <em>were</em> a king);口语可用 was。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He acts as if he is rich</code>(若实际不富,应用虚拟)<br>
+✓ <code>He acts as if he were rich</code><br>
+✗ <code>It worked as if gold and dollar are one</code>(过去虚拟应用过去时)<br>
+✓ <code>It worked as if gold and the dollar were a single currency</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-038">S-038</a> as if + were 虚拟 <em>For two decades, the system worked smoothly, as if gold and the dollar were a single currency.</em>(实际并非如此,故用虚拟)</p>
+<p class="def-related"><b>相关:</b> <a href="#subjunctive">⑩ 虚拟语气</a> · <a href="#wish-clause">wish 从句</a></p>
 </div>
 
-<div class="term" id="adv-comparison">
-<h3>8. 比较状语从句 · Adv. of Comparison</h3>
-<p class="def">than / as ... as 引导。比较级用 -er + than 或 more + 形/副 + than;同级用 as + 形/副 + as;倍数 + as ... as。</p>
-<p class="ex"><a href="/breakdown/#s-045">S-045</a> <em>... prices rose faster than wages ...</em>(比较级)</p>
-<p class="ex"><a href="/breakdown/#s-010">S-010</a> <em>... distrusted bankers as deeply as he distrusted aristocrats ...</em>(同级)</p>
-<p class="ex"><a href="/breakdown/#s-085">S-085</a> <em>... three times as often as the euro and the yen combined.</em>(倍数)</p>
+<div class="term term-deep" id="adv-comparison">
+<h3>8. 比较状语从句 · Adverbial of Comparison</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>than / as ... as</b> 引导,做<b>程度比较</b>。比较级 -er + than;同级 as + 形 + as;倍数 + as ... as。</p>
+<p class="def-deep"><b>详细:</b> 比较状从是英语精确比较的核心。它有 3 大形态:比较级(差异)、同级(相同)、倍数。中国学生最大盲区:倍数比较(twice / three times + as ... as)的语序和「比 X 多 Y 倍」的中英差异。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主句中含比较级 / 同级 / 倍数,从句以 than / as 引出对比对象。</p>
+<p class="def-bilingual"><b>中英对照 · 关键:</b> 中文「X 比 Y + 形容词」对应英文 X is + 形容词 + er + than Y。<br>
+中文「X 是 Y 的 N 倍」对应英文 X is N times as ... as Y(注意:英文倍数包含原数;中文「3 倍」可能是 3x 或 4x)。</p>
+<p class="def-forms"><b>3 大形态:</b><br>
+① <em>比较级 + than</em>(差异):He is <b>taller than</b> me / Prices rose <b>faster than</b> wages.<br>
+② <em>as + 形 / 副 + as</em>(同级):He is <b>as tall as</b> me / He distrusted bankers <b>as deeply as</b> aristocrats.<br>
+③ <em>倍数 + as ... as</em>:The dollar trades <b>twice as often as</b> the euro / 三倍 — three times as ...<br>
+④ <em>否定同级 not as ... as</em>:He is <b>not as tall as</b> me.<br>
+⑤ <em>越...越...</em>:<b>The more</b> ... <b>the more</b>(双比较级)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>than vs then</b> — 完全不同!than 是比较介词 / 连词;then 是时间副词。<br>
+<b>as ... as 双 as</b> — 不能漏第二个 as。✗ He is as tall me → ✓ He is as tall as me.<br>
+<b>than + 主格 vs 宾格</b> — 正式英语用主格(He is taller than I),口语用宾格(He is taller than me)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He is more taller than me</code>(taller 已是比较级,不再加 more)<br>
+✓ <code>He is taller than me</code><br>
+✗ <code>The dollar trades twice often as the euro</code>(漏第一个 as)<br>
+✓ <code>The dollar trades twice as often as the euro</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-045">S-045</a> 比较级 <em>prices rose faster than wages</em><br>
+② <a href="/breakdown/#s-010">S-010</a> 同级 <em>distrusted bankers as deeply as he distrusted aristocrats</em><br>
+③ <a href="/breakdown/#s-085">S-085</a> 倍数 <em>almost twice as often as the euro and the yen combined</em><br>
+④ <a href="/breakdown/#s-091">S-091</a> 双比较级 <em>The more the world distrusts ..., the more it seems ... to trust the dollar</em></p>
+<p class="def-related"><b>相关:</b> <a href="#comparison">⑫ 比较与并列</a> · <a href="#comparative">比较级</a> · <a href="#equality">同级比较</a> · <a href="#multiplier">倍数比较</a></p>
 </div>
 
 <hr>
