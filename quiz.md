@@ -6,13 +6,21 @@ permalink: /quiz/
 ---
 
 <div class="quiz-intro">
-<p><strong>测试说明 ·</strong> 本页随机抽取 108 句中的一句,让你判断每个短语属于什么成分。三种题型轮换:</p>
-<ul>
-<li><strong>Q1 单选</strong> · 给完整句子,问「主语是哪个?」(从 4 选项中选)</li>
-<li><strong>Q2 角色识别</strong> · 高亮一个短语,问「这是什么成分?」(8 选 1)</li>
-<li><strong>Q3 完整句贴标签</strong> · 给整句,你为每个短语选角色 → 全部贴完看正确率</li>
+<p><strong>测试说明 ·</strong> 这是一个覆盖项目<b>所有教学维度</b>的 10 题型测试系统(除听力外)。每次随机抽题,即时反馈 + 错题复习池 + 累计统计。</p>
+<p style="margin-top:0.6em;"><strong>10 种题型 · 覆盖 9 个教学维度:</strong></p>
+<ul style="columns:2;column-gap:2em;font-size:0.95rem;">
+<li><strong>Q1</strong> 句法 · 单选「哪个是主语?」</li>
+<li><strong>Q2</strong> 句法 · 8 选 1 角色识别</li>
+<li><strong>Q3</strong> 句法 · 整句贴标签</li>
+<li><strong>Q4</strong> 语法点 · 这一句用了什么语法?</li>
+<li><strong>Q5</strong> 时态 · 12+ 种时态语态精细识别</li>
+<li><strong>Q7</strong> 衔接 · 5 大类衔接判断</li>
+<li><strong>Q8</strong> 翻译 · 中英互译选择</li>
+<li><strong>Q9</strong> 术语 · 给定义反查术语</li>
+<li><strong>Q10</strong> 词汇 · 英文词 → 中文释义</li>
+<li><strong>Q11</strong> 改错 · 中国学生常见错误识别</li>
 </ul>
-<p>错题进入<strong>复习池</strong>(本地保存,清缓存会丢)。累计统计实时显示。</p>
+<p style="margin-top:0.6em;">点击右上角「<strong>题型筛选 ⚙</strong>」可关闭不感兴趣的题型 / 启用「仅复习错题」模式。所有数据均来自本项目的 108 句 / 688 词汇 / 25 衔接案例 / 161 术语 / 15 错题对。</p>
 </div>
 
 <div id="quiz-app">

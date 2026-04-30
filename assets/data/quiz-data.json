@@ -1,8 +1,42 @@
 {
+  "version": 2,
+  "role_labels": {
+    "s": "主语 Subject",
+    "v": "谓语 Verb",
+    "o": "宾语 Object",
+    "c": "表/补 Complement",
+    "a": "状语 Adverbial",
+    "m": "定/同 Modifier",
+    "fn": "功能词 Function word",
+    "cl": "从句引导 Clause marker"
+  },
+  "cohesion_types": {
+    "reference": {
+      "label_zh": "① 指代衔接",
+      "label_en": "Reference"
+    },
+    "substitution": {
+      "label_zh": "② 替代衔接",
+      "label_en": "Substitution"
+    },
+    "ellipsis": {
+      "label_zh": "③ 省略衔接",
+      "label_en": "Ellipsis"
+    },
+    "conjunction": {
+      "label_zh": "④ 连接词衔接",
+      "label_en": "Conjunction"
+    },
+    "lexical": {
+      "label_zh": "⑤ 词汇衔接",
+      "label_en": "Lexical Cohesion"
+    }
+  },
   "sentences": [
     {
       "id": "s-001",
       "grammar": "S-001 · Simple Present (一般现在时)",
+      "grammar_name": "Simple Present (一般现在时)",
       "phrases": [
         {
           "role": "s",
@@ -34,11 +68,14 @@
           "tag": "宾",
           "text": "one of the longest"
         }
-      ]
+      ],
+      "zh_flow": "金钱讲述故事,而美元讲述的,是其中最漫长的一段。",
+      "grammar_note": "Grammar: Simple Present · 用于格言式陈述。两个并列分句,分号连接。"
     },
     {
       "id": "s-002",
       "grammar": "S-002 · Historic / Narrative Present (历史现在时)",
+      "grammar_name": "Historic / Narrative Present (历史现在时)",
       "phrases": [
         {
           "role": "a",
@@ -70,11 +107,14 @@
           "tag": "状",
           "text": "at the Philadelphia mint"
         }
-      ]
+      ],
+      "zh_flow": "1792 年,这个年轻的共和国在费城的造币厂铸下了它的第一枚银元。",
+      "grammar_note": "Grammar: Historic Present · 历史/新闻叙事中以现在时讲过去事件,现场感强烈。"
     },
     {
       "id": "s-003",
       "grammar": "S-003 · Simple Past (一般过去时)",
+      "grammar_name": "Simple Past (一般过去时)",
       "phrases": [
         {
           "role": "a",
@@ -101,11 +141,14 @@
           "tag": "状",
           "text": "into law"
         }
-      ]
+      ],
+      "zh_flow": "同年 4 月 2 日,亚历山大·汉密尔顿亲笔签下《铸币法案》,使之成为正式的法律。",
+      "grammar_note": "Grammar: Simple Past · 叙事的基本时态,描述某个明确过去时间点上完成的动作。"
     },
     {
       "id": "s-004",
       "grammar": "S-004 · Past Continuous (过去进行时)",
+      "grammar_name": "Past Continuous (过去进行时)",
       "phrases": [
         {
           "role": "cl",
@@ -147,11 +190,14 @@
           "tag": "定",
           "text": "meant to one day destroy it"
         }
-      ]
+      ],
+      "zh_flow": "汉密尔顿在搭建国家银行之时,托马斯·杰斐逊已经在起草那些日后注定会将它摧毁的论据。",
+      "grammar_note": "Grammar: Past Continuous · 两个同时持续的过去动作,常以 while 引导。"
     },
     {
       "id": "s-005",
       "grammar": "S-005 · Past Perfect (过去完成时)",
+      "grammar_name": "Past Perfect (过去完成时)",
       "phrases": [
         {
           "role": "a",
@@ -178,11 +224,14 @@
           "tag": "状",
           "text": "for nearly a century"
         }
-      ]
+      ],
+      "zh_flow": "至 1811 年,西班牙银元已在十三块殖民地流通了将近一个世纪。",
+      "grammar_note": "Grammar: Past Perfect · 在过去某参照点(1811)之前已发生或延续的动作。\"By + 时间\"是经典锚点。"
     },
     {
       "id": "s-006",
       "grammar": "S-006 · Past Perfect Continuous (过去完成进行时)",
+      "grammar_name": "Past Perfect Continuous (过去完成进行时)",
       "phrases": [
         {
           "role": "a",
@@ -219,11 +268,14 @@
           "tag": "状",
           "text": "against centralized finance"
         }
-      ]
+      ],
+      "zh_flow": "二十年间,杰斐逊派始终在向其同胞发出警告 — 切勿轻信集权式的金融。",
+      "grammar_note": "Grammar: Past Perfect Continuous · 强调动作在过去某时点之前已\"持续进行\"了一段时间。"
     },
     {
       "id": "s-007",
       "grammar": "S-007 · Used to (过去常做)",
+      "grammar_name": "Used to (过去常做)",
       "phrases": [
         {
           "role": "s",
@@ -265,11 +317,14 @@
           "tag": "状",
           "text": "as everyday money"
         }
-      ]
+      ],
+      "zh_flow": "美国农人曾以烟草票据、西班牙硬币,乃至金粉,作为日常的支付手段。",
+      "grammar_note": "Grammar: used to + 动词原形 · 表过去经常做但现已不再做的习惯。区别于 be used to + V-ing。"
     },
     {
       "id": "s-008",
       "grammar": "S-008 · Would (Habitual Past · 过去习惯)",
+      "grammar_name": "Would (Habitual Past · 过去习惯)",
       "phrases": [
         {
           "role": "a",
@@ -316,11 +371,14 @@
           "tag": "从谓",
           "text": "trust"
         }
-      ]
+      ],
+      "zh_flow": "每逢周六上午,乡间店主总会从他所不信任的银元上削下一片薄薄的银屑,以验真伪。",
+      "grammar_note": "Grammar: would · 表过去反复发生的习惯动作。和 used to 在表\"反复动作\"时可换用,但 would 不能表过去状态。"
     },
     {
       "id": "s-009",
       "grammar": "S-009 · Restrictive Relative + Prep Fronted (限定性定从 · 介词前置)",
+      "grammar_name": "Restrictive Relative + Prep Fronted (限定性定从 · 介词前置)",
       "phrases": [
         {
           "role": "s",
@@ -377,11 +435,14 @@
           "tag": "从表",
           "text": "pure silver"
         }
-      ]
+      ],
+      "zh_flow": "汉密尔顿所设计的那枚美元,重量恰为 416 格令,其中 371.25 格令为纯银。",
+      "grammar_note": "Grammar: 一句两种定从。(a) that Hamilton designed 是限定性定从,that 是关系代词。(b) of which 371.25 grains were pure silver 是非限定性定从,of 是介词,which 是关系代词,介词前置(prep fronted)就是把 of 提到 which 之前,正式书面语。普通写法可以是 \"which 371.25 grains of were pure silver\" — 但这样不优雅。"
     },
     {
       "id": "s-010",
       "grammar": "S-010 · Non-restrictive Relative + as ... as (非限定性定从 + 同级比较)",
+      "grammar_name": "Non-restrictive Relative + as ... as (非限定性定从 + 同级比较)",
       "phrases": [
         {
           "role": "s",
@@ -448,11 +509,14 @@
           "tag": "状",
           "text": "in 1832"
         }
-      ]
+      ],
+      "zh_flow": "安德鲁·杰克逊对银行家的猜忌,不亚于他对贵族的反感;1832 年,他亲手否决了第二银行的特许状续期。",
+      "grammar_note": "Grammar: 非限定性定从用逗号隔开,补充信息;从句内 \"as deeply as\" 表程度相等。"
     },
     {
       "id": "s-011",
       "grammar": "S-011 · Inverted Type-3 Conditional + Modal Perfect (倒装第三条件 + 情态完成)",
+      "grammar_name": "Inverted Type-3 Conditional + Modal Perfect (倒装第三条件 + 情态完成)",
       "phrases": [
         {
           "role": "cl",
@@ -509,11 +573,14 @@
           "tag": "状",
           "text": "apart"
         }
-      ]
+      ],
+      "zh_flow": "倘若杰克逊曾信任过中央银行制度,1837 年的金融大恐慌,或许不至于撕裂整片边疆。",
+      "grammar_note": "Grammar: Type-3 conditional 与过去事实相反;If 从句倒装为 \"Had + 主 + V-en\";主句用 \"might have + V-en\" 情态完成式。"
     },
     {
       "id": "s-012",
       "grammar": "S-012 · Cleft Sentence (分裂句 · It-cleft)",
+      "grammar_name": "Cleft Sentence (分裂句 · It-cleft)",
       "phrases": [
         {
           "role": "fn",
@@ -565,11 +632,14 @@
           "tag": "状",
           "text": "on a national scale"
         }
-      ]
+      ],
+      "zh_flow": "真正促使华盛顿在全国范围内印发纸币的,既非任何经济学说,而是那场内战。",
+      "grammar_note": "Grammar: 分裂句 (it-cleft):\"It was + 强调成分 + that...\",突出某一成分。这里强调\"内战\"。"
     },
     {
       "id": "s-013",
       "grammar": "S-013 · Past Passive + To-infinitive of Purpose (过去时被动 + 不定式表目的)",
+      "grammar_name": "Past Passive + To-infinitive of Purpose (过去时被动 + 不定式表目的)",
       "phrases": [
         {
           "role": "s",
@@ -626,11 +696,14 @@
           "tag": "状",
           "text": "in coin"
         }
-      ]
+      ],
+      "zh_flow": "1862 年发行的「绿背钞」,意在为一场国库已无法以硬币支撑的战争筹措军费。",
+      "grammar_note": "Grammar: was issued = 过去被动语态(be + 过去分词);\"to finance\" 表目的;后跟省略 that 的接触关系从句。"
     },
     {
       "id": "s-014",
       "grammar": "S-014 · Pseudo-cleft / Wh-noun Clause as Subject (假分裂句)",
+      "grammar_name": "Pseudo-cleft / Wh-noun Clause as Subject (假分裂句)",
       "phrases": [
         {
           "role": "cl",
@@ -662,11 +735,14 @@
           "tag": "表",
           "text": "the Resumption Act of 1875"
         }
-      ]
+      ],
+      "zh_flow": "真正在重建时期之后恢复货币秩序的,是 1875 年的《硬币兑付恢复法》。",
+      "grammar_note": "Grammar: 假分裂句 (wh-cleft):\"What ...\" 整体作主语;系动词 was 等价对接强调焦点。"
     },
     {
       "id": "s-015",
       "grammar": "S-015 · Gerund as Subject (动名词作主语)",
+      "grammar_name": "Gerund as Subject (动名词作主语)",
       "phrases": [
         {
           "role": "s",
@@ -703,11 +779,14 @@
           "tag": "状",
           "text": "to Western farmers"
         }
-      ]
+      ],
+      "zh_flow": "在东部银行家眼中,回归金本位是审慎之举;在西部农人眼中,却是一场灾难。",
+      "grammar_note": "Grammar: V-ing 短语作主语,强调\"该活动本身\"。"
     },
     {
       "id": "s-016",
       "grammar": "S-016 · Gerund after Preposition (介词后接动名词)",
+      "grammar_name": "Gerund after Preposition (介词后接动名词)",
       "phrases": [
         {
           "role": "a",
@@ -734,11 +813,14 @@
           "tag": "状",
           "text": "behind him"
         }
-      ]
+      ],
+      "zh_flow": "凭借对自由银币的坚持,威廉·詹宁斯·布莱恩将一整代深陷债务的农人团结到了自己身后。",
+      "grammar_note": "Grammar: 介词 by 后必须用动名词 V-ing。\"by V-ing\" = 通过做某事。"
     },
     {
       "id": "s-017",
       "grammar": "S-017 · Noun Clause as Object + Modal Passive (宾语从句 + 情态被动)",
+      "grammar_name": "Noun Clause as Object + Modal Passive (宾语从句 + 情态被动)",
       "phrases": [
         {
           "role": "a",
@@ -775,11 +857,14 @@
           "tag": "状",
           "text": "upon a cross of gold"
         }
-      ]
+      ],
+      "zh_flow": "1896 年,布莱恩宣告:人类不应被钉在一具黄金的十字架上。",
+      "grammar_note": "Grammar: that-从句作 declared 的宾语;从句内 \"must not be crucified\" 是情态被动 (modal + be + V-en)。"
     },
     {
       "id": "s-018",
       "grammar": "S-018 · Adverbial Clause of Concession (让步状语 · although)",
+      "grammar_name": "Adverbial Clause of Concession (让步状语 · although)",
       "phrases": [
         {
           "role": "cl",
@@ -821,11 +906,14 @@
           "tag": "状",
           "text": "through American memory"
         }
-      ]
+      ],
+      "zh_flow": "尽管布莱恩输掉了那场选举,他的雄辩之词至今仍在美国的集体记忆里回响。",
+      "grammar_note": "Grammar: although 引导让步状从,表\"尽管 X,但 Y\"。同义:though, even though。"
     },
     {
       "id": "s-019",
       "grammar": "S-019 · Locative Inversion (地点倒装)",
+      "grammar_name": "Locative Inversion (地点倒装)",
       "phrases": [
         {
           "role": "a",
@@ -862,11 +950,14 @@
           "tag": "从宾",
           "text": "a permanent central bank"
         }
-      ]
+      ],
+      "zh_flow": "1907 年的大恐慌之后,一个信念由此而生 — 这个国家需要一家永久性的中央银行。",
+      "grammar_note": "Grammar: 地点状语前置时,主谓倒装。长主语挪到句末符合\"末端重心\"。"
     },
     {
       "id": "s-020",
       "grammar": "S-020 · Simple-Present Passive (一般现在时被动)",
+      "grammar_name": "Simple-Present Passive (一般现在时被动)",
       "phrases": [
         {
           "role": "a",
@@ -893,11 +984,14 @@
           "tag": "状",
           "text": "under Federal Reserve authority"
         }
-      ]
+      ],
+      "zh_flow": "今天,每一张美元钞票皆由美国印钞局,在联邦储备体系的授权之下印制。",
+      "grammar_note": "Grammar: 一般现在时被动 (am/is/are + V-en),表当前事实的被动。"
     },
     {
       "id": "s-021",
       "grammar": "S-021 · Adverbial Clause of Time (时间状语 · when)",
+      "grammar_name": "Adverbial Clause of Time (时间状语 · when)",
       "phrases": [
         {
           "role": "cl",
@@ -934,11 +1028,14 @@
           "tag": "状",
           "text": "at an unprecedented rate"
         }
-      ]
+      ],
+      "zh_flow": "第一次世界大战爆发之时,欧洲的黄金以前所未有的速率涌入美国金库。",
+      "grammar_note": "Grammar: when-从句为时间状语,定位主句动作的时间。同类:while, as, before, after, since, until, once。"
     },
     {
       "id": "s-022",
       "grammar": "S-022 · Bare Infinitive after \"make\" (使役动词后接不带 to 的不定式)",
+      "grammar_name": "Bare Infinitive after \"make\" (使役动词后接不带 to 的不定式)",
       "phrases": [
         {
           "role": "s",
@@ -970,11 +1067,14 @@
           "tag": "状",
           "text": "as a credible reserve currency"
         }
-      ]
+      ],
+      "zh_flow": "那场战争近乎在一夜之间,使美元跃升为一种可被信赖的储备货币。",
+      "grammar_note": "Grammar: 使役动词 make / let / have + 宾语 + 动词原形(无 to);感官动词 see/hear/watch/feel 同此。"
     },
     {
       "id": "s-023",
       "grammar": "S-023 · Both ... and (相关并列连词)",
+      "grammar_name": "Both ... and (相关并列连词)",
       "phrases": [
         {
           "role": "fn",
@@ -1021,11 +1121,14 @@
           "tag": "状",
           "text": "across the Atlantic"
         }
-      ]
+      ],
+      "zh_flow": "英国与法国均向纽约银行家大举借贷,货币力量的天平也由此开始横跨大西洋,向西倾移。",
+      "grammar_note": "Grammar: Both ... and 并列两个对等主语,谓语用复数。相关连词家族:both/and · either/or · neither/nor · not only/but also。"
     },
     {
       "id": "s-024",
       "grammar": "S-024 · Mandative Subjunctive (虚拟语气 · 命令性)",
+      "grammar_name": "Mandative Subjunctive (虚拟语气 · 命令性)",
       "phrases": [
         {
           "role": "cl",
@@ -1067,11 +1170,14 @@
           "tag": "目的",
           "text": "to restore the prewar parities"
         }
-      ]
+      ],
+      "zh_flow": "停战之后,法国政府坚持要求重新分配黄金,以恢复战前的平价格局。",
+      "grammar_note": "Grammar: insist / demand / require / suggest 等动词后的 that 从句用动词原形(命令性虚拟,无视主语和时态)。"
     },
     {
       "id": "s-025",
       "grammar": "S-025 · so + adv ... that (结果状语 · so...that)",
+      "grammar_name": "so + adv ... that (结果状语 · so...that)",
       "phrases": [
         {
           "role": "s",
@@ -1113,11 +1219,14 @@
           "tag": "状",
           "text": "ahead"
         }
-      ]
+      ],
+      "zh_flow": "1920 年代的经济一路扶摇直上,鲜有美国人能想见前方暗藏断崖。",
+      "grammar_note": "Grammar: so + 形/副 + that 从句 · 表程度 - 结果。\"如此 X,以致 Y\"。"
     },
     {
       "id": "s-026",
       "grammar": "S-026 · such + n ... that (结果状语 · such...that)",
+      "grammar_name": "such + n ... that (结果状语 · such...that)",
       "phrases": [
         {
           "role": "s",
@@ -1159,11 +1268,14 @@
           "tag": "状",
           "text": "in finance"
         }
-      ]
+      ],
+      "zh_flow": "1929 年 10 月的崩盘,其震撼之深,使整整一代人从此对金融失去了信任。",
+      "grammar_note": "Grammar: such + (a/an) + 形容词 + 名词 + that 从句。与 so...that 同义,但所修饰的是名词短语。"
     },
     {
       "id": "s-027",
       "grammar": "S-027 · Nor with Subject-Aux Inversion (nor 引导倒装)",
+      "grammar_name": "Nor with Subject-Aux Inversion (nor 引导倒装)",
       "phrases": [
         {
           "role": "fn",
@@ -1205,11 +1317,14 @@
           "tag": "状",
           "text": "ahead"
         }
-      ]
+      ],
+      "zh_flow": "这个国家也并未迅速恢复 — 又一个十年的停滞,正横亘在前。",
+      "grammar_note": "Grammar: Nor 置句首 → 主谓倒装 (\"Nor + aux + S + V\")。追加平行的否定陈述。Neither 同此规则。"
     },
     {
       "id": "s-028",
       "grammar": "S-028 · Get-Passive (get-被动)",
+      "grammar_name": "Get-Passive (get-被动)",
       "phrases": [
         {
           "role": "a",
@@ -1231,11 +1346,14 @@
           "tag": "状",
           "text": "to the Treasury"
         }
-      ]
+      ],
+      "zh_flow": "1933 年 4 月 5 日,所有藏于私人手中的金币被尽数召回国库。",
+      "grammar_note": "Grammar: get + V-en · 比 be-被动更口语,强调\"状态突然变化\",常用于负面或意外事件。"
     },
     {
       "id": "s-029",
       "grammar": "S-029 · Causative \"have something done\" (使役 · 让人做)",
+      "grammar_name": "Causative \"have something done\" (使役 · 让人做)",
       "phrases": [
         {
           "role": "a",
@@ -1282,11 +1400,14 @@
           "tag": "状",
           "text": "to Fort Knox"
         }
-      ]
+      ],
+      "zh_flow": "仅数周之内,罗斯福便下令将这些被没收的金属重新熔铸为金条,运往诺克斯堡。",
+      "grammar_note": "Grammar: have + 宾语 + 过去分词 = \"让某物被做\"。对照 make/let + 不带 to 不定式。"
     },
     {
       "id": "s-030",
       "grammar": "S-030 · Negative-Fronting Inversion (否定前置倒装)",
+      "grammar_name": "Negative-Fronting Inversion (否定前置倒装)",
       "phrases": [
         {
           "role": "fn",
@@ -1318,11 +1439,14 @@
           "tag": "状",
           "text": "by decree"
         }
-      ]
+      ],
+      "zh_flow": "此前从未有过任何一位和平时期的总统,敢以一纸行政命令重定黄金的价格。",
+      "grammar_note": "Grammar: 否定/限制副词前置 (never, hardly, seldom, rarely, no sooner, not until, little) → 主谓倒装。"
     },
     {
       "id": "s-031",
       "grammar": "S-031 · Adverbial of Purpose · in order that (目的状语)",
+      "grammar_name": "Adverbial of Purpose · in order that (目的状语)",
       "phrases": [
         {
           "role": "s",
@@ -1359,11 +1483,14 @@
           "tag": "不定式宾",
           "text": "to recover"
         }
-      ]
+      ],
+      "zh_flow": "银行停业四天 — 以图使公众的信心得以缓步复苏。",
+      "grammar_note": "Grammar: in order that / so that 引导目的状从,常含 may/might/can/could。比 to + V 更正式。"
     },
     {
       "id": "s-032",
       "grammar": "S-032 · Mixed Conditional (混合条件句)",
+      "grammar_name": "Mixed Conditional (混合条件句)",
       "phrases": [
         {
           "role": "cl",
@@ -1405,11 +1532,14 @@
           "tag": "状",
           "text": "from a chain of gold"
         }
-      ]
+      ],
+      "zh_flow": "倘若大萧条只是短暂之物,今日之美元,或许仍将悬于一条黄金的链条之上。",
+      "grammar_note": "Grammar: 混合条件句:条件用第三类(过去虚拟 had + V-en),结果用第二类(现在虚拟 would + V)。\"过去若 X,现在就 Y\"。"
     },
     {
       "id": "s-033",
       "grammar": "S-033 · Should (Advice/道义)",
+      "grammar_name": "Should (Advice/道义)",
       "phrases": [
         {
           "role": "s",
@@ -1461,11 +1591,14 @@
           "tag": "介短定",
           "text": "of human ambition"
         }
-      ]
+      ],
+      "zh_flow": "罗斯福曾一再主张:任何文明国家,都不应再让黄金来界定人类雄心的边界。",
+      "grammar_note": "Grammar: should · 表道义责任、建议、忠告,语气比 must 缓和。这里嵌套于宾语从句中。"
     },
     {
       "id": "s-034",
       "grammar": "S-034 · Past Participial Phrase (过去分词短语作定语)",
+      "grammar_name": "Past Participial Phrase (过去分词短语作定语)",
       "phrases": [
         {
           "role": "s",
@@ -1497,11 +1630,14 @@
           "tag": "状",
           "text": "around a dollar pegged to gold at thirty-five dollars an ounce"
         }
-      ]
+      ],
+      "zh_flow": "由凯恩斯与哈里·德克斯特·怀特共同设计的布雷顿森林体系,使世界各国货币锚定于一种以每盎司 35 美元挂钩黄金的美元。",
+      "grammar_note": "Grammar: 过去分词短语作定语,带被动义。等价于省略关系代词的定从,但更简洁。"
     },
     {
       "id": "s-035",
       "grammar": "S-035 · Anticipatory \"it\" for Object (形式宾语 it)",
+      "grammar_name": "Anticipatory \"it\" for Object (形式宾语 it)",
       "phrases": [
         {
           "role": "s",
@@ -1538,11 +1674,14 @@
           "tag": "状",
           "text": "of his bancor proposal"
         }
-      ]
+      ],
+      "zh_flow": "凯恩斯发现,要让美国人接受他的「班柯」方案,实属不可能之事。",
+      "grammar_note": "Grammar: 形式宾语 it · \"find/think/consider/make/believe + it + 形容词 + 真宾语\"。真宾过长时把它后挪。"
     },
     {
       "id": "s-036",
       "grammar": "S-036 · Whether-Noun Clause as Subject (whether 主语从句)",
+      "grammar_name": "Whether-Noun Clause as Subject (whether 主语从句)",
       "phrases": [
         {
           "role": "cl",
@@ -1579,11 +1718,14 @@
           "tag": "定",
           "text": "its architects scarcely asked"
         }
-      ]
+      ],
+      "zh_flow": "布雷顿森林体系能否撑过四分之一个世纪 — 这是其建造者几乎从未自问过的一个问题。",
+      "grammar_note": "Grammar: whether-从句作主语。注意:作主语只用 whether,不能用 if。"
     },
     {
       "id": "s-037",
       "grammar": "S-037 · Mandative Subjunctive in Apposition (虚拟 · 同位语)",
+      "grammar_name": "Mandative Subjunctive in Apposition (虚拟 · 同位语)",
       "phrases": [
         {
           "role": "s",
@@ -1620,11 +1762,14 @@
           "tag": "状",
           "text": "for gold"
         }
-      ]
+      ],
+      "zh_flow": "这一新体系仅仰赖于一个前提:无人来索要黄金。",
+      "grammar_note": "Grammar: 虚拟同位语从句 — 抽象名词 (condition/demand/suggestion/proposal) 后的 that 从句用动词原形 (此处 ask 而非 asks)。"
     },
     {
       "id": "s-038",
       "grammar": "S-038 · As-If Manner Clause + were-subjunctive (虚拟过去 · as if)",
+      "grammar_name": "As-If Manner Clause + were-subjunctive (虚拟过去 · as if)",
       "phrases": [
         {
           "role": "a",
@@ -1666,11 +1811,14 @@
           "tag": "从表",
           "text": "a single currency"
         }
-      ]
+      ],
+      "zh_flow": "二十年间,这一体系运转顺畅,仿佛黄金与美元本就是同一种货币。",
+      "grammar_note": "Grammar: as if / as though 引导方式状从。与事实相反时,从句动词降一格:现在事实用过去 (were 不用 was);过去事实用过去完成。"
     },
     {
       "id": "s-039",
       "grammar": "S-039 · Only-Fronting Inversion (only 前置倒装)",
+      "grammar_name": "Only-Fronting Inversion (only 前置倒装)",
       "phrases": [
         {
           "role": "fn",
@@ -1717,11 +1865,14 @@
           "tag": "表",
           "text": "visible"
         }
-      ]
+      ],
+      "zh_flow": "直到法国开始为它手中的美元索要金条之时,裂缝方才显现。",
+      "grammar_note": "Grammar: \"Only + 状语\" 前置时,主句要倒装。强调\"直到 X 才 Y\"。"
     },
     {
       "id": "s-040",
       "grammar": "S-040 · Past Perfect Passive (过去完成时被动)",
+      "grammar_name": "Past Perfect Passive (过去完成时被动)",
       "phrases": [
         {
           "role": "a",
@@ -1753,11 +1904,14 @@
           "tag": "状",
           "text": "abroad"
         }
-      ]
+      ],
+      "zh_flow": "至 1960 年代末,美国战后黄金的过半数,已被花费在海外。",
+      "grammar_note": "Grammar: 过去完成时被动 (had + been + V-en) · 融合\"更早过去\"与\"被动\"。"
     },
     {
       "id": "s-041",
       "grammar": "S-041 · Wh-Noun Clause as Object (what 引导宾语从句)",
+      "grammar_name": "Wh-Noun Clause as Object (what 引导宾语从句)",
       "phrases": [
         {
           "role": "a",
@@ -1789,11 +1943,14 @@
           "tag": "宾补",
           "text": "the Nixon Shock"
         }
-      ]
+      ],
+      "zh_flow": "1971 年 8 月 15 日,理查德·尼克松宣布的,正是日后被史家称为「尼克松冲击」的那件事。",
+      "grammar_note": "Grammar: wh-从句作宾语。\"what\" 相当于 \"the thing that\"。从句内 \"would later be called\" 是过去将来时被动。"
     },
     {
       "id": "s-042",
       "grammar": "S-042 · Present Perfect (现在完成时)",
+      "grammar_name": "Present Perfect (现在完成时)",
       "phrases": [
         {
           "role": "s",
@@ -1815,11 +1972,14 @@
           "tag": "状",
           "text": "ever since"
         }
-      ]
+      ],
+      "zh_flow": "自那时起,美元便一直自由浮动至今。",
+      "grammar_note": "Grammar: 现在完成时 (have/has + V-en) · 连接过去起点与现在。\"ever since\" 强调\"自过去某锚点起持续至今\"。"
     },
     {
       "id": "s-043",
       "grammar": "S-043 · Could (Ability/Possibility · 能力或可能)",
+      "grammar_name": "Could (Ability/Possibility · 能力或可能)",
       "phrases": [
         {
           "role": "a",
@@ -1846,11 +2006,14 @@
           "tag": "状",
           "text": "overnight"
         }
-      ]
+      ],
+      "zh_flow": "1971 年之后,一位央行行长的一句话,便能够在一夜之间撼动万亿美元的流向。",
+      "grammar_note": "Grammar: could · can 的过去/虚拟形式,表过去能力或可能。区别于 \"could have + V-en\"(过去本可)。"
     },
     {
       "id": "s-044",
       "grammar": "S-044 · Present Participial Phrase (现在分词短语作定语)",
+      "grammar_name": "Present Participial Phrase (现在分词短语作定语)",
       "phrases": [
         {
           "role": "s",
@@ -1877,11 +2040,14 @@
           "tag": "状",
           "text": "with sudden ferocity"
         }
-      ]
+      ],
+      "zh_flow": "自 1950 年代起便已蛰伏的通货膨胀,在 1970 年代以骤然的凶猛苏醒。",
+      "grammar_note": "Grammar: 现在分词短语 (V-ing + 补足) 作定语,主动 + 进行义。对照过去分词短语(被动义)。"
     },
     {
       "id": "s-045",
       "grammar": "S-045 · Comparative + than (比较级)",
+      "grammar_name": "Comparative + than (比较级)",
       "phrases": [
         {
           "role": "a",
@@ -1923,11 +2089,14 @@
           "tag": "宾",
           "text": "his own paycheck"
         }
-      ]
+      ],
+      "zh_flow": "年复一年,物价的上涨快过工资 — 普通美国人也就此学会了不再信任自己手中的薪水。",
+      "grammar_note": "Grammar: 比较级 · \"形/副 + -er + than\" 或 \"more + 形/副 + than\"。"
     },
     {
       "id": "s-046",
       "grammar": "S-046 · Either ... or (相关并列连词)",
+      "grammar_name": "Either ... or (相关并列连词)",
       "phrases": [
         {
           "role": "fn",
@@ -1964,11 +2133,14 @@
           "tag": "谓",
           "text": "would dissolve"
         }
-      ]
+      ],
+      "zh_flow": "要么信任重归,要么美元本身就将瓦解 — 二者必居其一。",
+      "grammar_note": "Grammar: Either ... or 提供两种可能。连接主语时谓语取就近原则。"
     },
     {
       "id": "s-047",
       "grammar": "S-047 · Might (Possibility · 可能性)",
+      "grammar_name": "Might (Possibility · 可能性)",
       "phrases": [
         {
           "role": "a",
@@ -2005,11 +2177,14 @@
           "tag": "状",
           "text": "along with the country's patience"
         }
-      ]
+      ],
+      "zh_flow": "有那么一刻,美元仿佛会随着这个国家的耐心一同消散。",
+      "grammar_note": "Grammar: might · 表\"可能\",语气比 may 更弱。这里嵌于 \"it seemed that ...\" 真主从句中。"
     },
     {
       "id": "s-048",
       "grammar": "S-048 · Dare Semi-Modal (情态半助动词)",
+      "grammar_name": "Dare Semi-Modal (情态半助动词)",
       "phrases": [
         {
           "role": "a",
@@ -2041,11 +2216,14 @@
           "tag": "定",
           "text": "no banker dared imagine"
         }
-      ]
+      ],
+      "zh_flow": "1979 年,沃尔克将联邦基金利率推升到了无人敢于设想的高度。",
+      "grammar_note": "Grammar: dare 作半情态时后接动词原形(无 to)。多见于否定/疑问:dare not / daren't / how dare you。"
     },
     {
       "id": "s-049",
       "grammar": "S-049 · FANBOYS \"yet\" (并列连词 yet · 转折)",
+      "grammar_name": "FANBOYS \"yet\" (并列连词 yet · 转折)",
       "phrases": [
         {
           "role": "s",
@@ -2092,11 +2270,14 @@
           "tag": "谓",
           "text": "cheered"
         }
-      ]
+      ],
+      "zh_flow": "借款人痛哭,农人破产,而债券交易员却在欢呼。",
+      "grammar_note": "Grammar: yet 是 FANBOYS 七连词之一(For/And/Nor/But/Or/Yet/So),表转折,语气比 but 更书面文学化。"
     },
     {
       "id": "s-050",
       "grammar": "S-050 · Past Perfect Passive + Present Perfect Passive (过完被动 + 现完被动)",
+      "grammar_name": "Past Perfect Passive + Present Perfect Passive (过完被动 + 现完被动)",
       "phrases": [
         {
           "role": "a",
@@ -2138,11 +2319,14 @@
           "tag": "状",
           "text": "on American soil"
         }
-      ]
+      ],
+      "zh_flow": "至 1980 年代中期,通胀已被压制;直至今日,那种规模的物价螺旋,再未在美国本土重现。",
+      "grammar_note": "Grammar: 一句双被动 · had been beaten back = 过去完成时被动(过去某点之前已完成),has not been seen = 现在完成时被动(从过去延续到今天)。两种被动同句对照,展示时态如何与时间锚点(by the mid-1980s / to this day)精确配合。"
     },
     {
       "id": "s-051",
       "grammar": "S-051 · Not only ... but also (相关并列 · 递进)",
+      "grammar_name": "Not only ... but also (相关并列 · 递进)",
       "phrases": [
         {
           "role": "s",
@@ -2194,11 +2378,14 @@
           "tag": "情态谓",
           "text": "must compromise"
         }
-      ]
+      ],
+      "zh_flow": "1985 年的《广场协议》,既是一次对美元的有意压低,亦是一种无声的承认 — 即便是超级大国,亦须妥协。",
+      "grammar_note": "Grammar: not only ... but also 并列两个对等成分,带递进强调。两半语法结构必须平行。"
     },
     {
       "id": "s-052",
       "grammar": "S-052 · Type 2 Conditional (第二条件句 · 与现在事实相反)",
+      "grammar_name": "Type 2 Conditional (第二条件句 · 与现在事实相反)",
       "phrases": [
         {
           "role": "cl",
@@ -2250,11 +2437,14 @@
           "tag": "宾",
           "text": "its footing"
         }
-      ]
+      ],
+      "zh_flow": "倘若美元再行走弱,美国制造业方有可能再度寻得立足之地。",
+      "grammar_note": "Grammar: Type 2 conditional · 与现在事实相反。\"If + S + were to V, S + would/might/could + V\"。"
     },
     {
       "id": "s-053",
       "grammar": "S-053 · Superlative (最高级)",
+      "grammar_name": "Superlative (最高级)",
       "phrases": [
         {
           "role": "a",
@@ -2291,11 +2481,14 @@
           "tag": "零关代定从",
           "text": "the world had ever known"
         }
-      ]
+      ],
+      "zh_flow": "至 1995 年,各国央行已持有数以万亿计的美元储备 — 这是世界有史以来最庞大的一笔外汇储备。",
+      "grammar_note": "Grammar: 最高级 · \"the + 形最高级 / most + 形\"。常与 ever 在定从中连用,推至有史以来。"
     },
     {
       "id": "s-054",
       "grammar": "S-054 · Adverbial of Cause · not because/but because (原因状语)",
+      "grammar_name": "Adverbial of Cause · not because/but because (原因状语)",
       "phrases": [
         {
           "role": "s",
@@ -2367,11 +2560,14 @@
           "tag": "不定式定",
           "text": "to park their savings"
         }
-      ]
+      ],
+      "zh_flow": "它们持有这些美元,并非出于对华盛顿的偏爱,而是因为再无他处可以安放这些积蓄。",
+      "grammar_note": "Grammar: 原因状从由 because/since/as/for 引导。\"not because X, but because Y\" 排除一个原因,点明真正原因。"
     },
     {
       "id": "s-055",
       "grammar": "S-055 · Appositive · Parallel (同位语 · 并列三项)",
+      "grammar_name": "Appositive · Parallel (同位语 · 并列三项)",
       "phrases": [
         {
           "role": "s",
@@ -2408,11 +2604,14 @@
           "tag": "定",
           "text": "the silent partner in every contract"
         }
-      ]
+      ],
+      "zh_flow": "那些年里的美元,是三重身份的合一:美利坚的货币、全球贸易的通用语,以及每一份契约里那个沉默的合伙人。",
+      "grammar_note": "Grammar: 同位语 · 紧跟前一名词,重命名/扩展。可由冒号、逗号、破折号引出。本句以冒号引出三项并列。"
     },
     {
       "id": "s-056",
       "grammar": "S-056 · Discourse Marker (语篇衔接词 · Indeed)",
+      "grammar_name": "Discourse Marker (语篇衔接词 · Indeed)",
       "phrases": [
         {
           "role": "fn",
@@ -2479,11 +2678,14 @@
           "tag": "从宾",
           "text": "the gentlest of nudges"
         }
-      ]
+      ],
+      "zh_flow": "诚然,艾伦·格林斯潘所主政的那段时期,如今被称为「大缓和」时代 — 那是一段市场仿佛只需最轻微的拨动便足以平稳运转的岁月。",
+      "grammar_note": "Grammar: 语篇衔接词 (Indeed/Moreover/Nevertheless/Therefore/Furthermore/Crucially/Thus) 标示与前文的逻辑关系。"
     },
     {
       "id": "s-057",
       "grammar": "S-057 · Type 3 Conditional (第三条件句 · 与过去事实相反)",
+      "grammar_name": "Type 3 Conditional (第三条件句 · 与过去事实相反)",
       "phrases": [
         {
           "role": "cl",
@@ -2520,11 +2722,14 @@
           "tag": "状",
           "text": "long before it broke"
         }
-      ]
+      ],
+      "zh_flow": "倘若监管者当年再细看一些,2008 年的那场风暴,本可在它真正爆发之前许久便被洞察。",
+      "grammar_note": "Grammar: Type 3 conditional · 与过去事实相反。\"If + S + had + V-en, S + would/could/might + have + V-en\"。"
     },
     {
       "id": "s-058",
       "grammar": "S-058 · Emphatic \"do\" (强调助动词 do)",
+      "grammar_name": "Emphatic \"do\" (强调助动词 do)",
       "phrases": [
         {
           "role": "s",
@@ -2571,11 +2776,14 @@
           "tag": "表",
           "text": "unheeded"
         }
-      ]
+      ],
+      "zh_flow": "他们终究没有去看;而那些来自一位又一位卡珊德拉的真切警告,无人理会。",
+      "grammar_note": "Grammar: 强调助动词 do/does/did + 动词原形 — 用于肯定句,坚称某事确曾发生。朗读时 do 重读。"
     },
     {
       "id": "s-059",
       "grammar": "S-059 · There-Existential (存在句)",
+      "grammar_name": "There-Existential (存在句)",
       "phrases": [
         {
           "role": "fn",
@@ -2612,11 +2820,14 @@
           "tag": "从谓",
           "text": "cracked"
         }
-      ]
+      ],
+      "zh_flow": "2008 年 9 月的某个礼拜天,华尔街的旧秩序,终于从内部裂开。",
+      "grammar_note": "Grammar: 存在句 there + 动词。最常与 be 搭配,但也可用于 came / arose / emerged / exists 等不及物动词。"
     },
     {
       "id": "s-060",
       "grammar": "S-060 · Modal Passive (情态被动 must be V-en)",
+      "grammar_name": "Modal Passive (情态被动 must be V-en)",
       "phrases": [
         {
           "role": "s",
@@ -2658,11 +2869,14 @@
           "tag": "从谓",
           "text": "cracked"
         }
-      ]
+      ],
+      "zh_flow": "雷曼兄弟,理应被铭记为旧秩序崩裂的那一夜。",
+      "grammar_note": "Grammar: 情态被动 modal + be + V-en。将情态动词与被动语态合用。"
     },
     {
       "id": "s-061",
       "grammar": "S-061 · Could have V-en (情态完成 · 过去本可)",
+      "grammar_name": "Could have V-en (情态完成 · 过去本可)",
       "phrases": [
         {
           "role": "a",
@@ -2694,11 +2908,14 @@
           "tag": "状",
           "text": "within a fortnight"
         }
-      ]
+      ],
+      "zh_flow": "倘若没有美联储的紧急干预,所有主要银行恐怕都将在两周之内相继倒闭。",
+      "grammar_note": "Grammar: could have + V-en · 表过去的可能性或反事实。\"Without X, Y could have V-en\" 是隐性的第三条件句。"
     },
     {
       "id": "s-062",
       "grammar": "S-062 · Shall (Formal/法律式)",
+      "grammar_name": "Shall (Formal/法律式)",
       "phrases": [
         {
           "role": "s",
@@ -2735,11 +2952,14 @@
           "tag": "从宾",
           "text": "another Lehman"
         }
-      ]
+      ],
+      "zh_flow": "各国央行以一种罕见的一致姿态宣告:世界绝不容许再发生一次雷曼式的崩塌。",
+      "grammar_note": "Grammar: shall 用于正式/法律/宣告语境,表约束性承诺或禁止。现代美式英语口语已多以 will 代之。"
     },
     {
       "id": "s-063",
       "grammar": "S-063 · Future Continuous (将来进行时)",
+      "grammar_name": "Future Continuous (将来进行时)",
       "phrases": [
         {
           "role": "a",
@@ -2771,11 +2991,14 @@
           "tag": "宾",
           "text": "the dollar's monopoly on global reserves"
         }
-      ]
+      ],
+      "zh_flow": "不出十年,一种全新形态的货币,将在全球储备的版图上挑战美元的垄断。",
+      "grammar_note": "Grammar: 将来进行时 (will + be + V-ing) · 表将来某时正在进行,或将来一段时间内持续展开。"
     },
     {
       "id": "s-064",
       "grammar": "S-064 · Neither ... nor (双否相关并列)",
+      "grammar_name": "Neither ... nor (双否相关并列)",
       "phrases": [
         {
           "role": "s",
@@ -2822,11 +3045,14 @@
           "tag": "状",
           "text": "on January 3, 2009"
         }
-      ]
+      ],
+      "zh_flow": "比特币 — 一种既不需政府发行也不需央行管控的货币 — 于 2009 年 1 月 3 日正式启动。",
+      "grammar_note": "Grammar: neither ... nor 并列两个否定项 = \"既不 X 也不 Y\"。谓语就近原则。"
     },
     {
       "id": "s-065",
       "grammar": "S-065 · Future Simple \"will\" (一般将来时)",
+      "grammar_name": "Future Simple \"will\" (一般将来时)",
       "phrases": [
         {
           "role": "s",
@@ -2853,11 +3079,14 @@
           "tag": "定从",
           "text": "fear for its life"
         }
-      ]
+      ],
+      "zh_flow": "美元终将比那些为它担忧的人活得更久。",
+      "grammar_note": "Grammar: 一般将来时 will + V · 用于预测、承诺、当场决定。区别于 be going to(已有计划/迹象)。"
     },
     {
       "id": "s-066",
       "grammar": "S-066 · Be going to (将来 · 计划/迹象)",
+      "grammar_name": "Be going to (将来 · 计划/迹象)",
       "phrases": [
         {
           "role": "s",
@@ -2899,11 +3128,14 @@
           "tag": "介短定",
           "text": "of its own currency"
         }
-      ]
+      ],
+      "zh_flow": "一些经济学家坚信,迟早每一个政府都将发行其本国货币的数字版本。",
+      "grammar_note": "Grammar: be going to + V · 表已有意图的将来,或基于当下迹象的预判。"
     },
     {
       "id": "s-067",
       "grammar": "S-067 · Future Perfect (将来完成时)",
+      "grammar_name": "Future Perfect (将来完成时)",
       "phrases": [
         {
           "role": "a",
@@ -2945,11 +3177,14 @@
           "tag": "宾",
           "text": "its own central-bank digital currency"
         }
-      ]
+      ],
+      "zh_flow": "到 2030 年,每一家主要央行,都将已经推出 — 或至少曾试验过 — 自己的央行数字货币。",
+      "grammar_note": "Grammar: 将来完成时 will + have + V-en · 标示在将来某参照点之前已完成的动作。"
     },
     {
       "id": "s-068",
       "grammar": "S-068 · Future Perfect Continuous (将来完成进行时)",
+      "grammar_name": "Future Perfect Continuous (将来完成进行时)",
       "phrases": [
         {
           "role": "cl",
@@ -3026,11 +3261,14 @@
           "tag": "状",
           "text": "every second"
         }
-      ]
+      ],
+      "zh_flow": "当你读完此文之时,这个世界已在每一秒都生成着新的美元、新的债务,与新的疑问。",
+      "grammar_note": "Grammar: 将来完成进行时 will + have + been + V-ing · 表至将来某点持续进行的动作,十二大时态中最罕见。"
     },
     {
       "id": "s-069",
       "grammar": "S-069 · Future Passive (一般将来时被动)",
+      "grammar_name": "Future Passive (一般将来时被动)",
       "phrases": [
         {
           "role": "cl",
@@ -3067,11 +3305,14 @@
           "tag": "谓",
           "text": "will be rewritten"
         }
-      ]
+      ],
+      "zh_flow": "倘若美元当真有一日丧失其储备地位,大地上每一种大宗商品、每一笔贷款、每一份契约,都将被重新书写。",
+      "grammar_note": "Grammar: 一般将来时被动 will + be + V-en。从句中的 \"ever does lose\" 用强调助动词 do,在第一条件句基础上加了语气强化。"
     },
     {
       "id": "s-070",
       "grammar": "S-070 · Reduced Relative (简化关系从句)",
+      "grammar_name": "Reduced Relative (简化关系从句)",
       "phrases": [
         {
           "role": "s",
@@ -3123,11 +3364,14 @@
           "tag": "状",
           "text": "before"
         }
-      ]
+      ],
+      "zh_flow": "由算法而非由议会所发行的货币,是这个世界从未真正认识过的存在。",
+      "grammar_note": "Grammar: 简化关系从句 · 完整定从 \"which is issued ...\" 省略 \"which is\",只留过去分词。"
     },
     {
       "id": "s-071",
       "grammar": "S-071 · Adverbial of Condition · provided that (条件状语)",
+      "grammar_name": "Adverbial of Condition · provided that (条件状语)",
       "phrases": [
         {
           "role": "cl",
@@ -3159,11 +3403,14 @@
           "tag": "宾",
           "text": "the architecture of global finance"
         }
-      ]
+      ],
+      "zh_flow": "只要信任尚存,美元将继续承担起全球金融架构的最终担保者。",
+      "grammar_note": "Grammar: 条件连词除 if 还有 provided (that) / providing / as long as / on condition that / unless / supposing。Provided that 比 if 正式。"
     },
     {
       "id": "s-072",
       "grammar": "S-072 · To-infinitive as Subject (不定式作主语)",
+      "grammar_name": "To-infinitive as Subject (不定式作主语)",
       "phrases": [
         {
           "role": "s",
@@ -3200,11 +3447,14 @@
           "tag": "同位强调",
           "text": "itself"
         }
-      ]
+      ],
+      "zh_flow": "预测美元的未来,归根结底,即是预测美国本身的未来。",
+      "grammar_note": "Grammar: 不定式短语作主语。与 \"It is X to V\"(形式主语)相比,直接作主语更强调、更书面/文学化。"
     },
     {
       "id": "s-073",
       "grammar": "S-073 · To-infinitive as Object (不定式作宾语)",
+      "grammar_name": "To-infinitive as Object (不定式作宾语)",
       "phrases": [
         {
           "role": "s",
@@ -3226,11 +3476,14 @@
           "tag": "状",
           "text": "without thinking about why"
         }
-      ]
+      ],
+      "zh_flow": "我们中的大多数人,已经学会信任美元 — 却不再追问其因。",
+      "grammar_note": "Grammar: 不定式作宾语,常用动词:learn/want/hope/decide/plan/refuse/agree/manage/intend。"
     },
     {
       "id": "s-074",
       "grammar": "S-074 · Wish + Past Perfect (虚拟语气 · wish)",
+      "grammar_name": "Wish + Past Perfect (虚拟语气 · wish)",
       "phrases": [
         {
           "role": "s",
@@ -3267,11 +3520,14 @@
           "tag": "状",
           "text": "at the start of the decade"
         }
-      ]
+      ],
+      "zh_flow": "2008 年那些为数不少的储户,或许此刻都在悔恨自己未曾在那个十年的开端就买入黄金。",
+      "grammar_note": "Grammar: wish + that 从句 · 虚拟。与现在事实相反用过去时;与过去事实相反用过去完成时(此处 had bought)。"
     },
     {
       "id": "s-075",
       "grammar": "S-075 · Rhetorical Question (修辞反问句)",
+      "grammar_name": "Rhetorical Question (修辞反问句)",
       "phrases": [
         {
           "role": "v",
@@ -3313,11 +3569,14 @@
           "tag": "状",
           "text": "with certainty"
         }
-      ]
+      ],
+      "zh_flow": "美元还能延续下一个百年吗?这个问题,没有一位诚实的经济学家敢以确凿之言作答。",
+      "grammar_note": "Grammar: 修辞反问句 — 提问不是为了得到回答,而是为了表达态度或引出后续陈述。常由说话人自答。"
     },
     {
       "id": "s-076",
       "grammar": "S-076 · Vocative · Direct Address (呼语)",
+      "grammar_name": "Vocative · Direct Address (呼语)",
       "phrases": [
         {
           "role": "s",
@@ -3369,11 +3628,14 @@
           "tag": "表 3",
           "text": "a memory"
         }
-      ]
+      ],
+      "zh_flow": "亲爱的读者,美元远不止是一种钱币:它同时是一份记录、一句承诺,与一段记忆。",
+      "grammar_note": "Grammar: 呼语 (vocative) — 用以称呼听者/读者的名词或名词短语,总以逗号隔开。常见于散文/演讲。"
     },
     {
       "id": "s-077",
       "grammar": "S-077 · Exclamation How / What (感叹句)",
+      "grammar_name": "Exclamation How / What (感叹句)",
       "phrases": [
         {
           "role": "fn",
@@ -3410,11 +3672,14 @@
           "tag": "不定式系",
           "text": "to be"
         }
-      ]
+      ],
+      "zh_flow": "这一张轻薄的纸,何其脆弱 — 又何其坚韧!",
+      "grammar_note": "Grammar: 感叹句:How + 形/副(强调程度)或 What + (a/an) + 形 + 名。后续可主谓正常或倒装。"
     },
     {
       "id": "s-078",
       "grammar": "S-078 · Tag Question (反意疑问句)",
+      "grammar_name": "Tag Question (反意疑问句)",
       "phrases": [
         {
           "role": "fn",
@@ -3441,11 +3706,14 @@
           "tag": "反问",
           "text": "doesn't it"
         }
-      ]
+      ],
+      "zh_flow": "而金钱本身,讲述的不也正是一个故事吗?",
+      "grammar_note": "Grammar: 反意疑问句:前肯后否,前否后肯,助动词与代词须与主句匹配。"
     },
     {
       "id": "s-079",
       "grammar": "S-079 · Interjection (感叹词独立成分)",
+      "grammar_name": "Interjection (感叹词独立成分)",
       "phrases": [
         {
           "role": "fn",
@@ -3477,11 +3745,14 @@
           "tag": "宾",
           "text": "the human story"
         }
-      ]
+      ],
+      "zh_flow": "啊 — 金钱,世代复世代,从不停歇地讲述着人类的故事。",
+      "grammar_note": "Grammar: 感叹词 (Ah/Oh/Alas/Indeed/Well) 在语法上独立,以破折号或逗号隔开,传达情感。"
     },
     {
       "id": "s-080",
       "grammar": "S-080 · Formal Subjunctive · Be it noted (化石化虚拟)",
+      "grammar_name": "Formal Subjunctive · Be it noted (化石化虚拟)",
       "phrases": [
         {
           "role": "cl",
@@ -3518,11 +3789,14 @@
           "tag": "谓(过分)",
           "text": "begun"
         }
-      ]
+      ],
+      "zh_flow": "由是当知:美元的漫长一日,正如此一句之尚未结尾,才刚刚开始。",
+      "grammar_note": "Grammar: 化石化虚拟语气 — 古英语沿袭的固定形式:Be it noted / Long live the king / God save the queen / Come what may / So be it。"
     },
     {
       "id": "s-081",
       "grammar": "S-081 · Absolute Construction (独立主格)",
+      "grammar_name": "Absolute Construction (独立主格)",
       "phrases": [
         {
           "role": "m",
@@ -3554,11 +3828,14 @@
           "tag": "状",
           "text": "over global trade"
         }
-      ]
+      ],
+      "zh_flow": "信任既已恢复,美元便悄然重拾起对全球贸易的支配。",
+      "grammar_note": "Grammar: 独立主格结构 (absolute construction) · \"名词 + 分词/形容词/介词短语\" 自带\"小主语\",修饰主句。比从句更紧凑,文学性强。同类:The vote tallied, … · His patience exhausted, … · With trust restored, …"
     },
     {
       "id": "s-082",
       "grammar": "S-082 · had better (情态半助动词 · 强烈建议/警告)",
+      "grammar_name": "had better (情态半助动词 · 强烈建议/警告)",
       "phrases": [
         {
           "role": "cl",
@@ -3610,11 +3887,14 @@
           "tag": "从宾",
           "text": "them"
         }
-      ]
+      ],
+      "zh_flow": "在未来的岁月里,任何持有美元者,都最好关注那些为它背书的政治。",
+      "grammar_note": "Grammar: had better + 动词原形 · 表强烈建议、警告或忠告(语气比 should 更急迫,带\"否则后果不堪\"的潜台词)。否定式:had better not。"
     },
     {
       "id": "s-083",
       "grammar": "S-083 · would rather (情态半助动词 · 宁愿)",
+      "grammar_name": "would rather (情态半助动词 · 宁愿)",
       "phrases": [
         {
           "role": "s",
@@ -3661,11 +3941,14 @@
           "tag": "状",
           "text": "for a generation"
         }
-      ]
+      ],
+      "zh_flow": "时至今日,大多数储户仍宁愿持守美元,也不愿攥着黄金度过整整一代。",
+      "grammar_note": "Grammar: would rather + 动词原形 (+ than + 动词原形) · 表\"宁愿做 X 而不做 Y\"。如果跟从句:would rather + S + 过去时(虚拟,与现在事实相反)。"
     },
     {
       "id": "s-084",
       "grammar": "S-084 · It's high time + Past Subjunctive (虚拟特殊式 · 该是时候了)",
+      "grammar_name": "It's high time + Past Subjunctive (虚拟特殊式 · 该是时候了)",
       "phrases": [
         {
           "role": "cl",
@@ -3707,11 +3990,14 @@
           "tag": "状",
           "text": "alone"
         }
-      ]
+      ],
+      "zh_flow": "这世界早该承认:没有任何单一货币,能独自承载整个全球经济的重量。",
+      "grammar_note": "Grammar: It's (high / about) time + that 从句,从句用过去时(虚拟用法,实际指现在或将来) — 表\"该是时候做某事了,而且早该做了\"。同类:It's about time you said something. · It's high time we acted."
     },
     {
       "id": "s-085",
       "grammar": "S-085 · Multiplier · twice as ... as (倍数比较)",
+      "grammar_name": "Multiplier · twice as ... as (倍数比较)",
       "phrases": [
         {
           "role": "a",
@@ -3768,11 +4054,14 @@
           "tag": "分词定",
           "text": "combined"
         }
-      ]
+      ],
+      "zh_flow": "今天,美元的成交频率,几乎是欧元与日元加总的两倍。",
+      "grammar_note": "Grammar: 倍数比较 · \"倍数 + as + 形/副 + as ...\"。倍数词:twice(2 倍,不说 two times)、three times(3 倍)、four times(4 倍)... 亦可用\"倍数 + 比较级 + than\":three times bigger than ...。两种结构英语母语者都常用。数据:BIS 三年期外汇调查显示美元出现在 ~88% 的外汇交易,欧元 ~31% + 日元 ~17% ≈ 48%,即美元成交量约为两者之和的 1.83 倍 — 故用 \"almost twice\"。"
     },
     {
       "id": "s-086",
       "grammar": "S-086 · Wh- Direct Question (特殊疑问句)",
+      "grammar_name": "Wh- Direct Question (特殊疑问句)",
       "phrases": [
         {
           "role": "cl",
@@ -3809,11 +4098,14 @@
           "tag": "介",
           "text": "from"
         }
-      ]
+      ],
+      "zh_flow": "那么,美元的力量究竟从何而来?",
+      "grammar_note": "Grammar: Wh- 直接疑问句 · where/what/who/why/how 引导,主语前需助动词。形式:wh-词 + 助动词 + 主语 + 主动词。does 是助动词,come 是主动词。"
     },
     {
       "id": "s-087",
       "grammar": "S-087 · Imperative (普通祈使句)",
+      "grammar_name": "Imperative (普通祈使句)",
       "phrases": [
         {
           "role": "v",
@@ -3845,11 +4137,14 @@
           "tag": "从谓",
           "text": "carries"
         }
-      ]
+      ],
+      "zh_flow": "不妨稍作驻足,思量一枚美元背后所承载的那些无声决定。",
+      "grammar_note": "Grammar: 祈使句 · 省略主语(默认 you),动词原形开头。Consider 是动词原形,直接召唤读者动作。常用于商业评论引导读者思考。"
     },
     {
       "id": "s-088",
       "grammar": "S-088 · Direct Speech (直接引语)",
+      "grammar_name": "Direct Speech (直接引语)",
       "phrases": [
         {
           "role": "s",
@@ -3876,11 +4171,14 @@
           "tag": "直接引语",
           "text": "\"When the facts change, I change my mind.\""
         }
-      ]
+      ],
+      "zh_flow": "凯恩斯曾以其一贯的直率写道:「当事实变了,我也跟着改变看法。」",
+      "grammar_note": "Grammar: 直接引语 · 用引号原文复述说话内容。形式:说话人 + 引述动词(said / wrote / declared) + 逗号 + 引号引出原话。引号内时态、人称完全不变(对照间接引语会做 backshift)。"
     },
     {
       "id": "s-089",
       "grammar": "S-089 · Predicative Clause (表语从句)",
+      "grammar_name": "Predicative Clause (表语从句)",
       "phrases": [
         {
           "role": "s",
@@ -3917,11 +4215,14 @@
           "tag": "状(同级比较)",
           "text": "for as long as the dollar"
         }
-      ]
+      ],
+      "zh_flow": "实情是:在现代史上,没有任何一种法定货币,能像美元这般长久地承托起世界的信任。",
+      "grammar_note": "Grammar: 表语从句 · 系动词后接 that 引导的从句作表语。结构:主语 + 系动词(is/was/seems/becomes) + that-从句。The truth is that ... 是经典 thesis 引言句式。"
     },
     {
       "id": "s-090",
       "grammar": "S-090 · With + Compound Construction (with-复合结构)",
+      "grammar_name": "With + Compound Construction (with-复合结构)",
       "phrases": [
         {
           "role": "fn",
@@ -3973,11 +4274,14 @@
           "tag": "宾",
           "text": "a new and unfamiliar age"
         }
-      ]
+      ],
+      "zh_flow": "随着布雷顿森林体系的拆解、黄金的最终松绑,美元便步入一个全新而陌生的时代。",
+      "grammar_note": "Grammar: with-复合结构 · with + 名词 + 分词/形容词,等价于独立主格结构,作伴随状语。With Bretton Woods dismantled = with + NP + 过去分词;并列两个 with-小结构。"
     },
     {
       "id": "s-091",
       "grammar": "S-091 · The more..., the more... (越...越...)",
+      "grammar_name": "The more..., the more... (越...越...)",
       "phrases": [
         {
           "role": "fn",
@@ -4029,11 +4333,14 @@
           "tag": "不定式宾",
           "text": "the dollar"
         }
-      ]
+      ],
+      "zh_flow": "这世界对本国政府的不信任愈深,反而对美元的信任愈重 — 不啻一个悖论。",
+      "grammar_note": "Grammar: the more X, the more Y · 比较级关联结构,表正比。两个比较级前都用 the。同类:the bigger, the better;the harder X tries, the more Y fails。"
     },
     {
       "id": "s-092",
       "grammar": "S-092 · Not so much...as... (与其说 X,不如说 Y)",
+      "grammar_name": "Not so much...as... (与其说 X,不如说 Y)",
       "phrases": [
         {
           "role": "s",
@@ -4065,11 +4372,14 @@
           "tag": "原因 2",
           "text": "in the world's collective fear of any alternative"
         }
-      ]
+      ],
+      "zh_flow": "美元的力量,与其说源于美国经济本身,不如说源于世界对任何替代品的集体恐惧。",
+      "grammar_note": "Grammar: not so much X as Y · 两项对比,弱化前者、突出后者。等价于 'rather Y than X' 或 'less X than Y'。常用于辩论、论文。"
     },
     {
       "id": "s-093",
       "grammar": "S-093 · Do-Substitution (do/so/one 替代)",
+      "grammar_name": "Do-Substitution (do/so/one 替代)",
       "phrases": [
         {
           "role": "cl",
@@ -4106,11 +4416,14 @@
           "tag": "do-替代(否定)",
           "text": "did not"
         }
-      ]
+      ],
+      "zh_flow": "在同等压力之下,其他每一种货币本应步履踉跄,而美元,不知何故,竟未动摇。",
+      "grammar_note": "Grammar: 替代结构 · did not 替代 did not falter 整个动作短语,避免重复。同类:'I will if you will'(替代 'will go')、'I want a red one'(one 替代 noun)、'I think so'(so 替代整个 that-从句)。"
     },
     {
       "id": "s-094",
       "grammar": "S-094 · Indirect Speech with Backshift (间接引语 · 时态后移)",
+      "grammar_name": "Indirect Speech with Backshift (间接引语 · 时态后移)",
       "phrases": [
         {
           "role": "s",
@@ -4152,11 +4465,14 @@
           "tag": "让步状",
           "text": "no matter the political cost"
         }
-      ]
+      ],
+      "zh_flow": "1980 年秋,沃尔克明言:无论付出何种政治代价,他都将彻底击碎通胀。",
+      "grammar_note": "Grammar: 间接引语 · 不用引号,用 that-从句转述。关键特征:时态后移(backshift) — Volcker 当时说的是 'I will crush inflation',转述时 will → would,人称 I → he。"
     },
     {
       "id": "s-095",
       "grammar": "S-095 · So + Inversion Ellipsis (so + 倒装省略)",
+      "grammar_name": "So + Inversion Ellipsis (so + 倒装省略)",
       "phrases": [
         {
           "role": "cl",
@@ -4193,11 +4509,14 @@
           "tag": "主",
           "text": "most of the world's price stability"
         }
-      ]
+      ],
+      "zh_flow": "美元一旦动摇,世界大多数地方的物价稳定,亦将随之动摇。",
+      "grammar_note": "Grammar: so + 助动词 + 主语 · 表「X 也如此」,省略前文动词。例: I'm tired — So am I (我也累)。本句 so will most of the world's price stability = will [falter] 中 falter 被省略。"
     },
     {
       "id": "s-096",
       "grammar": "S-096 · Not until + Inversion (Not until 倒装)",
+      "grammar_name": "Not until + Inversion (Not until 倒装)",
       "phrases": [
         {
           "role": "fn",
@@ -4254,11 +4573,14 @@
           "tag": "状",
           "text": "on a single piece of metal"
         }
-      ]
+      ],
+      "zh_flow": "直至金本位崩溃,这个世界方才彻底意识到:自己曾在多大程度上,仰赖那一片金属。",
+      "grammar_note": "Grammar: Not until + 时间/从句 + 主谓倒装 · 强调「直到 X 才 Y」。从句不动,主句倒装(助动词提前到主语前)。同类: Not until 1971 did Nixon abandon gold."
     },
     {
       "id": "s-097",
       "grammar": "S-097 · So + Adj + that Inversion (so 形容词前置倒装)",
+      "grammar_name": "So + Adj + that Inversion (so 形容词前置倒装)",
       "phrases": [
         {
           "role": "fn",
@@ -4300,11 +4622,14 @@
           "tag": "状",
           "text": "in his lifetime"
         }
-      ]
+      ],
+      "zh_flow": "沃尔克的纪律之彻底,以致 1970 年代式的通胀,在其有生之年从未回归。",
+      "grammar_note": "Grammar: So + 形容词 + 主谓倒装 + that-结果从句 · 强调「如此 X,以致 Y」。区别于普通 so...that(无倒装)。本句 So thorough was X that Y = X was so thorough that Y 的强调倒装版。"
     },
     {
       "id": "s-098",
       "grammar": "S-098 · Plain There-Be (普通 there be 句型)",
+      "grammar_name": "Plain There-Be (普通 there be 句型)",
       "phrases": [
         {
           "role": "fn",
@@ -4341,11 +4666,14 @@
           "tag": "过完",
           "text": "had broken"
         }
-      ]
+      ],
+      "zh_flow": "信任一经破裂,再要回到黄金的怀抱,便已无任何坦途可言。",
+      "grammar_note": "Grammar: 基础 there + be + NP · 表存在或不存在。本句 There was no easy way 是最常见形式。区别于文学倒装(There came / There stood),后者是动词+主语倒置。"
     },
     {
       "id": "s-099",
       "grammar": "S-099 · It Took + Time + for + to-V (花费时间结构)",
+      "grammar_name": "It Took + Time + for + to-V (花费时间结构)",
       "phrases": [
         {
           "role": "fn",
@@ -4382,11 +4710,14 @@
           "tag": "不定式宾",
           "text": "the language of global trade"
         }
-      ]
+      ],
+      "zh_flow": "美元用了数十年的时间,才真正成为全球贸易的通用语。",
+      "grammar_note": "Grammar: It took/takes + 时间 + for + 名词 + to-V · 表「花了 X 时间让 Y 做某事」。It 是形式主语,不定式短语是真主语。同类: It will take ten years for X to recover."
     },
     {
       "id": "s-100",
       "grammar": "S-100 · Indirect Question (间接疑问句)",
+      "grammar_name": "Indirect Question (间接疑问句)",
       "phrases": [
         {
           "role": "s",
@@ -4433,11 +4764,14 @@
           "tag": "从谓 2",
           "text": "failed"
         }
-      ]
+      ],
+      "zh_flow": "至今,经济学家仍在争论:在如此多对手相继溃败的年代,美元何以独善其身。",
+      "grammar_note": "Grammar: 间接疑问句 · debate / wonder / ask / explain / question + wh- 引导从句。关键:从句用陈述语序,无主谓倒装(对照直接疑问句 S-086 'does come'有倒装)。"
     },
     {
       "id": "s-101",
       "grammar": "S-101 · Reciprocal Pronoun · one another (相互代词)",
+      "grammar_name": "Reciprocal Pronoun · one another (相互代词)",
       "phrases": [
         {
           "role": "a",
@@ -4479,11 +4813,14 @@
           "tag": "情态省略",
           "text": "could not"
         }
-      ]
+      ],
+      "zh_flow": "借由美元市场,即便各国政治之间已无信任可言,它们仍能彼此借贷。",
+      "grammar_note": "Grammar: one another 和 each other 是相互代词 · 表「互相」。形式上作宾语或介宾。一般两者通用,部分语法书认为 each other 用于两人/物、one another 用于多人/物。"
     },
     {
       "id": "s-102",
       "grammar": "S-102 · V + O + Adj 宾补 (Object Complement: Adjective)",
+      "grammar_name": "V + O + Adj 宾补 (Object Complement: Adjective)",
       "phrases": [
         {
           "role": "s",
@@ -4525,11 +4862,14 @@
           "tag": "从表",
           "text": "dangerously unstable"
         }
-      ]
+      ],
+      "zh_flow": "即便美国政治看起来已危险地动荡,市场仍认为美元是安全的。",
+      "grammar_note": "Grammar: consider / find / deem / think / call / make + 宾语 + 形容词 · 形容词作宾补,描述宾语的状态或性质。区别于 S-022 的 V + O + 不带 to 不定式(make + dollar + emerge),这里是 V + O + 形容词。"
     },
     {
       "id": "s-103",
       "grammar": "S-103 · should have done (本该做却没做)",
+      "grammar_name": "should have done (本该做却没做)",
       "phrases": [
         {
           "role": "s",
@@ -4556,11 +4896,14 @@
           "tag": "状(时间)",
           "text": "long before the autumn of 2008"
         }
-      ]
+      ],
+      "zh_flow": "监管者本应在 2008 年秋之前许久,就察觉到失控杠杆所暗藏的危险。",
+      "grammar_note": "Grammar: should have + 过去分词 · 表「过去本该做却没做」,含批评、遗憾。区别于 S-061 could have(本可以)、S-074 might have(可能曾经)、S-097 must have(肯定曾经)。"
     },
     {
       "id": "s-104",
       "grammar": "S-104 · must have done (对过去的肯定推断)",
+      "grammar_name": "must have done (对过去的肯定推断)",
       "phrases": [
         {
           "role": "s",
@@ -4592,11 +4935,14 @@
           "tag": "backshift 谓",
           "text": "would act"
         }
-      ]
+      ],
+      "zh_flow": "即便在最黑暗的那一周,投资者们也一定笃信:美联储终将出手。",
+      "grammar_note": "Grammar: must have + 过去分词 · 表「对过去事实的肯定推断」。区别于 must + V(对现在的推断)和 should have done(本该做未做)。否定式不用 must not have,用 can't have done。"
     },
     {
       "id": "s-105",
       "grammar": "S-105 · If only + 过完 (虚拟感叹 · 早知如此)",
+      "grammar_name": "If only + 过完 (虚拟感叹 · 早知如此)",
       "phrases": [
         {
           "role": "cl",
@@ -4633,11 +4979,14 @@
           "tag": "状",
           "text": "very differently"
         }
-      ]
+      ],
+      "zh_flow": "倘若决策者们出手再早一些,2008 年的那场恐慌,本可以以截然不同的方式收场。",
+      "grammar_note": "Grammar: If only + 过去完成时 · 表「对过去未发生事的强烈遗憾」。语气比 I wish 更强烈、更感慨。结构:If only + S + had + V-en, S + might/would have + V-en。"
     },
     {
       "id": "s-106",
       "grammar": "S-106 · It is essential that + V原形 (Extraposition Mandative)",
+      "grammar_name": "It is essential that + V原形 (Extraposition Mandative)",
       "phrases": [
         {
           "role": "fn",
@@ -4679,11 +5028,14 @@
           "tag": "状",
           "text": "generation after generation"
         }
-      ]
+      ],
+      "zh_flow": "至关重要的是,任何一种储备货币,皆须代代留住陌生人的信任。",
+      "grammar_note": "Grammar: It is + adj-of-importance + that + S + V原形 · 形式主语 it 加正式虚拟语气从句。adj 常见:essential / necessary / important / vital / crucial / imperative。从句动词用原形(retain,不是 retains)。"
     },
     {
       "id": "s-107",
       "grammar": "S-107 · Ditransitive Verb · S+V+IO+DO (双宾语)",
+      "grammar_name": "Ditransitive Verb · S+V+IO+DO (双宾语)",
       "phrases": [
         {
           "role": "s",
@@ -4710,11 +5062,14 @@
           "tag": "状",
           "text": "at the height of the panic"
         }
-      ]
+      ],
+      "zh_flow": "在恐慌的最高点,美联储的紧急贷款向外国银行注入了新鲜的美元。",
+      "grammar_note": "Grammar: 双宾语动词 · 后接两个宾语,先间接宾语 (IO) 通常为人,后直接宾语 (DO) 通常为物。常见动词:give / send / tell / show / offer / lend / pay / teach / hand / pass。可改写为「V + DO + to/for + IO」(He gave fresh dollars to foreign banks)。这是五大基本句型之③。"
     },
     {
       "id": "s-108",
       "grammar": "S-108 · That-Clause as Subject (that 引导主语从句)",
+      "grammar_name": "That-Clause as Subject (that 引导主语从句)",
       "phrases": [
         {
           "role": "cl",
@@ -4751,18 +5106,5480 @@
           "tag": "介短定",
           "text": "of America's miracles"
         }
-      ]
+      ],
+      "zh_flow": "美元能比一切对手货币都活得更久 — 这件事,仍是美国诸多奇迹中最为静默的一桩。",
+      "grammar_note": "Grammar: that + 句子 整体作主语,谓语动词必须用第三人称单数(因为整个从句被视为单数概念)。现代英语更常用 it 形式主语后置形式(「It is true that ...」),但 that-从句直接作主语在文学和论述写作中仍可见,显得正式、有分量。"
     }
   ],
-  "role_labels": {
-    "s": "主语 Subject",
-    "v": "谓语 Verb",
-    "o": "宾语 Object",
-    "c": "表/补 Complement",
-    "a": "状语 Adverbial",
-    "m": "定/同 Modifier",
-    "fn": "功能词 Function",
-    "cl": "从句引导 Clause"
-  },
-  "version": 1
+  "vocab": [
+    {
+      "en": "Money",
+      "ipa": "ˈməni",
+      "zh": "金钱",
+      "count": 8
+    },
+    {
+      "en": "tells",
+      "ipa": "tɛlz",
+      "zh": "讲述",
+      "count": 3
+    },
+    {
+      "en": "a",
+      "ipa": "ə",
+      "zh": "一(冠)",
+      "count": 45
+    },
+    {
+      "en": "story",
+      "ipa": "ˈstɔri",
+      "zh": "故事",
+      "count": 3
+    },
+    {
+      "en": "the",
+      "ipa": "ðə",
+      "zh": "(冠)",
+      "count": 140
+    },
+    {
+      "en": "dollar",
+      "ipa": "ˈdɔlər",
+      "zh": "美元",
+      "count": 33
+    },
+    {
+      "en": "one",
+      "ipa": "wən",
+      "zh": "一",
+      "count": 4
+    },
+    {
+      "en": "of",
+      "ipa": "əv",
+      "zh": "的(介)",
+      "count": 45
+    },
+    {
+      "en": "longest",
+      "ipa": "ˈlɔŋgɪst",
+      "zh": "最长",
+      "count": 1
+    },
+    {
+      "en": "year",
+      "ipa": "jɪr",
+      "zh": "年",
+      "count": 4
+    },
+    {
+      "en": "is",
+      "ipa": "ɪz",
+      "zh": "是",
+      "count": 10
+    },
+    {
+      "en": "and",
+      "ipa": "ənd",
+      "zh": "和",
+      "count": 23
+    },
+    {
+      "en": "young",
+      "ipa": "jəŋ",
+      "zh": "年轻的",
+      "count": 1
+    },
+    {
+      "en": "republic",
+      "ipa": "riˈpəblɪk",
+      "zh": "共和国",
+      "count": 1
+    },
+    {
+      "en": "stamps",
+      "ipa": "stæmps",
+      "zh": "铸造/邮票",
+      "count": 1
+    },
+    {
+      "en": "out",
+      "ipa": "aʊt",
+      "zh": "出",
+      "count": 4
+    },
+    {
+      "en": "its",
+      "ipa": "ɪts",
+      "zh": "它的",
+      "count": 10
+    },
+    {
+      "en": "first",
+      "ipa": "fərst",
+      "zh": "第一",
+      "count": 2
+    },
+    {
+      "en": "silver",
+      "ipa": "ˈsɪlvər",
+      "zh": "银",
+      "count": 4
+    },
+    {
+      "en": "at",
+      "ipa": "æt",
+      "zh": "在",
+      "count": 8
+    },
+    {
+      "en": "Philadelphia",
+      "ipa": "ˌfɪləˈdɛlfiə",
+      "zh": "费城",
+      "count": 1
+    },
+    {
+      "en": "mint",
+      "ipa": "mɪnt",
+      "zh": "造币厂",
+      "count": 1
+    },
+    {
+      "en": "On",
+      "ipa": "ɔn",
+      "zh": "在",
+      "count": 10
+    },
+    {
+      "en": "April",
+      "ipa": "ˈeɪprəl",
+      "zh": "四月",
+      "count": 2
+    },
+    {
+      "en": "that",
+      "ipa": "ðət",
+      "zh": "那/that",
+      "count": 27
+    },
+    {
+      "en": "Alexander",
+      "ipa": "ˌælɪgˈzændər",
+      "zh": "亚历山大",
+      "count": 1
+    },
+    {
+      "en": "Hamilton",
+      "ipa": "ˈhæməltən",
+      "zh": "汉密尔顿",
+      "count": 3
+    },
+    {
+      "en": "signed",
+      "ipa": "saɪnd",
+      "zh": "签署",
+      "count": 1
+    },
+    {
+      "en": "Coinage",
+      "ipa": "ˈkɔɪnɪʤ",
+      "zh": "铸币",
+      "count": 1
+    },
+    {
+      "en": "Act",
+      "ipa": "ækt",
+      "zh": "法案",
+      "count": 3
+    },
+    {
+      "en": "into",
+      "ipa": "ˈɪntu",
+      "zh": "进入",
+      "count": 3
+    },
+    {
+      "en": "law",
+      "ipa": "lɔ",
+      "zh": "法律",
+      "count": 1
+    },
+    {
+      "en": "While",
+      "ipa": "waɪl",
+      "zh": "当...时",
+      "count": 1
+    },
+    {
+      "en": "was",
+      "ipa": "wɑz",
+      "zh": "是(过)",
+      "count": 12
+    },
+    {
+      "en": "building",
+      "ipa": "ˈbɪldɪŋ",
+      "zh": "建立",
+      "count": 1
+    },
+    {
+      "en": "national",
+      "ipa": "ˈnæʃənəl",
+      "zh": "国家的",
+      "count": 2
+    },
+    {
+      "en": "bank",
+      "ipa": "bæŋk",
+      "zh": "银行",
+      "count": 5
+    },
+    {
+      "en": "Thomas",
+      "ipa": "ˈtɑməs",
+      "zh": "托马斯",
+      "count": 1
+    },
+    {
+      "en": "Jefferson",
+      "ipa": "ˈʤɛfərsən",
+      "zh": "杰斐逊",
+      "count": 1
+    },
+    {
+      "en": "drafting",
+      "ipa": "ˈdræftɪŋ",
+      "zh": "起草",
+      "count": 1
+    },
+    {
+      "en": "very",
+      "ipa": "ˈvɛri",
+      "zh": "非常",
+      "count": 2
+    },
+    {
+      "en": "arguments",
+      "ipa": "ˈɑrgjəmənts",
+      "zh": "论点",
+      "count": 1
+    },
+    {
+      "en": "meant",
+      "ipa": "mɛnt",
+      "zh": "意味",
+      "count": 1
+    },
+    {
+      "en": "to",
+      "ipa": "tɪ",
+      "zh": "到",
+      "count": 35
+    },
+    {
+      "en": "day",
+      "ipa": "deɪ",
+      "zh": "天",
+      "count": 2
+    },
+    {
+      "en": "destroy",
+      "ipa": "dɪˈstrɔɪ",
+      "zh": "摧毁",
+      "count": 1
+    },
+    {
+      "en": "it",
+      "ipa": "ɪt",
+      "zh": "它",
+      "count": 14
+    },
+    {
+      "en": "By",
+      "ipa": "baɪ",
+      "zh": "由/通过",
+      "count": 10
+    },
+    {
+      "en": "Spanish",
+      "ipa": "ˈspænɪʃ",
+      "zh": "西班牙的",
+      "count": 2
+    },
+    {
+      "en": "reales",
+      "ipa": "reɪˈɑleɪs",
+      "zh": "西班牙银币",
+      "count": 1
+    },
+    {
+      "en": "had",
+      "ipa": "hæd",
+      "zh": "had(助)",
+      "count": 16
+    },
+    {
+      "en": "circulated",
+      "ipa": "ˈsərkjəˌleɪtɪd",
+      "zh": "流通",
+      "count": 1
+    },
+    {
+      "en": "through",
+      "ipa": "θru",
+      "zh": "穿过",
+      "count": 3
+    },
+    {
+      "en": "thirteen",
+      "ipa": "ˈθərˈtin",
+      "zh": "十三",
+      "count": 1
+    },
+    {
+      "en": "colonies",
+      "ipa": "ˈkɑləniz",
+      "zh": "殖民地",
+      "count": 1
+    },
+    {
+      "en": "for",
+      "ipa": "fər",
+      "zh": "为/对",
+      "count": 13
+    },
+    {
+      "en": "nearly",
+      "ipa": "ˈnɪrli",
+      "zh": "近乎",
+      "count": 1
+    },
+    {
+      "en": "century",
+      "ipa": "ˈsɛnʧəri",
+      "zh": "世纪",
+      "count": 4
+    },
+    {
+      "en": "two",
+      "ipa": "tu",
+      "zh": "二",
+      "count": 2
+    },
+    {
+      "en": "decades",
+      "ipa": "ˈdɛkeɪdz",
+      "zh": "数十年",
+      "count": 3
+    },
+    {
+      "en": "Jeffersonians",
+      "ipa": "ˌʤɛfərˈsoʊniənz",
+      "zh": "杰斐逊派",
+      "count": 1
+    },
+    {
+      "en": "been",
+      "ipa": "bɪn",
+      "zh": "曾",
+      "count": 4
+    },
+    {
+      "en": "warning",
+      "ipa": "ˈwɔrnɪŋ",
+      "zh": "警告",
+      "count": 1
+    },
+    {
+      "en": "their",
+      "ipa": "ðɛr",
+      "zh": "他们的",
+      "count": 3
+    },
+    {
+      "en": "countrymen",
+      "ipa": "ˈkəntrimɪn",
+      "zh": "同胞",
+      "count": 1
+    },
+    {
+      "en": "against",
+      "ipa": "əˈgɛnst",
+      "zh": "反对",
+      "count": 1
+    },
+    {
+      "en": "centralized",
+      "ipa": "ˈsɛntrəˌlaɪzd",
+      "zh": "集权的",
+      "count": 1
+    },
+    {
+      "en": "finance",
+      "ipa": "ˈfaɪˌnæns",
+      "zh": "金融",
+      "count": 4
+    },
+    {
+      "en": "American",
+      "ipa": "əˈmɛrɪkən",
+      "zh": "美国的",
+      "count": 7
+    },
+    {
+      "en": "farmers",
+      "ipa": "ˈfɑrmərz",
+      "zh": "农人",
+      "count": 4
+    },
+    {
+      "en": "used",
+      "ipa": "juzd",
+      "zh": "曾",
+      "count": 1
+    },
+    {
+      "en": "carry",
+      "ipa": "ˈkɛri",
+      "zh": "携带",
+      "count": 2
+    },
+    {
+      "en": "tobacco",
+      "ipa": "təˈbæˌkoʊ",
+      "zh": "烟草",
+      "count": 1
+    },
+    {
+      "en": "notes",
+      "ipa": "noʊts",
+      "zh": "票据",
+      "count": 1
+    },
+    {
+      "en": "coin",
+      "ipa": "kɔɪn",
+      "zh": "硬币",
+      "count": 3
+    },
+    {
+      "en": "even",
+      "ipa": "ˈivɪn",
+      "zh": "即便",
+      "count": 6
+    },
+    {
+      "en": "gold",
+      "ipa": "goʊld",
+      "zh": "黄金",
+      "count": 18
+    },
+    {
+      "en": "dust",
+      "ipa": "dəst",
+      "zh": "尘",
+      "count": 1
+    },
+    {
+      "en": "as",
+      "ipa": "ɛz",
+      "zh": "作为/像",
+      "count": 11
+    },
+    {
+      "en": "everyday",
+      "ipa": "ˈɛvriˈdeɪ",
+      "zh": "日常",
+      "count": 1
+    },
+    {
+      "en": "Saturday",
+      "ipa": "ˈsæˌtɪˌdeɪ",
+      "zh": "周六",
+      "count": 1
+    },
+    {
+      "en": "mornings",
+      "ipa": "ˈmɔrnɪŋz",
+      "zh": "早晨",
+      "count": 1
+    },
+    {
+      "en": "country",
+      "ipa": "ˈkəntri",
+      "zh": "国家",
+      "count": 3
+    },
+    {
+      "en": "shopkeeper",
+      "ipa": "ˈʃɑpˌkipər",
+      "zh": "店主",
+      "count": 1
+    },
+    {
+      "en": "would",
+      "ipa": "wʊd",
+      "zh": "会(过)",
+      "count": 8
+    },
+    {
+      "en": "shave",
+      "ipa": "ʃeɪv",
+      "zh": "削",
+      "count": 1
+    },
+    {
+      "en": "thin",
+      "ipa": "θɪn",
+      "zh": "薄",
+      "count": 1
+    },
+    {
+      "en": "sliver",
+      "ipa": "sˈlɪvər",
+      "zh": "薄屑",
+      "count": 1
+    },
+    {
+      "en": "off",
+      "ipa": "ɔf",
+      "zh": "离开",
+      "count": 1
+    },
+    {
+      "en": "any",
+      "ipa": "ˈɛni",
+      "zh": "任何",
+      "count": 4
+    },
+    {
+      "en": "he",
+      "ipa": "hi",
+      "zh": "他",
+      "count": 4
+    },
+    {
+      "en": "did",
+      "ipa": "dɪd",
+      "zh": "做(过)",
+      "count": 7
+    },
+    {
+      "en": "not",
+      "ipa": "nɑt",
+      "zh": "不",
+      "count": 10
+    },
+    {
+      "en": "trust",
+      "ipa": "trəst",
+      "zh": "信任",
+      "count": 5
+    },
+    {
+      "en": "designed",
+      "ipa": "dɪˈzaɪnd",
+      "zh": "设计",
+      "count": 2
+    },
+    {
+      "en": "weighed",
+      "ipa": "weɪd",
+      "zh": "重",
+      "count": 1
+    },
+    {
+      "en": "exactly",
+      "ipa": "ɪgˈzæktli",
+      "zh": "恰好",
+      "count": 1
+    },
+    {
+      "en": "grains",
+      "ipa": "greɪnz",
+      "zh": "格令(单位)",
+      "count": 2
+    },
+    {
+      "en": "which",
+      "ipa": "wɪʧ",
+      "zh": "哪个/which",
+      "count": 2
+    },
+    {
+      "en": "were",
+      "ipa": "wər",
+      "zh": "是(过复)",
+      "count": 4
+    },
+    {
+      "en": "pure",
+      "ipa": "pjʊr",
+      "zh": "纯",
+      "count": 1
+    },
+    {
+      "en": "Andrew",
+      "ipa": "ˈændru",
+      "zh": "安德鲁",
+      "count": 1
+    },
+    {
+      "en": "Jackson",
+      "ipa": "ˈʤæksən",
+      "zh": "杰克逊",
+      "count": 2
+    },
+    {
+      "en": "who",
+      "ipa": "hu",
+      "zh": "谁/who",
+      "count": 2
+    },
+    {
+      "en": "distrusted",
+      "ipa": "dɪˈstrəstɪd",
+      "zh": "不信任",
+      "count": 2
+    },
+    {
+      "en": "bankers",
+      "ipa": "ˈbæŋkərz",
+      "zh": "银行家",
+      "count": 3
+    },
+    {
+      "en": "deeply",
+      "ipa": "ˈdipli",
+      "zh": "深切地",
+      "count": 1
+    },
+    {
+      "en": "aristocrats",
+      "ipa": "ərˈɪstəˌkræts",
+      "zh": "贵族",
+      "count": 1
+    },
+    {
+      "en": "vetoed",
+      "ipa": "ˈviˌtoʊd",
+      "zh": "否决",
+      "count": 1
+    },
+    {
+      "en": "Second",
+      "ipa": "ˈsɛkənd",
+      "zh": "第二",
+      "count": 2
+    },
+    {
+      "en": "Bank's",
+      "ipa": "bæŋks",
+      "zh": "银行的",
+      "count": 1
+    },
+    {
+      "en": "charter",
+      "ipa": "ˈʧɑrtər",
+      "zh": "特许状",
+      "count": 1
+    },
+    {
+      "en": "in",
+      "ipa": "ɪn",
+      "zh": "在",
+      "count": 22
+    },
+    {
+      "en": "trusted",
+      "ipa": "ˈtrəstɪd",
+      "zh": "信任(过)",
+      "count": 1
+    },
+    {
+      "en": "central",
+      "ipa": "ˈsɛntrəl",
+      "zh": "中央",
+      "count": 7
+    },
+    {
+      "en": "banking",
+      "ipa": "ˈbæŋkɪŋ",
+      "zh": "银行业",
+      "count": 1
+    },
+    {
+      "en": "Panic",
+      "ipa": "ˈpænɪk",
+      "zh": "恐慌",
+      "count": 4
+    },
+    {
+      "en": "might",
+      "ipa": "maɪt",
+      "zh": "可能(may过)",
+      "count": 6
+    },
+    {
+      "en": "never",
+      "ipa": "ˈnɛvər",
+      "zh": "从未",
+      "count": 4
+    },
+    {
+      "en": "have",
+      "ipa": "hæv",
+      "zh": "有/已",
+      "count": 11
+    },
+    {
+      "en": "torn",
+      "ipa": "tɔrn",
+      "zh": "撕裂(过分)",
+      "count": 1
+    },
+    {
+      "en": "frontier",
+      "ipa": "frənˈtɪr",
+      "zh": "边疆",
+      "count": 1
+    },
+    {
+      "en": "apart",
+      "ipa": "əˈpɑrt",
+      "zh": "分开",
+      "count": 1
+    },
+    {
+      "en": "Civil",
+      "ipa": "ˈsɪvəl",
+      "zh": "内/民",
+      "count": 1
+    },
+    {
+      "en": "War",
+      "ipa": "wɔr",
+      "zh": "战争",
+      "count": 4
+    },
+    {
+      "en": "more",
+      "ipa": "mɔr",
+      "zh": "更多",
+      "count": 5
+    },
+    {
+      "en": "than",
+      "ipa": "ðən",
+      "zh": "比",
+      "count": 6
+    },
+    {
+      "en": "economic",
+      "ipa": "ˌɛkəˈnɑmɪk",
+      "zh": "经济的",
+      "count": 1
+    },
+    {
+      "en": "doctrine",
+      "ipa": "ˈdɔktərɪn",
+      "zh": "教义",
+      "count": 1
+    },
+    {
+      "en": "finally",
+      "ipa": "ˈfaɪnəli",
+      "zh": "最终",
+      "count": 3
+    },
+    {
+      "en": "drove",
+      "ipa": "droʊv",
+      "zh": "驱使",
+      "count": 1
+    },
+    {
+      "en": "Washington",
+      "ipa": "ˈwɔʃɪŋtən",
+      "zh": "华盛顿",
+      "count": 2
+    },
+    {
+      "en": "print",
+      "ipa": "prɪnt",
+      "zh": "印",
+      "count": 1
+    },
+    {
+      "en": "paper",
+      "ipa": "ˈpeɪpər",
+      "zh": "纸",
+      "count": 2
+    },
+    {
+      "en": "scale",
+      "ipa": "skeɪl",
+      "zh": "规模",
+      "count": 1
+    },
+    {
+      "en": "greenback",
+      "ipa": "ˈgrinˌbæk",
+      "zh": "绿背钞",
+      "count": 1
+    },
+    {
+      "en": "issued",
+      "ipa": "ˈɪʃud",
+      "zh": "发行(过)",
+      "count": 2
+    },
+    {
+      "en": "Treasury",
+      "ipa": "ˈtrɛʒəri",
+      "zh": "国库",
+      "count": 2
+    },
+    {
+      "en": "could",
+      "ipa": "kʊd",
+      "zh": "能(过)",
+      "count": 6
+    },
+    {
+      "en": "no",
+      "ipa": "noʊ",
+      "zh": "无/不",
+      "count": 9
+    },
+    {
+      "en": "longer",
+      "ipa": "ˈlɔŋgər",
+      "zh": "更长",
+      "count": 1
+    },
+    {
+      "en": "pay",
+      "ipa": "peɪ",
+      "zh": "支付",
+      "count": 1
+    },
+    {
+      "en": "What",
+      "ipa": "wət",
+      "zh": "什么",
+      "count": 2
+    },
+    {
+      "en": "restored",
+      "ipa": "rɪˈstɔrd",
+      "zh": "恢复(过)",
+      "count": 2
+    },
+    {
+      "en": "monetary",
+      "ipa": "ˈmɑnəˌtɛri",
+      "zh": "货币的",
+      "count": 2
+    },
+    {
+      "en": "order",
+      "ipa": "ˈɔrdər",
+      "zh": "秩序",
+      "count": 4
+    },
+    {
+      "en": "after",
+      "ipa": "ˈæftər",
+      "zh": "之后",
+      "count": 7
+    },
+    {
+      "en": "Reconstruction",
+      "ipa": "ˌrikənˈstrəkʃən",
+      "zh": "重建",
+      "count": 1
+    },
+    {
+      "en": "Resumption",
+      "ipa": "rɪˈzəmʃən",
+      "zh": "恢复",
+      "count": 1
+    },
+    {
+      "en": "Returning",
+      "ipa": "rɪˈtərnɪŋ",
+      "zh": "回到",
+      "count": 1
+    },
+    {
+      "en": "standard",
+      "ipa": "ˈstændərd",
+      "zh": "标准",
+      "count": 2
+    },
+    {
+      "en": "seemed",
+      "ipa": "simd",
+      "zh": "似乎",
+      "count": 3
+    },
+    {
+      "en": "prudent",
+      "ipa": "ˈprudənt",
+      "zh": "审慎",
+      "count": 1
+    },
+    {
+      "en": "Eastern",
+      "ipa": "ˈistərn",
+      "zh": "东部",
+      "count": 1
+    },
+    {
+      "en": "ruinous",
+      "ipa": "ˈruənəs",
+      "zh": "毁灭性",
+      "count": 1
+    },
+    {
+      "en": "Western",
+      "ipa": "ˈwɛstərn",
+      "zh": "西部",
+      "count": 1
+    },
+    {
+      "en": "insisting",
+      "ipa": "ˌɪnˈsɪstɪŋ",
+      "zh": "坚持(分)",
+      "count": 1
+    },
+    {
+      "en": "free",
+      "ipa": "fri",
+      "zh": "自由",
+      "count": 1
+    },
+    {
+      "en": "William",
+      "ipa": "ˈwɪljəm",
+      "zh": "威廉",
+      "count": 1
+    },
+    {
+      "en": "Jennings",
+      "ipa": "ˈʤɛnɪŋz",
+      "zh": "詹宁斯",
+      "count": 1
+    },
+    {
+      "en": "Bryan",
+      "ipa": "braɪən",
+      "zh": "布莱恩",
+      "count": 3
+    },
+    {
+      "en": "rallied",
+      "ipa": "ˈrælid",
+      "zh": "集结",
+      "count": 1
+    },
+    {
+      "en": "generation",
+      "ipa": "ˌʤɛnərˈeɪʃən",
+      "zh": "一代",
+      "count": 5
+    },
+    {
+      "en": "debt-stricken",
+      "ipa": "dɛt-ˈstrɪkən",
+      "zh": "深陷债务",
+      "count": 1
+    },
+    {
+      "en": "behind",
+      "ipa": "bɪˈhaɪnd",
+      "zh": "在后",
+      "count": 1
+    },
+    {
+      "en": "him",
+      "ipa": "ɪm",
+      "zh": "他",
+      "count": 1
+    },
+    {
+      "en": "declared",
+      "ipa": "dɪˈklɛrd",
+      "zh": "宣告",
+      "count": 2
+    },
+    {
+      "en": "mankind",
+      "ipa": "ˈmænˈkaɪnd",
+      "zh": "人类",
+      "count": 1
+    },
+    {
+      "en": "must",
+      "ipa": "məst",
+      "zh": "必须",
+      "count": 4
+    },
+    {
+      "en": "be",
+      "ipa": "bi",
+      "zh": "是/作",
+      "count": 8
+    },
+    {
+      "en": "crucified",
+      "ipa": "ˈkrusəˌfaɪd",
+      "zh": "被钉十字架",
+      "count": 1
+    },
+    {
+      "en": "upon",
+      "ipa": "əˈpɑn",
+      "zh": "在...上",
+      "count": 2
+    },
+    {
+      "en": "cross",
+      "ipa": "krɔs",
+      "zh": "十字",
+      "count": 1
+    },
+    {
+      "en": "Although",
+      "ipa": "ˌɔlˈðoʊ",
+      "zh": "尽管",
+      "count": 1
+    },
+    {
+      "en": "lost",
+      "ipa": "lɔst",
+      "zh": "失去(过)",
+      "count": 2
+    },
+    {
+      "en": "election",
+      "ipa": "ɪˈlɛkʃən",
+      "zh": "选举",
+      "count": 1
+    },
+    {
+      "en": "his",
+      "ipa": "hɪz",
+      "zh": "他的",
+      "count": 4
+    },
+    {
+      "en": "oratory",
+      "ipa": "ˈɔrəˌtɔri",
+      "zh": "演说",
+      "count": 1
+    },
+    {
+      "en": "still",
+      "ipa": "stɪl",
+      "zh": "仍然",
+      "count": 3
+    },
+    {
+      "en": "echoes",
+      "ipa": "ˈɛkoʊz",
+      "zh": "回响",
+      "count": 1
+    },
+    {
+      "en": "memory",
+      "ipa": "ˈmɛməri",
+      "zh": "记忆",
+      "count": 2
+    },
+    {
+      "en": "came",
+      "ipa": "keɪm",
+      "zh": "来了",
+      "count": 2
+    },
+    {
+      "en": "conviction",
+      "ipa": "kənˈvɪkʃən",
+      "zh": "信念",
+      "count": 1
+    },
+    {
+      "en": "needed",
+      "ipa": "ˈnidɪd",
+      "zh": "需要",
+      "count": 1
+    },
+    {
+      "en": "permanent",
+      "ipa": "ˈpərmɑˌnɛnt",
+      "zh": "永久",
+      "count": 1
+    },
+    {
+      "en": "Today",
+      "ipa": "təˈdeɪ",
+      "zh": "今天",
+      "count": 4
+    },
+    {
+      "en": "every",
+      "ipa": "ˈɛvəri",
+      "zh": "每一",
+      "count": 13
+    },
+    {
+      "en": "banknote",
+      "ipa": "ˈbæŋkˌnoʊt",
+      "zh": "钞票",
+      "count": 1
+    },
+    {
+      "en": "printed",
+      "ipa": "ˈprɪnɪd",
+      "zh": "印制",
+      "count": 1
+    },
+    {
+      "en": "Bureau",
+      "ipa": "ˈbjʊroʊ",
+      "zh": "局",
+      "count": 1
+    },
+    {
+      "en": "Engraving",
+      "ipa": "ɪnˈgreɪvɪŋ",
+      "zh": "雕版",
+      "count": 1
+    },
+    {
+      "en": "Printing",
+      "ipa": "ˈprɪnɪŋ",
+      "zh": "印刷",
+      "count": 1
+    },
+    {
+      "en": "under",
+      "ipa": "ˈəndər",
+      "zh": "在...下",
+      "count": 2
+    },
+    {
+      "en": "Federal",
+      "ipa": "ˈfɛdərəl",
+      "zh": "联邦",
+      "count": 4
+    },
+    {
+      "en": "Reserve",
+      "ipa": "rɪˈzərv",
+      "zh": "储备",
+      "count": 6
+    },
+    {
+      "en": "authority",
+      "ipa": "əˈθɔrəti",
+      "zh": "权威",
+      "count": 2
+    },
+    {
+      "en": "When",
+      "ipa": "wɪn",
+      "zh": "当...时",
+      "count": 8
+    },
+    {
+      "en": "World",
+      "ipa": "wərld",
+      "zh": "世界",
+      "count": 8
+    },
+    {
+      "en": "broke",
+      "ipa": "broʊk",
+      "zh": "爆发/破",
+      "count": 2
+    },
+    {
+      "en": "European",
+      "ipa": "ˌjʊrəˈpiən",
+      "zh": "欧洲的",
+      "count": 1
+    },
+    {
+      "en": "flowed",
+      "ipa": "floʊd",
+      "zh": "涌流",
+      "count": 1
+    },
+    {
+      "en": "vaults",
+      "ipa": "vɔlts",
+      "zh": "金库",
+      "count": 1
+    },
+    {
+      "en": "an",
+      "ipa": "ən",
+      "zh": "一(冠)",
+      "count": 5
+    },
+    {
+      "en": "unprecedented",
+      "ipa": "ənˈprɛsɪˌdɛntɪd",
+      "zh": "前所未有",
+      "count": 1
+    },
+    {
+      "en": "rate",
+      "ipa": "reɪt",
+      "zh": "利率",
+      "count": 2
+    },
+    {
+      "en": "made",
+      "ipa": "meɪd",
+      "zh": "使(过)",
+      "count": 1
+    },
+    {
+      "en": "emerge",
+      "ipa": "ˈimərʤ",
+      "zh": "崛起",
+      "count": 1
+    },
+    {
+      "en": "almost",
+      "ipa": "ˈɔlˌmoʊst",
+      "zh": "几乎",
+      "count": 2
+    },
+    {
+      "en": "overnight",
+      "ipa": "ˈoʊvərˈnaɪt",
+      "zh": "一夜之间",
+      "count": 2
+    },
+    {
+      "en": "credible",
+      "ipa": "ˈkrɛdəbəl",
+      "zh": "可信的",
+      "count": 1
+    },
+    {
+      "en": "currency",
+      "ipa": "ˈkərənsi",
+      "zh": "货币",
+      "count": 11
+    },
+    {
+      "en": "Both",
+      "ipa": "boʊθ",
+      "zh": "两者",
+      "count": 1
+    },
+    {
+      "en": "Britain",
+      "ipa": "ˈbrɪtən",
+      "zh": "英国",
+      "count": 1
+    },
+    {
+      "en": "France",
+      "ipa": "fræns",
+      "zh": "法国",
+      "count": 2
+    },
+    {
+      "en": "borrowed",
+      "ipa": "ˈbɑˌroʊd",
+      "zh": "借用",
+      "count": 1
+    },
+    {
+      "en": "heavily",
+      "ipa": "ˈhɛvəli",
+      "zh": "大量地",
+      "count": 1
+    },
+    {
+      "en": "from",
+      "ipa": "frəm",
+      "zh": "从",
+      "count": 4
+    },
+    {
+      "en": "New",
+      "ipa": "nu",
+      "zh": "新",
+      "count": 7
+    },
+    {
+      "en": "York",
+      "ipa": "jɔrk",
+      "zh": "约克",
+      "count": 1
+    },
+    {
+      "en": "balance",
+      "ipa": "ˈbæləns",
+      "zh": "平衡",
+      "count": 1
+    },
+    {
+      "en": "power",
+      "ipa": "paʊər",
+      "zh": "权力",
+      "count": 2
+    },
+    {
+      "en": "began",
+      "ipa": "bɪˈgæn",
+      "zh": "开始",
+      "count": 2
+    },
+    {
+      "en": "shift",
+      "ipa": "ʃɪft",
+      "zh": "转移",
+      "count": 1
+    },
+    {
+      "en": "across",
+      "ipa": "əˈkrɔs",
+      "zh": "横跨",
+      "count": 1
+    },
+    {
+      "en": "Atlantic",
+      "ipa": "əˈtlæntɪk",
+      "zh": "大西洋",
+      "count": 1
+    },
+    {
+      "en": "armistice",
+      "ipa": "ˈɑrməstəs",
+      "zh": "停战",
+      "count": 1
+    },
+    {
+      "en": "French",
+      "ipa": "frɛnʧ",
+      "zh": "法国的",
+      "count": 1
+    },
+    {
+      "en": "government",
+      "ipa": "ˈgəvərnmənt",
+      "zh": "政府",
+      "count": 3
+    },
+    {
+      "en": "insisted",
+      "ipa": "ˌɪnˈsɪstɪd",
+      "zh": "坚持(过)",
+      "count": 1
+    },
+    {
+      "en": "redistributed",
+      "ipa": "ˌridɪˈstrɪbjətɪd",
+      "zh": "重新分配",
+      "count": 1
+    },
+    {
+      "en": "restore",
+      "ipa": "rɪˈstɔr",
+      "zh": "恢复",
+      "count": 1
+    },
+    {
+      "en": "prewar",
+      "ipa": "priˈwɔr",
+      "zh": "战前",
+      "count": 1
+    },
+    {
+      "en": "parities",
+      "ipa": "ˈpɛrətiz",
+      "zh": "平价",
+      "count": 1
+    },
+    {
+      "en": "s",
+      "ipa": "ɛs",
+      "zh": "(所有格)",
+      "count": 4
+    },
+    {
+      "en": "economy",
+      "ipa": "ɪˈkɑnəmi",
+      "zh": "经济",
+      "count": 3
+    },
+    {
+      "en": "grew",
+      "ipa": "gru",
+      "zh": "增长",
+      "count": 1
+    },
+    {
+      "en": "so",
+      "ipa": "soʊ",
+      "zh": "如此/所以",
+      "count": 5
+    },
+    {
+      "en": "confidently",
+      "ipa": "ˈkɑnfədəntli",
+      "zh": "自信地",
+      "count": 1
+    },
+    {
+      "en": "few",
+      "ipa": "fju",
+      "zh": "少数",
+      "count": 1
+    },
+    {
+      "en": "Americans",
+      "ipa": "əˈmɛrɪkənz",
+      "zh": "美国人",
+      "count": 2
+    },
+    {
+      "en": "imagined",
+      "ipa": "ˌɪˈmæʤənd",
+      "zh": "想象过",
+      "count": 1
+    },
+    {
+      "en": "cliff",
+      "ipa": "klɪf",
+      "zh": "悬崖",
+      "count": 1
+    },
+    {
+      "en": "ahead",
+      "ipa": "əˈhɛd",
+      "zh": "前方",
+      "count": 3
+    },
+    {
+      "en": "collapse",
+      "ipa": "kəˈlæps",
+      "zh": "崩塌",
+      "count": 1
+    },
+    {
+      "en": "October",
+      "ipa": "ɑkˈtoʊbər",
+      "zh": "十月",
+      "count": 1
+    },
+    {
+      "en": "such",
+      "ipa": "səʧ",
+      "zh": "如此",
+      "count": 1
+    },
+    {
+      "en": "shock",
+      "ipa": "ʃɑk",
+      "zh": "震撼",
+      "count": 2
+    },
+    {
+      "en": "entire",
+      "ipa": "ɪnˈtaɪər",
+      "zh": "整个",
+      "count": 1
+    },
+    {
+      "en": "faith",
+      "ipa": "feɪθ",
+      "zh": "信心",
+      "count": 1
+    },
+    {
+      "en": "Nor",
+      "ipa": "nɔr",
+      "zh": "也不",
+      "count": 2
+    },
+    {
+      "en": "recover",
+      "ipa": "rɪˈkəvər",
+      "zh": "恢复",
+      "count": 2
+    },
+    {
+      "en": "quickly",
+      "ipa": "kˈwɪkli",
+      "zh": "迅速",
+      "count": 1
+    },
+    {
+      "en": "another",
+      "ipa": "əˈnəðər",
+      "zh": "另一个",
+      "count": 4
+    },
+    {
+      "en": "decade",
+      "ipa": "ˈdɛkeɪd",
+      "zh": "十年",
+      "count": 3
+    },
+    {
+      "en": "stagnation",
+      "ipa": "stægˈneɪʃən",
+      "zh": "停滞",
+      "count": 1
+    },
+    {
+      "en": "lay",
+      "ipa": "leɪ",
+      "zh": "横亘/躺",
+      "count": 1
+    },
+    {
+      "en": "private",
+      "ipa": "ˈpraɪvət",
+      "zh": "私人",
+      "count": 1
+    },
+    {
+      "en": "hands",
+      "ipa": "hænz",
+      "zh": "手中",
+      "count": 1
+    },
+    {
+      "en": "got",
+      "ipa": "gɑt",
+      "zh": "得/被",
+      "count": 1
+    },
+    {
+      "en": "recalled",
+      "ipa": "rɪˈkɔld",
+      "zh": "召回",
+      "count": 1
+    },
+    {
+      "en": "Within",
+      "ipa": "wɪˈθɪn",
+      "zh": "在...内",
+      "count": 3
+    },
+    {
+      "en": "weeks",
+      "ipa": "wiks",
+      "zh": "周(复)",
+      "count": 1
+    },
+    {
+      "en": "Roosevelt",
+      "ipa": "ˈruzəˌvɛlt",
+      "zh": "罗斯福",
+      "count": 2
+    },
+    {
+      "en": "confiscated",
+      "ipa": "ˈkɑnfəˌskeɪtəd",
+      "zh": "没收的",
+      "count": 1
+    },
+    {
+      "en": "metal",
+      "ipa": "ˈmɛtəl",
+      "zh": "金属",
+      "count": 2
+    },
+    {
+      "en": "reminted",
+      "ipa": "riˈmɪntɪd",
+      "zh": "重铸",
+      "count": 1
+    },
+    {
+      "en": "bullion",
+      "ipa": "ˈbʊljən",
+      "zh": "金条",
+      "count": 2
+    },
+    {
+      "en": "bars",
+      "ipa": "bɑrz",
+      "zh": "金条",
+      "count": 1
+    },
+    {
+      "en": "shipped",
+      "ipa": "ʃɪpt",
+      "zh": "运",
+      "count": 1
+    },
+    {
+      "en": "Fort",
+      "ipa": "fɔrt",
+      "zh": "堡",
+      "count": 1
+    },
+    {
+      "en": "Knox",
+      "ipa": "nɑks",
+      "zh": "诺克斯",
+      "count": 1
+    },
+    {
+      "en": "before",
+      "ipa": "ˌbiˈfɔr",
+      "zh": "之前",
+      "count": 4
+    },
+    {
+      "en": "peacetime",
+      "ipa": "ˈpiˌstaɪm",
+      "zh": "和平时期",
+      "count": 1
+    },
+    {
+      "en": "president",
+      "ipa": "ˈprɛzɪdənt",
+      "zh": "总统",
+      "count": 1
+    },
+    {
+      "en": "dared",
+      "ipa": "dɛrd",
+      "zh": "敢",
+      "count": 2
+    },
+    {
+      "en": "redraw",
+      "ipa": "riˈdrɔ",
+      "zh": "重画",
+      "count": 1
+    },
+    {
+      "en": "price",
+      "ipa": "praɪs",
+      "zh": "价格",
+      "count": 2
+    },
+    {
+      "en": "decree",
+      "ipa": "dɪˈkri",
+      "zh": "法令",
+      "count": 1
+    },
+    {
+      "en": "Banks",
+      "ipa": "bæŋks",
+      "zh": "银行",
+      "count": 4
+    },
+    {
+      "en": "closed",
+      "ipa": "kloʊzd",
+      "zh": "关闭",
+      "count": 1
+    },
+    {
+      "en": "four",
+      "ipa": "fɔr",
+      "zh": "四",
+      "count": 1
+    },
+    {
+      "en": "days",
+      "ipa": "deɪz",
+      "zh": "天(复)",
+      "count": 1
+    },
+    {
+      "en": "public",
+      "ipa": "ˈpəblɪk",
+      "zh": "公众",
+      "count": 1
+    },
+    {
+      "en": "confidence",
+      "ipa": "ˈkɑnfədɛns",
+      "zh": "信心",
+      "count": 5
+    },
+    {
+      "en": "begin",
+      "ipa": "bɪˈgɪn",
+      "zh": "开始",
+      "count": 1
+    },
+    {
+      "en": "If",
+      "ipa": "ɪf",
+      "zh": "如果",
+      "count": 7
+    },
+    {
+      "en": "Great",
+      "ipa": "greɪt",
+      "zh": "大",
+      "count": 2
+    },
+    {
+      "en": "Depression",
+      "ipa": "dɪˈprɛʃən",
+      "zh": "萧条",
+      "count": 1
+    },
+    {
+      "en": "lasted",
+      "ipa": "ˈlæstɪd",
+      "zh": "持续(过)",
+      "count": 1
+    },
+    {
+      "en": "only",
+      "ipa": "ˈoʊnli",
+      "zh": "只",
+      "count": 6
+    },
+    {
+      "en": "briefly",
+      "ipa": "ˈbrifli",
+      "zh": "短暂地",
+      "count": 1
+    },
+    {
+      "en": "hang",
+      "ipa": "hæŋ",
+      "zh": "悬挂",
+      "count": 1
+    },
+    {
+      "en": "chain",
+      "ipa": "ʧeɪn",
+      "zh": "链",
+      "count": 1
+    },
+    {
+      "en": "argued",
+      "ipa": "ˈɑrgjud",
+      "zh": "主张",
+      "count": 1
+    },
+    {
+      "en": "again",
+      "ipa": "əˈgɛn",
+      "zh": "再次",
+      "count": 3
+    },
+    {
+      "en": "civilized",
+      "ipa": "ˈsɪvəˌlaɪzd",
+      "zh": "文明的",
+      "count": 1
+    },
+    {
+      "en": "nation",
+      "ipa": "ˈneɪʃən",
+      "zh": "国家",
+      "count": 1
+    },
+    {
+      "en": "should",
+      "ipa": "ʃʊd",
+      "zh": "应该",
+      "count": 2
+    },
+    {
+      "en": "ever",
+      "ipa": "ˈɛvər",
+      "zh": "曾",
+      "count": 5
+    },
+    {
+      "en": "allow",
+      "ipa": "əˈlaʊ",
+      "zh": "允许",
+      "count": 1
+    },
+    {
+      "en": "dictate",
+      "ipa": "ˈdɪkˌteɪt",
+      "zh": "支配",
+      "count": 1
+    },
+    {
+      "en": "limits",
+      "ipa": "ˈlɪmɪts",
+      "zh": "界限",
+      "count": 1
+    },
+    {
+      "en": "human",
+      "ipa": "ˈjumən",
+      "zh": "人类",
+      "count": 2
+    },
+    {
+      "en": "ambition",
+      "ipa": "æmˈbɪʃən",
+      "zh": "抱负",
+      "count": 1
+    },
+    {
+      "en": "Bretton",
+      "ipa": "ˈbrɛtən",
+      "zh": "布雷顿",
+      "count": 3
+    },
+    {
+      "en": "Woods",
+      "ipa": "wʊdz",
+      "zh": "森林",
+      "count": 3
+    },
+    {
+      "en": "system",
+      "ipa": "ˈsɪstəm",
+      "zh": "体系",
+      "count": 3
+    },
+    {
+      "en": "Keynes",
+      "ipa": "keɪnz",
+      "zh": "凯恩斯",
+      "count": 3
+    },
+    {
+      "en": "Harry",
+      "ipa": "ˈhɛri",
+      "zh": "哈里",
+      "count": 1
+    },
+    {
+      "en": "Dexter",
+      "ipa": "ˈdɛkstər",
+      "zh": "德克斯特",
+      "count": 1
+    },
+    {
+      "en": "White",
+      "ipa": "waɪt",
+      "zh": "怀特(人名)",
+      "count": 1
+    },
+    {
+      "en": "fixed",
+      "ipa": "fɪkst",
+      "zh": "固定",
+      "count": 1
+    },
+    {
+      "en": "world's",
+      "ipa": "wərldz",
+      "zh": "世界的",
+      "count": 4
+    },
+    {
+      "en": "currencies",
+      "ipa": "ˈkərənsiz",
+      "zh": "货币(复)",
+      "count": 1
+    },
+    {
+      "en": "around",
+      "ipa": "əraʊnd",
+      "zh": "围绕",
+      "count": 1
+    },
+    {
+      "en": "pegged",
+      "ipa": "pɛgd",
+      "zh": "挂钩",
+      "count": 1
+    },
+    {
+      "en": "thirty-five",
+      "ipa": "ˈθərdiˌfaɪv",
+      "zh": "三十五",
+      "count": 1
+    },
+    {
+      "en": "dollars",
+      "ipa": "ˈdɔlərz",
+      "zh": "美元(复)",
+      "count": 9
+    },
+    {
+      "en": "ounce",
+      "ipa": "aʊns",
+      "zh": "盎司",
+      "count": 1
+    },
+    {
+      "en": "found",
+      "ipa": "faʊnd",
+      "zh": "觉得/发现",
+      "count": 1
+    },
+    {
+      "en": "impossible",
+      "ipa": "ˌɪmˈpɑsəbəl",
+      "zh": "不可能",
+      "count": 1
+    },
+    {
+      "en": "persuade",
+      "ipa": "pərsˈweɪd",
+      "zh": "说服",
+      "count": 1
+    },
+    {
+      "en": "bancor",
+      "ipa": "ˈbænˌkɔr",
+      "zh": "班柯(虚拟货币)",
+      "count": 1
+    },
+    {
+      "en": "proposal",
+      "ipa": "prəˈpoʊzəl",
+      "zh": "方案",
+      "count": 1
+    },
+    {
+      "en": "Whether",
+      "ipa": "ˈwɛðər",
+      "zh": "是否",
+      "count": 1
+    },
+    {
+      "en": "survive",
+      "ipa": "sərˈvaɪv",
+      "zh": "存活",
+      "count": 1
+    },
+    {
+      "en": "quarter-century",
+      "ipa": "ˈkwɔrtər-ˈsɛnʧəri",
+      "zh": "四分之一世纪",
+      "count": 1
+    },
+    {
+      "en": "question",
+      "ipa": "kˈwɛʃən",
+      "zh": "问题",
+      "count": 1
+    },
+    {
+      "en": "architects",
+      "ipa": "ˈɑrkəˌtɛkts",
+      "zh": "建筑师",
+      "count": 1
+    },
+    {
+      "en": "scarcely",
+      "ipa": "ˈskɛrsli",
+      "zh": "几乎不",
+      "count": 1
+    },
+    {
+      "en": "asked",
+      "ipa": "æst",
+      "zh": "问过",
+      "count": 1
+    },
+    {
+      "en": "rested",
+      "ipa": "ˈrɛstɪd",
+      "zh": "依赖",
+      "count": 1
+    },
+    {
+      "en": "single",
+      "ipa": "ˈsɪŋgəl",
+      "zh": "单一",
+      "count": 7
+    },
+    {
+      "en": "condition",
+      "ipa": "kənˈdɪʃən",
+      "zh": "条件",
+      "count": 1
+    },
+    {
+      "en": "ask",
+      "ipa": "æsk",
+      "zh": "请求/问",
+      "count": 1
+    },
+    {
+      "en": "worked",
+      "ipa": "wərkt",
+      "zh": "运作",
+      "count": 1
+    },
+    {
+      "en": "smoothly",
+      "ipa": "sˈmuðli",
+      "zh": "顺畅",
+      "count": 1
+    },
+    {
+      "en": "demanding",
+      "ipa": "dɪˈmændɪŋ",
+      "zh": "索要",
+      "count": 1
+    },
+    {
+      "en": "cracks",
+      "ipa": "kræks",
+      "zh": "裂缝",
+      "count": 1
+    },
+    {
+      "en": "become",
+      "ipa": "bɪˈkəm",
+      "zh": "成为",
+      "count": 2
+    },
+    {
+      "en": "visible",
+      "ipa": "ˈvɪzəbəl",
+      "zh": "可见",
+      "count": 1
+    },
+    {
+      "en": "late",
+      "ipa": "leɪt",
+      "zh": "晚",
+      "count": 1
+    },
+    {
+      "en": "half",
+      "ipa": "hæf",
+      "zh": "一半",
+      "count": 1
+    },
+    {
+      "en": "America's",
+      "ipa": "əˈmɛrɪkəz",
+      "zh": "美国的",
+      "count": 3
+    },
+    {
+      "en": "postwar",
+      "ipa": "ˈpoʊstˈwɔr",
+      "zh": "战后",
+      "count": 1
+    },
+    {
+      "en": "spent",
+      "ipa": "spɛnt",
+      "zh": "花费",
+      "count": 1
+    },
+    {
+      "en": "abroad",
+      "ipa": "əˈbrɔd",
+      "zh": "在国外",
+      "count": 1
+    },
+    {
+      "en": "August",
+      "ipa": "ˈɔgəst",
+      "zh": "八月",
+      "count": 1
+    },
+    {
+      "en": "Richard",
+      "ipa": "ˈrɪʧərd",
+      "zh": "理查德",
+      "count": 1
+    },
+    {
+      "en": "Nixon",
+      "ipa": "ˈnɪksən",
+      "zh": "尼克松",
+      "count": 2
+    },
+    {
+      "en": "announced",
+      "ipa": "əˈnaʊnst",
+      "zh": "宣布",
+      "count": 1
+    },
+    {
+      "en": "later",
+      "ipa": "ˈleɪtər",
+      "zh": "之后",
+      "count": 2
+    },
+    {
+      "en": "called",
+      "ipa": "kɔld",
+      "zh": "称为",
+      "count": 2
+    },
+    {
+      "en": "has",
+      "ipa": "həz",
+      "zh": "已(助)",
+      "count": 5
+    },
+    {
+      "en": "floated",
+      "ipa": "ˈfloʊtɪd",
+      "zh": "浮动",
+      "count": 1
+    },
+    {
+      "en": "freely",
+      "ipa": "ˈfrili",
+      "zh": "自由地",
+      "count": 1
+    },
+    {
+      "en": "since",
+      "ipa": "sɪns",
+      "zh": "自从",
+      "count": 2
+    },
+    {
+      "en": "sentence",
+      "ipa": "ˈsɛntəns",
+      "zh": "句子",
+      "count": 2
+    },
+    {
+      "en": "banker",
+      "ipa": "ˈbæŋkər",
+      "zh": "银行家",
+      "count": 2
+    },
+    {
+      "en": "move",
+      "ipa": "muv",
+      "zh": "移动",
+      "count": 1
+    },
+    {
+      "en": "trillions",
+      "ipa": "ˈtrɪljənz",
+      "zh": "万亿",
+      "count": 2
+    },
+    {
+      "en": "Inflation",
+      "ipa": "ˌɪnˈfleɪʃən",
+      "zh": "通货膨胀",
+      "count": 3
+    },
+    {
+      "en": "slumbering",
+      "ipa": "sˈləmbərɪŋ",
+      "zh": "蛰伏",
+      "count": 1
+    },
+    {
+      "en": "awoke",
+      "ipa": "əˈwoʊk",
+      "zh": "苏醒(awake过)",
+      "count": 1
+    },
+    {
+      "en": "with",
+      "ipa": "wɪθ",
+      "zh": "和/带有",
+      "count": 6
+    },
+    {
+      "en": "sudden",
+      "ipa": "ˈsədən",
+      "zh": "突然",
+      "count": 1
+    },
+    {
+      "en": "ferocity",
+      "ipa": "fərˈɑsəti",
+      "zh": "凶猛",
+      "count": 1
+    },
+    {
+      "en": "prices",
+      "ipa": "ˈpraɪsɪz",
+      "zh": "物价",
+      "count": 1
+    },
+    {
+      "en": "rose",
+      "ipa": "roʊz",
+      "zh": "上涨",
+      "count": 1
+    },
+    {
+      "en": "faster",
+      "ipa": "ˈfæstər",
+      "zh": "更快",
+      "count": 1
+    },
+    {
+      "en": "wages",
+      "ipa": "ˈweɪʤɪz",
+      "zh": "工资",
+      "count": 1
+    },
+    {
+      "en": "average",
+      "ipa": "ˈævərɪʤ",
+      "zh": "平均的",
+      "count": 1
+    },
+    {
+      "en": "learned",
+      "ipa": "ˈlərnɪd",
+      "zh": "学会",
+      "count": 2
+    },
+    {
+      "en": "mistrust",
+      "ipa": "mɪˈstrəst",
+      "zh": "不信任",
+      "count": 1
+    },
+    {
+      "en": "own",
+      "ipa": "oʊn",
+      "zh": "自己的",
+      "count": 4
+    },
+    {
+      "en": "paycheck",
+      "ipa": "ˈpeɪˌʧɛk",
+      "zh": "薪水",
+      "count": 1
+    },
+    {
+      "en": "Either",
+      "ipa": "ˈiðər",
+      "zh": "要么",
+      "count": 1
+    },
+    {
+      "en": "return",
+      "ipa": "rɪˈtərn",
+      "zh": "回",
+      "count": 1
+    },
+    {
+      "en": "or",
+      "ipa": "ər",
+      "zh": "或",
+      "count": 3
+    },
+    {
+      "en": "itself",
+      "ipa": "ˌɪtˈsɛlf",
+      "zh": "自身",
+      "count": 2
+    },
+    {
+      "en": "dissolve",
+      "ipa": "dɪˈzɑlv",
+      "zh": "解体",
+      "count": 2
+    },
+    {
+      "en": "moment",
+      "ipa": "ˈmoʊmənt",
+      "zh": "时刻",
+      "count": 2
+    },
+    {
+      "en": "along",
+      "ipa": "əˈlɔŋ",
+      "zh": "沿着",
+      "count": 1
+    },
+    {
+      "en": "country's",
+      "ipa": "ˈkəntriz",
+      "zh": "国家的",
+      "count": 1
+    },
+    {
+      "en": "patience",
+      "ipa": "ˈpeɪʃəns",
+      "zh": "耐心",
+      "count": 1
+    },
+    {
+      "en": "Volcker",
+      "ipa": "ˈvoʊlkər",
+      "zh": "沃尔克",
+      "count": 2
+    },
+    {
+      "en": "raised",
+      "ipa": "reɪzd",
+      "zh": "提高",
+      "count": 1
+    },
+    {
+      "en": "funds",
+      "ipa": "fəndz",
+      "zh": "资金",
+      "count": 1
+    },
+    {
+      "en": "level",
+      "ipa": "ˈlɛvəl",
+      "zh": "水平",
+      "count": 1
+    },
+    {
+      "en": "imagine",
+      "ipa": "ˌɪˈmæʤən",
+      "zh": "想象",
+      "count": 1
+    },
+    {
+      "en": "Borrowers",
+      "ipa": "ˈbɑroʊərz",
+      "zh": "借款人",
+      "count": 1
+    },
+    {
+      "en": "wept",
+      "ipa": "wɛpt",
+      "zh": "哭",
+      "count": 1
+    },
+    {
+      "en": "went",
+      "ipa": "wɛnt",
+      "zh": "去(过)",
+      "count": 2
+    },
+    {
+      "en": "bankrupt",
+      "ipa": "ˈbæŋkrəpt",
+      "zh": "破产",
+      "count": 1
+    },
+    {
+      "en": "yet",
+      "ipa": "jɛt",
+      "zh": "然而",
+      "count": 2
+    },
+    {
+      "en": "bond",
+      "ipa": "bɑnd",
+      "zh": "债券",
+      "count": 1
+    },
+    {
+      "en": "traders",
+      "ipa": "ˈtreɪdərz",
+      "zh": "交易员",
+      "count": 1
+    },
+    {
+      "en": "cheered",
+      "ipa": "ʧɪrd",
+      "zh": "欢呼",
+      "count": 1
+    },
+    {
+      "en": "Plaza",
+      "ipa": "ˈplɑzə",
+      "zh": "广场",
+      "count": 1
+    },
+    {
+      "en": "Accord",
+      "ipa": "əˈkɔrd",
+      "zh": "协议",
+      "count": 1
+    },
+    {
+      "en": "attempt",
+      "ipa": "əˈtɛmpt",
+      "zh": "尝试",
+      "count": 1
+    },
+    {
+      "en": "weaken",
+      "ipa": "ˈwikən",
+      "zh": "削弱",
+      "count": 2
+    },
+    {
+      "en": "but",
+      "ipa": "bət",
+      "zh": "但是",
+      "count": 2
+    },
+    {
+      "en": "also",
+      "ipa": "ˈɔlsoʊ",
+      "zh": "也",
+      "count": 1
+    },
+    {
+      "en": "quiet",
+      "ipa": "kwaɪət",
+      "zh": "安静",
+      "count": 3
+    },
+    {
+      "en": "admission",
+      "ipa": "ədˈmɪʃən",
+      "zh": "承认",
+      "count": 1
+    },
+    {
+      "en": "superpowers",
+      "ipa": "ˌsupərˈpaʊərz",
+      "zh": "超级大国",
+      "count": 1
+    },
+    {
+      "en": "compromise",
+      "ipa": "ˈkɑmprəˌmaɪz",
+      "zh": "妥协",
+      "count": 1
+    },
+    {
+      "en": "further",
+      "ipa": "ˈfərðər",
+      "zh": "更远",
+      "count": 1
+    },
+    {
+      "en": "manufacturing",
+      "ipa": "ˌmænjəˈfækʧərɪŋ",
+      "zh": "制造业",
+      "count": 1
+    },
+    {
+      "en": "last",
+      "ipa": "læst",
+      "zh": "持续/最后",
+      "count": 2
+    },
+    {
+      "en": "find",
+      "ipa": "faɪnd",
+      "zh": "找到",
+      "count": 1
+    },
+    {
+      "en": "footing",
+      "ipa": "ˈfʊtɪŋ",
+      "zh": "立足",
+      "count": 1
+    },
+    {
+      "en": "foreign",
+      "ipa": "ˈfɔrən",
+      "zh": "外国的",
+      "count": 3
+    },
+    {
+      "en": "held",
+      "ipa": "hɛld",
+      "zh": "持有",
+      "count": 3
+    },
+    {
+      "en": "largest",
+      "ipa": "ˈlɑrʤəst",
+      "zh": "最大",
+      "count": 1
+    },
+    {
+      "en": "store",
+      "ipa": "stɔr",
+      "zh": "存储",
+      "count": 1
+    },
+    {
+      "en": "exchange",
+      "ipa": "ɪksˈʧeɪnʤ",
+      "zh": "交换",
+      "count": 1
+    },
+    {
+      "en": "known",
+      "ipa": "noʊn",
+      "zh": "已知",
+      "count": 2
+    },
+    {
+      "en": "They",
+      "ipa": "ðeɪ",
+      "zh": "他们",
+      "count": 4
+    },
+    {
+      "en": "those",
+      "ipa": "ðoʊz",
+      "zh": "那些",
+      "count": 2
+    },
+    {
+      "en": "because",
+      "ipa": "bɪˈkəz",
+      "zh": "因为",
+      "count": 2
+    },
+    {
+      "en": "loved",
+      "ipa": "ləvd",
+      "zh": "爱过",
+      "count": 1
+    },
+    {
+      "en": "nowhere",
+      "ipa": "ˈnoʊˌwɛr",
+      "zh": "无处",
+      "count": 1
+    },
+    {
+      "en": "else",
+      "ipa": "ɛls",
+      "zh": "其他",
+      "count": 1
+    },
+    {
+      "en": "park",
+      "ipa": "pɑrk",
+      "zh": "存放",
+      "count": 1
+    },
+    {
+      "en": "savings",
+      "ipa": "ˈseɪvɪŋz",
+      "zh": "积蓄",
+      "count": 1
+    },
+    {
+      "en": "years",
+      "ipa": "jɪrz",
+      "zh": "年(复)",
+      "count": 2
+    },
+    {
+      "en": "three",
+      "ipa": "θri",
+      "zh": "三",
+      "count": 1
+    },
+    {
+      "en": "things",
+      "ipa": "θɪŋz",
+      "zh": "事物",
+      "count": 1
+    },
+    {
+      "en": "once",
+      "ipa": "wəns",
+      "zh": "一旦",
+      "count": 3
+    },
+    {
+      "en": "America",
+      "ipa": "əˈmɛrɪkə",
+      "zh": "美国",
+      "count": 1
+    },
+    {
+      "en": "language",
+      "ipa": "ˈlæŋgwɪʤ",
+      "zh": "语言",
+      "count": 2
+    },
+    {
+      "en": "global",
+      "ipa": "ˈgloʊbəl",
+      "zh": "全球",
+      "count": 6
+    },
+    {
+      "en": "trade",
+      "ipa": "treɪd",
+      "zh": "贸易",
+      "count": 3
+    },
+    {
+      "en": "silent",
+      "ipa": "ˈsaɪlənt",
+      "zh": "沉默",
+      "count": 1
+    },
+    {
+      "en": "partner",
+      "ipa": "ˈpɑrtnər",
+      "zh": "合伙人",
+      "count": 1
+    },
+    {
+      "en": "contract",
+      "ipa": "ˈkɑnˌtrækt",
+      "zh": "契约",
+      "count": 2
+    },
+    {
+      "en": "Indeed",
+      "ipa": "ˌɪnˈdid",
+      "zh": "诚然",
+      "count": 1
+    },
+    {
+      "en": "Alan",
+      "ipa": "ˈælən",
+      "zh": "艾伦(人名)",
+      "count": 1
+    },
+    {
+      "en": "Greenspan",
+      "ipa": "ˈgrinˌspæn",
+      "zh": "格林斯潘",
+      "count": 1
+    },
+    {
+      "en": "presided",
+      "ipa": "prɪˈzaɪdɪd",
+      "zh": "主政",
+      "count": 1
+    },
+    {
+      "en": "over",
+      "ipa": "ˈoʊvər",
+      "zh": "在...上",
+      "count": 2
+    },
+    {
+      "en": "period",
+      "ipa": "ˈpɪriəd",
+      "zh": "时期",
+      "count": 1
+    },
+    {
+      "en": "now",
+      "ipa": "naʊ",
+      "zh": "现在",
+      "count": 1
+    },
+    {
+      "en": "Moderation",
+      "ipa": "ˌmɑdərˈeɪʃən",
+      "zh": "缓和",
+      "count": 1
+    },
+    {
+      "en": "markets",
+      "ipa": "ˈmɑrkɪts",
+      "zh": "市场(复)",
+      "count": 3
+    },
+    {
+      "en": "demand",
+      "ipa": "dɪˈmænd",
+      "zh": "要求",
+      "count": 1
+    },
+    {
+      "en": "gentlest",
+      "ipa": "ˈʤɛntələst",
+      "zh": "最轻微",
+      "count": 1
+    },
+    {
+      "en": "nudges",
+      "ipa": "ˈnəʤɪz",
+      "zh": "轻推",
+      "count": 1
+    },
+    {
+      "en": "regulators",
+      "ipa": "ˈrɛgjəˌleɪtərz",
+      "zh": "监管者",
+      "count": 2
+    },
+    {
+      "en": "looked",
+      "ipa": "lʊkt",
+      "zh": "看(过)",
+      "count": 2
+    },
+    {
+      "en": "closer",
+      "ipa": "ˈkloʊzər",
+      "zh": "更仔细",
+      "count": 1
+    },
+    {
+      "en": "storm",
+      "ipa": "stɔrm",
+      "zh": "风暴",
+      "count": 1
+    },
+    {
+      "en": "seen",
+      "ipa": "sin",
+      "zh": "看见(过)",
+      "count": 2
+    },
+    {
+      "en": "long",
+      "ipa": "lɔŋ",
+      "zh": "长",
+      "count": 4
+    },
+    {
+      "en": "look",
+      "ipa": "lʊk",
+      "zh": "看",
+      "count": 1
+    },
+    {
+      "en": "warnings",
+      "ipa": "ˈwɔrnɪŋz",
+      "zh": "警告(复)",
+      "count": 1
+    },
+    {
+      "en": "Cassandra",
+      "ipa": "kəˈsændrə",
+      "zh": "卡珊德拉",
+      "count": 2
+    },
+    {
+      "en": "sound",
+      "ipa": "saʊnd",
+      "zh": "发出声响",
+      "count": 1
+    },
+    {
+      "en": "unheeded",
+      "ipa": "ənˈhidɪd",
+      "zh": "无人理睬",
+      "count": 1
+    },
+    {
+      "en": "There",
+      "ipa": "ðɛr",
+      "zh": "那里",
+      "count": 2
+    },
+    {
+      "en": "Sunday",
+      "ipa": "ˈsənˌdi",
+      "zh": "周日",
+      "count": 1
+    },
+    {
+      "en": "September",
+      "ipa": "sɛpˈtɛmbər",
+      "zh": "九月",
+      "count": 1
+    },
+    {
+      "en": "Wall",
+      "ipa": "wɔl",
+      "zh": "墙/华尔",
+      "count": 1
+    },
+    {
+      "en": "Street's",
+      "ipa": "strits",
+      "zh": "街的",
+      "count": 1
+    },
+    {
+      "en": "old",
+      "ipa": "oʊld",
+      "zh": "旧",
+      "count": 2
+    },
+    {
+      "en": "cracked",
+      "ipa": "krækt",
+      "zh": "崩裂",
+      "count": 2
+    },
+    {
+      "en": "Lehman",
+      "ipa": "ˈlimən",
+      "zh": "雷曼",
+      "count": 2
+    },
+    {
+      "en": "Brothers",
+      "ipa": "ˈbrəðərz",
+      "zh": "兄弟(机构名)",
+      "count": 1
+    },
+    {
+      "en": "remembered",
+      "ipa": "rɪˈmɛmbərd",
+      "zh": "被铭记",
+      "count": 1
+    },
+    {
+      "en": "night",
+      "ipa": "naɪt",
+      "zh": "夜",
+      "count": 1
+    },
+    {
+      "en": "Without",
+      "ipa": "wɪˈθaʊt",
+      "zh": "没有",
+      "count": 2
+    },
+    {
+      "en": "Reserve's",
+      "ipa": "rɪˈzərvz",
+      "zh": "储备的",
+      "count": 1
+    },
+    {
+      "en": "emergency",
+      "ipa": "ˈimərʤənsi",
+      "zh": "紧急",
+      "count": 2
+    },
+    {
+      "en": "intervention",
+      "ipa": "ˌɪntərˈvɛnʃən",
+      "zh": "干预",
+      "count": 1
+    },
+    {
+      "en": "major",
+      "ipa": "ˈmeɪʤər",
+      "zh": "主要",
+      "count": 2
+    },
+    {
+      "en": "collapsed",
+      "ipa": "kəˈlæpst",
+      "zh": "崩塌(过)",
+      "count": 2
+    },
+    {
+      "en": "fortnight",
+      "ipa": "ˈfɔrtˌnaɪt",
+      "zh": "两周",
+      "count": 1
+    },
+    {
+      "en": "rare",
+      "ipa": "rɛr",
+      "zh": "罕见",
+      "count": 1
+    },
+    {
+      "en": "unanimity",
+      "ipa": "ˌjunəˈnɪmɪti",
+      "zh": "一致",
+      "count": 1
+    },
+    {
+      "en": "shall",
+      "ipa": "ʃæl",
+      "zh": "shall(将)",
+      "count": 1
+    },
+    {
+      "en": "face",
+      "ipa": "feɪs",
+      "zh": "面对",
+      "count": 1
+    },
+    {
+      "en": "species",
+      "ipa": "ˈspiʃiz",
+      "zh": "种类",
+      "count": 1
+    },
+    {
+      "en": "will",
+      "ipa": "wɪl",
+      "zh": "将",
+      "count": 8
+    },
+    {
+      "en": "challenging",
+      "ipa": "ˈʧælənʤɪŋ",
+      "zh": "挑战",
+      "count": 1
+    },
+    {
+      "en": "dollar's",
+      "ipa": "ˈdɔlərz",
+      "zh": "美元的",
+      "count": 5
+    },
+    {
+      "en": "monopoly",
+      "ipa": "məˈnɑpəli",
+      "zh": "垄断",
+      "count": 1
+    },
+    {
+      "en": "reserves",
+      "ipa": "rɪˈzərvz",
+      "zh": "储备(复)",
+      "count": 1
+    },
+    {
+      "en": "Bitcoin",
+      "ipa": "ˈbɪtˌkɔɪn",
+      "zh": "比特币",
+      "count": 1
+    },
+    {
+      "en": "needing",
+      "ipa": "ˈnidɪŋ",
+      "zh": "需要(分)",
+      "count": 1
+    },
+    {
+      "en": "neither",
+      "ipa": "ˈniðər",
+      "zh": "既不",
+      "count": 1
+    },
+    {
+      "en": "issue",
+      "ipa": "ˈɪʃu",
+      "zh": "发行",
+      "count": 2
+    },
+    {
+      "en": "control",
+      "ipa": "kənˈtroʊl",
+      "zh": "控制",
+      "count": 1
+    },
+    {
+      "en": "launched",
+      "ipa": "lɔnʧt",
+      "zh": "启动",
+      "count": 2
+    },
+    {
+      "en": "January",
+      "ipa": "ˈʤænjuˌɛri",
+      "zh": "一月",
+      "count": 1
+    },
+    {
+      "en": "outlive",
+      "ipa": "ˌaʊˈtlɪv",
+      "zh": "活得更久",
+      "count": 1
+    },
+    {
+      "en": "men",
+      "ipa": "mɛn",
+      "zh": "男人/众人",
+      "count": 1
+    },
+    {
+      "en": "fear",
+      "ipa": "fɪr",
+      "zh": "恐惧",
+      "count": 2
+    },
+    {
+      "en": "life",
+      "ipa": "laɪf",
+      "zh": "生命",
+      "count": 1
+    },
+    {
+      "en": "Some",
+      "ipa": "səm",
+      "zh": "一些",
+      "count": 1
+    },
+    {
+      "en": "economists",
+      "ipa": "ɪˈkɑnəmɪsts",
+      "zh": "经济学家(复)",
+      "count": 2
+    },
+    {
+      "en": "insist",
+      "ipa": "ˌɪnˈsɪst",
+      "zh": "坚持",
+      "count": 1
+    },
+    {
+      "en": "sooner",
+      "ipa": "ˈsunər",
+      "zh": "更早",
+      "count": 2
+    },
+    {
+      "en": "going",
+      "ipa": "goʊɪŋ",
+      "zh": "去/将",
+      "count": 1
+    },
+    {
+      "en": "digital",
+      "ipa": "ˈdɪʤɪtəl",
+      "zh": "数字的",
+      "count": 2
+    },
+    {
+      "en": "version",
+      "ipa": "ˈvərʒən",
+      "zh": "版本",
+      "count": 1
+    },
+    {
+      "en": "least",
+      "ipa": "list",
+      "zh": "最少",
+      "count": 1
+    },
+    {
+      "en": "tested",
+      "ipa": "ˈtɛstɪd",
+      "zh": "测试过",
+      "count": 1
+    },
+    {
+      "en": "central-bank",
+      "ipa": "ˈsɛntrəl-bæŋk",
+      "zh": "中央银行",
+      "count": 1
+    },
+    {
+      "en": "time",
+      "ipa": "taɪm",
+      "zh": "时间",
+      "count": 2
+    },
+    {
+      "en": "you",
+      "ipa": "ju",
+      "zh": "你",
+      "count": 1
+    },
+    {
+      "en": "finish",
+      "ipa": "ˈfɪnɪʃ",
+      "zh": "完成",
+      "count": 1
+    },
+    {
+      "en": "reading",
+      "ipa": "ˈrɛdɪŋ",
+      "zh": "阅读",
+      "count": 1
+    },
+    {
+      "en": "this",
+      "ipa": "ðɪs",
+      "zh": "这",
+      "count": 3
+    },
+    {
+      "en": "article",
+      "ipa": "ˈɑrtɪkəl",
+      "zh": "文章",
+      "count": 1
+    },
+    {
+      "en": "generating",
+      "ipa": "ˈʤɛnərˌeɪtɪŋ",
+      "zh": "生成",
+      "count": 1
+    },
+    {
+      "en": "debts",
+      "ipa": "dɛts",
+      "zh": "债务",
+      "count": 1
+    },
+    {
+      "en": "questions",
+      "ipa": "kˈwɛsʧənz",
+      "zh": "问题(复)",
+      "count": 1
+    },
+    {
+      "en": "does",
+      "ipa": "dɪz",
+      "zh": "做",
+      "count": 2
+    },
+    {
+      "en": "lose",
+      "ipa": "luz",
+      "zh": "失去",
+      "count": 1
+    },
+    {
+      "en": "status",
+      "ipa": "ˈstætəs",
+      "zh": "地位",
+      "count": 1
+    },
+    {
+      "en": "commodity",
+      "ipa": "kəˈmɑdəti",
+      "zh": "大宗商品",
+      "count": 1
+    },
+    {
+      "en": "loan",
+      "ipa": "loʊn",
+      "zh": "贷款",
+      "count": 1
+    },
+    {
+      "en": "earth",
+      "ipa": "ərθ",
+      "zh": "地球",
+      "count": 1
+    },
+    {
+      "en": "rewritten",
+      "ipa": "riˈrɪtən",
+      "zh": "改写",
+      "count": 1
+    },
+    {
+      "en": "algorithm",
+      "ipa": "ˈælgərˌɪðəm",
+      "zh": "算法",
+      "count": 1
+    },
+    {
+      "en": "rather",
+      "ipa": "ˈrəðər",
+      "zh": "宁愿/相当",
+      "count": 2
+    },
+    {
+      "en": "parliament",
+      "ipa": "ˈpɑrləmɛnt",
+      "zh": "议会",
+      "count": 1
+    },
+    {
+      "en": "something",
+      "ipa": "ˈsəmθɪŋ",
+      "zh": "某物",
+      "count": 1
+    },
+    {
+      "en": "quite",
+      "ipa": "kwaɪt",
+      "zh": "很",
+      "count": 1
+    },
+    {
+      "en": "Provided",
+      "ipa": "prəˈvaɪdɪd",
+      "zh": "只要(条件)",
+      "count": 1
+    },
+    {
+      "en": "survives",
+      "ipa": "sərˈvaɪvz",
+      "zh": "幸存",
+      "count": 1
+    },
+    {
+      "en": "continue",
+      "ipa": "kənˈtɪnju",
+      "zh": "继续",
+      "count": 1
+    },
+    {
+      "en": "underwrite",
+      "ipa": "ˈəndərˌraɪt",
+      "zh": "承保",
+      "count": 1
+    },
+    {
+      "en": "architecture",
+      "ipa": "ˈɑrkəˌtɛkʧər",
+      "zh": "架构",
+      "count": 1
+    },
+    {
+      "en": "predict",
+      "ipa": "prɪˈdɪkt",
+      "zh": "预测",
+      "count": 2
+    },
+    {
+      "en": "future",
+      "ipa": "fˈjuʧər",
+      "zh": "未来",
+      "count": 2
+    },
+    {
+      "en": "end",
+      "ipa": "ɛnd",
+      "zh": "终",
+      "count": 1
+    },
+    {
+      "en": "United",
+      "ipa": "juˈnaɪtɪd",
+      "zh": "合众",
+      "count": 1
+    },
+    {
+      "en": "States",
+      "ipa": "steɪts",
+      "zh": "州/合众国",
+      "count": 1
+    },
+    {
+      "en": "Most",
+      "ipa": "moʊst",
+      "zh": "大多数",
+      "count": 4
+    },
+    {
+      "en": "us",
+      "ipa": "ˈjuˈɛs",
+      "zh": "我们/美国",
+      "count": 1
+    },
+    {
+      "en": "thinking",
+      "ipa": "ˈθɪŋkɪŋ",
+      "zh": "思考",
+      "count": 1
+    },
+    {
+      "en": "about",
+      "ipa": "əˈbaʊt",
+      "zh": "关于",
+      "count": 1
+    },
+    {
+      "en": "why",
+      "ipa": "waɪ",
+      "zh": "为什么",
+      "count": 2
+    },
+    {
+      "en": "Many",
+      "ipa": "ˈmɛni",
+      "zh": "许多",
+      "count": 2
+    },
+    {
+      "en": "saver",
+      "ipa": "ˈseɪvər",
+      "zh": "储蓄者",
+      "count": 1
+    },
+    {
+      "en": "wished",
+      "ipa": "wɪʃt",
+      "zh": "希望",
+      "count": 1
+    },
+    {
+      "en": "bought",
+      "ipa": "bɔt",
+      "zh": "买(过)",
+      "count": 1
+    },
+    {
+      "en": "start",
+      "ipa": "stɑrt",
+      "zh": "开始",
+      "count": 1
+    },
+    {
+      "en": "honest",
+      "ipa": "ˈɑnəst",
+      "zh": "诚实的",
+      "count": 1
+    },
+    {
+      "en": "economist",
+      "ipa": "ɪˈkɑnəmɪst",
+      "zh": "经济学家",
+      "count": 1
+    },
+    {
+      "en": "can",
+      "ipa": "kən",
+      "zh": "能",
+      "count": 2
+    },
+    {
+      "en": "answer",
+      "ipa": "ˈænsər",
+      "zh": "回答",
+      "count": 1
+    },
+    {
+      "en": "certainty",
+      "ipa": "ˈsərtənti",
+      "zh": "确定性",
+      "count": 1
+    },
+    {
+      "en": "dear",
+      "ipa": "dɪr",
+      "zh": "亲爱的",
+      "count": 1
+    },
+    {
+      "en": "reader",
+      "ipa": "ˈridər",
+      "zh": "读者",
+      "count": 1
+    },
+    {
+      "en": "record",
+      "ipa": "ˈrɛkərd",
+      "zh": "记录",
+      "count": 1
+    },
+    {
+      "en": "promise",
+      "ipa": "ˈprɑməs",
+      "zh": "承诺",
+      "count": 1
+    },
+    {
+      "en": "How",
+      "ipa": "haʊ",
+      "zh": "多么/如何",
+      "count": 3
+    },
+    {
+      "en": "fragile",
+      "ipa": "ˈfræʤəl",
+      "zh": "脆弱",
+      "count": 1
+    },
+    {
+      "en": "durable",
+      "ipa": "ˈdʊrəbəl",
+      "zh": "持久",
+      "count": 1
+    },
+    {
+      "en": "piece",
+      "ipa": "pis",
+      "zh": "片",
+      "count": 2
+    },
+    {
+      "en": "turns",
+      "ipa": "tərnz",
+      "zh": "事实证明",
+      "count": 1
+    },
+    {
+      "en": "doesn't",
+      "ipa": "ˈdəzənt",
+      "zh": "不(否定)",
+      "count": 1
+    },
+    {
+      "en": "Ah",
+      "ipa": "ɑ",
+      "zh": "啊(感叹)",
+      "count": 1
+    },
+    {
+      "en": "keeps",
+      "ipa": "kips",
+      "zh": "持续",
+      "count": 1
+    },
+    {
+      "en": "telling",
+      "ipa": "ˈtɛlɪŋ",
+      "zh": "讲述",
+      "count": 1
+    },
+    {
+      "en": "noted",
+      "ipa": "ˈnoʊtɪd",
+      "zh": "注意",
+      "count": 1
+    },
+    {
+      "en": "then",
+      "ipa": "ðɛn",
+      "zh": "然后",
+      "count": 2
+    },
+    {
+      "en": "like",
+      "ipa": "laɪk",
+      "zh": "像",
+      "count": 1
+    },
+    {
+      "en": "just",
+      "ipa": "ʤɪst",
+      "zh": "刚",
+      "count": 1
+    },
+    {
+      "en": "begun",
+      "ipa": "ˈbeɪgən",
+      "zh": "开始(过分)",
+      "count": 1
+    },
+    {
+      "en": "quietly",
+      "ipa": "kˈwaɪətli",
+      "zh": "悄然",
+      "count": 1
+    },
+    {
+      "en": "resumed",
+      "ipa": "rɪˈzumd",
+      "zh": "重拾",
+      "count": 1
+    },
+    {
+      "en": "Whoever",
+      "ipa": "huˈɛvər",
+      "zh": "凡是...的人",
+      "count": 1
+    },
+    {
+      "en": "holds",
+      "ipa": "hoʊldz",
+      "zh": "持有",
+      "count": 1
+    },
+    {
+      "en": "better",
+      "ipa": "ˈbɛtər",
+      "zh": "更好",
+      "count": 1
+    },
+    {
+      "en": "watch",
+      "ipa": "wɔʧ",
+      "zh": "留意",
+      "count": 1
+    },
+    {
+      "en": "politics",
+      "ipa": "ˈpɑləˌtɪks",
+      "zh": "政治",
+      "count": 3
+    },
+    {
+      "en": "back",
+      "ipa": "bæk",
+      "zh": "支持/回",
+      "count": 2
+    },
+    {
+      "en": "them",
+      "ipa": "ðɛm",
+      "zh": "他们",
+      "count": 1
+    },
+    {
+      "en": "savers",
+      "ipa": "ˈseɪvərz",
+      "zh": "存款人",
+      "count": 1
+    },
+    {
+      "en": "keep",
+      "ipa": "kip",
+      "zh": "保有",
+      "count": 1
+    },
+    {
+      "en": "hold",
+      "ipa": "hoʊld",
+      "zh": "持有",
+      "count": 1
+    },
+    {
+      "en": "It's",
+      "ipa": "ɪts",
+      "zh": "它是",
+      "count": 1
+    },
+    {
+      "en": "high",
+      "ipa": "haɪ",
+      "zh": "高",
+      "count": 1
+    },
+    {
+      "en": "admitted",
+      "ipa": "ədˈmɪtəd",
+      "zh": "承认",
+      "count": 1
+    },
+    {
+      "en": "alone",
+      "ipa": "əˈloʊn",
+      "zh": "独自",
+      "count": 1
+    },
+    {
+      "en": "traded",
+      "ipa": "ˈtreɪdɪd",
+      "zh": "交易",
+      "count": 1
+    },
+    {
+      "en": "twice",
+      "ipa": "twaɪs",
+      "zh": "两倍",
+      "count": 1
+    },
+    {
+      "en": "often",
+      "ipa": "ˈɔfən",
+      "zh": "经常",
+      "count": 1
+    },
+    {
+      "en": "euro",
+      "ipa": "ˈjʊrə",
+      "zh": "欧元",
+      "count": 1
+    },
+    {
+      "en": "yen",
+      "ipa": "jɛn",
+      "zh": "日元",
+      "count": 1
+    },
+    {
+      "en": "combined",
+      "ipa": "kəmˈbaɪnd",
+      "zh": "合计",
+      "count": 1
+    },
+    {
+      "en": "Where",
+      "ipa": "wɛr",
+      "zh": "哪里/where",
+      "count": 2
+    },
+    {
+      "en": "truly",
+      "ipa": "ˈtruli",
+      "zh": "真正",
+      "count": 1
+    },
+    {
+      "en": "come",
+      "ipa": "kəm",
+      "zh": "来",
+      "count": 1
+    },
+    {
+      "en": "Consider",
+      "ipa": "kənˈsɪdər",
+      "zh": "考虑",
+      "count": 1
+    },
+    {
+      "en": "decisions",
+      "ipa": "dɪˈsɪʒənz",
+      "zh": "决定(复)",
+      "count": 1
+    },
+    {
+      "en": "carries",
+      "ipa": "ˈkɛriz",
+      "zh": "携带",
+      "count": 1
+    },
+    {
+      "en": "wrote",
+      "ipa": "roʊt",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "characteristic",
+      "ipa": "ˌkɛrɪktərˈɪstɪk",
+      "zh": "特有的",
+      "count": 1
+    },
+    {
+      "en": "bluntness",
+      "ipa": "ˈbləntnəs",
+      "zh": "直率",
+      "count": 1
+    },
+    {
+      "en": "facts",
+      "ipa": "fækts",
+      "zh": "事实(复)",
+      "count": 1
+    },
+    {
+      "en": "change",
+      "ipa": "ʧeɪnʤ",
+      "zh": "改变",
+      "count": 2
+    },
+    {
+      "en": "I",
+      "ipa": "aɪ",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "my",
+      "ipa": "maɪ",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "mind",
+      "ipa": "maɪnd",
+      "zh": "心思",
+      "count": 1
+    },
+    {
+      "en": "truth",
+      "ipa": "truθ",
+      "zh": "真相",
+      "count": 1
+    },
+    {
+      "en": "fiat",
+      "ipa": "faɪæt",
+      "zh": "法定",
+      "count": 1
+    },
+    {
+      "en": "modern",
+      "ipa": "ˈmɑdərn",
+      "zh": "现代",
+      "count": 1
+    },
+    {
+      "en": "history",
+      "ipa": "ˈhɪstəri",
+      "zh": "历史",
+      "count": 1
+    },
+    {
+      "en": "dismantled",
+      "ipa": "dɪsˈmænəld",
+      "zh": "拆解(过分)",
+      "count": 1
+    },
+    {
+      "en": "untethered",
+      "ipa": "",
+      "zh": "脱钩",
+      "count": 1
+    },
+    {
+      "en": "entered",
+      "ipa": "ˈɛnərd",
+      "zh": "进入",
+      "count": 1
+    },
+    {
+      "en": "unfamiliar",
+      "ipa": "ˌənfəˈmɪljər",
+      "zh": "陌生的",
+      "count": 1
+    },
+    {
+      "en": "age",
+      "ipa": "eɪʤ",
+      "zh": "时代",
+      "count": 1
+    },
+    {
+      "en": "distrusts",
+      "ipa": "dɪˈstrəsts",
+      "zh": "不信任(三单)",
+      "count": 1
+    },
+    {
+      "en": "governments",
+      "ipa": "ˈgəvərnmənts",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "seems",
+      "ipa": "simz",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "paradoxically",
+      "ipa": "ˌpɛrəˈdɑksəkəli",
+      "zh": "悖谬地",
+      "count": 1
+    },
+    {
+      "en": "strength",
+      "ipa": "strɛŋθ",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "lies",
+      "ipa": "laɪz",
+      "zh": "在于/谎言",
+      "count": 1
+    },
+    {
+      "en": "much",
+      "ipa": "məʧ",
+      "zh": "多",
+      "count": 2
+    },
+    {
+      "en": "collective",
+      "ipa": "kəˈlɛktɪv",
+      "zh": "集体",
+      "count": 1
+    },
+    {
+      "en": "alternative",
+      "ipa": "ɔlˈtərnətɪv",
+      "zh": "替代",
+      "count": 1
+    },
+    {
+      "en": "other",
+      "ipa": "ˈəðər",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "faltered",
+      "ipa": "ˈfɑltərd",
+      "zh": "动摇(过)",
+      "count": 1
+    },
+    {
+      "en": "same",
+      "ipa": "seɪm",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "pressure",
+      "ipa": "ˈprɛʃər",
+      "zh": "压力",
+      "count": 1
+    },
+    {
+      "en": "somehow",
+      "ipa": "ˈsəmˌhaʊ",
+      "zh": "莫名地",
+      "count": 1
+    },
+    {
+      "en": "said",
+      "ipa": "sɛd",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "autumn",
+      "ipa": "ˈɔtəm",
+      "zh": "秋",
+      "count": 2
+    },
+    {
+      "en": "crush",
+      "ipa": "krəʃ",
+      "zh": "击垮",
+      "count": 1
+    },
+    {
+      "en": "matter",
+      "ipa": "ˈmætər",
+      "zh": "无论",
+      "count": 1
+    },
+    {
+      "en": "political",
+      "ipa": "pəˈlɪtɪkəl",
+      "zh": "政治的",
+      "count": 1
+    },
+    {
+      "en": "cost",
+      "ipa": "kɔst",
+      "zh": "代价",
+      "count": 1
+    },
+    {
+      "en": "falters",
+      "ipa": "ˈfɔltərz",
+      "zh": "动摇(三单)",
+      "count": 1
+    },
+    {
+      "en": "stability",
+      "ipa": "stəˈbɪlɪti",
+      "zh": "稳定",
+      "count": 1
+    },
+    {
+      "en": "until",
+      "ipa": "ənˈtɪl",
+      "zh": "直到",
+      "count": 1
+    },
+    {
+      "en": "fully",
+      "ipa": "ˈfʊli",
+      "zh": "充分",
+      "count": 1
+    },
+    {
+      "en": "realize",
+      "ipa": "ˈriəˌlaɪz",
+      "zh": "意识到",
+      "count": 1
+    },
+    {
+      "en": "relied",
+      "ipa": "rɪˈlaɪd",
+      "zh": "依赖",
+      "count": 1
+    },
+    {
+      "en": "thorough",
+      "ipa": "θəroʊ",
+      "zh": "彻底",
+      "count": 1
+    },
+    {
+      "en": "Volcker's",
+      "ipa": "ˈvoʊlkərz",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "discipline",
+      "ipa": "ˈdɪsəplən",
+      "zh": "纪律",
+      "count": 1
+    },
+    {
+      "en": "1970s",
+      "ipa": "",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "returned",
+      "ipa": "rɪˈtərnd",
+      "zh": "回来",
+      "count": 1
+    },
+    {
+      "en": "lifetime",
+      "ipa": "ˈlaɪfˌtaɪm",
+      "zh": "一生",
+      "count": 1
+    },
+    {
+      "en": "easy",
+      "ipa": "ˈizi",
+      "zh": "容易",
+      "count": 1
+    },
+    {
+      "en": "way",
+      "ipa": "weɪ",
+      "zh": "方式/路",
+      "count": 1
+    },
+    {
+      "en": "broken",
+      "ipa": "ˈbroʊkən",
+      "zh": "破裂(过分)",
+      "count": 1
+    },
+    {
+      "en": "took",
+      "ipa": "tʊk",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "debate",
+      "ipa": "dəˈbeɪt",
+      "zh": "讨论/辩论",
+      "count": 1
+    },
+    {
+      "en": "survived",
+      "ipa": "sərˈvaɪvd",
+      "zh": "—",
+      "count": 1
+    },
+    {
+      "en": "rivals",
+      "ipa": "ˈraɪvəlz",
+      "zh": "对手(复)",
+      "count": 1
+    },
+    {
+      "en": "failed",
+      "ipa": "feɪld",
+      "zh": "失败(过)",
+      "count": 1
+    },
+    {
+      "en": "nations",
+      "ipa": "ˈneɪʃənz",
+      "zh": "各国",
+      "count": 1
+    },
+    {
+      "en": "lent",
+      "ipa": "lɛnt",
+      "zh": "借出(过)",
+      "count": 1
+    },
+    {
+      "en": "considered",
+      "ipa": "kənˈsɪdərd",
+      "zh": "认为",
+      "count": 1
+    },
+    {
+      "en": "safe",
+      "ipa": "seɪf",
+      "zh": "安全",
+      "count": 1
+    },
+    {
+      "en": "dangerously",
+      "ipa": "ˈdeɪnʤərəsli",
+      "zh": "危险地",
+      "count": 1
+    },
+    {
+      "en": "unstable",
+      "ipa": "ənˈsteɪbəl",
+      "zh": "不稳定",
+      "count": 1
+    },
+    {
+      "en": "danger",
+      "ipa": "ˈdeɪnʤər",
+      "zh": "危险",
+      "count": 1
+    },
+    {
+      "en": "unchecked",
+      "ipa": "ənˈʧɛkt",
+      "zh": "未受制约",
+      "count": 1
+    },
+    {
+      "en": "leverage",
+      "ipa": "ˈlɛvərɪʤ",
+      "zh": "杠杆",
+      "count": 1
+    },
+    {
+      "en": "Investors",
+      "ipa": "ˌɪnˈvɛstərz",
+      "zh": "投资者(复)",
+      "count": 1
+    },
+    {
+      "en": "believed",
+      "ipa": "bɪˈlivd",
+      "zh": "相信(过)",
+      "count": 1
+    },
+    {
+      "en": "darkest",
+      "ipa": "ˈdɑrkəst",
+      "zh": "最暗",
+      "count": 1
+    },
+    {
+      "en": "week",
+      "ipa": "wik",
+      "zh": "周",
+      "count": 1
+    },
+    {
+      "en": "policymakers",
+      "ipa": "ˈpɑləsiˌmeɪkərz",
+      "zh": "决策者(复)",
+      "count": 1
+    },
+    {
+      "en": "acted",
+      "ipa": "ˈæktɪd",
+      "zh": "行动(过)",
+      "count": 1
+    },
+    {
+      "en": "ended",
+      "ipa": "ˈɛndɪd",
+      "zh": "结束(过)",
+      "count": 1
+    },
+    {
+      "en": "differently",
+      "ipa": "ˈdɪfərˈɛntli",
+      "zh": "不同地",
+      "count": 1
+    },
+    {
+      "en": "essential",
+      "ipa": "ɛˈsɛnʃəl",
+      "zh": "至关重要",
+      "count": 1
+    },
+    {
+      "en": "retain",
+      "ipa": "rɪˈteɪn",
+      "zh": "保持",
+      "count": 1
+    },
+    {
+      "en": "strangers",
+      "ipa": "ˈstreɪnʤərz",
+      "zh": "陌生人(复)",
+      "count": 1
+    },
+    {
+      "en": "Fed's",
+      "ipa": "fɛdz",
+      "zh": "美联储的",
+      "count": 1
+    },
+    {
+      "en": "loans",
+      "ipa": "loʊnz",
+      "zh": "贷款(复)",
+      "count": 1
+    },
+    {
+      "en": "gave",
+      "ipa": "geɪv",
+      "zh": "给(过)",
+      "count": 1
+    },
+    {
+      "en": "fresh",
+      "ipa": "frɛʃ",
+      "zh": "新鲜",
+      "count": 1
+    },
+    {
+      "en": "height",
+      "ipa": "haɪt",
+      "zh": "高峰",
+      "count": 1
+    },
+    {
+      "en": "outlasted",
+      "ipa": "ˈaʊˌtlæstɪd",
+      "zh": "活得比...久(过)",
+      "count": 1
+    },
+    {
+      "en": "rival",
+      "ipa": "ˈraɪvəl",
+      "zh": "对手",
+      "count": 1
+    },
+    {
+      "en": "remains",
+      "ipa": "rɪˈmeɪnz",
+      "zh": "仍是",
+      "count": 1
+    },
+    {
+      "en": "miracles",
+      "ipa": "ˈmɪrəkəlz",
+      "zh": "奇迹(复)",
+      "count": 1
+    }
+  ],
+  "cohesion": [
+    {
+      "id": "c-01",
+      "title": "C-01 · it 回指上一句的机构",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "While Hamilton was building a national bank Thomas Jefferson was drafting the very arguments meant to one day destroy it",
+      "zh_flow": "汉密尔顿在搭建国家银行之时,托马斯·杰斐逊已经在起草那些日后注定会将它摧毁的论据。",
+      "phenomenon": "衔接现象: 句中 it 是下指(cataphoric)到 a national bank 的代词。同一名词短语在第一次出现后,后续提及一律改用代词,这是英语指代衔接最基础的一条规则。",
+      "tip": "用法提示: 中国学生最常见的写作毛病是重复全名 — 写成「Hamilton was building a national bank, ... arguments meant to one day destroy the bank」。母语者在同一句之内一定用 it。",
+      "sentence_id": "s-004"
+    },
+    {
+      "id": "c-02",
+      "title": "C-02 · his 物主代词,跨从句回指",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "Although Bryan lost the election his oratory still echoes through American memory",
+      "zh_flow": "尽管布莱恩输掉了那场选举,他的雄辩之词至今仍在美国的集体记忆里回响。",
+      "phenomenon": "衔接现象: his 是同段回指(within-paragraph anaphora),指向上文出现过的 Bryan。让步从句 Although Bryan ... 引出主体,主句立刻用 his 接上,免去专名重复。",
+      "tip": "用法提示: 母语者在同段内 70% 用代词回指人,只在新段落开头才重新用全名。中国学生倾向于「Bryan ... Bryan ... Bryan ...」整段重复 — 显得幼稚。",
+      "sentence_id": "s-018"
+    },
+    {
+      "id": "c-03",
+      "title": "C-03 · 一句之中两次回指同一对象",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "Bitcoin a currency needing neither a government to issue it nor a central bank to control it was launched on January 3 2009",
+      "zh_flow": "比特币 — 一种既不需政府发行也不需央行管控的货币 — 于 2009 年 1 月 3 日正式启动。",
+      "phenomenon": "衔接现象: Bitcoin (= a currency) 在同位语从句中出现两次平行回指 — needing neither a government to issue it nor a central bank to control it。两个动词共享同一个宾语指代,语义紧密、结构对称。",
+      "tip": "用法提示: 不要写成 「needing neither a government to issue the currency nor a central bank to control the currency」 — 重复让句子瘫痪。一旦定义,此后就用 it。",
+      "sentence_id": "s-064"
+    },
+    {
+      "id": "c-04",
+      "title": "C-04 · the country 词汇回指(已知国家)",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "Nor did the country recover quickly another decade of stagnation lay ahead",
+      "zh_flow": "这个国家也并未迅速恢复 — 又一个十年的停滞,正横亘在前。",
+      "phenomenon": "衔接现象: the country 是词汇回指(lexical reference),指向上下文中已经牢牢锁定的「the United States」。the + 上位词构成默认指代,无需说出国家名。",
+      "tip": "用法提示: 母语者会在同义词链中游走:the United States / America / the country / the nation / Washington。中国学生常通篇 「the U.S. ... the U.S. ...」 — 死板。",
+      "sentence_id": "s-027"
+    },
+    {
+      "id": "c-05",
+      "title": "C-05 · this single piece of paper(贬抑式回指)",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "How fragile and yet how durable this single piece of paper turns out to be",
+      "zh_flow": "这一张轻薄的纸,何其脆弱 — 又何其坚韧!",
+      "phenomenon": "衔接现象: 「this single piece of paper」是对整段话题(美元)的贬抑式回指 — 把抽象的全球货币降格为「一张薄纸」,以表达写作者的修辞姿态。这种以小见大的指代,是英语散文的高阶手段。",
+      "tip": "用法提示: 中国学生写「the dollar」就只敢写「the dollar」 — 不敢用 this single piece of paper 这种带感情色彩的指代。要敢于在指代里注入立场。",
+      "sentence_id": "s-077"
+    },
+    {
+      "id": "c-06",
+      "title": "C-06 · who 关系代词 + its 同句反向指代",
+      "type": "reference",
+      "type_label_zh": "① 指代衔接",
+      "type_label_en": "Reference",
+      "en": "The dollar will outlive the men who fear for its life",
+      "zh_flow": "美元终将比那些为它担忧的人活得更久。",
+      "phenomenon": "衔接现象: 「the men who fear for its life」一句两层指代:who 关系代词指 the men;its 物主代词反向指 the dollar(主句主语)。读者在大脑中需要同时维持两条指代链。",
+      "tip": "用法提示: 一句两个指代,流畅而不重复 — 这是英语母语者的本能。中国学生写到这种结构,常常会因不放心而把 the dollar / the men 重写一遍,毁掉节奏。",
+      "sentence_id": "s-065"
+    },
+    {
+      "id": "c-07",
+      "title": "C-07 · do-substitution(动作替代)",
+      "type": "substitution",
+      "type_label_zh": "② 替代衔接",
+      "type_label_en": "Substitution",
+      "en": "Where every other currency would have faltered under the same pressure the dollar somehow did not",
+      "zh_flow": "在同等压力之下,其他每一种货币本应步履踉跄,而美元,不知何故,竟未动摇。",
+      "phenomenon": "衔接现象: 「the dollar somehow did not」中 did not 是 do-substitution:do/did 替代了上文的整个动作 falter。完整还原应是 「did not falter」。do 在英语里专门用作「上文动词的占位词」,语法学称 pro-form。",
+      "tip": "用法提示: 中国学生倾向于把 falter 补回去,写成 「the dollar somehow did not falter」 — 但母语者觉得冗长。简洁就是力量。do 替代是考研、雅思、母语写作的分水岭。",
+      "sentence_id": "s-093"
+    },
+    {
+      "id": "c-08",
+      "title": "C-08 · so + aux 倒装替代",
+      "type": "substitution",
+      "type_label_zh": "② 替代衔接",
+      "type_label_en": "Substitution",
+      "en": "If the dollar ever falters so will most of the world's price stability",
+      "zh_flow": "美元一旦动摇,世界大多数地方的物价稳定,亦将随之动摇。",
+      "phenomenon": "衔接现象: 「so will most of the world's price stability」= 「will [also falter]」,falter 完全省略,只剩助动词 will + so + 主语倒装。这种「so + 助 + 主」的句型是英语「X 也如此」的固定表达。",
+      "tip": "用法提示: 正向用 「so + aux + S」,负向用 「neither/nor + aux + S」。两者都需要倒装。这是英语写作里非常装的一招,但用对了立刻显出母语感。",
+      "sentence_id": "s-095"
+    },
+    {
+      "id": "c-09",
+      "title": "C-09 · 动词替代 + 平行省略组合",
+      "type": "substitution",
+      "type_label_zh": "② 替代衔接",
+      "type_label_en": "Substitution",
+      "en": "By 2030 every major central bank will have launched or at least tested its own central-bank digital currency",
+      "zh_flow": "到 2030 年,每一家主要央行,都将已经推出 — 或至少曾试验过 — 自己的央行数字货币。",
+      "phenomenon": "衔接现象: 「will have launched, or at least tested, its own CBDC」中 tested 替代了「will have tested」 — will have 被省略,只剩动词。这是「动词替代 + 助动词省略」的复合手段,极其紧凑。",
+      "tip": "用法提示: 完整说应是 「will have launched ... or at least will have tested ...」 — 啰嗦。会用这种省略 + 替代,直接进入 Economist / FT 写作水准。",
+      "sentence_id": "s-067"
+    },
+    {
+      "id": "c-10",
+      "title": "C-10 · 关系代词 that 省略(零关系)",
+      "type": "ellipsis",
+      "type_label_zh": "③ 省略衔接",
+      "type_label_en": "Ellipsis",
+      "en": "On Saturday mornings a country shopkeeper would shave a thin sliver off any silver dollar he did not trust",
+      "zh_flow": "每逢周六上午,乡间店主总会从他所不信任的银元上削下一片薄薄的银屑,以验真伪。",
+      "phenomenon": "衔接现象: 完整应是 「any silver dollar [that] he did not trust」 — that 在宾格关系代词位置可以零省略。结构上,he did not trust 是限定从句,缺失的 that 充当 trust 的宾语。",
+      "tip": "用法提示: 母语者在口语和书面语都极常省 that。中国学生在写作时往往「不敢省」,导致句子比英语更长。该省时省。",
+      "sentence_id": "s-008"
+    },
+    {
+      "id": "c-11",
+      "title": "C-11 · Nor 倒装 + 前文否定省略",
+      "type": "ellipsis",
+      "type_label_zh": "③ 省略衔接",
+      "type_label_en": "Ellipsis",
+      "en": "Nor did the country recover quickly another decade of stagnation lay ahead",
+      "zh_flow": "这个国家也并未迅速恢复 — 又一个十年的停滞,正横亘在前。",
+      "phenomenon": "衔接现象: Nor = and + not + (additionally) — 一个 nor 字省略掉了「再加一句否定」的连接逻辑。Nor 后强制主谓倒装(Nor did the country recover),这是英语的强语义否定续接句式。",
+      "tip": "用法提示: 用法场景:前一句已讲一个负面结果,现在又追加另一个。比 「The country also did not recover」 紧凑、有力得多。Nor 是高级写作里的转折器之一。",
+      "sentence_id": "s-027"
+    },
+    {
+      "id": "c-12",
+      "title": "C-12 · 三分句平行 + 连词错落",
+      "type": "ellipsis",
+      "type_label_zh": "③ 省略衔接",
+      "type_label_en": "Ellipsis",
+      "en": "Borrowers wept and farmers went bankrupt yet bond traders cheered",
+      "zh_flow": "借款人痛哭,农人破产,而债券交易员却在欢呼。",
+      "phenomenon": "衔接现象: 三个分句 borrowers wept / farmers went bankrupt / bond traders cheered 用「and ... yet ...」串联,前两句并列、第三句转折。注意:省略了「,」前的句号,避免「一句一句号」的电报感。",
+      "tip": "用法提示: 中国学生倾向于把每个分句改成独立句:「Borrowers wept. Farmers went bankrupt. Bond traders cheered.」 — 看着像新闻摘要,失去散文的呼吸感。",
+      "sentence_id": "s-049"
+    },
+    {
+      "id": "c-13",
+      "title": "C-13 · 时态助动词省略(剩 will 一字)",
+      "type": "ellipsis",
+      "type_label_zh": "③ 省略衔接",
+      "type_label_en": "Ellipsis",
+      "en": "If the dollar ever falters so will most of the world's price stability",
+      "zh_flow": "美元一旦动摇,世界大多数地方的物价稳定,亦将随之动摇。",
+      "phenomenon": "衔接现象: 「so will most of the world's price stability [falter]」中,主动词 falter 完全省略,只剩助动词 will 承载整个谓语语义。读者从前句 「the dollar ever falters」 自动补出 falter。",
+      "tip": "用法提示: 助动词 will / would / shall / might / could 都可以单独承载省略后的整个谓语 — 称作「auxiliary stranding」。中文里没有这种词类,需专门训练。",
+      "sentence_id": "s-095"
+    },
+    {
+      "id": "c-14",
+      "title": "C-14 · Both ... and ... 双主语并列",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Both Britain and France borrowed heavily from New York bankers and the balance of monetary power began to shift across the Atlantic",
+      "zh_flow": "英国与法国均向纽约银行家大举借贷,货币力量的天平也由此开始横跨大西洋,向西倾移。",
+      "phenomenon": "衔接现象: Both X and Y 把两个并列主语包成一个集合,谓语用复数(borrowed)。比直接说「Britain borrowed and France borrowed」紧凑许多;比「X and Y both ...」更书面。",
+      "tip": "用法提示: Both ... and ... 用于「双方都做了同一件事」;若想强调「不仅 X,还 Y」,用 not only ... but also(见 C-15)。两者侧重点不同。",
+      "sentence_id": "s-023"
+    },
+    {
+      "id": "c-15",
+      "title": "C-15 · not only ... but also ... 递进",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "The Plaza Accord of 1985 was not only an attempt to weaken the dollar but also a quiet admission that even superpowers must compromise",
+      "zh_flow": "1985 年的《广场协议》,既是一次对美元的有意压低,亦是一种无声的承认 — 即便是超级大国,亦须妥协。",
+      "phenomenon": "衔接现象: 「not only X, but also Y」是递进衔接:Y 比 X 更深、更出乎意料。本句中,Y 是「even superpowers must compromise」 — 比 X「to weaken the dollar」 在内涵上深一层。",
+      "tip": "用法提示: 中国学生喜欢一直用 and 连接同等信息,缺乏层次。会用 not only ... but also 立刻显得有写作意图。但要注意:Y 必须比 X 「更进一步」,不能并列重复。",
+      "sentence_id": "s-051"
+    },
+    {
+      "id": "c-16",
+      "title": "C-16 · Although 让步从句",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Although Bryan lost the election his oratory still echoes through American memory",
+      "zh_flow": "尽管布莱恩输掉了那场选举,他的雄辩之词至今仍在美国的集体记忆里回响。",
+      "phenomenon": "衔接现象: Although 引导让步从句,主句正向陈述。结构是 「Although [事实 1], [与事实 1 表面矛盾的事实 2]」 — Bryan 输了选举,但他的演说仍在回响。",
+      "tip": "用法提示: 中国学生最常见错误是「Although ..., but ...」 — 但英语里 although 和 but 不能同时出现。要么 although 要么 but,二选一。",
+      "sentence_id": "s-018"
+    },
+    {
+      "id": "c-17",
+      "title": "C-17 · yet 转折(比 but 更书面)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Borrowers wept and farmers went bankrupt yet bond traders cheered",
+      "zh_flow": "借款人痛哭,农人破产,而债券交易员却在欢呼。",
+      "phenomenon": "衔接现象: yet ≈ but,但更书面、更文学化,常见于商业评论、政经长文、历史散文。语义上略带「出乎意料」的余味,比 but 中性。",
+      "tip": "用法提示: 日常对话用 but,Forbes / Economist / The Atlantic 长文里 yet 出现频率极高。学着把作文里的 but 替换 1-2 次为 yet,立刻提升书面感。",
+      "sentence_id": "s-049"
+    },
+    {
+      "id": "c-18",
+      "title": "C-18 · paradoxically 副词转折",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "The more the world distrusts its own governments the more it seems paradoxically to trust the dollar",
+      "zh_flow": "这世界对本国政府的不信任愈深,反而对美元的信任愈重 — 不啻一个悖论。",
+      "phenomenon": "衔接现象: paradoxically 是「反讽副词」(adverbial discourse marker),插入主句中部以逗号隔开,标记「违反直觉」的转折。比直接说「but it trusts the dollar」更精准、更有思考分量。",
+      "tip": "用法提示: 同类:ironically / surprisingly / counterintuitively / curiously。这一组副词把「转折」从 but 这种语法连词,提升到「作者立场表态」的语用层面。",
+      "sentence_id": "s-091"
+    },
+    {
+      "id": "c-19",
+      "title": "C-19 · 不定式表目的(to + V)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "The greenback was issued in 1862 to finance a war the Treasury could no longer pay for in coin",
+      "zh_flow": "1862 年发行的「绿背钞」,意在为一场国库已无法以硬币支撑的战争筹措军费。",
+      "phenomenon": "衔接现象: 「to finance a war」是不定式表目的(infinitive of purpose) — to + V 直接表达「为了做 X」,无需 in order to / for the purpose of 等冗长结构。",
+      "tip": "用法提示: 母语者写作里,大约 80% 的「目的」用 to + V 表达。in order to 偏正式;so as to 偏书面。中国学生爱用 「in order to」,显得拘谨。",
+      "sentence_id": "s-013"
+    },
+    {
+      "id": "c-20",
+      "title": "C-20 · in order that + 从句(正式目的)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Banks were closed for four days in order that public confidence might begin to recover",
+      "zh_flow": "银行停业四天 — 以图使公众的信心得以缓步复苏。",
+      "phenomenon": "衔接现象: 「in order that + 从句」是高度正式的目的连接,从句常带情态动词(might/may/can)。语义比 so that 庄重,常用于法律、政府公告、学术写作。",
+      "tip": "用法提示: 日常说 「so that」 即可。in order that 一年用 1-2 次足以;过用反而生硬。看到这种结构,基本能判断作者在写正式文体。",
+      "sentence_id": "s-031"
+    },
+    {
+      "id": "c-21",
+      "title": "C-21 · By + 时间锚点(过去完成的标志)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "By 1811 Spanish reales had circulated through the thirteen colonies for nearly a century",
+      "zh_flow": "至 1811 年,西班牙银元已在十三块殖民地流通了将近一个世纪。",
+      "phenomenon": "衔接现象: By + 年份是英语过去完成时(had + V-en)的天然搭档:By 1811 标记一个过去时间锚点,had circulated 表达在该锚点之前已发生/延续的动作。两者必须配套出现。",
+      "tip": "用法提示: 中国学生常误用一般过去时:「By 1811, Spanish reales circulated」 — 语义不准。By + 时间锚点几乎一定要 had + V-en 配套。",
+      "sentence_id": "s-005"
+    },
+    {
+      "id": "c-22",
+      "title": "C-22 · When + 时间从句",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "When the First World War broke out European gold flowed into American vaults at an unprecedented rate",
+      "zh_flow": "第一次世界大战爆发之时,欧洲的黄金以前所未有的速率涌入美国金库。",
+      "phenomenon": "衔接现象: 「When X, Y」是叙事最基础的时间衔接:从句 X 提供时间背景,主句 Y 在该背景下展开。本句中,从句 (the war broke out) 与主句 (gold flowed) 几乎同步,均用一般过去时。",
+      "tip": "用法提示: 若主句先于从句发生,主句用过去完成时:「When she arrived, the train had already left」。一般过去 vs 过去完成的选择,取决于事件顺序。",
+      "sentence_id": "s-021"
+    },
+    {
+      "id": "c-23",
+      "title": "C-23 · Only when + 主谓倒装(强调句式)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Only when France began demanding bullion for its dollars did the cracks become visible",
+      "zh_flow": "直到法国开始为它手中的美元索要金条之时,裂缝方才显现。",
+      "phenomenon": "衔接现象: 「Only when X, did Y」是否定/限定状语前置 + 主谓倒装的强调句式 — Only when 一旦放句首,主句必须主谓倒装(did the cracks become)。强调「直到 X 这一刻 Y 才发生」。",
+      "tip": "用法提示: 倒装是中国学生最难掌握的英语句型之一,但写作里用对一次,立刻提升一档。同类:Not until ... did ... / Never before ... had ... / Hardly had ... when ...。",
+      "sentence_id": "s-039"
+    },
+    {
+      "id": "c-24",
+      "title": "C-24 · Indeed 强化前文(承上启下)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Indeed Alan Greenspan presided over a period now called the Great Moderation when markets seemed to demand only the gentlest of nudges",
+      "zh_flow": "诚然,艾伦·格林斯潘所主政的那段时期,如今被称为「大缓和」时代 — 那是一段市场仿佛只需最轻微的拨动便足以平稳运转的岁月。",
+      "phenomenon": "衔接现象: Indeed 用于「承认前文之上再加一层例证」 — 比 「And ...」 强烈得多,显得作者有立场。它既承上(同意之前所说),也启下(给出更强例证)。",
+      "tip": "用法提示: 同类语篇副词:Moreover, Furthermore, In fact, Crucially, More to the point。这一组词在英语长文里平均每 200 词出现一次 — 是「学者腔」的标志。",
+      "sentence_id": "s-056"
+    },
+    {
+      "id": "c-25",
+      "title": "C-25 · Be it noted, then(古典语篇副词)",
+      "type": "conjunction",
+      "type_label_zh": "④ 连接词衔接",
+      "type_label_en": "Conjunction",
+      "en": "Be it noted then the dollar's long day like this sentence has only just begun",
+      "zh_flow": "由是当知:美元的漫长一日,正如此一句之尚未结尾,才刚刚开始。",
+      "phenomenon": "衔接现象: 「Be it noted, then」是带虚拟倒装的语篇副词 — Be it noted = Let it be noted。这是英语古典文体的「请君注意」结构,常见于政论、社论的转折/总结处。",
+      "tip": "用法提示: 同类古风结构:Suffice it to say / Mark you / Pray note。日常对话不用,但写正式评论或讲演稿,这种句子能立刻拉开高度。",
+      "sentence_id": "s-080"
+    }
+  ],
+  "terms": [
+    {
+      "id": "noun",
+      "name": "名词 · Noun",
+      "definition": "表示人 / 物 / 地点 / 抽象概念的词。可数名词有单复数(dollar/dollars),不可数名词不变(gold/inflation)。"
+    },
+    {
+      "id": "pronoun",
+      "name": "代词 · Pronoun",
+      "definition": "用来替代名词,避免重复。"
+    },
+    {
+      "id": "verb",
+      "name": "动词 · Verb",
+      "definition": "表示动作或状态的词,是句子的核心。每句必须有一个限定动词作谓语。"
+    },
+    {
+      "id": "adjective",
+      "name": "形容词 · Adjective",
+      "definition": "修饰名词,描述其性质或状态:young, silver, central, debt-stricken, fragile。"
+    },
+    {
+      "id": "adverb",
+      "name": "副词 · Adverb",
+      "definition": "修饰动词、形容词、副词或整句,通常以 -ly 结尾(但不限于)。"
+    },
+    {
+      "id": "preposition",
+      "name": "介词 · Preposition",
+      "definition": "放在名词或代词之前,与之构成\"介词短语\",表示时间、地点、方向、方式、原因等关系。"
+    },
+    {
+      "id": "conjunction",
+      "name": "连词 · Conjunction",
+      "definition": "连接词、短语或分句。"
+    },
+    {
+      "id": "article",
+      "name": "冠词 · Article",
+      "definition": "放在名词前,标明\"哪一个\"。仅 3 个:"
+    },
+    {
+      "id": "determiner",
+      "name": "限定词 · Determiner",
+      "definition": "广义上包括冠词,但还包括其他放在名词前的修饰词:"
+    },
+    {
+      "id": "interjection-pos",
+      "name": "感叹词 · Interjection",
+      "definition": "独立的情感表达词,语法上不与句子其余成分相连。Ah / Oh / Alas / Indeed(也作语篇词) / Well / Hush / Wow / Ouch。常以逗号或破折号隔开。"
+    },
+    {
+      "id": "lexical-verb",
+      "name": "实义动词 · Lexical Verb",
+      "definition": "表达具体动作或状态的\"主动词\",是句子的语义核心。"
+    },
+    {
+      "id": "linking-verb",
+      "name": "系动词 · Linking Verb",
+      "definition": "不带语义,把主语与表语\"挂\"在一起。常见:be 系列 (am/is/are/was/were/been/being) · become · seem · appear · look · feel · sound · taste · smell · get · grow · turn · remain · stay · prove · go(成为某种状态)。"
+    },
+    {
+      "id": "auxiliary-verb",
+      "name": "助动词 · Auxiliary Verb(也叫\"助词\")",
+      "definition": "不携带主要语义,辅助主动词构造时态、语态、否定、疑问、强调。三大主要助动词:"
+    },
+    {
+      "id": "modal-verb",
+      "name": "情态动词 · Modal Verb",
+      "definition": "表达\"态度\"或\"语气\":能力、可能性、必要性、推断、建议、决意。后接动词原形,本身不变化(no -s,no -ing,no past)。"
+    },
+    {
+      "id": "transitive-vs-intransitive",
+      "name": "及物 vs 不及物 · Transitive vs Intransitive",
+      "definition": "及物动词(transitive)需要带宾语:sign / declare / weigh / replace / underwrite。\"V + 谁/什么\"。"
+    },
+    {
+      "id": "finite-vs-nonfinite",
+      "name": "限定动词 vs 非谓语动词 · Finite vs Non-finite",
+      "definition": "限定动词(finite)有时态、人称、数变化,作句子谓语。\"He signs\" / \"He signed\" / \"He has signed\"。"
+    },
+    {
+      "id": "phrase",
+      "name": "短语 · Phrase",
+      "definition": "一组词紧密配合,共同作一种成分。没有\"主语+谓语\"结构。"
+    },
+    {
+      "id": "clause",
+      "name": "从句 · Clause",
+      "definition": "一组词,有自己的\"主语+谓语\"结构。可独立成句(主句)或嵌入主句(从句)。"
+    },
+    {
+      "id": "main-vs-subordinate",
+      "name": "主句 vs 从句 · Main vs Subordinate Clause",
+      "definition": "一个完整句子可由一个主句独立组成,或主句 + 一或多个从句组合而成。"
+    },
+    {
+      "id": "pattern-1",
+      "name": "① S + V — 主语 + 不及物动词",
+      "definition": "最简单的句子。动词不带宾语。"
+    },
+    {
+      "id": "pattern-2",
+      "name": "② S + V + O — 主语 + 及物动词 + 宾语",
+      "definition": "动词后带一个宾语。最常见句型。"
+    },
+    {
+      "id": "pattern-3",
+      "name": "③ S + V + IO + DO — 主语 + 双宾动词 + 间宾 + 直宾",
+      "definition": "give / send / tell / show / offer / lend / pay / teach / hand / pass 等双宾语动词。先间宾(通常为人),后直宾(通常为物)。可改写为「V + DO + to/for + IO」。"
+    },
+    {
+      "id": "pattern-4",
+      "name": "④ S + V + O + C — 主语 + 谓 + 宾 + 宾补",
+      "definition": "使役动词 (make / let / have) 和感官动词 (see / hear / find) 后宾语 + 补足语。"
+    },
+    {
+      "id": "pattern-5",
+      "name": "⑤ S + V + C — 主语 + 系动词 + 表语",
+      "definition": "系动词 (be / become / seem / appear / look / feel / sound / get) 后接表语,描述主语状态。"
+    },
+    {
+      "id": "subject",
+      "name": "主语 · Subject",
+      "definition": "谁/什么在做这个动作或处于某状态。一句话的\"主\"。"
+    },
+    {
+      "id": "predicate",
+      "name": "谓语 · Predicate / Verb",
+      "definition": "告诉我们主语做什么 / 是什么 / 怎么样。围绕动词展开。"
+    },
+    {
+      "id": "object",
+      "name": "宾语 · Object",
+      "definition": "动作所及之物。\"V 谁\"、\"V 什么\"。"
+    },
+    {
+      "id": "complement",
+      "name": "表语 · 补语 · Complement",
+      "definition": "表语 (Subject Complement) 出现在系动词之后,描述主语:X is/becomes/seems Y。"
+    },
+    {
+      "id": "adverbial",
+      "name": "状语 · Adverbial",
+      "definition": "交代动作或状态的时间、地点、方式、原因、目的、结果、程度、条件、让步、伴随。"
+    },
+    {
+      "id": "modifier",
+      "name": "定语 · 修饰语 · Modifier",
+      "definition": "修饰名词或名词短语:哪一个、什么样的、谁的。"
+    },
+    {
+      "id": "appositive",
+      "name": "同位语 · Appositive",
+      "definition": "紧跟一个名词,对其重命名或扩展。可由逗号、破折号、冒号引出,或紧贴。"
+    },
+    {
+      "id": "independent",
+      "name": "独立成分 · Independent Elements",
+      "definition": "语法上\"独立\"于句子主干,不充当任何核心成分,但传递语气、衔接、称呼、感叹。"
+    },
+    {
+      "id": "absolute",
+      "name": "独立主格 · Absolute Construction",
+      "definition": "\"名词 + 分词/形容词/介词短语\" 自带\"小主语\",修饰整个主句。比从句更紧凑,文学性强。"
+    },
+    {
+      "id": "simple-present",
+      "name": "一般现在时 · Simple Present",
+      "definition": "表示普遍真理、习惯、谚语、客观陈述。基本形式:动词原形(第三人称单数加 -s)。"
+    },
+    {
+      "id": "historic-present",
+      "name": "历史(叙事)现在时 · Historic / Narrative Present",
+      "definition": "用一般现在时讲述过去事件,使叙事更有临场感。常见于新闻、散文、历史写作。"
+    },
+    {
+      "id": "present-continuous",
+      "name": "现在进行时 · Present Continuous",
+      "definition": "表示当前正在进行的动作,或一段时间内持续进行的动作。形式:am/is/are + V-ing。"
+    },
+    {
+      "id": "present-perfect",
+      "name": "现在完成时 · Present Perfect",
+      "definition": "连接过去起点与现在;表对现在仍有影响的动作或经验。形式:have/has + 过去分词。"
+    },
+    {
+      "id": "present-perfect-continuous",
+      "name": "现在完成进行时 · Present Perfect Continuous",
+      "definition": "动作从过去开始,持续至今且可能继续。形式:have/has + been + V-ing。"
+    },
+    {
+      "id": "simple-past",
+      "name": "一般过去时 · Simple Past",
+      "definition": "叙事的基本时态,描述过去某明确时刻完成的动作。形式:动词过去式。"
+    },
+    {
+      "id": "past-continuous",
+      "name": "过去进行时 · Past Continuous",
+      "definition": "两个同时进行的过去动作,常以 while / when 引导。形式:was/were + V-ing。"
+    },
+    {
+      "id": "past-perfect",
+      "name": "过去完成时 · Past Perfect",
+      "definition": "在过去某参照点之前已发生或延续的动作。\"By + 时间\"是经典锚点。形式:had + 过去分词。"
+    },
+    {
+      "id": "past-perfect-continuous",
+      "name": "过去完成进行时 · Past Perfect Continuous",
+      "definition": "强调动作在过去某点之前已\"持续进行\"了一段时间。形式:had + been + V-ing。"
+    },
+    {
+      "id": "simple-future",
+      "name": "一般将来时 · Simple Future (will)",
+      "definition": "将来某时将发生的动作。表预测、承诺、当场决定。形式:will + 动词原形。"
+    },
+    {
+      "id": "be-going-to",
+      "name": "be going to 将来式",
+      "definition": "基于现有迹象或已有计划的将来。形式:am/is/are going to + 动词原形。比 will 更\"已成定局\"。"
+    },
+    {
+      "id": "future-continuous",
+      "name": "将来进行时 · Future Continuous",
+      "definition": "将来某时正在进行,或将来一段时间内持续展开。形式:will + be + V-ing。"
+    },
+    {
+      "id": "future-perfect",
+      "name": "将来完成时 · Future Perfect",
+      "definition": "在将来某参照点之前已完成的动作。形式:will + have + 过去分词。"
+    },
+    {
+      "id": "future-perfect-continuous",
+      "name": "将来完成进行时 · Future Perfect Continuous",
+      "definition": "至将来某点持续进行的动作。十二大时态中最罕见。形式:will + have + been + V-ing。"
+    },
+    {
+      "id": "future-in-past",
+      "name": "过去将来时 · Future-in-the-Past",
+      "definition": "从过去角度看的将来。形式:would / was-going-to / was-about-to + 动词原形。"
+    },
+    {
+      "id": "present-passive",
+      "name": "一般现在时被动 · Simple Present Passive",
+      "definition": "am/is/are + 过去分词。表当前事实的被动。"
+    },
+    {
+      "id": "present-perfect-passive",
+      "name": "现在完成时被动 · Present Perfect Passive",
+      "definition": "have/has + been + 过去分词。融合\"完成体\"与\"被动\"。"
+    },
+    {
+      "id": "past-passive",
+      "name": "一般过去时被动 · Past Passive",
+      "definition": "was/were + 过去分词。"
+    },
+    {
+      "id": "past-perfect-passive",
+      "name": "过去完成时被动 · Past Perfect Passive",
+      "definition": "had + been + 过去分词。"
+    },
+    {
+      "id": "future-passive",
+      "name": "一般将来时被动 · Future Passive",
+      "definition": "will + be + 过去分词。"
+    },
+    {
+      "id": "modal-passive",
+      "name": "情态被动 · Modal Passive",
+      "definition": "情态动词 + be + 过去分词。must/can/may/should/will + be + V-en。"
+    },
+    {
+      "id": "get-passive",
+      "name": "Get-被动 · Get-Passive",
+      "definition": "get + 过去分词。比 be-被动更口语,强调\"突然发生变化\",常带负面或意外色彩。"
+    },
+    {
+      "id": "causative-passive",
+      "name": "使役被动 · Causative \"have something done\"",
+      "definition": "have + 宾语 + 过去分词 = \"让某物被(他人)做\"。对照 make/let + 不带 to 不定式。"
+    },
+    {
+      "id": "can-could",
+      "name": "can / could · 能力或可能",
+      "definition": "表能力、可能、许可。could 是 can 的过去式或虚拟形式。"
+    },
+    {
+      "id": "may-might",
+      "name": "may / might · 可能性",
+      "definition": "表\"也许、可能\"。might 比 may 语气更弱、更不确定。"
+    },
+    {
+      "id": "must",
+      "name": "must · 必须 / 推断",
+      "definition": "表\"必须\"(义务)或\"一定\"(推断)。语气最强。"
+    },
+    {
+      "id": "should",
+      "name": "should / ought to · 道义责任 / 建议",
+      "definition": "表道义责任、建议、忠告。语气比 must 缓和。"
+    },
+    {
+      "id": "shall",
+      "name": "shall · 正式 / 法律式",
+      "definition": "表约束性承诺或禁止。现代美式英语口语已多以 will 代之,但条约、合同、法律仍保留 shall。"
+    },
+    {
+      "id": "dare",
+      "name": "dare · 敢(半情态)",
+      "definition": "作半情态时后接动词原形(无 to)。多见于否定/疑问:dare not / daren't / how dare you。"
+    },
+    {
+      "id": "would-habitual",
+      "name": "would · 过去习惯",
+      "definition": "表过去反复发生的习惯动作。和 used to 在表\"反复动作\"时可换用,但 would 不能表过去状态。"
+    },
+    {
+      "id": "used-to",
+      "name": "used to · 过去常做",
+      "definition": "used to + 动词原形。表过去经常做但现在不再做的习惯。注意区别 be used to + V-ing(习惯于)。"
+    },
+    {
+      "id": "had-better",
+      "name": "had better · 强烈忠告",
+      "definition": "had better + 动词原形。表强烈建议、警告。语气比 should 更急迫,带\"否则后果不堪\"的潜台词。否定式:had better not。"
+    },
+    {
+      "id": "would-rather",
+      "name": "would rather · 宁愿",
+      "definition": "would rather + 动词原形 (+ than + 动词原形)。表\"宁愿做 X 而不做 Y\"。如果跟从句:would rather + S + 过去时(虚拟,与现在事实相反)。"
+    },
+    {
+      "id": "modal-perfect",
+      "name": "情态完成式 · Modal Perfect",
+      "definition": "情态动词 + have + 过去分词。表对过去事实的推断、可能、遗憾。"
+    },
+    {
+      "id": "bare-infinitive",
+      "name": "不带 to 不定式 · Bare Infinitive",
+      "definition": "使役动词 (make / let / have) + 宾 + 动词原形 (无 to);感官动词 (see / hear / watch / feel) 同此。help 可带可不带 to。"
+    },
+    {
+      "id": "to-inf-subject",
+      "name": "不定式作主语 · To-inf as Subject",
+      "definition": "to + 动词原形 整个短语作主语。强调动作本身。"
+    },
+    {
+      "id": "to-inf-object",
+      "name": "不定式作宾语 · To-inf as Object",
+      "definition": "动词后接不定式作宾语。常用动词:learn / want / hope / decide / plan / refuse / agree / manage / intend。"
+    },
+    {
+      "id": "to-inf-purpose",
+      "name": "不定式表目的 · To-inf of Purpose",
+      "definition": "to + 动词原形 表\"为了做...\"。比 in order to / so as to 简洁。"
+    },
+    {
+      "id": "gerund-subject",
+      "name": "动名词作主语 · Gerund as Subject",
+      "definition": "V-ing 短语作主语。比不定式作主语更强调\"该活动本身\"。"
+    },
+    {
+      "id": "gerund-prep",
+      "name": "介词后接动名词 · Gerund after Preposition",
+      "definition": "介词后必须用 V-ing。\"by V-ing\" = \"通过做...\"。\"in V-ing\" / \"without V-ing\" 类似。"
+    },
+    {
+      "id": "past-participial",
+      "name": "过去分词短语 · Past Participial Phrase",
+      "definition": "V-en + 补足成分 作定语,带被动义。等价于省略关系代词的定从,但更简洁。"
+    },
+    {
+      "id": "present-participial",
+      "name": "现在分词短语 · Present Participial Phrase",
+      "definition": "V-ing + 补足成分 作定语,主动+进行义。对照过去分词短语(被动义)。"
+    },
+    {
+      "id": "reduced-relative",
+      "name": "简化关系从句 · Reduced Relative",
+      "definition": "完整定从 \"which is V-en/-ing ...\" 省略 \"which is\",只留分词。"
+    },
+    {
+      "id": "absolute-construction",
+      "name": "独立主格 · Absolute Construction",
+      "definition": "\"名词 + 分词/形容词/介词短语\" 自带\"小主语\",修饰主句。文学性强。"
+    },
+    {
+      "id": "that-clause-subject",
+      "name": "that 引导的主语从句",
+      "definition": "that + 句子,整体作主语。谓语用第三人称单数(整个从句视为单数概念)。现代英语更常用形式主语 it 后置(\"It is true that ...\"),但 that-从句直接作主语在文学/论述写作中仍可见,显得正式有分量。"
+    },
+    {
+      "id": "that-clause-object",
+      "name": "that 引导的宾语从句",
+      "definition": "动词后接 that 从句作宾语。that 可省略。常见动词:say, declare, argue, insist, believe, know, think, hope。"
+    },
+    {
+      "id": "wh-clause-subject",
+      "name": "wh- 主语从句(假分裂句)",
+      "definition": "what / whoever / whatever 等引导的从句作主语。\"What ... was X\" 是 pseudo-cleft 强调结构。"
+    },
+    {
+      "id": "wh-clause-object",
+      "name": "wh- 宾语从句",
+      "definition": "what / who / where / when 等引导的从句作宾语。"
+    },
+    {
+      "id": "whether-clause",
+      "name": "whether / if 名词从句",
+      "definition": "由\"是否...\"的问句变成名词性结构。作主语只能用 whether,不能用 if;作宾语时两者都可。"
+    },
+    {
+      "id": "appositive-clause",
+      "name": "that 同位语从句",
+      "definition": "that 从句紧跟抽象名词 (fact, idea, condition, hope, news, possibility),解释其内容。区别于定从(后者修饰)。"
+    },
+    {
+      "id": "restrictive-relative",
+      "name": "限定性定语从句 · Restrictive Relative",
+      "definition": "限定先行词,不可省、不加逗号。关系代词:that / which / who / whom / whose。关系副词:when / where / why。可省略关系词成\"接触从句\"。"
+    },
+    {
+      "id": "non-restrictive-relative",
+      "name": "非限定性定语从句 · Non-restrictive Relative",
+      "definition": "逗号隔开,补充信息可省略不影响主句意思。不能用 that 引导。"
+    },
+    {
+      "id": "prep-fronted",
+      "name": "介词前置定语从句 · Prep + Relative Pronoun",
+      "definition": "介词提到关系代词之前,正式书面语。\"of which\" / \"in which\" / \"for whom\" / \"to whom\"。"
+    },
+    {
+      "id": "reduced-relative-clause",
+      "name": "简化定从 · Reduced Relative",
+      "definition": "省略 \"which is/was\",只留过去分词或现在分词。"
+    },
+    {
+      "id": "adv-time",
+      "name": "时间状语从句 · Adv. of Time",
+      "definition": "when / while / as / before / after / since / until / once 等引导。"
+    },
+    {
+      "id": "adv-cause",
+      "name": "原因状语从句 · Adv. of Cause",
+      "definition": "because / since / as / for 等引导。\"not because X, but because Y\" 是相关并列。"
+    },
+    {
+      "id": "adv-concession",
+      "name": "让步状语从句 · Adv. of Concession",
+      "definition": "although / though / even though / while 等引导。表\"尽管 X,但 Y\"。"
+    },
+    {
+      "id": "adv-condition",
+      "name": "条件状语从句 · Adv. of Condition",
+      "definition": "if / unless / provided (that) / providing / as long as / on condition that / supposing / in case 等引导。条件句也有此功能。"
+    },
+    {
+      "id": "adv-purpose",
+      "name": "目的状语从句 · Adv. of Purpose",
+      "definition": "in order that / so that 引导,从句中常含 may/might/can/could。比 to + V 更正式。"
+    },
+    {
+      "id": "adv-result",
+      "name": "结果状语从句 · Adv. of Result",
+      "definition": "\"so + 形/副 + that ...\" 与 \"such + (a/an) + 形 + 名 + that ...\" 表程度-结果。"
+    },
+    {
+      "id": "adv-manner",
+      "name": "方式状语从句 · Adv. of Manner",
+      "definition": "as if / as though 引导,表\"似乎,仿佛\"。与事实不符时谓语降一格(虚拟):现在事实用过去时(were 不用 was);过去事实用过去完成时。"
+    },
+    {
+      "id": "adv-comparison",
+      "name": "比较状语从句 · Adv. of Comparison",
+      "definition": "than / as ... as 引导。比较级用 -er + than 或 more + 形/副 + than;同级用 as + 形/副 + as;倍数 + as ... as。"
+    },
+    {
+      "id": "type1-conditional",
+      "name": "第一条件句 · Type 1(真实将来)",
+      "definition": "\"If + S + 一般现在,S + will + 动词原形\"。表对将来真实可能事件的假设。"
+    },
+    {
+      "id": "type2-conditional",
+      "name": "第二条件句 · Type 2(与现在事实相反)",
+      "definition": "\"If + S + 过去时(were 用于所有人称),S + would/might/could + 动词原形\"。变体 \"If S were to V\" 让假设语气更强。"
+    },
+    {
+      "id": "type3-conditional",
+      "name": "第三条件句 · Type 3(与过去事实相反)",
+      "definition": "\"If + S + had + V-en, S + would/could/might + have + V-en\"。表过去未发生的假设。"
+    },
+    {
+      "id": "mixed-conditional",
+      "name": "混合条件句 · Mixed Conditional",
+      "definition": "条件用第三类(与过去相反),结果用第二类(与现在相反)。\"过去若 X,现在就 Y\"。"
+    },
+    {
+      "id": "inverted-conditional",
+      "name": "倒装条件句 · Inverted Conditional",
+      "definition": "If 从句倒装,if 省略。\"Had + S + V-en\"(三类)/\"Were + S + ...\"(二类)/\"Should + S + V\"(一类)。正式书面语。"
+    },
+    {
+      "id": "wish-clause",
+      "name": "wish + 虚拟从句",
+      "definition": "与现在事实相反:wish + S + 过去时;与过去事实相反:wish + S + had + V-en。"
+    },
+    {
+      "id": "mandative-subjunctive",
+      "name": "命令性虚拟 · Mandative Subjunctive",
+      "definition": "在 insist / demand / require / suggest / propose / request / recommend 等动词后的 that 从句中,动词用原形(无视主语和时态)。同位语从句中也用此结构(condition / demand / suggestion 等抽象名词)。"
+    },
+    {
+      "id": "high-time",
+      "name": "It's high time + 过去虚拟",
+      "definition": "\"It's (high / about) time + that 从句\",从句用过去时(虚拟用法,实际指现在或将来),表\"该是时候了,而且早该做了\"。"
+    },
+    {
+      "id": "formal-subjunctive",
+      "name": "化石化虚拟 · Formal Subjunctive",
+      "definition": "古英语沿袭的固定形式:Be it noted / Be it known / Long live the king / God save the queen / Come what may / So be it / Suffice it to say。"
+    },
+    {
+      "id": "negative-fronting",
+      "name": "否定前置倒装 · Negative-fronting Inversion",
+      "definition": "never / hardly / seldom / rarely / no sooner / not until / little 等否定/限制副词前置 → 主谓倒装。"
+    },
+    {
+      "id": "only-fronting",
+      "name": "only 前置倒装 · Only-fronting",
+      "definition": "\"Only + 状语\" 前置时,主句倒装。强调\"直到 X 才 Y\"。"
+    },
+    {
+      "id": "locative-inversion",
+      "name": "地点倒装 · Locative Inversion",
+      "definition": "地点/方向状语前置时,主谓倒装(动词放主语前)。长主语挪到句末符合\"末端重心\"。"
+    },
+    {
+      "id": "nor-inversion",
+      "name": "nor / neither 前置倒装",
+      "definition": "否定连词 Nor / Neither 置句首,引发主谓倒装(\"Nor + aux + S + V\")。追加平行的否定陈述。"
+    },
+    {
+      "id": "cleft-sentence",
+      "name": "分裂句 · It-cleft",
+      "definition": "\"It was/is + 强调成分 + that/who + 其余\",拆分句子以突出某一成分。"
+    },
+    {
+      "id": "pseudo-cleft",
+      "name": "假分裂句 · Pseudo-cleft",
+      "definition": "\"What ... + 系动词 + 强调焦点\"。把整个 wh-从句作主语,与焦点成分等价对接。"
+    },
+    {
+      "id": "emphatic-do",
+      "name": "强调助动词 do · Emphatic Do",
+      "definition": "do/does/did + 动词原形 用于肯定句,坚称某事确曾发生。朗读时 do 重读。"
+    },
+    {
+      "id": "anticipatory-it-object",
+      "name": "形式宾语 it · Anticipatory it for Object",
+      "definition": "\"find / think / consider / make / believe + it + 形容词 + 真宾语(不定式或 that 从句)\"。真宾语过长时把它后挪。"
+    },
+    {
+      "id": "there-existential",
+      "name": "there 存在句 · There-Existential",
+      "definition": "there + 动词。最常与 be 搭配 (there is/were),也可与 came / arose / emerged / exists 等不及物动词搭配。"
+    },
+    {
+      "id": "comparative",
+      "name": "比较级 · Comparative",
+      "definition": "\"形/副 + -er + than\" 或 \"more + 形/副 + than\"。比较两个不相等事物。"
+    },
+    {
+      "id": "superlative",
+      "name": "最高级 · Superlative",
+      "definition": "\"the + 形最高级 / most + 形\"。常与 ever 在定从中连用,推至有史以来。"
+    },
+    {
+      "id": "equality",
+      "name": "同级比较 · as ... as",
+      "definition": "as + 形/副 + as,表程度相等。"
+    },
+    {
+      "id": "multiplier",
+      "name": "倍数比较 · Multiplier",
+      "definition": "\"倍数 + as + 形/副 + as ...\"(twice as much, three times as often)。亦可用\"倍数 + 比较级 + than\"。"
+    },
+    {
+      "id": "both-and",
+      "name": "both ... and",
+      "definition": "并列两个对等成分。连接主语时谓语用复数。"
+    },
+    {
+      "id": "either-or",
+      "name": "either ... or",
+      "definition": "提供两种可能。连接主语时谓语取就近原则。"
+    },
+    {
+      "id": "neither-nor",
+      "name": "neither ... nor",
+      "definition": "并列两个否定项 = \"既不 X 也不 Y\"。谓语就近原则。"
+    },
+    {
+      "id": "not-only-but-also",
+      "name": "not only ... but also",
+      "definition": "并列两个对等成分,带递进强调。两半语法结构必须平行。"
+    },
+    {
+      "id": "fanboys",
+      "name": "FANBOYS 并列连词",
+      "definition": "For / And / Nor / But / Or / Yet / So 七个并列连词。各有语义:and 顺承 · but 转折 · or 选择 · yet 让步转折(更书面) · so 因果 · for 解释 · nor 否定追加。"
+    },
+    {
+      "id": "vocative",
+      "name": "呼语 · Vocative",
+      "definition": "称呼听者/读者的名词或名词短语,总以逗号隔开。常见于散文、演讲。"
+    },
+    {
+      "id": "interjection",
+      "name": "感叹词 · Interjection",
+      "definition": "Ah / Oh / Alas / Indeed / Well / Hush / Wow 等。语法上独立,以破折号或逗号隔开,传达情感而非命题内容。"
+    },
+    {
+      "id": "discourse-marker",
+      "name": "语篇衔接词 · Discourse Marker",
+      "definition": "Indeed / Moreover / Nevertheless / Therefore / Furthermore / Crucially / Thus 等。标示与前文的逻辑关系,作用于句子之上。"
+    },
+    {
+      "id": "rhetorical-question",
+      "name": "修辞反问句 · Rhetorical Question",
+      "definition": "提问不是为了得到回答,而是为了表达态度或引出后续陈述。常由说话人自答。"
+    },
+    {
+      "id": "exclamation",
+      "name": "感叹句 · Exclamation",
+      "definition": "\"How + 形/副\"(强调程度)或\"What + (a/an) + 形 + 名\"。后续可主谓正常或倒装。"
+    },
+    {
+      "id": "tag-question",
+      "name": "反意疑问句 · Tag Question",
+      "definition": "前肯后否,前否后肯。助动词与代词须与主句匹配。"
+    },
+    {
+      "id": "wh-question",
+      "name": "Wh- 直接疑问句 · Wh-Question",
+      "definition": "Wh- 词(where/what/who/why/how)开头的直接问句。形式:Wh-词 + 助动词 + 主语 + 主动词。区别于 wh- 名词从句(嵌套句中,无倒装)。"
+    },
+    {
+      "id": "imperative",
+      "name": "普通祈使句 · Imperative",
+      "definition": "省略主语(默认 you),动词原形开头。表命令、请求、引导、建议。否定式 Don't + V 或 Never + V。"
+    },
+    {
+      "id": "direct-speech",
+      "name": "直接引语 · Direct Speech",
+      "definition": "用引号原文复述说话内容。说话人 + 引述动词(said / wrote / declared) + 逗号 + 引号内容。引号内时态、人称完全不变。"
+    },
+    {
+      "id": "predicative-clause",
+      "name": "表语从句 · Predicative Clause",
+      "definition": "系动词后的 that 从句作表语。结构:主语 + 系动词 + that-从句。The truth is that ... / The fact is that ... / The point is that ... 是经典论述句式。"
+    },
+    {
+      "id": "with-compound",
+      "name": "With-复合结构 · With + NP + V/Adj/PP",
+      "definition": "with + 名词 + 分词/形容词/介词短语,作伴随状语。功能等同独立主格,但更常用、更口语。"
+    },
+    {
+      "id": "the-more-the-more",
+      "name": "The more..., the more... · 越...越...",
+      "definition": "比较级关联结构,表正比。两个比较级前都用 the。同类:the bigger, the better / the harder you try, the more you fail。"
+    },
+    {
+      "id": "not-so-much-as",
+      "name": "Not so much...as... · 与其说 X,不如说 Y",
+      "definition": "两项对比,弱化前者、突出后者。等价于 \"rather Y than X\" 或 \"less X than Y\"。常用于辩论、论文。"
+    },
+    {
+      "id": "do-substitution",
+      "name": "替代结构 · Do / So / One Substitution",
+      "definition": "为避免重复,用 do / so / one 替代上文出现的内容。"
+    },
+    {
+      "id": "reported-speech-backshift",
+      "name": "间接引语(带 backshift) · Reported Speech with Tense Backshift",
+      "definition": "不用引号,用 that-从句转述,关键特征是时态后移(backshift):will → would / can → could / am-is-are → was-were / 现在 → 过去 / 过去 → 过完。"
+    },
+    {
+      "id": "so-inversion-ellipsis",
+      "name": "So + 倒装省略 · So + Aux + Subject",
+      "definition": "表\"X 也如此\",省略前文动词。I'm tired. — So am I.(我也累)。If A falters, so will B.(B 也将随之 falter,但不重复 falter)。否定式用 neither/nor。"
+    },
+    {
+      "id": "not-until-inversion",
+      "name": "Not until 倒装 · Not until + 时间 + 主谓倒装",
+      "definition": "Not until + 时间/从句 前置,引发主句倒装。表\"直到 X 才 Y\"。从句不动,主句\"助动词 + 主语 + 动词\"。"
+    },
+    {
+      "id": "so-adj-that-inversion",
+      "name": "So + Adj + that 倒装 · So thorough was X that Y",
+      "definition": "So + 形容词前置,主谓倒装,后接 that 结果从句。强调\"如此 X 以致 Y\"。区别于普通 so...that(无倒装)。So thorough was X that Y = X was so thorough that Y 的强调倒装版。"
+    },
+    {
+      "id": "plain-there-be",
+      "name": "普通 there be 句型 · Plain There-Be",
+      "definition": "基础 there + be + NP · 表存在或不存在。区别于 S-059 的文学倒装(There came / There stood),后者是动词+主语倒置,且动词不限于 be。"
+    },
+    {
+      "id": "it-took-time",
+      "name": "It took/takes + 时间 + for + to-V (花费时间结构)",
+      "definition": "It 是形式主语,不定式短语是真主语。表「花了 X 时间让 Y 做某事」。同类 It will take ten years for X to recover."
+    },
+    {
+      "id": "indirect-question",
+      "name": "间接疑问句 · Indirect Question",
+      "definition": "debate / wonder / ask / explain / question + wh- 引导从句。关键:从句用陈述语序,无主谓倒装。区别于直接疑问句 S-086(does the dollar...)。"
+    },
+    {
+      "id": "reciprocal-pronoun",
+      "name": "相互代词 · Reciprocal Pronoun (one another / each other)",
+      "definition": "表「互相」。形式上作宾语或介宾。一般两者通用,部分语法书认为 each other 用于两人/物、one another 用于多人/物。"
+    },
+    {
+      "id": "adj-object-complement",
+      "name": "形容词作宾补 · V + O + Adj",
+      "definition": "consider / find / deem / think / call + 宾 + 形容词 · 形容词作宾补,描述宾语状态。区别于 S-022 的 V + O + 不带 to 不定式。"
+    },
+    {
+      "id": "should-have-done",
+      "name": "should have + 过去分词 (本该做却没做)",
+      "definition": "表「过去本该做却没做」,含批评、遗憾。是情态完成式四子类之一,与 might-have(可能曾)、could-have(本可)、must-have(肯定曾)对照。"
+    },
+    {
+      "id": "must-have-done",
+      "name": "must have + 过去分词 (对过去的肯定推断)",
+      "definition": "表「对过去事实的肯定推断」。否定式不用 must not have,用 can't have done。区别于 must + V(对现在的推断)。"
+    },
+    {
+      "id": "if-only",
+      "name": "If only + 过去完成时(虚拟感叹 · 早知如此)",
+      "definition": "表「对过去未发生事的强烈遗憾」。语气比 I wish 更感慨。结构 If only + S + had + V-en, S + might/would have + V-en。"
+    },
+    {
+      "id": "extraposition-mandative",
+      "name": "It is essential that + V 原形 (Extraposition Mandative)",
+      "definition": "It is + adj-of-importance + that + S + V原形。形式主语 it 加正式虚拟语气从句。adj 常见 essential / necessary / important / vital / crucial / imperative。从句动词用原形(retain,不是 retains)。"
+    },
+    {
+      "id": "cohesion",
+      "name": "语篇衔接(总称) · Cohesion",
+      "definition": "一段文字里,把句子粘合成连贯整体的所有语法/词汇手段的总称。Halliday & Hasan(1976)将其归为五大类:reference(指代) / substitution(替代) / ellipsis(省略) / conjunction(连接词) / lexical cohesion(词汇衔接)。"
+    },
+    {
+      "id": "reference",
+      "name": "指代 · Reference",
+      "definition": "用代词、物主代词、指示代词、定冠词,把后文与前文的同一对象绑在一起。母语者在同段内约 70% 的人称指代用代词承担。"
+    },
+    {
+      "id": "anaphora-cataphora",
+      "name": "回指 / 下指 · Anaphora / Cataphora",
+      "definition": "回指(anaphora):代词指向前面已出现的名词(最常见);下指(cataphora):代词指向后面才出现的名词(用于悬念或正式文体)。本教材 108 句中的代词几乎全部是回指。"
+    },
+    {
+      "id": "lexical-reference",
+      "name": "词汇回指 · Lexical Reference",
+      "definition": "不能或不想用代词时,用「the + 上位词/同义词」回指前文。比代词更明确,但不像重复全名那么呆板。"
+    },
+    {
+      "id": "substitution",
+      "name": "替代 · Substitution",
+      "definition": "用 do / so / one 等占位词,替代上文已出现的整段动作或名词。和 ellipsis(完全省略)的区别:substitution 留一个占位词,ellipsis 什么都不留。三种主要形式:verbal(do/does/did)、nominal(one/ones)、clausal(so/not)。"
+    },
+    {
+      "id": "ellipsis",
+      "name": "省略 · Ellipsis",
+      "definition": "明示性省略 — 关系代词、连词、主语、谓语、助动词等被略去,但读者能从上下文 100% 补出。三种主要形式:nominal(名词省略)、verbal(动词省略)、clausal(从句省略)。中国学生在写作时倾向于「不敢省」,这是中式英语最显眼的特征之一。"
+    },
+    {
+      "id": "conjunction-cohesion",
+      "name": "连接词衔接 · Conjunction",
+      "definition": "显性的逻辑词,告诉读者两句之间的关系。Halliday-Hasan 分四大类:additive(顺承/递进:and / both...and / not only ... but also / moreover)、adversative(转折:but / yet / although / however / paradoxically)、causal(因果:because / so / to-V / in order that)、temporal(时序:when / by + 时间 / as / once / only when)。"
+    },
+    {
+      "id": "discourse-marker-coh",
+      "name": "语篇副词 · Discourse Marker(语篇层面)",
+      "definition": "不参与句子语法的副词,但在语篇层面承担「承上启下」「立场表态」的功能。常见:indeed / moreover / furthermore / nevertheless / paradoxically / ironically / surprisingly / in fact / crucially / be it noted。出现密度是「学者腔」的标志:每 200 词约 1 次。(注:与 ⑬ 章 语篇副词 的句法定义为同一对象,这里专指其衔接功能。)"
+    },
+    {
+      "id": "lexical-cohesion",
+      "name": "词汇衔接 · Lexical Cohesion",
+      "definition": "隐形的、最强大的衔接手段。三种形式:repetition(主题词反复) / synonymy(同义词链) / antonymy(反义对照)。中国学生最大的写作问题:同一个名词反复出现,缺乏词汇变换。母语者会在同义词链中游走。"
+    },
+    {
+      "id": "anchor-time",
+      "name": "时间锚点 · Time Anchor",
+      "definition": "用各种形式的时间状语「钉」住叙事的时点,是历史散文最重要的衔接手段。常见:By + 时间(过去完成时的标志) / When + 从句 / On + 具体日期 / For + 时间长度 / Within + 时间范围 / Year after year / By the time + 从句。"
+    },
+    {
+      "id": "parallelism",
+      "name": "平行结构 · Parallelism",
+      "definition": "两个或更多语法成分使用相同形式,在视觉与节奏上形成「衔接」效果。常见:三分句平行(borrowers wept / farmers went bankrupt / bond traders cheered) / not only ... but also / both ... and。能写出节奏感的散文,80% 靠平行结构。"
+    },
+    {
+      "id": "emphatic-inversion",
+      "name": "强调倒装 · Emphatic Inversion(语篇层面)",
+      "definition": "把否定/限定状语前置(Only when / Not until / Never before / Hardly had ...),触发主谓倒装,把读者的注意力锁在某个关键节点。这是语篇层面的强调手段 — 不仅改变句法,更改变读者的阅读节奏。"
+    }
+  ],
+  "grammars": [
+    "Absolute Construction (独立主格)",
+    "Adverbial Clause of Concession (让步状语 · although)",
+    "Adverbial Clause of Time (时间状语 · when)",
+    "Adverbial of Cause · not because/but because (原因状语)",
+    "Adverbial of Condition · provided that (条件状语)",
+    "Adverbial of Purpose · in order that (目的状语)",
+    "Anticipatory \"it\" for Object (形式宾语 it)",
+    "Appositive · Parallel (同位语 · 并列三项)",
+    "As-If Manner Clause + were-subjunctive (虚拟过去 · as if)",
+    "Bare Infinitive after \"make\" (使役动词后接不带 to 的不定式)",
+    "Be going to (将来 · 计划/迹象)",
+    "Both ... and (相关并列连词)",
+    "Causative \"have something done\" (使役 · 让人做)",
+    "Cleft Sentence (分裂句 · It-cleft)",
+    "Comparative + than (比较级)",
+    "Could (Ability/Possibility · 能力或可能)",
+    "Could have V-en (情态完成 · 过去本可)",
+    "Dare Semi-Modal (情态半助动词)",
+    "Direct Speech (直接引语)",
+    "Discourse Marker (语篇衔接词 · Indeed)",
+    "Ditransitive Verb · S+V+IO+DO (双宾语)",
+    "Do-Substitution (do/so/one 替代)",
+    "Either ... or (相关并列连词)",
+    "Emphatic \"do\" (强调助动词 do)",
+    "Exclamation How / What (感叹句)",
+    "FANBOYS \"yet\" (并列连词 yet · 转折)",
+    "Formal Subjunctive · Be it noted (化石化虚拟)",
+    "Future Continuous (将来进行时)",
+    "Future Passive (一般将来时被动)",
+    "Future Perfect (将来完成时)",
+    "Future Perfect Continuous (将来完成进行时)",
+    "Future Simple \"will\" (一般将来时)",
+    "Gerund after Preposition (介词后接动名词)",
+    "Gerund as Subject (动名词作主语)",
+    "Get-Passive (get-被动)",
+    "Historic / Narrative Present (历史现在时)",
+    "If only + 过完 (虚拟感叹 · 早知如此)",
+    "Imperative (普通祈使句)",
+    "Indirect Question (间接疑问句)",
+    "Indirect Speech with Backshift (间接引语 · 时态后移)",
+    "Interjection (感叹词独立成分)",
+    "Inverted Type-3 Conditional + Modal Perfect (倒装第三条件 + 情态完成)",
+    "It Took + Time + for + to-V (花费时间结构)",
+    "It is essential that + V原形 (Extraposition Mandative)",
+    "It's high time + Past Subjunctive (虚拟特殊式 · 该是时候了)",
+    "Locative Inversion (地点倒装)",
+    "Mandative Subjunctive (虚拟语气 · 命令性)",
+    "Mandative Subjunctive in Apposition (虚拟 · 同位语)",
+    "Might (Possibility · 可能性)",
+    "Mixed Conditional (混合条件句)",
+    "Modal Passive (情态被动 must be V-en)",
+    "Multiplier · twice as ... as (倍数比较)",
+    "Negative-Fronting Inversion (否定前置倒装)",
+    "Neither ... nor (双否相关并列)",
+    "Non-restrictive Relative + as ... as (非限定性定从 + 同级比较)",
+    "Nor with Subject-Aux Inversion (nor 引导倒装)",
+    "Not only ... but also (相关并列 · 递进)",
+    "Not so much...as... (与其说 X,不如说 Y)",
+    "Not until + Inversion (Not until 倒装)",
+    "Noun Clause as Object + Modal Passive (宾语从句 + 情态被动)",
+    "Only-Fronting Inversion (only 前置倒装)",
+    "Past Continuous (过去进行时)",
+    "Past Participial Phrase (过去分词短语作定语)",
+    "Past Passive + To-infinitive of Purpose (过去时被动 + 不定式表目的)",
+    "Past Perfect (过去完成时)",
+    "Past Perfect Continuous (过去完成进行时)",
+    "Past Perfect Passive (过去完成时被动)",
+    "Past Perfect Passive + Present Perfect Passive (过完被动 + 现完被动)",
+    "Plain There-Be (普通 there be 句型)",
+    "Predicative Clause (表语从句)",
+    "Present Participial Phrase (现在分词短语作定语)",
+    "Present Perfect (现在完成时)",
+    "Pseudo-cleft / Wh-noun Clause as Subject (假分裂句)",
+    "Reciprocal Pronoun · one another (相互代词)",
+    "Reduced Relative (简化关系从句)",
+    "Restrictive Relative + Prep Fronted (限定性定从 · 介词前置)",
+    "Rhetorical Question (修辞反问句)",
+    "Shall (Formal/法律式)",
+    "Should (Advice/道义)",
+    "Simple Past (一般过去时)",
+    "Simple Present (一般现在时)",
+    "Simple-Present Passive (一般现在时被动)",
+    "So + Adj + that Inversion (so 形容词前置倒装)",
+    "So + Inversion Ellipsis (so + 倒装省略)",
+    "Superlative (最高级)",
+    "Tag Question (反意疑问句)",
+    "That-Clause as Subject (that 引导主语从句)",
+    "The more..., the more... (越...越...)",
+    "There-Existential (存在句)",
+    "To-infinitive as Object (不定式作宾语)",
+    "To-infinitive as Subject (不定式作主语)",
+    "Type 2 Conditional (第二条件句 · 与现在事实相反)",
+    "Type 3 Conditional (第三条件句 · 与过去事实相反)",
+    "Used to (过去常做)",
+    "V + O + Adj 宾补 (Object Complement: Adjective)",
+    "Vocative · Direct Address (呼语)",
+    "Wh- Direct Question (特殊疑问句)",
+    "Wh-Noun Clause as Object (what 引导宾语从句)",
+    "Whether-Noun Clause as Subject (whether 主语从句)",
+    "Wish + Past Perfect (虚拟语气 · wish)",
+    "With + Compound Construction (with-复合结构)",
+    "Would (Habitual Past · 过去习惯)",
+    "had better (情态半助动词 · 强烈建议/警告)",
+    "must have done (对过去的肯定推断)",
+    "should have done (本该做却没做)",
+    "so + adv ... that (结果状语 · so...that)",
+    "such + n ... that (结果状语 · such...that)",
+    "would rather (情态半助动词 · 宁愿)"
+  ],
+  "errors": [
+    {
+      "id": "e-01",
+      "rule": "although ↔ but 不能同时出现",
+      "wrong": "Although Bryan lost the election, but his oratory still echoes through American memory.",
+      "correct": "Although Bryan lost the election, his oratory still echoes through American memory.",
+      "explain": "英语里 although 引导让步从句时,主句不能再用 but。中文「虽然...但是...」是合法的,英文不允许。删掉 but,或把 although 改成 but(二选一)。",
+      "source": "S-018 / C-16"
+    },
+    {
+      "id": "e-02",
+      "rule": "By + 时间锚点 必须配过去完成时(had + V-en)",
+      "wrong": "By 1811, Spanish reales circulated through the thirteen colonies for nearly a century.",
+      "correct": "By 1811, Spanish reales had circulated through the thirteen colonies for nearly a century.",
+      "explain": "「By + 年份」标记一个过去时间锚点,表示「在该锚点之前已发生/延续的动作」,必须用过去完成时(had + V-en)。一般过去时在这里语义不准。",
+      "source": "S-005 / C-21"
+    },
+    {
+      "id": "e-03",
+      "rule": "宾格关系代词 that 可省略,不必强加",
+      "wrong": "On Saturday mornings, a country shopkeeper would shave a thin sliver off any silver dollar that he did not trust.",
+      "correct": "On Saturday mornings, a country shopkeeper would shave a thin sliver off any silver dollar he did not trust.",
+      "explain": "其实两个版本都对,但母语者在写作里更倾向于省略 that。中国学生为了「显得规范」总要补上,反而显得拘谨。该省时省。",
+      "source": "S-008 / C-10"
+    },
+    {
+      "id": "e-04",
+      "rule": "do-substitution 替代,不要重复主动词",
+      "wrong": "Where every other currency would have faltered, the dollar somehow did not falter.",
+      "correct": "Where every other currency would have faltered, the dollar somehow did not.",
+      "explain": "did not 是 do-substitution,已经替代了 falter。再补 falter 反而冗长。母语者写作的简洁来自这种「替代式省略」。",
+      "source": "S-093 / C-07"
+    },
+    {
+      "id": "e-05",
+      "rule": "however 不是连词,不能直接连接两个独立句",
+      "wrong": "Bryan lost the election, however his oratory still echoes through American memory.",
+      "correct": "Bryan lost the election; however, his oratory still echoes through American memory.",
+      "explain": "however 是副词,不是连词。两句中间需要分号或句号,不能用逗号。中国学生最常犯的标点错误之一。",
+      "source": "S-018 衔接派生"
+    },
+    {
+      "id": "e-06",
+      "rule": "Only when 句首 → 主谓必须倒装",
+      "wrong": "Only when France began demanding bullion for its dollars the cracks became visible.",
+      "correct": "Only when France began demanding bullion for its dollars did the cracks become visible.",
+      "explain": "Only when 一旦放句首,主句必须主谓倒装(did the cracks become)。这是英语强调句式的硬性规则。",
+      "source": "S-039 / C-23"
+    },
+    {
+      "id": "e-07",
+      "rule": "It is essential that + V 原形(虚拟,不加 s)",
+      "wrong": "It is essential that every reserve currency retains the confidence of strangers.",
+      "correct": "It is essential that every reserve currency retain the confidence of strangers.",
+      "explain": "「It is + adj-of-importance + that」从句用 V 原形(retain,不是 retains)— 这是古典虚拟语气。adj 包括 essential / necessary / important / vital / crucial / imperative。",
+      "source": "S-106"
+    },
+    {
+      "id": "e-08",
+      "rule": "in order to 偏正式;to + V 是日常默认",
+      "wrong": "The greenback was issued in 1862 in order to finance a war.",
+      "correct": "The greenback was issued in 1862 to finance a war.",
+      "explain": "其实两个都对,但 in order to 偏正式,母语者写作里 80% 用 to + V 表达目的。in order to 偏拘谨,中国学生爱用,显得不自然。",
+      "source": "S-013 / C-19"
+    },
+    {
+      "id": "e-09",
+      "rule": "If only + 过去完成时(对过去虚拟)",
+      "wrong": "If only policymakers acted sooner, the panic of 2008 might have ended very differently.",
+      "correct": "If only policymakers had acted sooner, the panic of 2008 might have ended very differently.",
+      "explain": "「If only + 过去完成时」表对过去未发生事的强烈遗憾。一般过去时(acted)语义不对 — 应该是 had acted。",
+      "source": "S-105"
+    },
+    {
+      "id": "e-10",
+      "rule": "must have done(对过去的肯定推断),否定不用 must not have",
+      "wrong": "Investors must not have believed that the Federal Reserve would act.",
+      "correct": "Investors can't have believed that the Federal Reserve would act.",
+      "explain": "must have done 的否定形式不是 must not have,而是 can't have done。这是英语情态完成式里的特例。",
+      "source": "S-104"
+    },
+    {
+      "id": "e-11",
+      "rule": "用同义词链,不要重复同一个名词",
+      "wrong": "The dollar tells one of the longest stories. The dollar started in 1792. The dollar replaced silver coins. The dollar became the world's currency.",
+      "correct": "The dollar tells one of the longest stories. It started in 1792. The currency replaced silver coins. The greenback became the world's anchor.",
+      "explain": "通篇 the dollar 重复 4 次显得呆板。母语者会在同义词链中游走:dollar / it / the currency / the greenback。这是 cohesion 的核心。",
+      "source": "整篇文章衔接派生"
+    },
+    {
+      "id": "e-12",
+      "rule": "should have done(本该做却没做)",
+      "wrong": "Regulators should see the danger of unchecked leverage long before 2008.",
+      "correct": "Regulators should have seen the danger of unchecked leverage long before 2008.",
+      "explain": "「should + V」是对现在 / 未来的建议;「should have + V-en」才表「过去本该做却没做」,含批评、遗憾。这里讨论 2008 之前,必须用 have + V-en。",
+      "source": "S-103"
+    },
+    {
+      "id": "e-13",
+      "rule": "Nor 句首要倒装",
+      "wrong": "Nor the country recovered quickly.",
+      "correct": "Nor did the country recover quickly.",
+      "explain": "Nor 放在句首必须主谓倒装(Nor + 助动词 + 主语 + 主动词原形)。和 So 倒装句类似。",
+      "source": "S-027 / C-11"
+    },
+    {
+      "id": "e-14",
+      "rule": "间接疑问句用陈述语序,不倒装",
+      "wrong": "Economists still debate why did the dollar survive when so many rivals failed.",
+      "correct": "Economists still debate why the dollar survived when so many rivals failed.",
+      "explain": "间接疑问句(从句作宾语)用陈述语序,不要倒装。only 直接疑问句才用「why did the dollar survive?」。",
+      "source": "S-100"
+    },
+    {
+      "id": "e-15",
+      "rule": "had + V-en(过去完成)用于过去之前的过去",
+      "wrong": "There was no easy way back to gold once confidence broke.",
+      "correct": "There was no easy way back to gold once confidence had broken.",
+      "explain": "信心断裂在「无路可退」之前发生 — 是「过去之前的过去」,必须用 had broken。一般过去时 broke 语义不准。",
+      "source": "S-098"
+    }
+  ]
 }
