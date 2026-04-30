@@ -3625,137 +3625,447 @@ You had better rest(不休息要出事!)<br>
 <h2 id="extras" class="term">⑯ 补充语法 86–97 · 收尾的 12 项</h2>
 <p>这 12 项是文章末尾(S-086 至 S-097)新增的语法点,补齐核心语法的最后边角。</p>
 
-<div class="term" id="wh-question">
+<div class="term term-deep" id="wh-question">
 <h3>1. Wh- 直接疑问句 · Wh-Question</h3>
-<p class="def">Wh- 词(where/what/who/why/how)开头的直接问句。形式:<strong>Wh-词 + 助动词 + 主语 + 主动词</strong>。区别于 wh- 名词从句(嵌套句中,无倒装)。</p>
-<p class="ex"><a href="/breakdown/#s-086">S-086</a> <em>Where, then, does the dollar's power truly come from?</em></p>
+<p class="def-quick"><b>一句话:</b> Wh-词 + <b>助动词 + 主语 + 主动词</b>。强制倒装。</p>
+<p class="def-deep"><b>详细:</b> 直接疑问句是英语提问的标准结构 — 主谓倒装(把助动词移到主语前)。和间接疑问的关键区别:直接<b>必倒</b>,间接<b>不倒</b>。</p>
+<p class="def-position"><b>形式:</b> Wh- + (助 / 系动词)+ S + 主动词?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「(在)哪里 / 什么 / 谁 + 你 / 他」 — 不需要倒装。英文必须倒装。</p>
+<p class="def-forms"><b>常用 Wh-词:</b> What / Who / Where / When / Why / How / Which / Whose。</p>
+<p class="def-confuse"><b>易混淆:</b> 直接 vs 间接疑问 — Where does he live?(直接,倒装) / I asked where he lives(间接,不倒装)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>Where he lives?</code>(直接疑问必须倒装)<br>
+✓ <code>Where does he live?</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-086">S-086</a> <em>Where, then, does the dollar's power truly come from?</em>(经典 Wh + 助 + S + V)</p>
+<p class="def-related"><b>相关:</b> <a href="#indirect-question">间接疑问句</a> · <a href="#wh-clause-object">wh-从句</a></p>
 </div>
 
-<div class="term" id="imperative">
+<div class="term term-deep" id="imperative">
 <h3>2. 普通祈使句 · Imperative</h3>
-<p class="def">省略主语(默认 you),动词原形开头。表命令、请求、引导、建议。否定式 Don't + V 或 Never + V。</p>
-<p class="ex"><a href="/breakdown/#s-087">S-087</a> <em>Consider, for a moment, the quiet decisions that a single dollar carries.</em></p>
+<p class="def-quick"><b>一句话:</b> <b>省略主语</b>(默认 you),<b>动词原形开头</b>。表命令、请求、引导、建议。</p>
+<p class="def-deep"><b>详细:</b> 祈使句是英语唯一允许漏主语的句型。它的隐含主语是 you(对方)。语气强弱靠语调和动词选择 — Stop!(强)/ Please consider ...(弱)。</p>
+<p class="def-position"><b>形式:</b> 动词原形 + 其他成分。否定 Don't + V / Never + V。强调 Do + V。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文祈使也省主语(走!/ 请坐 / 不要碰),英文同样省。规则一致。</p>
+<p class="def-forms"><b>5 种语气:</b><br>
+① 命令:<b>Sit down.</b><br>
+② 请求:<b>Please help me.</b><br>
+③ 邀请:<b>Come in.</b><br>
+④ 否定:<b>Don't worry.</b> / <b>Never give up.</b><br>
+⑤ 强调:<b>Do</b> tell me.</p>
+<p class="def-confuse"><b>易混淆:</b> 祈使句 vs 直接引语 — 祈使是话语,引语是引述话语。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>You consider this</code>(祈使一般省 you)<br>
+✓ <code>Consider this</code> 或强调 <code>You consider this!</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-087">S-087</a> 文学性祈使 <em>Consider, for a moment, the quiet decisions that a single dollar carries.</em>(动词原形 Consider 引领 — 邀请读者反思)</p>
+<p class="def-related"><b>相关:</b> <a href="#bare-infinitive">不带 to 不定式</a></p>
 </div>
 
-<div class="term" id="direct-speech">
+<div class="term term-deep" id="direct-speech">
 <h3>3. 直接引语 · Direct Speech</h3>
-<p class="def">用引号原文复述说话内容。<strong>说话人 + 引述动词(said / wrote / declared) + 逗号 + 引号内容</strong>。引号内时态、人称完全不变。</p>
-<p class="ex"><a href="/breakdown/#s-088">S-088</a> <em>Keynes once wrote, with characteristic bluntness, "When the facts change, I change my mind."</em></p>
+<p class="def-quick"><b>一句话:</b> 用<b>引号原文复述</b>说话内容。引号内时态、人称完全不变。</p>
+<p class="def-deep"><b>详细:</b> 直接引语保留说话人原本的措辞、时态、人称。它和间接引语的区别:直接「保留原话」,间接「改写转述 + 时态后移」。两者在新闻、政论里频繁切换。</p>
+<p class="def-position"><b>形式:</b> 说话人 + 引述动词(say / wrote / declare)+ 逗号 + 引号 + 内容 + 引号。引号内首字母大写。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「:」+ 引号 + 原话(他说:「我要去」),英文用 ,+ 引号 + Capital。中文「:」,英文「, "」。</p>
+<p class="def-forms"><b>引述动词分组:</b> 中性 — say / state / write / tell;强调 — declare / insist / argue / claim / proclaim。</p>
+<p class="def-confuse"><b>易混淆:</b> 直接 vs 间接 — 直接保留原话,间接改写 + 时态后移(He said "I will go" → He said he would go)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>He said, "i will go."</code>(引号内首字母大写)<br>
+✓ <code>He said, "I will go."</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-088">S-088</a> 直接引语 <em>Keynes once wrote, with characteristic bluntness, "When the facts change, I change my mind."</em>(引述动词 wrote + 逗号 + 引号原话)</p>
+<p class="def-related"><b>相关:</b> <a href="#reported-speech-backshift">间接引语</a> · <a href="#that-clause-object">that 宾语从句</a></p>
 </div>
 
-<div class="term" id="predicative-clause">
+<div class="term term-deep" id="predicative-clause">
 <h3>4. 表语从句 · Predicative Clause</h3>
-<p class="def">系动词后的 that 从句作表语。结构:<strong>主语 + 系动词 + that-从句</strong>。<em>The truth is that ...</em> / <em>The fact is that ...</em> / <em>The point is that ...</em> 是经典论述句式。</p>
-<p class="ex"><a href="/breakdown/#s-089">S-089</a> <em>The truth is that no fiat currency in modern history has held the world's confidence for as long as the dollar.</em></p>
+<p class="def-quick"><b>一句话:</b> 系动词后的 <b>that 从句作表语</b>。结构:S + 系动词 + that-从句。</p>
+<p class="def-deep"><b>详细:</b> 表语从句是英语论述写作的标志结构。「The truth is that ...」「The fact is that ...」「The point is that ...」是经典论说句式 — 用主语提出抽象概念,系动词后用 that 从句解释具体内容。</p>
+<p class="def-position"><b>形式:</b> 主语(抽象名词)+ 系动词(is / was / seems / remains)+ that + 从句。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「事实是 / 真相是 / 关键是 + 句子」对应英文。中文不需要 that 标志,英文 that 必加(书面语)。</p>
+<p class="def-forms"><b>常用主语 + 表从结构:</b><br>
+① The truth is that ...<br>
+② The fact is that ...<br>
+③ The point is that ...<br>
+④ The question is whether ...<br>
+⑤ My view is that ...</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+表语从句 vs 同位语从句 — 表语从句紧跟系动词;同位语紧跟抽象名词。<br>
+The fact <em>is that</em> ...(表从,is 是系动词)<br>
+The fact <em>that</em> ... is true(同位,that 紧跟 fact)</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>The truth is no fiat currency has held confidence</code>(漏 that)<br>
+✓ <code>The truth is that no fiat currency has held confidence</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-089">S-089</a> 经典 The truth is that <em>The truth is that no fiat currency in modern history has held the world's confidence for as long as the dollar.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#that-clause-object">that 宾语从句</a> · <a href="#appositive-clause">同位语从句</a> · <a href="#complement">表语</a></p>
 </div>
 
-<div class="term" id="with-compound">
-<h3>5. With-复合结构 · With + NP + V/Adj/PP</h3>
-<p class="def">with + 名词 + 分词/形容词/介词短语,作伴随状语。功能等同独立主格,但更常用、更口语。</p>
-<p class="ex"><a href="/breakdown/#s-090">S-090</a> <em>With Bretton Woods dismantled and gold finally untethered, the dollar entered a new and unfamiliar age.</em></p>
+<div class="term term-deep" id="with-compound">
+<h3>5. With- 复合结构 · With + NP + V/Adj/PP</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>with + 名词 + 分词 / 形容词 / 介短</b>」作伴随状语。功能等同独立主格,但更常用、更口语。</p>
+<p class="def-deep"><b>详细:</b> with-复合结构是英语「带着...的状态」最自然的表达。它把一个伴随事件 / 状态压缩成短语。比独立主格更口语,但语义相同。在政经评论 / 描写性写作里高频。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+① with + N + V-en(被动 / 完成):With Bretton Woods <b>dismantled</b>, ...<br>
+② with + N + V-ing(主动 / 进行):With the sun <b>setting</b>, ...<br>
+③ with + N + 形容词:With his face <b>pale</b>, ...<br>
+④ with + N + 介短:With <b>hands in pockets</b>, ...</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「带着 + N + 状态」对应英文 with + N + 分词 / 形 / 介短。中文「他双手插在口袋里走」 = With his hands in his pockets, he walked。</p>
+<p class="def-forms"><b>4 种用法见 def-position 段落。</b></p>
+<p class="def-confuse"><b>易混淆:</b> with 复合 vs 独立主格 — 同义,with 更口语;独立主格更书面 / 文学。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>With Bretton Woods dismantling</code>(被动义应过分)<br>
+✓ <code>With Bretton Woods dismantled</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-090">S-090</a> 双 with + 过分 <em>With Bretton Woods dismantled and gold finally untethered, the dollar entered a new and unfamiliar age.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#absolute-construction">独立主格</a> · <a href="#past-participial">过去分词短语</a></p>
 </div>
 
-<div class="term" id="the-more-the-more">
-<h3>6. The more..., the more... · 越...越...</h3>
-<p class="def">比较级关联结构,表正比。两个比较级前都用 the。同类:<em>the bigger, the better</em> / <em>the harder you try, the more you fail</em>。</p>
-<p class="ex"><a href="/breakdown/#s-091">S-091</a> <em>The more the world distrusts its own governments, the more it seems, paradoxically, to trust the dollar.</em></p>
+<div class="term term-deep" id="the-more-the-more">
+<h3>6. The more ..., the more ... · 越...越...</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>The + 比较级 ..., the + 比较级 ...</b>」 — 表正比关系,「越 X,越 Y」。</p>
+<p class="def-deep"><b>详细:</b> 双比较级是英语表「正比关系」的固定结构。两个比较级前都用 the。语气强烈、修辞性强,常见于政经评论、抒情段落。中国学生最大盲区:不会用,即使想表达「越...越...」。</p>
+<p class="def-position"><b>形式:</b> The + 比较级 + 主谓 + ..., the + 比较级 + 主谓 + ...。两半结构平行。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「越...越...」对应英文 The more ..., the more ...。中文不需要比较级形态,英文必须用比较级 + the。</p>
+<p class="def-forms"><b>常见变体:</b><br>
+① The more X, the more Y(标准):<b>The more</b> you read, <b>the smarter</b> you become.<br>
+② The bigger, the better(简化):无主谓的对仗版<br>
+③ The harder you try, the more you fail(反讽)</p>
+<p class="def-confuse"><b>易混淆:</b> 双比较级 vs 普通比较级 — 双比较级是「成正比」(连续变化),普通比较级是「单次比较」。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>More you read, more you learn</code>(漏 the)<br>
+✓ <code>The more you read, the more you learn</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-091">S-091</a> 双比较级 + 中插 paradoxically <em>The more the world distrusts its own governments, the more it seems, paradoxically, to trust the dollar.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#comparative">比较级</a> · <a href="#parallelism">平行结构</a></p>
 </div>
 
-<div class="term" id="not-so-much-as">
-<h3>7. Not so much...as... · 与其说 X,不如说 Y</h3>
-<p class="def">两项对比,弱化前者、突出后者。等价于 "rather Y than X" 或 "less X than Y"。常用于辩论、论文。</p>
-<p class="ex"><a href="/breakdown/#s-092">S-092</a> <em>The dollar's strength lies not so much in America's economy as in the world's collective fear of any alternative.</em></p>
+<div class="term term-deep" id="not-so-much-as">
+<h3>7. Not so much X as Y · 与其说 X,不如说 Y</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>Not so much X as Y</b>」 — 弱化前者、突出后者。等同于「rather Y than X」。</p>
+<p class="def-deep"><b>详细:</b> 这是英语论说写作中特别精彩的修辞结构。它表面上是比较,实际上是「修正认知」 — 指出真相不是 X 而是 Y。常用于政论、评论,显得思辨缜密。</p>
+<p class="def-position"><b>形式:</b> S + V + not so much + X + as + Y。X 和 Y 必须语法平行。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「与其说 X,不如说 Y」对应英文。中文是平行的,英文也必须 X / Y 语法平行(都是名词 / 都是介短)。</p>
+<p class="def-forms"><b>等价变体:</b><br>
+① Not so much X as Y<br>
+② Less X than Y<br>
+③ Rather Y than X<br>
+④ Not X but rather Y</p>
+<p class="def-confuse"><b>易混淆:</b> Not so much vs Not as much — Not so much 表「与其说」(修正认知);Not as much 表「不如」(同级否定比较)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>Not so much economy than fear</code>(必须用 as 不是 than)<br>
+✓ <code>Not so much economy as fear</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-092">S-092</a> 经典 not so much X as Y <em>The dollar's strength lies not so much in America's economy as in the world's collective fear of any alternative.</em>(美元的强不在美国经济,而在世人对替代品的恐惧)</p>
+<p class="def-related"><b>相关:</b> <a href="#comparative">比较级</a> · <a href="#parallelism">平行结构</a></p>
 </div>
 
-<div class="term" id="do-substitution">
+<div class="term term-deep" id="do-substitution">
 <h3>8. 替代结构 · Do / So / One Substitution</h3>
-<p class="def">为避免重复,用 do / so / one 替代上文出现的内容。</p>
-<ul>
-<li><strong>do/does/did</strong> 替代动作动词:<em>I sleep, and so does he.</em>(他也睡)</li>
-<li><strong>so</strong> 替代整个 that-从句:<em>I think so.</em>(= I think that ...)</li>
-<li><strong>one/ones</strong> 替代名词:<em>I want a red one.</em>(= a red car)</li>
-</ul>
-<p class="ex"><a href="/breakdown/#s-093">S-093</a> <em>Where every other currency would have faltered under the same pressure, the dollar somehow did not.</em>(did not = did not falter)</p>
+<p class="def-quick"><b>一句话:</b> 用 <b>do / so / one</b> 替代上文出现的内容,避免重复。</p>
+<p class="def-deep"><b>详细:</b> 替代是英语「省略 + 占位词」的结构。替代和省略的区别:替代留一个占位词(do / so / one);省略什么都不留。它是英语紧凑写作的核心,中国学生最大盲区。</p>
+<p class="def-position"><b>3 种替代:</b><br>
+① <em>do / does / did</em>(动词替代):He sleeps. So <b>does</b> she.<br>
+② <em>so</em>(从句替代):Will it rain? — I think <b>so</b>.(= I think it will rain)<br>
+③ <em>one / ones</em>(名词替代):I want a red <b>one</b>.(= a red car)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「也是 / 也」「这样」「一个」表达同义。中国学生不知道用替代,反复重复全部短语。</p>
+<p class="def-forms"><b>详见 def-position。</b></p>
+<p class="def-confuse"><b>易混淆:</b><br>
+do 替代 vs do 强调 — 替代是省略上文动作(did not = did not falter);强调是肯定句中插入(did sound = 确实发出)。<br>
+so 替代 vs so 副词 — 替代「这样」(I think so);副词「如此」(so beautiful)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 不敢省略,把全部动词都重复 → 句子冗长<br>
+✓ 学会用 do / so / one 替代</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-093">S-093</a> do-替代 <em>the dollar somehow did not.</em>(did not = did not falter)<br>
+② <a href="/breakdown/#s-095">S-095</a> so + will 替代 + 倒装 <em>so will most of the world's price stability</em></p>
+<p class="def-related"><b>相关:</b> <a href="#substitution">替代衔接</a> · <a href="#emphatic-do">强调 do</a> · <a href="#so-inversion-ellipsis">So 倒装替代</a></p>
 </div>
 
-<div class="term" id="reported-speech-backshift">
-<h3>9. 间接引语(带 backshift) · Reported Speech with Tense Backshift</h3>
-<p class="def">不用引号,用 that-从句转述,关键特征是<strong>时态后移(backshift)</strong>:will → would / can → could / am-is-are → was-were / 现在 → 过去 / 过去 → 过完。</p>
-<p class="ex"><a href="/breakdown/#s-094">S-094</a> <em>Volcker said, in the autumn of 1980, that he would crush inflation no matter the political cost.</em>(原话:I will crush inflation. 转述时 will → would)</p>
+<div class="term term-deep" id="reported-speech-backshift">
+<h3>9. 间接引语带 backshift · Reported Speech with Tense Backshift</h3>
+<p class="def-quick"><b>一句话:</b> 用 <b>that-从句转述</b>而非引号。关键特征:<b>时态后移(backshift)</b> — 现在变过去,过去变过完。</p>
+<p class="def-deep"><b>详细:</b> 间接引语是英语口语和书面语都极常用的结构。和直接引语的关键区别:间接引语<b>时态后移</b> — will → would / can → could / am-is-are → was-were / 现在 → 过去 / 过去 → 过完。中国学生最大盲区:不知道时态要后移。</p>
+<p class="def-position"><b>形式:</b> S + 引述动词过去时 + (that) + 从句(时态后移)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「他说他要去」 — 时态不变。英文 He said he <b>would</b> go(原 will → would 后移)。这是中国学生最常错。</p>
+<p class="def-forms"><b>时态后移规则:</b><br>
+① 一般现在 → 一般过去:He says "I am tired" → He said he <b>was</b> tired<br>
+② 现在进行 → 过去进行:He says "I am eating" → He said he <b>was eating</b><br>
+③ 现在完成 → 过去完成:He says "I have eaten" → He said he <b>had eaten</b><br>
+④ 一般过去 → 过去完成:He says "I went" → He said he <b>had gone</b><br>
+⑤ will → would, can → could, may → might<br>
+⑥ must → had to(义务)/ must(推断,不变)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+直接 vs 间接 — 直接保留原话 + 引号;间接改写 + 时态后移。<br>
+不需后移的情况 — 普遍真理 / 仍真实的事实(He said the earth <em>is</em> round)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>He said he will come</code>(主从时态不一致)<br>
+✓ <code>He said he would come</code><br>
+✗ <code>He said "He is tired"</code>(直接引语原话保留)<br>
+✓ <code>He said he was tired</code>(间接 — 时态后移 + 人称转换)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-094">S-094</a> 经典 backshift will → would <em>Volcker said, in the autumn of 1980, that he would crush inflation no matter the political cost.</em>(原话:I will crush inflation;转述:would)</p>
+<p class="def-related"><b>相关:</b> <a href="#direct-speech">直接引语</a> · <a href="#that-clause-object">that 宾从</a> · <a href="#future-in-past">过去将来时</a></p>
 </div>
 
-<div class="term" id="so-inversion-ellipsis">
+<div class="term term-deep" id="so-inversion-ellipsis">
 <h3>10. So + 倒装省略 · So + Aux + Subject</h3>
-<p class="def">表"X 也如此",省略前文动词。<em>I'm tired. — So am I.</em>(我也累)。<em>If A falters, so will B.</em>(B 也将随之 falter,但不重复 falter)。否定式用 neither/nor。</p>
-<p class="ex"><a href="/breakdown/#s-095">S-095</a> <em>If the dollar ever falters, so will most of the world's price stability.</em>(so will = will [also falter])</p>
+<p class="def-quick"><b>一句话:</b> 「<b>So + 助动词 + S</b>」表「<b>X 也如此</b>」 — 省略上文动词,只留助动词。否定用 neither / nor。</p>
+<p class="def-deep"><b>详细:</b> So 倒装是英语紧凑省略的高频结构。它把「X 也是这样」用最少的词表达 — 只留助动词 + 主语。和 too / also 相比,So 倒装更书面、更紧凑。</p>
+<p class="def-position"><b>形式:</b> 上文(肯定)... So + 助动词 + S。否定用 Neither / Nor + 助 + S。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「也是」「也」对应英文 So + 助 + S。中文是「主语 + 也」语序,英文必须倒装(So + 助 + 主)。</p>
+<p class="def-forms"><b>对照表:</b><br>
+① I am tired. <b>So am</b> I.<br>
+② I can swim. <b>So can</b> she.<br>
+③ I work hard. <b>So does</b> he.<br>
+④ 否定:<b>Neither / Nor + 助 + S</b><br>
+&nbsp;&nbsp;I am not tired. <b>Neither am</b> I.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+So + 助 + S 倒装 vs So + S + 助 — 倒装是「也」(So am I = 我也是);非倒装是「确实」(So I am = 我确实是)。语序差一个字,语义完全不同。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>So I am</code>(无倒装,意思变了)<br>
+✓ <code>So am I</code>(我也是 — 倒装)<br>
+✗ <code>So she is too</code>(too + So 重复)<br>
+✓ <code>So is she</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-095">S-095</a> 经典 so + will 倒装 <em>If the dollar ever falters, so will most of the world's price stability.</em>(so will = will [also falter])</p>
+<p class="def-related"><b>相关:</b> <a href="#do-substitution">do / so 替代</a> · <a href="#nor-inversion">Nor 倒装</a> · <a href="#substitution">替代衔接</a></p>
 </div>
 
-<div class="term" id="not-until-inversion">
-<h3>11. Not until 倒装 · Not until + 时间 + 主谓倒装</h3>
-<p class="def">Not until + 时间/从句 前置,引发主句倒装。表"直到 X 才 Y"。从句不动,主句"助动词 + 主语 + 动词"。</p>
-<p class="ex"><a href="/breakdown/#s-096">S-096</a> <em>Not until the gold standard collapsed did the world fully realize how much it had relied on a single piece of metal.</em></p>
+<div class="term term-deep" id="not-until-inversion">
+<h3>11. Not until + 倒装 · Not until + 时间 + 主谓倒装</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>Not until + 时间 / 从句</b>」前置 → 主句倒装。表「<b>直到 X 才 Y</b>」。</p>
+<p class="def-deep"><b>详细:</b> Not until 倒装是英语强调时间节点的标志结构。语用上比 only when 更否定 — 强调「之前一直没有,直到 X 才」。从句不动,主句倒装。</p>
+<p class="def-position"><b>形式:</b> Not until + 时间 / 从句 + 主句助动词 + S + V。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「直到 X 才 Y」对应英文。中文不倒装,英文必须主句倒装。</p>
+<p class="def-forms"><b>常见变体:</b><br>
+① <em>Not until + 时间</em>:<b>Not until 1971 did</b> the dollar float.<br>
+② <em>Not until + 从句</em>:<b>Not until the gold standard collapsed did</b> the world realize.<br>
+③ <em>Until + 主句</em>(无倒装):The dollar didn't float until 1971.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+Not until 倒装 vs Until 不倒 — 句首 Not until 必倒;句中 until 不倒。<br>
+Not until vs Only when — 同义,but Not until 强调「之前一直没」。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>Not until 1971 the dollar floated</code>(主句必须倒装)<br>
+✓ <code>Not until 1971 did the dollar float</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-096">S-096</a> 经典 Not until + 从句 + 主句倒装 <em>Not until the gold standard collapsed did the world fully realize how much it had relied on a single piece of metal.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#only-fronting">Only when 倒装</a> · <a href="#negative-fronting">否定前置倒装</a></p>
 </div>
 
-<div class="term" id="so-adj-that-inversion">
+<div class="term term-deep" id="so-adj-that-inversion">
 <h3>12. So + Adj + that 倒装 · So thorough was X that Y</h3>
-<p class="def">So + 形容词前置,主谓倒装,后接 that 结果从句。强调"如此 X 以致 Y"。区别于普通 so...that(无倒装)。<em>So thorough was X that Y</em> = <em>X was so thorough that Y</em> 的强调倒装版。</p>
-<p class="ex"><a href="/breakdown/#s-097">S-097</a> <em>So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>So + 形容词 + 主谓倒装 + that 从句</b>」 — 强调「<b>如此 X 以致 Y</b>」的倒装版。</p>
+<p class="def-deep"><b>详细:</b> So + 形容词前置触发主谓倒装,后接 that 结果从句。这是英语<b>正式书面语</b>的强调结构。比普通 so ... that(无倒装)语气更强,常见于政经评论、文学描写。</p>
+<p class="def-position"><b>形式:</b> So + 形容词 + 助 / be 动词 + 主语 + that + 从句。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「如此 + 形 + 以致 + 句」对应。中文不倒装,英文倒装显得更强。</p>
+<p class="def-forms"><b>对照:</b><br>
+① <em>普通 so ... that</em>:Volcker's discipline was so thorough that ...<br>
+② <em>So + 形 + 倒装版</em>(强调):<b>So thorough was</b> Volcker's discipline <b>that</b> ...</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+普通 so + 形 + that vs 倒装版 — 同义,倒装更正式 / 强调。<br>
+注意:倒装版的 be 动词在主语前。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>So thorough Volcker's discipline was that ...</code>(主谓未倒装)<br>
+✓ <code>So thorough was Volcker's discipline that ...</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-097">S-097</a> 经典 So + 形 + 倒装 + that <em>So thorough was Volcker's discipline that the inflation of the 1970s never returned in his lifetime.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#adv-result">结果状从</a> · <a href="#negative-fronting">否定前置倒装</a></p>
 </div>
 
-<hr>
-
-<div class="term" id="plain-there-be">
+<div class="term term-deep" id="plain-there-be">
 <h3>13. 普通 there be 句型 · Plain There-Be</h3>
-<p class="def">基础 there + be + NP · 表存在或不存在。区别于 S-059 的文学倒装(There came / There stood),后者是动词+主语倒置,且动词不限于 be。</p>
-<p class="ex"><a href="/breakdown/#s-098">S-098</a> <em>There was no easy way back to gold once confidence had broken.</em></p>
+<p class="def-quick"><b>一句话:</b> <b>there + be + 名词短语</b> — 表存在或不存在。最常见的存在句式。</p>
+<p class="def-deep"><b>详细:</b> 普通 there be 是英语表「某地有 X」最简单的结构。there 是占位词(不指地点),真主语在 be 动词后。be 的单复数取决于真主语。区别于文学倒装(There came / There stood),普通版只用 be 动词。</p>
+<p class="def-position"><b>形式:</b> There + is / are / was / were + 名词短语 + (其他成分)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「有 + 名词 + 在 + 地点」(房间里有一本书)对应英文 There is + 名词 + in + 地点。中国学生最大盲区:用 have 翻译「有」 — 应该用 There is。</p>
+<p class="def-forms"><b>用法:</b><br>
+① 单数:There <b>is</b> a book.<br>
+② 复数:There <b>are</b> many books.<br>
+③ 过去:There <b>was</b> a man / There <b>were</b> men.<br>
+④ 未来:There <b>will be</b> a meeting.<br>
+⑤ 完成:There <b>has been</b> much progress.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+普通 there be vs 文学 there 倒装 — be 动词专用 vs 任何不及物动词(came / stood / arose)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>It has a book on the table</code>(中文「有」直译错)<br>
+✓ <code>There is a book on the table</code><br>
+✗ <code>There has many books</code>(用 are/is 不是 has)<br>
+✓ <code>There are many books</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-098">S-098</a> 普通 there was <em>There was no easy way back to gold once confidence had broken.</em>(过去式 + 否定 + 主语后置)</p>
+<p class="def-related"><b>相关:</b> <a href="#there-existential">there 存在句</a> · <a href="#locative-inversion">地点倒装</a></p>
 </div>
 
-<div class="term" id="it-took-time">
-<h3>14. It took/takes + 时间 + for + to-V (花费时间结构)</h3>
-<p class="def">It 是形式主语,不定式短语是真主语。表「花了 X 时间让 Y 做某事」。同类 It will take ten years for X to recover.</p>
-<p class="ex"><a href="/breakdown/#s-099">S-099</a> <em>It took decades for the dollar to become the language of global trade.</em></p>
+<div class="term term-deep" id="it-took-time">
+<h3>14. It took/takes + 时间 + for + to-V</h3>
+<p class="def-quick"><b>一句话:</b> <b>It</b>(形式主语)<b>took / takes / will take + 时间 + for X + to V</b>(真主语)— 表「<b>花了 X 时间让 Y 做某事</b>」。</p>
+<p class="def-deep"><b>详细:</b> 这是英语表「耗费时间」的固定结构。it 是形式主语,后置的不定式短语是真主语。中文「花了多久」直接用动词,英文必须用 it took 句式。</p>
+<p class="def-position"><b>形式:</b> It + take(变形)+ 时间长度 + for + 名词宾格 + to + 动词原形。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「(花了)X 年 + 主语 + 才 + 动」对应英文 It took X years for + S + to + V。中国学生最大盲区:不会用 it took 句式,直接说「I spent ...」(搭配错)。</p>
+<p class="def-forms"><b>3 种时态变体:</b><br>
+① It <b>took</b> me 5 years to learn English.(过去)<br>
+② It <b>takes</b> 10 years to master a skill.(一般现在)<br>
+③ It <b>will take</b> a decade for the dollar to lose ...(将来)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>It took ... vs spent ...</b> — It took 强调时间消耗;spend 强调主语消费时间。语序完全不同。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>I spent 5 years to learn English</code>(spend 后用 V-ing,不是 to V)<br>
+✓ <code>I spent 5 years learning English</code> 或 <code>It took me 5 years to learn English</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-099">S-099</a> 经典 It took + 时间 + for + to V <em>It took decades for the dollar to become the language of global trade.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#anticipatory-it-object">形式宾语 it</a> · <a href="#extraposition-mandative">形式主语句型</a></p>
 </div>
 
-<div class="term" id="indirect-question">
+<div class="term term-deep" id="indirect-question">
 <h3>15. 间接疑问句 · Indirect Question</h3>
-<p class="def">debate / wonder / ask / explain / question + wh- 引导从句。<strong>关键</strong>:从句用<strong>陈述语序</strong>,无主谓倒装。区别于直接疑问句 S-086(does the dollar...)。</p>
-<p class="ex"><a href="/breakdown/#s-100">S-100</a> <em>Economists still debate why the dollar survived when so many rivals failed.</em></p>
+<p class="def-quick"><b>一句话:</b> 「动词 + wh- + <b>陈述语序从句</b>」。从句<b>不倒装</b>,这是和直接疑问句最大区别。</p>
+<p class="def-deep"><b>详细:</b> 间接疑问句是英语写作 / 口语极常用的结构。它把直接疑问(What did he say?)变成陈述语序的从句(I want to know what he said)。中国学生最大盲区:把直接疑问的倒装语序硬塞进从句。</p>
+<p class="def-position"><b>形式:</b> S + V + wh- + S + V + ...(从句陈述语序)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文间接疑问保留疑问词序(我问他说了什么),英文必须改为陈述语序(I asked what he said,不是 what did he say)。</p>
+<p class="def-forms"><b>常见引出动词:</b> ask / wonder / debate / explain / question / discuss / understand / know / forget / decide。</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+直接疑问倒装 vs 间接疑问陈述<br>
+✓ Direct: <em>What did he say?</em>(倒装)<br>
+✓ Indirect: I asked <em>what he said</em>(陈述)</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>I want to know what is his name</code>(从句不倒装)<br>
+✓ <code>I want to know what his name is</code><br>
+✗ <code>Economists debate why did the dollar survive</code><br>
+✓ <code>Economists debate why the dollar survived</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-100">S-100</a> 经典间接疑问 <em>Economists still debate why the dollar survived when so many rivals failed.</em>(why 后陈述语序)</p>
+<p class="def-related"><b>相关:</b> <a href="#wh-clause-object">wh- 宾语从句</a> · <a href="#wh-question">wh- 直接疑问</a></p>
 </div>
 
-<div class="term" id="reciprocal-pronoun">
+<div class="term term-deep" id="reciprocal-pronoun">
 <h3>16. 相互代词 · Reciprocal Pronoun (one another / each other)</h3>
-<p class="def">表「互相」。形式上作宾语或介宾。一般两者通用,部分语法书认为 each other 用于两人/物、one another 用于多人/物。</p>
-<p class="ex"><a href="/breakdown/#s-101">S-101</a> <em>Through the dollar markets, nations lent to one another even when their politics could not.</em></p>
+<p class="def-quick"><b>一句话:</b> <b>one another / each other</b> — 表「互相」。作宾语或介宾,指主语之间的双向关系。</p>
+<p class="def-deep"><b>详细:</b> 英语只有两个相互代词。语法严格:它们只作宾语 / 介宾,不能作主语。中国学生最大盲区:用 「each other / one another」 作主语 — 错。</p>
+<p class="def-position"><b>形式:</b> S(复数 / 多个)+ V + one another / each other + (其他)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「互相 / 彼此」对应英文。中文「互相」可作状语(他们互相帮助),英文 one another 必须作宾语(They help <b>one another</b>)。</p>
+<p class="def-forms"><b>用法对比:</b><br>
+① <em>each other</em> — 一般用于两个对象<br>
+② <em>one another</em> — 一般用于三个或更多对象<br>
+③ 实际用法两者基本通用,差别极小</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+each other 不能作主语:✗ Each other knows them → ✓ They know each other。<br>
+所有格形式:each other<b>'s</b> / one another<b>'s</b>。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>They love themselves</code>(应用相互代词)<br>
+✓ <code>They love each other</code><br>
+✗ <code>Each other helps them</code>(不能作主语)<br>
+✓ <code>They help each other</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-101">S-101</a> one another 表多国互相 <em>Through the dollar markets, nations lent to one another even when their politics could not.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#pronoun">代词</a> · <a href="#object">宾语</a></p>
 </div>
 
-<div class="term" id="adj-object-complement">
+<div class="term term-deep" id="adj-object-complement">
 <h3>17. 形容词作宾补 · V + O + Adj</h3>
-<p class="def">consider / find / deem / think / call + 宾 + 形容词 · 形容词作宾补,描述宾语状态。区别于 S-022 的 V + O + 不带 to 不定式。</p>
-<p class="ex"><a href="/breakdown/#s-102">S-102</a> <em>Markets considered the dollar safe even when American politics looked dangerously unstable.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>动词 + 宾语 + 形容词</b>」 — 形容词作宾补,描述<b>宾语状态</b>。</p>
+<p class="def-deep"><b>详细:</b> 形容词作宾补是 SVOC 句型的子类。常用动词:consider / find / deem / think / call / make / keep / leave。形容词不修饰动词,而是描述宾语「现在 / 因此变成什么样」。</p>
+<p class="def-position"><b>形式:</b> S + V + O + Adj。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「认为 / 觉得 / 让 + 名词 + 形容词」对应英文 V + O + Adj。中文「让」可以单独作动词,英文 make + O + Adj 必须 + 形容词宾补。</p>
+<p class="def-forms"><b>常见动词:</b><br>
+① <em>认知类</em>:consider / find / deem / believe / think + O + Adj<br>
+② <em>使动类</em>:make / keep / leave / paint + O + Adj</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+形容词宾补 vs 副词修饰动词 — 形容词描述宾语;副词修饰动词。<br>
+✓ Markets considered the dollar <em>safe</em>(safe 描述 dollar — 形宾补)<br>
+✗ Markets considered the dollar <em>safely</em>(safely 修饰 considered — 错)</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>I find this importantly</code>(应用形容词)<br>
+✓ <code>I find this important</code><br>
+✗ <code>Make her happily</code><br>
+✓ <code>Make her happy</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-102">S-102</a> 经典 considered + O + Adj <em>Markets considered the dollar safe even when American politics looked dangerously unstable.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#complement">补语</a> · <a href="#pattern-4">SVOC 句型</a> · <a href="#adjective">形容词</a></p>
 </div>
 
-<div class="term" id="should-have-done">
-<h3>18. should have + 过去分词 (本该做却没做)</h3>
-<p class="def">表「过去本该做却没做」,含批评、遗憾。是情态完成式四子类之一,与 might-have(可能曾)、could-have(本可)、must-have(肯定曾)对照。</p>
-<p class="ex"><a href="/breakdown/#s-103">S-103</a> <em>Regulators should have seen the danger of unchecked leverage long before the autumn of 2008.</em></p>
+<div class="term term-deep" id="should-have-done">
+<h3>18. should have + 过去分词(本该做却没做)</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>过去本该做却没做</b>」 — 含批评、遗憾。形式:should + have + V-en。</p>
+<p class="def-deep"><b>详细:</b> should have done 是情态完成式四子类之一。语义是「过去本应该做某事,但实际没做」 — 含强烈的批评 / 遗憾。中国学生最大盲区:用 should + V 表过去,语义不对。</p>
+<p class="def-position"><b>形式:</b> S + should + have + V-en + ...。否定 should not have / shouldn't have。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「本该 / 早该 + 动 + 却没」对应英文 should have done。中文用「却没」标记,英文用 should have + V-en 三层。</p>
+<p class="def-forms"><b>对比情态完成式 4 子类:</b><br>
+① <em>should have</em>:本该(批评 / 遗憾)<br>
+② <em>could have</em>:本可(假设)<br>
+③ <em>might have</em>:也许(不确定)<br>
+④ <em>must have</em>:必然(肯定推断)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+should + V vs should have + V-en — should + V 表现在该做(中性建议);should have + V-en 表过去本该(批评)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>You should called me yesterday</code>(过去本该用 should have + V-en)<br>
+✓ <code>You should have called me yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-103">S-103</a> 批评 should have <em>Regulators should have seen the danger of unchecked leverage long before the autumn of 2008.</em>(批评:本该看见却没看见)</p>
+<p class="def-related"><b>相关:</b> <a href="#modal-perfect">情态完成式</a> · <a href="#must-have-done">must have done</a> · <a href="#should">should</a></p>
 </div>
 
-<div class="term" id="must-have-done">
-<h3>19. must have + 过去分词 (对过去的肯定推断)</h3>
-<p class="def">表「对过去事实的肯定推断」。否定式不用 must not have,用 can't have done。区别于 must + V(对现在的推断)。</p>
-<p class="ex"><a href="/breakdown/#s-104">S-104</a> <em>Investors must have believed, even in the darkest week, that the Federal Reserve would act.</em></p>
+<div class="term term-deep" id="must-have-done">
+<h3>19. must have + 过去分词(对过去的肯定推断)</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>对过去事实的肯定推断</b>」 — 过去必然发生。形式:must + have + V-en。</p>
+<p class="def-deep"><b>详细:</b> must have done 是情态完成式中表「肯定推断」的形式。语义是「过去必然发生 / 必然如此」(基于现有证据推断)。否定形式特殊:不用 must not have,用 <b>can't have done</b>。</p>
+<p class="def-position"><b>形式:</b> S + must + have + V-en + ...。否定:can't have + V-en(不是 must not have)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「一定 / 必然 + 动 + 了」对应英文 must have done。中国学生最大盲区:否定不用 must not have(那语义是「禁止」),应用 can't have done。</p>
+<p class="def-forms"><b>肯定 vs 否定:</b><br>
+① 肯定:He <b>must have left</b>.(他必然走了)<br>
+② 否定:He <b>can't have left</b>.(他不可能走了)<br>
+③ ✗ He <b>must not have</b> left(must not have 不表否定推断 — 表禁止)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+must + V vs must have + V-en — must + V 对现在的推断(He must be tired = 现在必然累);must have + V-en 对过去的推断。<br>
+must not vs can't — must not = 禁止;can't = 不可能(否定推断)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>He must left already</code>(肯定推断过去用 must have + V-en)<br>
+✓ <code>He must have left already</code><br>
+✗ <code>He must not have done it</code>(误为「不可能做了」)<br>
+✓ <code>He can't have done it</code>(否定推断过去)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-104">S-104</a> 肯定推断 must have <em>Investors must have believed, even in the darkest week, that the Federal Reserve would act.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#modal-perfect">情态完成式</a> · <a href="#should-have-done">should have done</a> · <a href="#must">must</a></p>
 </div>
 
-<div class="term" id="if-only">
+<div class="term term-deep" id="if-only">
 <h3>20. If only + 过去完成时(虚拟感叹 · 早知如此)</h3>
-<p class="def">表「对过去未发生事的强烈遗憾」。语气比 I wish 更感慨。结构 If only + S + had + V-en, S + might/would have + V-en。</p>
-<p class="ex"><a href="/breakdown/#s-105">S-105</a> <em>If only policymakers had acted sooner, the panic of 2008 might have ended very differently.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>If only + S + had + V-en</b>」 — 表「<b>对过去未发生事的强烈遗憾</b>」。比 wish 语气更感慨。</p>
+<p class="def-deep"><b>详细:</b> if only 是英语虚拟语气中表「最强烈遗憾」的结构。它和 I wish 同义,但语气更感慨、更绝望。常配主句的 might / would / could have + V-en(本来就会、本来本可)。</p>
+<p class="def-position"><b>形式:</b> If only + S + had + V-en, S + might / would / could + have + V-en。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「(早知)要是 / 但愿当时 + 动 + 就好了」对应英文 If only + 过完。中国学生最大盲区:写出「If only + 一般过去」,应该是过完。</p>
+<p class="def-forms"><b>3 种语气强弱:</b><br>
+① I wish + 过去 / 过完(中性遗憾)<br>
+② If only + 过去 / 过完(强烈遗憾)<br>
+③ How I wish + 过去 / 过完(最强烈)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+if only + 过去时(对现在的虚拟)vs if only + 过完(对过去的虚拟)。本课文是过去虚拟。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>If only policymakers acted sooner</code>(过去虚拟应用过完)<br>
+✓ <code>If only policymakers had acted sooner</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-105">S-105</a> 经典 If only + 过完 + might have <em>If only policymakers had acted sooner, the panic of 2008 might have ended very differently.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#wish-clause">wish 从句</a> · <a href="#type3-conditional">第三条件</a> · <a href="#modal-perfect">情态完成式</a></p>
 </div>
 
-<div class="term" id="extraposition-mandative">
-<h3>21. It is essential that + V 原形 (Extraposition Mandative)</h3>
-<p class="def">It is + adj-of-importance + that + S + V原形。形式主语 it 加正式虚拟语气从句。adj 常见 essential / necessary / important / vital / crucial / imperative。从句动词用<strong>原形</strong>(retain,不是 retains)。</p>
-<p class="ex"><a href="/breakdown/#s-106">S-106</a> <em>It is essential that every reserve currency retain the confidence of strangers, generation after generation.</em></p>
+<div class="term term-deep" id="extraposition-mandative">
+<h3>21. It is essential that + V 原形(Extraposition Mandative)</h3>
+<p class="def-quick"><b>一句话:</b> 「<b>It is + 重要类形容词 + that + 从句(动词原形)</b>」 — 形式主语 + 正式虚拟语气。</p>
+<p class="def-deep"><b>详细:</b> 这是英语正式书面语的特色结构 — 「形式主语 it + 重要类形容词 + that 从句(动词原形)」。形容词如 essential / necessary / important / vital / crucial / imperative。从句动词必须<b>原形</b>(retain 而非 retains;be 而非 is)。</p>
+<p class="def-position"><b>形式:</b> It + is / was + adj + that + S + V原形 + ...。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「至关重要 / 必要 + 句子」对应英文。中文不需要 V 原形,英文必须从句动词原形(虚拟)。中国学生最大盲区:误把 retain 写成 retains。</p>
+<p class="def-forms"><b>常用 adjectives:</b> essential / necessary / important / vital / crucial / imperative / advisable / desirable / urgent / better / preferable。</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+extraposition mandative vs 普通 it is + adj + that — 普通版可用陈述时态(It is true that he came);extraposition mandative 必须用原形。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>It is essential that every reserve currency retains the confidence</code>(从句应原形)<br>
+✓ <code>It is essential that every reserve currency retain the confidence</code><br>
+✗ <code>It is necessary that he is careful</code><br>
+✓ <code>It is necessary that he be careful</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-106">S-106</a> 经典 extraposition mandative <em>It is essential that every reserve currency retain the confidence of strangers, generation after generation.</em>(retain 是动词原形 — 不是 retains)</p>
+<p class="def-related"><b>相关:</b> <a href="#mandative-subjunctive">命令性虚拟</a> · <a href="#subject">形式主语</a> · <a href="#that-clause-subject">that 主语从句</a></p>
 </div>
 
 <hr>
@@ -3765,83 +4075,263 @@ You had better rest(不休息要出事!)<br>
 
 <div class="term" id="cohesion">
 <h3>1. 语篇衔接(总称) · Cohesion</h3>
-<p class="def">一段文字里,把句子粘合成连贯整体的所有语法/词汇手段的总称。Halliday & Hasan(1976)将其归为五大类:<b>reference</b>(指代) / <b>substitution</b>(替代) / <b>ellipsis</b>(省略) / <b>conjunction</b>(连接词) / <b>lexical cohesion</b>(词汇衔接)。</p>
-<p class="ex">→ 全部 25 个真实案例见 <a href="/cohesion/">Cohesion 专页</a></p>
+<p class="def-quick"><b>一句话:</b> 把句子粘合成<b>连贯整体</b>的所有语法 / 词汇手段的总称。是「段落语法」的母概念。</p>
+<p class="def-deep"><b>详细:</b> 衔接(cohesion)是 Halliday & Hasan(1976)提出的语篇语法核心概念。它把句子层面的语法上升到段落层面 — 研究「句子之间靠什么粘起来」。中国学生最大盲区:每句都对,但段落像散沙,这就是衔接缺失。</p>
+<p class="def-position"><b>5 大类(Halliday-Hasan):</b><br>
+① <em>Reference 指代</em>:代词、物主代词、定冠词回指<br>
+② <em>Substitution 替代</em>:do / so / one 占位<br>
+③ <em>Ellipsis 省略</em>:略去关代 / 助动词 / 主谓<br>
+④ <em>Conjunction 连接词</em>:and / but / however / therefore<br>
+⑤ <em>Lexical Cohesion 词汇衔接</em>:同义词链 / 反复 / 反义对照</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有衔接概念(然而 / 因此 / 那么 / 此外),但中国学生写英文时常忘记用 — 反复用 and / but,显得贫乏。母语者写一段话,衔接元素出现密度比中国学生想象的高得多。</p>
+<p class="def-forms"><b>详见 def-position 5 大类。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 衔接 vs 连贯(coherence)— 衔接是<b>语法表层</b>的粘合(代词、连词);连贯是<b>逻辑深层</b>的统一。两者相辅相成。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 写作时句子之间没有衔接词,看上去像电报<br>
+✗ 反复用 the dollar / however / and,缺乏变化<br>
+✓ 学会用 5 大类衔接,让段落自然流动</p>
+<p class="def-examples"><b>课文示例:</b><br>
+→ 全部 25 个真实案例见 <a href="/cohesion/">Cohesion 专页</a></p>
+<p class="def-related"><b>相关:</b> <a href="#reference">指代</a> · <a href="#substitution">替代</a> · <a href="#ellipsis">省略</a> · <a href="#conjunction-cohesion">连接词衔接</a> · <a href="#lexical-cohesion">词汇衔接</a></p>
 </div>
 
-<div class="term" id="reference">
+<div class="term term-deep" id="reference">
 <h3>2. 指代 · Reference</h3>
-<p class="def">用代词、物主代词、指示代词、定冠词,把后文与前文的同一对象绑在一起。母语者在<b>同段内</b>约 70% 的人称指代用代词承担。</p>
-<p class="ex"><a href="/cohesion/#c-01">C-01</a> · <em>... arguments meant to one day destroy <b>it</b></em>(it 回指 a national bank,见 <a href="/breakdown/#s-004">S-004</a>)</p>
-<p class="ex"><a href="/cohesion/#c-02">C-02</a> · <em>Although Bryan lost the election, <b>his</b> oratory still echoes</em>(his 跨从句回指 Bryan,见 <a href="/breakdown/#s-018">S-018</a>)</p>
+<p class="def-quick"><b>一句话:</b> 用<b>代词 / 物主代词 / 指示代词 / 定冠词</b>,把后文与前文的同一对象绑在一起。</p>
+<p class="def-deep"><b>详细:</b> 指代是英语衔接最基础的手段。它的核心规律:同一名词第一次出现说全名,后续提及一律用代词。母语者在<b>同段内</b>约 70% 的人称指代用代词承担,只在新段落开头才回到全名。</p>
+<p class="def-position"><b>3 种指代手段:</b><br>
+① <em>人称代词</em>:he / she / it / they<br>
+② <em>物主代词</em>:his / her / its / their<br>
+③ <em>定冠词 + 词汇</em>:the country(回指 the U.S.)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文常省主语和代词(「张三说要去」可省「他」),英文必须明确。中文「他、她、它」读音相同,英文严格区分。</p>
+<p class="def-forms"><b>详见 #pronoun 代词章节。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 指代 vs 重复 — 反复用全名是中国学生最大问题。母语者用代词。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 同段内反复用 the dollar(无变化)<br>
+✓ 第二次起换 it / the currency / the greenback</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-01">C-01</a> · <em>... arguments meant to one day destroy <b>it</b></em>(it 回指 a national bank,见 <a href="/breakdown/#s-004">S-004</a>)<br>
+② <a href="/cohesion/#c-02">C-02</a> · <em>Although Bryan lost the election, <b>his</b> oratory still echoes</em>(his 跨从句回指 Bryan,见 <a href="/breakdown/#s-018">S-018</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#pronoun">代词</a> · <a href="#anaphora-cataphora">回指 / 下指</a> · <a href="#lexical-reference">词汇回指</a></p>
 </div>
 
-<div class="term" id="anaphora-cataphora">
+<div class="term term-deep" id="anaphora-cataphora">
 <h3>3. 回指 / 下指 · Anaphora / Cataphora</h3>
-<p class="def"><b>回指(anaphora)</b>:代词指向<b>前面</b>已出现的名词(最常见);<b>下指(cataphora)</b>:代词指向<b>后面</b>才出现的名词(用于悬念或正式文体)。本教材 108 句中的代词几乎全部是回指。</p>
-<p class="ex">回指例:<a href="/breakdown/#s-076">S-076</a> <em>The dollar... <b>it</b> is a record</em></p>
-<p class="ex">下指例:<em><b>Before he could finish</b>, the chairman interrupted</em>(he 指向后文 the chairman)</p>
+<p class="def-quick"><b>一句话:</b> <b>回指(anaphora)</b> 代词指向<b>前面</b>已出现的名词;<b>下指(cataphora)</b> 代词指向<b>后面</b>才出现的名词。</p>
+<p class="def-deep"><b>详细:</b> 这是指代衔接的两大方向。回指是默认情况,占英语指代的 95%+;下指较罕见,用于悬念、文学修辞、正式文体。本教材 108 句中的代词几乎全部是回指。</p>
+<p class="def-position"><b>2 种方向:</b><br>
+① <em>回指</em>:N → ... → 代词(代词向前找)<br>
+② <em>下指</em>:代词 → ... → N(代词向后找)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有这两种,但中文下指相对少见。英文下指常用于「在 X 之前 / 当 X 时」开头,X 出现在主句:Before he came in, the chairman interrupted。</p>
+<p class="def-forms"><b>下指典型场景:</b> 时间从句 / 让步从句开头(Before he could finish... / Although he was rich...)。</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+回指 vs 下指 — 看代词的指代方向。<br>
+回指 vs 词汇回指 — 回指通常用代词,词汇回指用 the + 同义词。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 不熟悉下指,误以为代词错位<br>
+✓ 学会识别下指(代词向后找)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① 回指例:<a href="/breakdown/#s-076">S-076</a> <em>The dollar ... <b>it</b> is a record</em><br>
+② 下指例:<em><b>Before he could finish</b>, the chairman interrupted</em>(he 指向后文 the chairman)</p>
+<p class="def-related"><b>相关:</b> <a href="#reference">指代</a> · <a href="#pronoun">代词</a></p>
 </div>
 
-<div class="term" id="lexical-reference">
+<div class="term term-deep" id="lexical-reference">
 <h3>4. 词汇回指 · Lexical Reference</h3>
-<p class="def">不能或不想用代词时,用「<b>the</b> + 上位词/同义词」回指前文。比代词更明确,但不像重复全名那么呆板。</p>
-<p class="ex"><a href="/cohesion/#c-04">C-04</a> · <em>Nor did <b>the country</b> recover</em>(the country 回指 the United States,见 <a href="/breakdown/#s-027">S-027</a>)</p>
-<p class="ex"><a href="/cohesion/#c-05">C-05</a> · <em>How fragile, ... <b>this single piece of paper</b></em>(贬抑式回指 the dollar,见 <a href="/breakdown/#s-077">S-077</a>)</p>
+<p class="def-quick"><b>一句话:</b> 不用代词,改用「<b>the + 上位词 / 同义词</b>」回指前文。比代词更明确,比重复全名更优雅。</p>
+<p class="def-deep"><b>详细:</b> 词汇回指是英语「优雅替代」的核心手段。当对象抽象、距离远、或想避免代词模糊时,用 the + 上位词或同义词回指。母语者在长段落中频繁使用,中国学生很少用。</p>
+<p class="def-position"><b>形式:</b> the + 上位词(the country / the nation / the institution)/ 同义词(the currency / the system)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「这个国家 / 这种货币 / 这一机构」对应英文 the + 名词。中文「这」「那」是常用前缀;英文用 the 替代。</p>
+<p class="def-forms"><b>2 种用法:</b><br>
+① <em>the + 上位词</em>:the United States → the country / the nation<br>
+② <em>the + 同义词 / 哲学化</em>:the dollar → the currency / this single piece of paper</p>
+<p class="def-confuse"><b>易混淆:</b> 词汇回指 vs 普通定指 — 词汇回指必须有先行词;普通定指可能是首次特指(the sun)。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 反复用 the United States 全名<br>
+✓ 学会替换为 the country / the nation 等同义</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-04">C-04</a> · <em>Nor did <b>the country</b> recover</em>(the country 回指 the United States,见 <a href="/breakdown/#s-027">S-027</a>)<br>
+② <a href="/cohesion/#c-05">C-05</a> · <em>How fragile, ... <b>this single piece of paper</b></em>(贬抑式回指 the dollar,见 <a href="/breakdown/#s-077">S-077</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#reference">指代</a> · <a href="#lexical-cohesion">词汇衔接</a> · <a href="#article">冠词 the</a></p>
 </div>
 
-<div class="term" id="substitution">
+<div class="term term-deep" id="substitution">
 <h3>5. 替代 · Substitution</h3>
-<p class="def">用 do / so / one 等占位词,替代上文已出现的<b>整段</b>动作或名词。和 ellipsis(完全省略)的区别:substitution <b>留一个占位词</b>,ellipsis 什么都不留。三种主要形式:<b>verbal</b>(do/does/did)、<b>nominal</b>(one/ones)、<b>clausal</b>(so/not)。</p>
-<p class="ex"><a href="/cohesion/#c-07">C-07</a> · <em>the dollar somehow <b>did not</b></em>(did not = did not falter,见 <a href="/breakdown/#s-093">S-093</a>)</p>
-<p class="ex"><a href="/cohesion/#c-08">C-08</a> · <em><b>so will</b> most of the world's price stability</em>(so will = will also falter,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+<p class="def-quick"><b>一句话:</b> 用 <b>do / so / one</b> 等占位词,替代上文已出现的整段动作或名词。<b>留一个占位词</b>,不像 ellipsis 什么都不留。</p>
+<p class="def-deep"><b>详细:</b> 替代是英语「省略 + 占位词」的标准手段。它和 ellipsis 的差别在于「留不留占位词」。三种主要形式:动词替代(do / does / did)、名词替代(one / ones)、从句替代(so / not)。中国学生最大盲区:不敢用,反复重复全部短语。</p>
+<p class="def-position"><b>3 种形式:</b><br>
+① <em>verbal</em>(do / does / did):I sleep, so does she.<br>
+② <em>nominal</em>(one / ones):I want a red one.<br>
+③ <em>clausal</em>(so / not):I think so / I hope not.</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「也是 / 也」「这样」「一个」表达。中文也有替代,但中国学生常忘记英文等价物。</p>
+<p class="def-forms"><b>详见 def-position。</b></p>
+<p class="def-confuse"><b>易混淆:</b><br>
+替代 vs 省略 — 替代留占位词;省略不留。<br>
+do 替代 vs do 强调 — 替代是省上文动作;强调是肯定句中插入。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>The dollar somehow did not falter</code>(冗余,falter 重复)<br>
+✓ <code>The dollar somehow did not</code>(do 替代)</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-07">C-07</a> · <em>the dollar somehow <b>did not</b></em>(did not = did not falter,见 <a href="/breakdown/#s-093">S-093</a>)<br>
+② <a href="/cohesion/#c-08">C-08</a> · <em><b>so will</b> most of the world's price stability</em>(so will = will also falter,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#do-substitution">do / so / one 替代</a> · <a href="#ellipsis">省略</a> · <a href="#emphatic-do">强调 do</a></p>
 </div>
 
-<div class="term" id="ellipsis">
+<div class="term term-deep" id="ellipsis">
 <h3>6. 省略 · Ellipsis</h3>
-<p class="def">明示性省略 — 关系代词、连词、主语、谓语、助动词等被略去,但读者能从上下文 100% 补出。三种主要形式:<b>nominal</b>(名词省略)、<b>verbal</b>(动词省略)、<b>clausal</b>(从句省略)。中国学生在写作时倾向于「不敢省」,这是中式英语最显眼的特征之一。</p>
-<p class="ex"><a href="/cohesion/#c-10">C-10</a> · <em>any silver dollar [that] he did not trust</em>(关代 that 省略,见 <a href="/breakdown/#s-008">S-008</a>)</p>
-<p class="ex"><a href="/cohesion/#c-13">C-13</a> · <em>so will most of the world's price stability [falter]</em>(主动词 falter 省略,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+<p class="def-quick"><b>一句话:</b> 「<b>明示性省略</b>」 — 关代 / 连词 / 主谓 / 助动词被略去,但读者能从上下文 100% 补出。</p>
+<p class="def-deep"><b>详细:</b> 省略是英语紧凑写作的标志。它和替代的关键区别:省略<b>什么都不留</b>;替代留一个占位词。中国学生最大盲区:不敢省略 — 这是中式英语最显眼的特征之一。</p>
+<p class="def-position"><b>3 种省略:</b><br>
+① <em>nominal</em>(名词省略):I have two pens, you have three [pens].<br>
+② <em>verbal</em>(动词省略):He can swim, and so can she [swim].<br>
+③ <em>clausal</em>(从句省略 / 关代省):any silver dollar [that] he did not trust.</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也有省略(我喜欢苹果,你呢?[你呢喜欢什么]),但句法结构不同。英文省略关代 that 是中文没有的。</p>
+<p class="def-forms"><b>详见 def-position。</b></p>
+<p class="def-confuse"><b>易混淆:</b><br>
+省略 vs 替代 — 省略不留占位词;替代留 do / so / one。<br>
+省略 vs 衔接 — 省略本身就是衔接的子类型。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>The book that I bought is good</code>(在口语 / 半正式可省 that)<br>
+✓ <code>The book I bought is good</code>(省 that 更紧凑)<br>
+中国学生写作时不敢省 — 学会该省时省。</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-10">C-10</a> · <em>any silver dollar [that] he did not trust</em>(关代 that 省略,见 <a href="/breakdown/#s-008">S-008</a>)<br>
+② <a href="/cohesion/#c-13">C-13</a> · <em>so will most of the world's price stability [falter]</em>(主动词 falter 省略,见 <a href="/breakdown/#s-095">S-095</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#substitution">替代</a> · <a href="#restrictive-relative">限定性定从(关代省略)</a></p>
 </div>
 
-<div class="term" id="conjunction-cohesion">
+<div class="term term-deep" id="conjunction-cohesion">
 <h3>7. 连接词衔接 · Conjunction</h3>
-<p class="def">显性的逻辑词,告诉读者两句之间的关系。Halliday-Hasan 分四大类:<b>additive</b>(顺承/递进:and / both...and / not only ... but also / moreover)、<b>adversative</b>(转折:but / yet / although / however / paradoxically)、<b>causal</b>(因果:because / so / to-V / in order that)、<b>temporal</b>(时序:when / by + 时间 / as / once / only when)。</p>
-<p class="ex">见 <a href="/cohesion/#conjunction">Cohesion ④ 章 11 个真实案例</a></p>
+<p class="def-quick"><b>一句话:</b> 显性的<b>逻辑词</b>告诉读者两句之间的关系。Halliday-Hasan 分四大类:additive / adversative / causal / temporal。</p>
+<p class="def-deep"><b>详细:</b> 连接词衔接是英语逻辑流的标志。它把孤立的句子用显性逻辑词串成段落。掌握 4 大类的精细连接词,是写作从「中级」到「高级」的关键。</p>
+<p class="def-position"><b>4 大类:</b><br>
+① <em>Additive 顺承 / 递进</em>:and / both ... and / not only ... but also / moreover / furthermore<br>
+② <em>Adversative 转折</em>:but / yet / although / however / paradoxically / nevertheless<br>
+③ <em>Causal 因果</em>:because / so / therefore / to-V / in order that / thus<br>
+④ <em>Temporal 时序</em>:when / before / after / by + 时间 / once / only when</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文连接词「然而 / 因此 / 此外 / 尽管」对应英文。中国学生反复用 and / but / however,忽略了 yet / paradoxically / moreover 这一层精细化。</p>
+<p class="def-forms"><b>详见 def-position 4 大类。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 连接词衔接 vs 句内连词 — 衔接是段落层面的连接;句内连词是单句层面。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 反复用 and / but / however<br>
+✓ 学会用 yet / paradoxically / indeed / moreover 等精细化连接</p>
+<p class="def-examples"><b>课文示例:</b><br>
+见 <a href="/cohesion/#conjunction">Cohesion ④ 章 11 个真实案例</a></p>
+<p class="def-related"><b>相关:</b> <a href="#conjunction">连词</a> · <a href="#fanboys">FANBOYS</a> · <a href="#discourse-marker-coh">语篇副词</a></p>
 </div>
 
-<div class="term" id="discourse-marker-coh">
+<div class="term term-deep" id="discourse-marker-coh">
 <h3>8. 语篇副词 · Discourse Marker(语篇层面)</h3>
-<p class="def">不参与句子语法的副词,但在语篇层面承担「承上启下」「立场表态」的功能。常见:indeed / moreover / furthermore / nevertheless / paradoxically / ironically / surprisingly / in fact / crucially / be it noted。出现密度是「学者腔」的标志:每 200 词约 1 次。<br>(注:与 ⑬ 章 <a href="#discourse-marker">语篇副词</a> 的句法定义为同一对象,这里专指其衔接功能。)</p>
-<p class="ex"><a href="/cohesion/#c-18">C-18</a> · <em>... seems, <b>paradoxically</b>, to trust the dollar</em>(见 <a href="/breakdown/#s-091">S-091</a>)</p>
-<p class="ex"><a href="/cohesion/#c-24">C-24</a> · <em><b>Indeed</b>, Alan Greenspan presided over ...</em>(见 <a href="/breakdown/#s-056">S-056</a>)</p>
+<p class="def-quick"><b>一句话:</b> 不修饰具体词,而是<b>修饰整句</b>,标记句子之间的逻辑关系。<b>是「学者腔」的标志</b>。</p>
+<p class="def-deep"><b>详细:</b> 语篇副词是英语高级写作的精华。它出现密度高,直接显示作者写作的成熟度。母语者论说文里平均每 200 词出现一次。中国学生最大盲区:不会用 — 反复 however / but,缺这一层精细。</p>
+<p class="def-position"><b>形式 / 用法:</b> 通常用<b>逗号</b>与主句隔开。可置句首、句中(逗号包围)、句尾。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「诚然 / 然而 / 因此 / 此外 / 反讽的是 / 关键的是」对应英文。中文有大量类似副词,但中国学生写英文时倾向于用最简单的连词。</p>
+<p class="def-forms"><b>分组:</b><br>
+① <em>承上加强</em>:Indeed / In fact / Moreover / Furthermore<br>
+② <em>转折</em>:However / Nevertheless / Nonetheless<br>
+③ <em>因果</em>:Therefore / Thus / Hence / Consequently<br>
+④ <em>反讽 / 表态</em>:Paradoxically / Ironically / Surprisingly / Crucially<br>
+⑤ <em>古典</em>:Be it noted / Suffice it to say</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+语篇副词 vs 连词 — 语篇副词不能像连词那样直接连两个独立句:✗ He came, however she left → ✓ He came; however, she left.<br>
+注:与 ⑬ 章 <a href="#discourse-marker">语篇副词(独立成分版)</a> 是同一对象,这里专指其衔接功能。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>He came, however she left</code>(however 不能作连词)<br>
+✓ <code>He came; however, she left</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-18">C-18</a> · <em>... seems, <b>paradoxically</b>, to trust the dollar</em>(见 <a href="/breakdown/#s-091">S-091</a>)<br>
+② <a href="/cohesion/#c-24">C-24</a> · <em><b>Indeed</b>, Alan Greenspan presided over ...</em>(见 <a href="/breakdown/#s-056">S-056</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#discourse-marker">⑬ 语篇副词(句法)</a> · <a href="#conjunction-cohesion">连接词衔接</a> · <a href="#adverb">副词</a></p>
 </div>
 
-<div class="term" id="lexical-cohesion">
+<div class="term term-deep" id="lexical-cohesion">
 <h3>9. 词汇衔接 · Lexical Cohesion</h3>
-<p class="def">隐形的、最强大的衔接手段。三种形式:<b>repetition</b>(主题词反复) / <b>synonymy</b>(同义词链) / <b>antonymy</b>(反义对照)。中国学生最大的写作问题:同一个名词反复出现,缺乏词汇变换。母语者会在同义词链中游走。</p>
-<p class="ex">同义词链:见 <a href="/cohesion/#lexical">Cohesion ⑤.1 美元的 9 种说法</a></p>
-<p class="ex">反义对照:gold ↔ paper money,贯穿 108 句中 10 个位置(见 <a href="/cohesion/#lexical">Cohesion ⑤.3</a>)</p>
+<p class="def-quick"><b>一句话:</b> <b>同义词链 / 反复 / 反义对照</b> — 隐形的、最强大的衔接手段。</p>
+<p class="def-deep"><b>详细:</b> 词汇衔接是英语写作的<b>最深层</b>衔接手段。它不靠显性连接词,而靠词汇之间的<b>语义关联</b>(同义、上下位、反义)。中国学生最大的写作问题:同一名词反复出现,缺乏词汇变换;母语者会在同义词链中游走。</p>
+<p class="def-position"><b>3 种形式:</b><br>
+① <em>repetition 反复</em>:同一词在段落中重复出现(主题词反复)<br>
+② <em>synonymy 同义词链</em>:dollar / currency / greenback / banknote / fiat money<br>
+③ <em>antonymy 反义对照</em>:gold ↔ paper money(贯穿全文)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也讲究词汇变化(美元 / 货币 / 美钞),但中国学生写英文时倾向于一种说法到底。</p>
+<p class="def-forms"><b>详见 def-position。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 词汇衔接 vs 词汇回指 — 词汇回指是单点替代;词汇衔接是整段词汇网络。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ 一段话里 the dollar 出现 5+ 次<br>
+✓ 在 dollar / it / the currency / the greenback / America's reserve money 中游走</p>
+<p class="def-examples"><b>课文示例:</b><br>
+① 同义词链:见 <a href="/cohesion/#lexical">Cohesion ⑤.1 美元的 9 种说法</a><br>
+② 反义对照:gold ↔ paper money,贯穿 108 句中 10 个位置(见 <a href="/cohesion/#lexical">Cohesion ⑤.3</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#lexical-reference">词汇回指</a> · <a href="#reference">指代</a> · <a href="#noun">名词</a></p>
 </div>
 
-<div class="term" id="anchor-time">
+<div class="term term-deep" id="anchor-time">
 <h3>10. 时间锚点 · Time Anchor</h3>
-<p class="def">用各种形式的时间状语「钉」住叙事的时点,是历史散文最重要的衔接手段。常见:<b>By + 时间</b>(过去完成时的标志) / <b>When + 从句</b> / <b>On + 具体日期</b> / <b>For + 时间长度</b> / <b>Within + 时间范围</b> / <b>Year after year</b> / <b>By the time + 从句</b>。</p>
-<p class="ex"><a href="/cohesion/#c-21">C-21</a> · <em><b>By 1811</b>, Spanish reales had circulated...</em>(By + 年份 → 必须 had + V-en,见 <a href="/breakdown/#s-005">S-005</a>)</p>
-<p class="ex">完整时间链见 <a href="/cohesion/#lexical">Cohesion ⑤.2 时间锚点链</a></p>
+<p class="def-quick"><b>一句话:</b> 用各种形式的<b>时间状语</b>「钉」住叙事的时点。是历史散文最重要的衔接手段。</p>
+<p class="def-deep"><b>详细:</b> 时间锚点是英语叙事文的脊柱。母语者用<b>不同形式</b>的时间状语让叙述在时间维度上「跳跃」自如:<b>By + 时间</b>(过去完成的标志)/ <b>When + 从句</b> / <b>On + 具体日期</b> / <b>For + 时间长度</b> / <b>Within + 时间范围</b> / <b>Year after year</b>。中国学生写时间常只用 In 2008 / In 2010,显得机械。</p>
+<p class="def-position"><b>常见时间锚点形态:</b><br>
+① <em>By + 年份</em>(过完):By 1811 had circulated<br>
+② <em>When + 从句</em>:When the war broke out<br>
+③ <em>On + 日期</em>:On April 5, 1933<br>
+④ <em>For + 时间长度</em>:For two decades<br>
+⑤ <em>Within + 时间范围</em>:Within weeks<br>
+⑥ <em>Year after year</em>(反复):Year after year<br>
+⑦ <em>By the time + 从句</em>(将完):By the time you finish reading</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「到 X 年 / 在 X 时 / 自 X 起 / 经过 X」等时间表达对应英文 by / when / since / for。中国学生写时间常机械重复,缺这种「时间锚点变化」。</p>
+<p class="def-forms"><b>详见 def-position 7 种形态。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 时间锚点 vs 时间状从 — 锚点是单点(By 1811),状从是完整从句(When the war broke out)。两者结合使用。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>In 2008, In 2010, In 2012, ...</code>(机械重复)<br>
+✓ 在 in / by / within / for / on / today / now 中变换</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-21">C-21</a> · <em><b>By 1811</b>, Spanish reales had circulated...</em>(By + 年份 → 必须 had + V-en,见 <a href="/breakdown/#s-005">S-005</a>)<br>
+② 完整时间链见 <a href="/cohesion/#lexical">Cohesion ⑤.2 时间锚点链</a></p>
+<p class="def-related"><b>相关:</b> <a href="#adv-time">时间状从</a> · <a href="#past-perfect">过去完成时</a> · <a href="#adverbial">状语</a></p>
 </div>
 
-<div class="term" id="parallelism">
+<div class="term term-deep" id="parallelism">
 <h3>11. 平行结构 · Parallelism</h3>
-<p class="def">两个或更多语法成分使用相同形式,在视觉与节奏上形成「衔接」效果。常见:三分句平行(borrowers wept / farmers went bankrupt / bond traders cheered) / not only ... but also / both ... and。能写出节奏感的散文,80% 靠平行结构。</p>
-<p class="ex"><a href="/cohesion/#c-12">C-12</a> · <em>Borrowers wept and farmers went bankrupt, yet bond traders cheered</em>(三分句平行,见 <a href="/breakdown/#s-049">S-049</a>)</p>
+<p class="def-quick"><b>一句话:</b> 两个或更多语法成分使用<b>相同形式</b>,在视觉与节奏上形成「衔接」效果。</p>
+<p class="def-deep"><b>详细:</b> 平行结构是英语文学性写作的核心节奏 — 把多个对等成分用相同语法形式排列,让读者在节奏上感受到「这是一组」。三分句平行、not only ... but also、both ... and 都是它的具体形式。能写出节奏感的散文,80% 靠平行结构。</p>
+<p class="def-position"><b>典型形式:</b><br>
+① <em>三分句平行</em>:Borrowers wept / farmers went bankrupt / bond traders cheered<br>
+② <em>not only ... but also</em>:not only X, but also Y(必须语法平行)<br>
+③ <em>both ... and</em>:both X and Y<br>
+④ <em>列举平行</em>:dollars, debts, and questions(三项以上对仗)<br>
+⑤ <em>从句平行</em>:What X, what Y, what Z</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文也讲究排比,但语法上不严格(语序自由)。英文平行<b>必须语法严格相同</b> — 名词配名词,动词配动词,从句配从句。</p>
+<p class="def-forms"><b>详见 def-position。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 平行结构 vs 排比 — 大致同义。中文「排比」是修辞概念,英文 parallelism 是语法概念,结构更严格。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>I like coffee, tea, and to eat sandwiches</code>(混名词 + 不定式)<br>
+✓ <code>I like coffee, tea, and sandwiches</code>(三名词平行)<br>
+✗ <code>not only he likes coffee, but also tea</code>(两半结构不对等)<br>
+✓ <code>he likes not only coffee, but also tea</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-12">C-12</a> · <em>Borrowers wept and farmers went bankrupt, yet bond traders cheered</em>(三分句平行,见 <a href="/breakdown/#s-049">S-049</a>)<br>
+② <a href="/breakdown/#s-068">S-068</a> 列举平行 <em>new dollars, new debts, and new questions</em></p>
+<p class="def-related"><b>相关:</b> <a href="#both-and">both ... and</a> · <a href="#not-only-but-also">not only ... but also</a> · <a href="#fanboys">FANBOYS</a></p>
 </div>
 
-<div class="term" id="emphatic-inversion">
+<div class="term term-deep" id="emphatic-inversion">
 <h3>12. 强调倒装 · Emphatic Inversion(语篇层面)</h3>
-<p class="def">把否定/限定状语前置(Only when / Not until / Never before / Hardly had ...),触发主谓倒装,把读者的注意力锁在某个关键节点。这是<b>语篇层面</b>的强调手段 — 不仅改变句法,更改变读者的阅读节奏。</p>
-<p class="ex"><a href="/cohesion/#c-23">C-23</a> · <em><b>Only when</b> France began demanding bullion ... <b>did the cracks become visible</b></em>(见 <a href="/breakdown/#s-039">S-039</a>)</p>
-<p class="ex"><a href="/cohesion/#c-25">C-25</a> · <em><b>Be it noted, then</b>: ...</em>(虚拟倒装语篇副词,见 <a href="/breakdown/#s-080">S-080</a>)</p>
+<p class="def-quick"><b>一句话:</b> 把<b>否定 / 限定状语前置</b>,触发主谓倒装,把读者的注意力锁在某个关键节点。这是<b>语篇层面</b>的强调手段。</p>
+<p class="def-deep"><b>详细:</b> 强调倒装不只是句法变换,更是语篇层面的<b>读者注意力管理</b>。母语者通过 Only when / Not until / Never before / Hardly had ... 等结构,引导读者「这是关键时刻 / 唯一例外 / 史无前例」。中国学生最大盲区:即使学过句法,不会主动用倒装强调段落转折。</p>
+<p class="def-position"><b>5 种触发结构:</b><br>
+① <em>Only when / Only after</em>:Only when X did Y happen<br>
+② <em>Not until</em>:Not until X did Y happen<br>
+③ <em>Never / Never before</em>:Never before had X happened<br>
+④ <em>Hardly + 过完 + when</em>:Hardly had X happened when Y<br>
+⑤ <em>古典虚拟倒装</em>:Be it noted / Long live X</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「直到 X 才 / 从未 X」等副词表强调,语序不变。英文必须倒装。这是英语特有的强调机制 — 中国学生学会用一次,立刻显出母语感。</p>
+<p class="def-forms"><b>详见 def-position 5 种。</b></p>
+<p class="def-confuse"><b>易混淆:</b> 强调倒装 vs 普通倒装 — 倒装条件(Had I known)、地点倒装(Out of X came Y)是其他倒装类别;这里专指否定 / 限定状语前置触发的强调倒装。</p>
+<p class="def-error"><b>常见错误:</b><br>
+✗ <code>Only when France began demanding gold the cracks became visible</code>(主句必须倒装)<br>
+✓ <code>Only when France began demanding gold did the cracks become visible</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/cohesion/#c-23">C-23</a> · <em><b>Only when</b> France began demanding bullion ... <b>did the cracks become visible</b></em>(见 <a href="/breakdown/#s-039">S-039</a>)<br>
+② <a href="/cohesion/#c-25">C-25</a> · <em><b>Be it noted, then</b>: ...</em>(虚拟倒装语篇副词,见 <a href="/breakdown/#s-080">S-080</a>)</p>
+<p class="def-related"><b>相关:</b> <a href="#negative-fronting">否定前置倒装</a> · <a href="#only-fronting">Only 前置</a> · <a href="#not-until-inversion">Not until 倒装</a> · <a href="#formal-subjunctive">古典虚拟</a></p>
 </div>
 
 <hr>
