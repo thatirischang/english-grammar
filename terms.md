@@ -1654,136 +1654,606 @@ The matter will be discussed at the next meeting.</p>
 
 <h2 id="modals" class="term">⑤ 情态动词 · 完整覆盖</h2>
 
-<div class="term" id="can-could">
-<h3>1. can / could · 能力或可能</h3>
-<p class="def">表能力、可能、许可。could 是 can 的过去式或虚拟形式。</p>
-<p class="ex"><a href="/breakdown/#s-043">S-043</a> <em>After 1971, a single sentence from a central banker could move trillions of dollars overnight.</em></p>
+<div class="term term-deep" id="can-could">
+<h3>1. can / could · 能力 / 可能 / 许可</h3>
+<p class="def-quick"><b>一句话:</b> can 表「<b>能力</b>、可能性、许可」。could 是 can 的过去时,但也常用作<b>委婉</b>或<b>假设</b>。</p>
+<p class="def-deep"><b>详细:</b> can / could 是英语最常用的情态动词。三种核心语义:<b>能力</b>(I can swim)、<b>可能性</b>(It can rain in April)、<b>许可</b>(You can go now)。could 不只是 can 的过去式 — 它常单独表「委婉请求」(Could you help?)、「假设可能」(I could go if invited)、「过去能力」(He could speak French as a child)。</p>
+<p class="def-position"><b>形式 / 用法:</b> can / could + 动词原形(永远不带 to)。否定 cannot / can't / could not / couldn't。疑问 Can / Could + S + V?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「能 / 会 / 可以」对应 can,「能 / 可能 / 想必」对应 could。中文不严格区分能力和许可,英文也都用 can — 但语气强弱(can vs may)有微妙差别。中国学生最大盲区:把 could 当成 can 的纯过去式,忽视它的「委婉 / 假设」用法。</p>
+<p class="def-forms"><b>5 种用法:</b><br>
+① <em>能力</em>:She <b>can</b> speak three languages.<br>
+② <em>可能性</em>(中性 / 一般):It <b>can</b> rain in April.<br>
+③ <em>许可</em>:You <b>can</b> leave now.<br>
+④ <em>过去能力 / 过去许可</em>(用 could):I <b>could</b> swim at age 5.<br>
+⑤ <em>委婉 / 假设</em>(用 could):<b>Could</b> you help me?(委婉)/ I <b>could</b> go if I had time.(假设)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>can vs may</b>(许可)— may 更正式礼貌(May I leave? — 商务 / 学校 / 长辈);can 更口语(Can I leave? — 朋友间)。<br>
+<b>could vs was able to</b>(过去能力)— could 表一般能力(He could swim);was able to 表「特定场合做成了某事」(Yesterday he was able to swim across the river)。<br>
+<b>could vs could have</b> — could 表「现在 / 假设可能」;could have + V-en 表「过去本可以但没做到」(I could have helped — 我本可以帮但没帮)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I can to speak English</code>(can 后无 to)<br>
+✓ <code>I can speak English</code><br>
+✗ <code>Yesterday I could swim across the river</code>(特定场合用 was able to)<br>
+✓ <code>Yesterday I was able to swim across the river</code><br>
+✗ <code>Can you please help me</code>(过于直接,委婉用 could)<br>
+✓ <code>Could you please help me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-043">S-043</a> 假设可能 <em>could move</em>(After 1971, a single sentence from a central banker could move trillions of dollars overnight)<br>
+② <a href="/breakdown/#s-013">S-013</a> 否定能力 <em>could no longer pay for</em>(国库再也无法用硬币偿付)</p>
+<p class="def-related"><b>相关:</b> <a href="#may-might">may / might</a> · <a href="#modal-verb">情态动词</a> · <a href="#modal-perfect">could have done</a></p>
 </div>
 
-<div class="term" id="may-might">
-<h3>2. may / might · 可能性</h3>
-<p class="def">表"也许、可能"。might 比 may 语气更弱、更不确定。</p>
-<p class="ex"><a href="/breakdown/#s-047">S-047</a> <em>For a moment, it seemed that the dollar might dissolve along with the country's patience.</em></p>
+<div class="term term-deep" id="may-might">
+<h3>2. may / might · 可能性 / 许可 / 祝愿</h3>
+<p class="def-quick"><b>一句话:</b> may 表「<b>可能</b>、许可、祝愿」;might 是 may 的过去式,但常表「<b>更弱的可能性</b>」或委婉。</p>
+<p class="def-deep"><b>详细:</b> may / might 比 can / could 更正式、更委婉。它们的核心语义是<b>不确定的可能性</b> — 「也许会 / 也许不会」。在政经 / 学术写作里,作者用 may / might 而非 can,因为 may 在「假设语气」上更柔和。</p>
+<p class="def-position"><b>形式 / 用法:</b> may / might + 动词原形。否定 may not / might not。疑问 May + S + V?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「也许 / 可能 / 或许」对应 may;「也许 / 不一定」对应 might。中国学生常分不清 may / might 强弱差别 — might 比 may 概率更低、更不确定。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>可能性</em>(may 较强,might 较弱):He <b>may</b> come / He <b>might</b> come.<br>
+② <em>正式许可</em>:<b>May</b> I leave?(比 Can I leave 更礼貌)<br>
+③ <em>祝愿 / 抒情</em>:<b>May</b> peace prevail / <b>May</b> the force be with you.<br>
+④ <em>过去可能 / 委婉</em>:He <b>might</b> have left already / I <b>might</b> ask if I were you.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>may vs might</b> — 强弱差别。may = 50% 可能;might = 30% 可能。但在很多语境差别可忽略。<br>
+<b>may vs can</b>(许可)— may 正式礼貌(商务 / 学校 / 求助长辈);can 口语(朋友间)。<br>
+<b>might have done</b> — 表「过去可能 / 过去本可」(对过去的推断或假设)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He maybe come tomorrow</code>(maybe 是副词,且不和情态搭配)<br>
+✓ <code>He may come tomorrow</code> 或 <code>Maybe he will come tomorrow</code><br>
+✗ <code>May I to leave?</code>(may 后无 to)<br>
+✓ <code>May I leave?</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-047">S-047</a> 不确定可能 <em>For a moment, it seemed that the dollar might dissolve along with the country's patience.</em>(might 表过去的不确定可能)<br>
+② <a href="/breakdown/#s-031">S-031</a> 目的从句中委婉 <em>in order that public confidence might begin to recover</em>(古典正式)<br>
+③ <a href="/breakdown/#s-105">S-105</a> 完成式 <em>might have ended very differently</em>(对过去的不确定推断)</p>
+<p class="def-related"><b>相关:</b> <a href="#can-could">can / could</a> · <a href="#modal-perfect">情态完成式</a> · <a href="#mandative-subjunctive">虚拟语气</a></p>
 </div>
 
-<div class="term" id="must">
-<h3>3. must · 必须 / 推断</h3>
-<p class="def">表"必须"(义务)或"一定"(推断)。语气最强。</p>
-<p class="ex"><a href="/breakdown/#s-051">S-051</a> <em>... a quiet admission that even superpowers must compromise.</em>(义务)</p>
+<div class="term term-deep" id="must">
+<h3>3. must · 必须 / 必然(肯定推断)</h3>
+<p class="def-quick"><b>一句话:</b> must 表「<b>主观必须</b>」(义务)或「<b>必然如此</b>」(肯定推断)。语气在情态动词中最强。</p>
+<p class="def-deep"><b>详细:</b> must 在英语里有两个核心语义:<b>义务</b>(You must finish this — 不容商量)和<b>推断</b>(He must be tired — 必然 / 一定)。它的语气强烈,常带「绝对 / 必然」色彩。否定形式 mustn't = 禁止(不准),不要和 don't have to(不必)混淆。</p>
+<p class="def-position"><b>形式 / 用法:</b> must + 动词原形。must 无过去式,「过去必须」用 had to;「肯定推断的过去」用 must have + V-en。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「必须 / 一定」对应 must,「不许」对应 mustn't,「不必」对应 don't have to。中国学生最大盲区:用 must not 表达「不必」 — 实际是「禁止」。</p>
+<p class="def-forms"><b>2 大用法 + 完成式:</b><br>
+① <em>主观必须</em>(义务):You <b>must</b> finish this today.<br>
+② <em>客观必要</em>(常用 have to 替代):I <b>must</b> go now / I <b>have to</b> go now.<br>
+③ <em>肯定推断</em>:He <b>must</b> be tired(必然累)<br>
+④ <em>过去推断</em>(must have + V-en):He <b>must have left</b>(他必然已经走了)<br>
+⑤ <em>否定</em>:must not = 禁止;don't have to = 不必</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>must vs have to</b> — must 主观必要(说话人觉得必要),have to 客观必要(规定 / 情况要求)。<br>
+You <em>must</em> see this movie!(我觉得你必须看 — 主观)<br>
+I <em>have to</em> work tomorrow.(我必须上班 — 客观)<br>
+<b>must not vs don't have to</b> — must not = 禁止(强烈否定);don't have to = 不必(自由)。<br>
+You <em>mustn't</em> smoke here(禁止吸烟)<br>
+You <em>don't have to</em> come(不必来 — 自由)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>You must not come</code>误为「不必来」<br>
+✓ <code>You don't have to come</code>(不必来 — 自由)<br>
+✗ <code>I must to study</code>(must 后无 to)<br>
+✓ <code>I must study</code><br>
+✗ <code>Yesterday I must work</code>(must 无过去式)<br>
+✓ <code>Yesterday I had to work</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-051">S-051</a> 义务 <em>even superpowers must compromise</em>(连超级大国也必须妥协)<br>
+② <a href="/breakdown/#s-060">S-060</a> 被动 <em>Lehman Brothers must be remembered as ...</em>(必须被记住)<br>
+③ <a href="/breakdown/#s-104">S-104</a> 完成式 <em>Investors must have believed</em>(必然相信 — 对过去的肯定推断)</p>
+<p class="def-related"><b>相关:</b> <a href="#should">should / ought to</a> · <a href="#have-to">have to</a> · <a href="#modal-perfect">must have done</a></p>
 </div>
 
-<div class="term" id="should">
-<h3>4. should / ought to · 道义责任 / 建议</h3>
-<p class="def">表道义责任、建议、忠告。语气比 must 缓和。</p>
-<p class="ex"><a href="/breakdown/#s-033">S-033</a> <em>Roosevelt argued, again and again, that no civilized nation should ever again allow gold to dictate the limits of human ambition.</em></p>
+<div class="term term-deep" id="should">
+<h3>4. should / ought to · 应该 / 道义建议</h3>
+<p class="def-quick"><b>一句话:</b> should 表「<b>应该 / 应当</b>」 — 建议、忠告、道义。语气比 must 缓和。ought to 同义,但更正式 / 古风。</p>
+<p class="def-deep"><b>详细:</b> should 是英语最常用的「建议」情态动词。它的语气比 must 弱,但比 may 强 — 是「我觉得你应该这样做」的中度建议。在政经评论里,should 用于推荐 / 建议政策(should regulate / should reform);在口语里用于忠告(You should rest / You should try this)。</p>
+<p class="def-position"><b>形式 / 用法:</b> should / ought to + 动词原形。否定 should not / shouldn't。完成式 should have + V-en(本该做却没做)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「应该 / 应当 / 该」对应 should。中国学生最大盲区:should have done 的「本该做却没做」语气 — 中文表达类似的「早知道 / 当初」要靠副词,英文靠情态完成式。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>建议 / 忠告</em>:You <b>should</b> rest more.<br>
+② <em>道义责任</em>:Citizens <b>should</b> obey the law.<br>
+③ <em>推断 / 期待</em>:He <b>should</b> arrive soon.(推断 — 应该已快到)<br>
+④ <em>本该做却没做</em>(should have + V-en):I <b>should have called</b>(早就该打电话却没打)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>should vs must</b> — should 是建议(可以听可以不听),must 是必须(不容商量)。<br>
+<b>should vs ought to</b> — 同义,但 ought to 更正式 / 古风,日常用 should。<br>
+<b>should have done vs should do</b> — should do 表「现在 / 将来该做」;should have done 表「过去本该做却没做」 — 含批评、遗憾。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>You should to rest</code>(should 后无 to)<br>
+✓ <code>You should rest</code><br>
+✗ <code>I should called him yesterday</code>(should + 原形,本该用 should have + V-en)<br>
+✓ <code>I should have called him yesterday</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-033">S-033</a> 道义 <em>no civilized nation should ever again allow gold to dictate ...</em>(罗斯福的政治宣言)<br>
+② <a href="/breakdown/#s-103">S-103</a> 完成式 <em>Regulators should have seen the danger of unchecked leverage long before the autumn of 2008</em>(本该看见却没看见 — 含批评)</p>
+<p class="def-related"><b>相关:</b> <a href="#must">must</a> · <a href="#modal-perfect">情态完成式</a> · <a href="#should-have-done">should have done</a></p>
 </div>
 
-<div class="term" id="shall">
-<h3>5. shall · 正式 / 法律式</h3>
-<p class="def">表约束性承诺或禁止。现代美式英语口语已多以 will 代之,但条约、合同、法律仍保留 shall。</p>
-<p class="ex"><a href="/breakdown/#s-062">S-062</a> <em>Central banks declared, with rare unanimity, that the world shall not face another Lehman.</em></p>
+<div class="term term-deep" id="shall">
+<h3>5. shall · 法律式 / 古典将来 / 第一人称建议</h3>
+<p class="def-quick"><b>一句话:</b> shall 在现代英语里高度限定使用 — 主要在<b>法律 / 合同 / 正式宣告</b>中表「<b>必须 / 应当</b>」,或在 I/we 主语中表古典「将」。</p>
+<p class="def-deep"><b>详细:</b> shall 在 19 世纪是 will 的同义词(I/we 主语用 shall,其他用 will),但现代英语已让位给 will。它现在的主要用途是<b>法律 / 合同 / 正式文件</b>中的强制性表达(The Senate shall convene / Congress shall make no law)。在政府、议会、宣言里仍高频。</p>
+<p class="def-position"><b>形式 / 用法:</b> shall + 动词原形(主要用 I / we 第一人称,但法律语境主语不限)。否定 shall not。疑问 Shall + S + V?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「应当 / 必将」对应 shall(尤其在法律和正式宣告里)。中国学生最大盲区:不知何时用 shall 何时用 will — 现代日常基本不用 shall,只有正式法律语言保留。</p>
+<p class="def-forms"><b>3 大用法:</b><br>
+① <em>法律 / 合同强制</em>:Congress <b>shall</b> make no law respecting an establishment of religion.<br>
+② <em>第一人称建议 / 邀请</em>:<b>Shall</b> we go?(我们走吧?)<br>
+③ <em>古典将来</em>(I / we 主语,旧用法):I <b>shall</b> never forget(古风 / 文学)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>shall vs will</b> — 现代英语日常用 will。shall 仅在法律 / 议会 / 古典文学保留。<br>
+<b>shall not</b> — 在法律语境表「禁止」(强烈否定);日常不用。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 在普通对话或写作中过度使用 shall — 显得过分正式、刻意古风<br>
+✓ 日常用 will,法律 / 政府文件 / 严肃宣告才用 shall<br>
+✗ <code>Shall you help me</code>(shall 不用于第二人称建议)<br>
+✓ <code>Will you help me</code> 或 <code>Could you help me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-062">S-062</a> 法律式宣告 <em>Central banks declared, with rare unanimity, that the world shall not face another Lehman.</em>(各国央行的庄严声明,用 shall 不用 will,体现郑重)</p>
+<p class="def-related"><b>相关:</b> <a href="#simple-future">will 一般将来</a> · <a href="#modal-verb">情态动词</a></p>
 </div>
 
-<div class="term" id="dare">
+<div class="term term-deep" id="dare">
 <h3>6. dare · 敢(半情态)</h3>
-<p class="def">作半情态时后接动词原形(无 to)。多见于否定/疑问:dare not / daren't / how dare you。</p>
-<p class="ex"><a href="/breakdown/#s-048">S-048</a> <em>In 1979, Volcker raised the federal funds rate to a level no banker dared imagine.</em></p>
+<p class="def-quick"><b>一句话:</b> dare 表「<b>敢于</b>」 — 既可作普通实义动词,也可作半情态动词。多见于<b>否定 / 疑问</b>。</p>
+<p class="def-deep"><b>详细:</b> dare 是英语少数「半情态动词」之一 — 它在某些语境下像情态(后接动词原形,无需 to;无时态变化),在其他语境下像普通动词(有时态变化,后接 to 不定式)。它常用于「不敢 / 怎敢 / 敢不敢」等否定 / 疑问语境。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+① <em>半情态(否定 / 疑问)</em>:dare not + 原形 / Dare he + 原形?<br>
+② <em>普通动词</em>:dare to + 原形(I dare to speak)/ dares to / dared to<br>
+③ <em>How dare you</em> 习语:How dare you say that!</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「敢 / 不敢 / 怎敢」对应 dare。中国学生最大盲区:把 dare 当普通动词,忘记半情态形式 — daren't / dare not + 原形。</p>
+<p class="def-forms"><b>3 种典型句式:</b><br>
+① <em>否定半情态</em>:no banker <b>dared</b> imagine.(没有银行家敢想象 — 不带 to)<br>
+② <em>How dare 习语</em>:How <b>dare</b> you challenge the Fed!<br>
+③ <em>普通动词</em>:He <b>dares to</b> speak the truth.(他敢于说真话 — 带 to)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>dare 半情态 vs 普通动词</b> — 半情态在否定 / 疑问句不带 to(He daren't speak / Dare you do it?);肯定句作普通动词带 to(He dares to speak)。<br>
+<b>dared imagine vs dared to imagine</b> — 同义,前者半情态(无 to),后者普通动词(带 to)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He dare not to speak</code>(半情态后无 to)<br>
+✓ <code>He dare not speak</code> 或 <code>He doesn't dare to speak</code><br>
+✗ <code>How dare you to do that</code><br>
+✓ <code>How dare you do that</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-048">S-048</a> 半情态(否定)<em>a level no banker dared imagine</em>(无 to,半情态用法)<br>
+② <a href="/breakdown/#s-030">S-030</a> 同上半情态 <em>Never before had a peacetime president dared to redraw ...</em>(此处带 to,普通动词用法)</p>
+<p class="def-related"><b>相关:</b> <a href="#modal-verb">情态动词</a> · <a href="#need">need(半情态)</a></p>
 </div>
 
-<div class="term" id="would-habitual">
-<h3>7. would · 过去习惯</h3>
-<p class="def">表过去反复发生的习惯动作。和 used to 在表"反复动作"时可换用,但 would 不能表过去状态。</p>
-<p class="ex"><a href="/breakdown/#s-008">S-008</a> <em>On Saturday mornings, a country shopkeeper would shave a thin sliver off any silver dollar he did not trust.</em></p>
+<div class="term term-deep" id="would-habitual">
+<h3>7. would · 过去习惯 / 委婉 / 假设</h3>
+<p class="def-quick"><b>一句话:</b> would 是 will 的过去式,但常表三种独立语义:<b>过去反复习惯</b>(过去常做)、<b>委婉</b>(有礼貌的请求)、<b>假设虚拟</b>(would 条件式)。</p>
+<p class="def-deep"><b>详细:</b> would 在英语中身份多重。最容易被中国学生忽视的是「过去习惯」用法 — 不是单一过去事件,而是过去某段时间里反复做的事(每周六店主削银屑)。这种用法在历史叙事和回忆性写作里高频出现。</p>
+<p class="def-position"><b>形式 / 用法:</b> would + 动词原形。否定 wouldn't。常配过去时间状语(in those days / at that time / on Saturdays / when I was young)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「过去常 / 那时 + 总是 + 动」对应 would + V。中文不严格区分「过去做了一次」(过去时)和「过去经常做」(would),英文必须区分。</p>
+<p class="def-forms"><b>4 大用法:</b><br>
+① <em>过去习惯</em>(反复做):On Saturdays, he <b>would</b> shave a sliver off the dollar.<br>
+② <em>过去将来</em>(从过去看的将来):He said he <b>would</b> come.<br>
+③ <em>委婉 / 假设</em>:<b>Would</b> you mind helping?<br>
+④ <em>虚拟条件</em>:If I were rich, I <b>would</b> travel.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>would 过去习惯 vs used to</b> — 都表过去习惯,但 used to 还可表「过去状态」(I used to be tall),would 不能(✗ I would be tall)。<br>
+<b>would 过去将来 vs would 假设</b> — 看上下文。<br>
+<b>would 4 种身份</b> — 上下文决定。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I would tall when I was young</code>(would 不表过去状态)<br>
+✓ <code>I used to be tall when I was young</code><br>
+✗ <code>He said he will come</code>(主从时态错)<br>
+✓ <code>He said he would come</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-008">S-008</a> 过去习惯 <em>On Saturday mornings, a country shopkeeper would shave a thin sliver off any silver dollar he did not trust.</em>(每周六反复做)</p>
+<p class="def-related"><b>相关:</b> <a href="#used-to">used to</a> · <a href="#future-in-past">过去将来时</a> · <a href="#type2-conditional">第二虚拟条件</a></p>
 </div>
 
-<div class="term" id="used-to">
-<h3>8. used to · 过去常做</h3>
-<p class="def">used to + 动词原形。表过去经常做但现在不再做的习惯。注意区别 be used to + V-ing(习惯于)。</p>
-<p class="ex"><a href="/breakdown/#s-007">S-007</a> <em>American farmers used to carry tobacco notes, Spanish coin, and even gold dust as everyday money.</em></p>
+<div class="term term-deep" id="used-to">
+<h3>8. used to · 过去常做(现在不做了)</h3>
+<p class="def-quick"><b>一句话:</b> used to + 动词原形 = 「<b>过去经常做但现在不再做</b>」。隐含「现在不做」的对照。</p>
+<p class="def-deep"><b>详细:</b> used to 是英语「过去 vs 现在」对照的核心结构。它不仅表过去习惯,还<b>暗示「现在已不再这样」</b>。这是它和 would 的关键差别 — would 只表过去反复,不暗示现在;used to 必含「现在停了」的对照。</p>
+<p class="def-position"><b>形式 / 用法:</b> used to + 动词原形。否定 didn't use to(注意:不是 didn't used to)。疑问 Did + S + use to + V?</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「以前 + 经常 + 动 + 现在不了」对应 used to。「我以前常喝咖啡(现在不喝了)」 = I used to drink coffee。中文用「以前 / 过去」+「现在不」分开表达,英文一个 used to 包揽。</p>
+<p class="def-forms"><b>2 大用法 + 易混对照:</b><br>
+① <em>过去习惯</em>:I <b>used to</b> smoke(现在戒了)<br>
+② <em>过去状态</em>(would 做不到的):I <b>used to</b> be tall / There <b>used to</b> be a tree here.<br>
+③ <em>be used to + V-ing / 名词</em> ≠ used to:I <b>am used to</b> the noise(我习惯于噪音)<br>
+④ <em>get used to + V-ing</em> = 逐渐习惯:I'm getting used to the new job.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>used to + V vs be used to + V-ing</b> — 形态相似但语义完全不同!<br>
+✓ I <em>used to</em> smoke(过去吸烟,现不吸 — 习惯)<br>
+✓ I am <em>used to</em> smoking(我习惯于吸烟 — 状态)<br>
+中国学生最常错!<br>
+<b>used to vs would</b> — used to 可表状态,would 不能。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I am used to smoke</code>(be used to 后用 V-ing)<br>
+✓ <code>I am used to smoking</code><br>
+✗ <code>I used to smoking</code>(used to 后用原形)<br>
+✓ <code>I used to smoke</code><br>
+✗ <code>Did he used to live there?</code>(疑问句中用原形 use)<br>
+✓ <code>Did he use to live there?</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-007">S-007</a> 过去习惯 <em>American farmers used to carry tobacco notes, Spanish coin, and even gold dust as everyday money.</em>(过去带这些当钱,现在不再了)</p>
+<p class="def-related"><b>相关:</b> <a href="#would-habitual">would 过去习惯</a> · <a href="#simple-past">一般过去</a></p>
 </div>
 
-<div class="term" id="had-better">
-<h3>9. had better · 强烈忠告</h3>
-<p class="def">had better + 动词原形。表强烈建议、警告。语气比 should 更急迫,带"否则后果不堪"的潜台词。否定式:had better not。</p>
-<p class="ex"><a href="/breakdown/#s-082">S-082</a> <em>Whoever holds dollars in the years ahead had better watch the politics that back them.</em></p>
+<div class="term term-deep" id="had-better">
+<h3>9. had better · 强烈忠告 / 警告</h3>
+<p class="def-quick"><b>一句话:</b> had better + 动词原形 = 「<b>最好 + 动 + 否则后果不堪</b>」。语气比 should 急迫,带<b>警告 / 威胁</b>色彩。</p>
+<p class="def-deep"><b>详细:</b> had better 是英语「半情态」结构。形式上像过去时(had),实际表达<b>对当前 / 未来的强烈建议</b>。它的语用强度高于 should — should 是中性建议,had better 暗含「不这样做就麻烦了」。在政经评论里,作者用 had better 警告政策走向。</p>
+<p class="def-position"><b>形式 / 用法:</b> had better(可缩写 'd better)+ 动词原形。否定:had better not + 原形(注意:not 在 better 后)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「最好 + 动 + 否则」对应 had better。中文「最好」语气有时较弱,英文 had better 较强 — 中国学生不知道用它会显得严重。</p>
+<p class="def-forms"><b>典型场景:</b><br>
+① <em>对自己的决意</em>:I <b>had better</b> leave now.<br>
+② <em>对他人的强烈忠告</em>:You <b>had better</b> watch out!<br>
+③ <em>否定</em>:You <b>had better not</b> tell anyone.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>had better vs should</b> — should 中性建议,had better 强烈警告。<br>
+You should rest(可以听可以不听)<br>
+You had better rest(不休息要出事!)<br>
+<b>had better vs would rather</b> — 完全不同。had better = 最好(忠告);would rather = 宁愿(选择)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>You had better to rest</code>(had better 后无 to)<br>
+✓ <code>You had better rest</code><br>
+✗ <code>You hadn't better do that</code>(否定形式错)<br>
+✓ <code>You had better not do that</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-082">S-082</a> 强烈忠告 <em>Whoever holds dollars in the years ahead had better watch the politics that back them.</em>(语气强 — 不留心就糟糕)</p>
+<p class="def-related"><b>相关:</b> <a href="#should">should</a> · <a href="#would-rather">would rather</a> · <a href="#modal-verb">情态动词</a></p>
 </div>
 
-<div class="term" id="would-rather">
+<div class="term term-deep" id="would-rather">
 <h3>10. would rather · 宁愿</h3>
-<p class="def">would rather + 动词原形 (+ than + 动词原形)。表"宁愿做 X 而不做 Y"。如果跟从句:would rather + S + 过去时(虚拟,与现在事实相反)。</p>
-<p class="ex"><a href="/breakdown/#s-083">S-083</a> <em>Most savers, even today, would rather keep dollars than hold gold for a generation.</em></p>
+<p class="def-quick"><b>一句话:</b> would rather + 动词原形(+ than + 动词原形)= 「<b>宁愿做 X(而不做 Y)</b>」。表偏好选择。</p>
+<p class="def-deep"><b>详细:</b> would rather 是英语表「主观偏好」的固定结构。它和 prefer 同义但更口语化,在英国英语和美国英语中都常见。如果跟从句,要用<b>虚拟语气</b>(would rather + S + 过去时,与现在事实相反)。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+① 同主语:I would rather + 原形 + than + 原形<br>
+② 不同主语:I would rather + S + 过去时(虚拟)<br>
+否定:would rather not + 原形</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「宁愿 + 动 X + 也不 + 动 Y」对应 would rather X than Y。中国学生最大盲区:would rather + 从句要用虚拟语气(过去时表与现在事实相反)。</p>
+<p class="def-forms"><b>4 种结构:</b><br>
+① <em>同主语 + 单选</em>:I <b>would rather</b> stay home.<br>
+② <em>同主语 + 对比</em>:I <b>would rather</b> stay home <b>than</b> go out.<br>
+③ <em>不同主语 + 现在虚拟</em>:I <b>would rather</b> you <b>stayed</b> here.(过去时表虚拟)<br>
+④ <em>不同主语 + 过去虚拟</em>:I <b>would rather</b> you <b>had stayed</b> there.(过完表虚拟)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>would rather + 原形 vs would rather + S + 过去时</b> — 前者同主语,后者不同主语用虚拟。<br>
+<b>would rather vs prefer</b> — 同义。would rather 更口语,prefer 更正式。<br>
+<b>would rather A than B vs prefer A to B</b> — 结构不同:would rather + 原形 + than + 原形;prefer + 名词 / V-ing + to + 名词 / V-ing。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I would rather to stay home</code>(would rather 后无 to)<br>
+✓ <code>I would rather stay home</code><br>
+✗ <code>I would rather you stay here</code>(不同主语必须用过去时表虚拟)<br>
+✓ <code>I would rather you stayed here</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-083">S-083</a> 同主语对比 <em>Most savers, even today, would rather keep dollars than hold gold for a generation.</em>(储户宁愿持美元,而不要持黄金一代之久)</p>
+<p class="def-related"><b>相关:</b> <a href="#had-better">had better</a> · <a href="#subjunctive">⑩ 虚拟语气</a> · <a href="#wish-clause">wish 从句</a></p>
 </div>
 
-<div class="term" id="modal-perfect">
-<h3>11. 情态完成式 · Modal Perfect</h3>
-<p class="def">情态动词 + have + 过去分词。表对过去事实的推断、可能、遗憾。</p>
-<p class="ex"><a href="/breakdown/#s-011">S-011</a> <em>... the Panic of 1837 might never have torn the frontier apart.</em>(might have:可能,过去)</p>
-<p class="ex"><a href="/breakdown/#s-061">S-061</a> <em>Without the Federal Reserve's emergency intervention, every major bank could have collapsed within a fortnight.</em>(could have:本可,过去)</p>
-<p class="ex"><a href="/breakdown/#s-074">S-074</a> <em>Many a saver in 2008 might have wished that he had bought gold ...</em>(might have wished:推断过去)</p>
+<div class="term term-deep" id="modal-perfect">
+<h3>11. 情态完成式 · Modal Perfect(对过去的推断 / 假设)</h3>
+<p class="def-quick"><b>一句话:</b> 情态动词 + have + 过去分词 = 「<b>对过去事实的推断、可能、遗憾</b>」。是英语高级写作的标志结构。</p>
+<p class="def-deep"><b>详细:</b> 情态完成式是英语<b>谈论过去</b>的最重要工具之一。它把情态语义(必要 / 可能 / 应当)延伸到过去 — 不是说「现在必须」,而是说「过去必然 / 过去本可 / 过去本该」。这种细分在中文里没有直接对应,中国学生最难掌握。</p>
+<p class="def-position"><b>形式 / 用法:</b> 情态(must / should / could / might / may / would / ought to)+ have + 过去分词。注意 have 不变化,过去分词不变化。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文用「肯定 / 一定 / 本来 / 应该 / 可能 + 已经 + 动 + 了」表达,语义模糊。英文用情态完成式精确区分:must have(肯定推断)/ could have(本可)/ should have(本该)/ might have(也许)。</p>
+<p class="def-forms"><b>5 种核心情态完成式:</b><br>
+① <em>must have + V-en</em>:对过去的<b>肯定推断</b>(必然如此)<br>
+&nbsp;&nbsp;He <b>must have left</b>(他必然已经走了)<br>
+② <em>should have + V-en</em>:<b>本该做却没做</b>(批评 / 遗憾)<br>
+&nbsp;&nbsp;I <b>should have called</b>(我本该打电话却没打)<br>
+③ <em>could have + V-en</em>:<b>本可以但没做到</b>(假设)<br>
+&nbsp;&nbsp;He <b>could have helped</b>(他本可帮但没帮)<br>
+④ <em>might have + V-en</em>:<b>过去可能</b>(不确定推断)<br>
+&nbsp;&nbsp;She <b>might have left</b>(她也许走了)<br>
+⑤ <em>would have + V-en</em>:<b>本会(虚拟条件结果)</b><br>
+&nbsp;&nbsp;If I had known, I <b>would have come</b>(早知如此我就来了)</p>
+<p class="def-confuse"><b>易混淆 · 中国学生最大盲区:</b><br>
+<b>must vs must have</b> — must 对现在的推断;must have 对过去的推断。<br>
+<b>should vs should have</b> — should 现在该做;should have 过去本该做却没做(含批评)。<br>
+<b>could vs could have</b> — could 现在能 / 假设可能;could have 过去本可以但没做到。<br>
+<b>could have vs would have</b> — could have = 本可(能力);would have = 本会(条件下的必然)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>You should called me yesterday</code>(过去本该用 should have + V-en)<br>
+✓ <code>You should have called me yesterday</code><br>
+✗ <code>He must left already</code>(肯定推断过去用 must have + V-en)<br>
+✓ <code>He must have left already</code><br>
+✗ <code>If I knew, I would come</code>(完全过去虚拟用过完 + would have)<br>
+✓ <code>If I had known, I would have come</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-011">S-011</a> might have 假设 <em>the Panic of 1837 might never have torn the frontier apart</em>(过去假设 — 1837 那场恐慌也许从未撕裂边疆)<br>
+② <a href="/breakdown/#s-061">S-061</a> could have 本可 <em>every major bank could have collapsed within a fortnight</em>(本可 — 没干预的话本可能两周内倒)<br>
+③ <a href="/breakdown/#s-074">S-074</a> might have 推断 <em>Many a saver in 2008 might have wished that he had bought gold ...</em>(2008 年许多储户也许会希望)<br>
+④ <a href="/breakdown/#s-103">S-103</a> should have 批评 <em>Regulators should have seen the danger ...</em>(监管者本该看见却没看见)<br>
+⑤ <a href="/breakdown/#s-104">S-104</a> must have 推断 <em>Investors must have believed ...</em>(投资者必然相信 — 过去肯定推断)<br>
+⑥ <a href="/breakdown/#s-105">S-105</a> If only + might have <em>If only policymakers had acted sooner, the panic of 2008 might have ended very differently.</em>(过去虚拟感叹)</p>
+<p class="def-related"><b>相关:</b> <a href="#should-have-done">should have done</a> · <a href="#must-have-done">must have done</a> · <a href="#type3-conditional">第三虚拟条件</a> · <a href="#if-only">if only</a></p>
 </div>
 
 <hr>
 
 <h2 id="nonfinite" class="term">⑥ 非谓语动词</h2>
 
-<div class="term" id="bare-infinitive">
+<div class="term term-deep" id="bare-infinitive">
 <h3>1. 不带 to 不定式 · Bare Infinitive</h3>
-<p class="def">使役动词 (make / let / have) + 宾 + 动词原形 (无 to);感官动词 (see / hear / watch / feel) 同此。help 可带可不带 to。</p>
-<p class="ex"><a href="/breakdown/#s-022">S-022</a> <em>The war made the dollar emerge ... as a credible reserve currency.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>没有 to 的动词原形</b>」。在使役动词、感官动词、help 之后,以及情态动词、do / does / did 后必须用。</p>
+<p class="def-deep"><b>详细:</b> 不带 to 不定式是英语里特殊的非谓语形式 — 形态上就是动词原形,但语法功能是「不定式」(动作没有时态、人称)。它的使用有严格规则:在某些动词后必须不带 to(make / let / have / see / hear / feel / watch / help)。中国学生最常见的错误就是漏用或多加 to。</p>
+<p class="def-position"><b>形式 / 用法:</b> 直接用动词原形(无 to)。常见结构:V + O + 原形(I made him cry / I saw her run)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「让 X 做 Y / 看见 X 做 Y」对应英文 V + O + 原形。中文动词无形态变化,英文必须严格区分带 to 还是不带 to。</p>
+<p class="def-forms"><b>必须不带 to 的 5 类语境:</b><br>
+① <em>使役动词</em> make / let / have:I made him <b>cry</b>.<br>
+② <em>感官动词</em> see / hear / watch / feel / notice:I heard her <b>sing</b>.<br>
+③ <em>help 后</em>(可带可不带 to):He helped me <b>do</b>(或 <b>to do</b>)it.<br>
+④ <em>情态动词后</em>:You must <b>go</b> / He can <b>swim</b>.<br>
+⑤ <em>do / does / did 后</em>(疑问 / 否定 / 强调):Did he <b>go</b>? / He did <b>sound</b> the warning.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>不带 to vs 带 to</b> — make / let / have 后不带;want / expect / ask / tell 后带 to。<br>
+✗ I want him <em>go</em> → ✓ I want him <em>to go</em><br>
+✗ I make him <em>to go</em> → ✓ I make him <em>go</em><br>
+<b>主动 vs 被动</b> — 不带 to 不定式只在主动语态;被动语态时要变成带 to(He was made to go)。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I made him to cry</code>(make 后不带 to)<br>
+✓ <code>I made him cry</code><br>
+✗ <code>You should to study</code>(情态后无 to)<br>
+✓ <code>You should study</code><br>
+✗ <code>He was made go</code>(被动时要带 to)<br>
+✓ <code>He was made to go</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-022">S-022</a> 使役 + 不带 to <em>The war made the dollar emerge as a credible reserve currency.</em>(make + dollar + emerge,无 to)<br>
+② <a href="/breakdown/#s-058">S-058</a> 强调 do + 不带 to <em>Cassandra after Cassandra did sound the warnings</em>(did + sound,强调)</p>
+<p class="def-related"><b>相关:</b> <a href="#to-inf-subject">不定式作主语</a> · <a href="#causative-passive">使役被动</a> · <a href="#modal-verb">情态动词</a> · <a href="#emphatic-do">强调 do</a></p>
 </div>
 
-<div class="term" id="to-inf-subject">
+<div class="term term-deep" id="to-inf-subject">
 <h3>2. 不定式作主语 · To-inf as Subject</h3>
-<p class="def">to + 动词原形 整个短语作主语。强调动作本身。</p>
-<p class="ex"><a href="/breakdown/#s-072">S-072</a> <em>To predict the dollar's future is, in the end, to predict the future of the United States itself.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>to + 动词原形</b>」整个短语作句子主语,表抽象动作或命题。</p>
+<p class="def-deep"><b>详细:</b> 不定式作主语是英语里把「动作变名词」的一种方式。它和动名词作主语(V-ing)平行,但语义微妙不同 — 不定式更<b>抽象 / 一般 / 命题式</b>(To predict is hard);动名词更<b>具体 / 习惯 / 实际行为</b>(Predicting is hard)。</p>
+<p class="def-position"><b>形式 / 用法:</b> To + V + (其他成分)整个短语作主语,占句首位置。但更常见的是用形式主语 it 替代,真不定式后置:It is hard <em>to predict</em>。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 动 + 是 + 形容词」对应英文不定式作主语(预测...是难的 = To predict ... is hard)。但英文更常用 it 形式主语句型(It is hard to predict)— 中国学生写作时常忽略这个倾向。</p>
+<p class="def-forms"><b>2 种结构:</b><br>
+① <em>不定式直接作主语</em>(强调命题):To predict the future <b>is</b> difficult.<br>
+② <em>形式主语 it</em>(更常见):<b>It is</b> difficult <b>to predict</b> the future.<br>
+两者语义同,但 ② 更自然。</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>不定式 vs 动名词作主语</b> — 不定式偏抽象 / 命题(To swim is healthy — 抽象命题);动名词偏具体 / 习惯(Swimming is healthy — 具体活动)。<br>
+<b>真主语 vs 形式主语 it</b> — 用 it 后,真主语在句尾。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>To predict is, in the end, predict the future</code>(后面也要 to)<br>
+✓ <code>To predict the dollar's future is, in the end, to predict the future of the U.S. itself</code><br>
+✗ <code>Predict the future is hard</code>(主语必须是不定式或动名词,不是动词原形)<br>
+✓ <code>To predict the future is hard</code> 或 <code>Predicting the future is hard</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-072">S-072</a> 不定式作主语 + 不定式作表语 <em>To predict the dollar's future is, in the end, to predict the future of the United States itself.</em>(双不定式工整对称)</p>
+<p class="def-related"><b>相关:</b> <a href="#gerund-subject">动名词作主语</a> · <a href="#to-inf-object">不定式作宾</a> · <a href="#to-inf-purpose">不定式表目的</a></p>
 </div>
 
-<div class="term" id="to-inf-object">
+<div class="term term-deep" id="to-inf-object">
 <h3>3. 不定式作宾语 · To-inf as Object</h3>
-<p class="def">动词后接不定式作宾语。常用动词:learn / want / hope / decide / plan / refuse / agree / manage / intend。</p>
-<p class="ex"><a href="/breakdown/#s-073">S-073</a> <em>Most of us have learned to trust the dollar without thinking about why.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>动词后接 to + 动词原形</b>」作宾语。常用动词:learn / want / hope / decide / plan / refuse / agree。</p>
+<p class="def-deep"><b>详细:</b> 不定式作宾语是英语里的高频结构。哪些动词后用不定式、哪些用动名词,有相对固定的规则。带「期待 / 决定 / 计划 / 学习」语义的动词通常接不定式;带「享受 / 完成 / 避免」语义的动词通常接动名词。</p>
+<p class="def-position"><b>形式 / 用法:</b> S + V + to + 动词原形 + (其他成分)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「学 / 想 / 决定 / 同意 + 做」对应英文 V + to + V。中国学生最大盲区:不知道哪些动词后用不定式,哪些用动名词 — 这是英语高频考点。</p>
+<p class="def-forms"><b>常见接不定式宾语的动词:</b><br>
+① <em>意图 / 计划</em>:want / hope / wish / plan / intend / decide / mean / aim<br>
+② <em>同意 / 拒绝</em>:agree / refuse / promise / offer / threaten<br>
+③ <em>努力 / 学习</em>:learn / try / manage / fail / attempt<br>
+④ <em>询问 / 期望</em>:ask / expect / wait<br>
+⑤ <em>需要</em>:need / want(注意:want 后必须 to V)</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>不定式 vs 动名词 — 看动词类别</b><br>
+✓ I want <em>to swim</em>(want 后必须不定式)<br>
+✓ I enjoy <em>swimming</em>(enjoy 后必须动名词)<br>
+✓ I like swimming / I like to swim(like 两者都可,意思相近)<br>
+有些动词两者意思不同:remember to do(记得去做)/ remember doing(记得做过) — 这是高考 / 雅思常考。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>I want swim</code>(want 后必须 to V)<br>
+✓ <code>I want to swim</code><br>
+✗ <code>I enjoy to swim</code>(enjoy 后必须 V-ing)<br>
+✓ <code>I enjoy swimming</code><br>
+✗ <code>I learn trust the dollar</code><br>
+✓ <code>I learn to trust the dollar</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-073">S-073</a> learn 后用不定式 <em>Most of us have learned to trust the dollar without thinking about why.</em><br>
+② <a href="/breakdown/#s-035">S-035</a> 形式宾语 <em>Keynes found it impossible to persuade the Americans of his bancor proposal.</em>(it 是形式宾,真宾是 to persuade)</p>
+<p class="def-related"><b>相关:</b> <a href="#gerund-subject">动名词作主语</a> · <a href="#to-inf-purpose">不定式表目的</a> · <a href="#object">宾语</a></p>
 </div>
 
-<div class="term" id="to-inf-purpose">
+<div class="term term-deep" id="to-inf-purpose">
 <h3>4. 不定式表目的 · To-inf of Purpose</h3>
-<p class="def">to + 动词原形 表"为了做..."。比 in order to / so as to 简洁。</p>
-<p class="ex"><a href="/breakdown/#s-013">S-013</a> <em>The greenback was issued in 1862 to finance a war ...</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>to + 动词原形</b>」表目的 — 「为了做...」。是英语表目的<b>最简洁</b>的方式。</p>
+<p class="def-deep"><b>详细:</b> 不定式表目的是英语里表「为什么 / 为了什么」最自然的结构。母语者写作里,大约 80% 的「目的」用 to + V 表达,而非 in order to 或 so as to。中国学生爱用「in order to」显得书面,但实际用得过多反而拘谨。</p>
+<p class="def-position"><b>形式 / 用法:</b> 主句 + to + V + ...(目的状语)。或前置:To + V + ..., 主句。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「为了 + 做 / 以做 / 来做」对应英文 to + V。但英文更简洁,中文多用「为了...」三字,英文一个 to 就够。</p>
+<p class="def-forms"><b>3 种语法变体(语气从口语到正式):</b><br>
+① <em>to + V</em>(默认 / 最简洁):He came <b>to help</b>.<br>
+② <em>in order to + V</em>(更正式 / 强调目的):He came <b>in order to help</b>.<br>
+③ <em>so as to + V</em>(书面 / 偏委婉):He came <b>so as to help</b>.<br>
+④ <em>否定形式</em>:He came in order <b>not to</b> miss class.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>to + V 表目的 vs 表结果</b> — to V 通常表目的(He went to study),但有时也可以表结果(He studied to find out it was wrong = 学了之后才发现是错的)。看上下文。<br>
+<b>to + V 表目的 vs for + V-ing</b> — 表目的用 to + V,不用 for + V-ing(✗ This is for swim → ✓ This is for swimming(动名词作介宾)/ ✓ This is to swim(不定式表目的))。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>He came for help me</code>(目的不用 for + V)<br>
+✓ <code>He came to help me</code><br>
+✗ <code>The greenback was issued in 1862 for finance a war</code><br>
+✓ <code>The greenback was issued in 1862 to finance a war</code><br>
+✗ 在简单语境过用 in order to(显得拘谨)<br>
+✓ 简单目的用 to + V,正式 / 强调时用 in order to</p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-013">S-013</a> 简洁版 <em>The greenback was issued in 1862 to finance a war the Treasury could no longer pay for in coin.</em><br>
+② <a href="/breakdown/#s-031">S-031</a> 正式版 in order that <em>Banks were closed for four days, in order that public confidence might begin to recover.</em>(高度正式,法律式)</p>
+<p class="def-related"><b>相关:</b> <a href="#to-inf-subject">不定式作主语</a> · <a href="#adv-purpose">目的状语从句</a> · <a href="#conjunction">连词</a></p>
 </div>
 
-<div class="term" id="gerund-subject">
+<div class="term term-deep" id="gerund-subject">
 <h3>5. 动名词作主语 · Gerund as Subject</h3>
-<p class="def">V-ing 短语作主语。比不定式作主语更强调"该活动本身"。</p>
-<p class="ex"><a href="/breakdown/#s-015">S-015</a> <em>Returning to the gold standard seemed prudent to Eastern bankers and ruinous to Western farmers.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>V-ing + 其他成分</b>」整个短语作主语,表具体动作或活动。</p>
+<p class="def-deep"><b>详细:</b> 动名词作主语和不定式作主语形成一对。动名词偏「具体 / 实际 / 习惯性」(Swimming is healthy — 游泳作为活动);不定式偏「抽象 / 一般 / 命题」(To swim is healthy — 抽象命题)。在叙事写作里,动名词作主语让句子更接地气、更具象。</p>
+<p class="def-position"><b>形式 / 用法:</b> 动名词短语放句首作主语。后跟单数动词(动名词作主语永远视为单数)。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「+ 动 + 是 + 形容词 / 名词」对应英文动名词作主语。但中文不区分动名词和不定式,英文严格区分。中国学生写英语时不知道何时用 V-ing 何时用 to V — 默认用动名词更接地气。</p>
+<p class="def-forms"><b>常见用法:</b><br>
+① <em>具体活动</em>:<b>Swimming</b> is good for health.<br>
+② <em>政策 / 行为</em>:<b>Returning to the gold standard</b> seemed prudent.<br>
+③ <em>习惯</em>:<b>Smoking</b> kills.<br>
+④ <em>否定</em>:<b>Not knowing</b> the answer is OK.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>动名词作主语 vs 不定式作主语</b> —<br>
+具体 / 实际 → 动名词:Swimming is fun(游泳很有趣 — 实际活动)<br>
+抽象 / 命题 → 不定式:To swim is healthy(游泳是健康的 — 抽象命题)<br>
+<b>动名词 vs 现在分词</b> — 都是 V-ing,但动名词作名词,现在分词作形容词 / 副词。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Swim is good for health</code>(动词原形不能作主语)<br>
+✓ <code>Swimming is good for health</code> 或 <code>To swim is good for health</code><br>
+✗ <code>Returning to the gold standard were prudent</code>(动名词作主语用单数动词)<br>
+✓ <code>Returning to the gold standard was prudent</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-015">S-015</a> 动名词作主语 <em>Returning to the gold standard seemed prudent to Eastern bankers and ruinous to Western farmers.</em>(政策行为作主语)</p>
+<p class="def-related"><b>相关:</b> <a href="#to-inf-subject">不定式作主语</a> · <a href="#gerund-prep">介词 + 动名词</a> · <a href="#noun">名词</a></p>
 </div>
 
-<div class="term" id="gerund-prep">
+<div class="term term-deep" id="gerund-prep">
 <h3>6. 介词后接动名词 · Gerund after Preposition</h3>
-<p class="def">介词后必须用 V-ing。"by V-ing" = "通过做..."。"in V-ing" / "without V-ing" 类似。</p>
-<p class="ex"><a href="/breakdown/#s-016">S-016</a> <em>By insisting on free silver, William Jennings Bryan rallied a generation of debt-stricken farmers behind him.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>介词后必须用 V-ing</b>」(动名词),不能用动词原形或不定式。</p>
+<p class="def-deep"><b>详细:</b> 这是英语硬性规则 — 任何介词后跟动词,都必须变成动名词形式。by V-ing(通过做)/ in V-ing(在做的过程中)/ without V-ing(不做)/ instead of V-ing(而不是做)/ before V-ing(在做之前)。中国学生最常错的就是这一条。</p>
+<p class="def-position"><b>形式 / 用法:</b> 介词 + V-ing + (其他成分)。整个介词短语可作状语 / 定语 / 表语。</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「通过 / 不 / 在...之前 + 动」直接接动词,英文必须把动词变 V-ing。中国学生习惯于「by + V」「without + V」 — 必须改成「by + V-ing」「without + V-ing」。</p>
+<p class="def-forms"><b>常见介词 + V-ing 搭配:</b><br>
+① <em>by + V-ing</em>(通过做):<b>By insisting</b> on free silver, he rallied farmers.<br>
+② <em>in + V-ing</em>(在做的过程中):<b>In recovering</b>, he spent everything.<br>
+③ <em>without + V-ing</em>(不做就):He left <b>without saying</b> goodbye.<br>
+④ <em>before / after + V-ing</em>(做之前 / 之后):<b>Before leaving</b>, he locked the door.<br>
+⑤ <em>instead of + V-ing</em>(而不是做):He read <b>instead of watching</b> TV.<br>
+⑥ <em>on / upon + V-ing</em>(一...就):<b>On arriving</b>, I called you.<br>
+⑦ <em>despite / in spite of + V-ing</em>(尽管):<b>Despite trying</b>, he failed.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>to 介词 vs to 不定式标志</b> — to 是介词时(look forward to / be used to / object to)后跟 V-ing;to 是不定式标志时后跟原形。<br>
+✓ I look forward <em>to seeing</em> you(to 介词)<br>
+✓ I want <em>to see</em> you(to 不定式标志)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>By insist on free silver</code>(介词后必须 V-ing)<br>
+✓ <code>By insisting on free silver</code><br>
+✗ <code>Without say goodbye</code><br>
+✓ <code>Without saying goodbye</code><br>
+✗ <code>I look forward to see you</code>(look forward to 中 to 是介词)<br>
+✓ <code>I look forward to seeing you</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-016">S-016</a> by + V-ing 状语 <em>By insisting on free silver, William Jennings Bryan rallied a generation of debt-stricken farmers behind him.</em></p>
+<p class="def-related"><b>相关:</b> <a href="#gerund-subject">动名词作主语</a> · <a href="#preposition">介词</a> · <a href="#nonfinite">非谓语</a></p>
 </div>
 
-<div class="term" id="past-participial">
+<div class="term term-deep" id="past-participial">
 <h3>7. 过去分词短语 · Past Participial Phrase</h3>
-<p class="def">V-en + 补足成分 作定语,带被动义。等价于省略关系代词的定从,但更简洁。</p>
-<p class="ex"><a href="/breakdown/#s-034">S-034</a> <em>The Bretton Woods system, designed by Keynes and Harry Dexter White, fixed ...</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>V-en + 其他成分</b>」作定语 / 状语,带<b>被动</b> + <b>完成</b>义。等价于省略关系代词的定语从句,但更紧凑。</p>
+<p class="def-deep"><b>详细:</b> 过去分词短语是英语紧凑写作的关键工具。它把「which is V-en」式的定语从句压缩成短语形式。语义上始终带「被动」(动作发生在主语身上)+「完成」(动作已结束)。是英语正式写作和文学语言的标志。</p>
+<p class="def-position"><b>位置 / 用法:</b><br>
+① <em>后置定语</em>:the system <b>designed by Keynes</b>(放名词后,中间常加逗号)<br>
+② <em>前置状语</em>(原因 / 时间):<b>Designed by Keynes</b>, the system fixed currencies.<br>
+③ <em>独立状语</em>(独立主格):<b>Trust restored</b>, the dollar resumed authority.</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「被 + V + 的 + N」对应英文 N + V-en(后置)。中文必须前置「被 X 的 N」,英文则后置 N + V-en。中国学生写英语时常错把过分短语前置。</p>
+<p class="def-forms"><b>3 种用法:</b><br>
+① <em>作后置定语</em>(被动义):the dollar <b>designed by Hamilton</b><br>
+② <em>作状语</em>(原因 / 时间):<b>Pushed by Volcker</b>, inflation declined.<br>
+③ <em>独立主格</em>:<b>Trust restored</b>, the dollar resumed authority.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>过去分词 vs 现在分词作定语</b> —<br>
+✓ the system <em>designed</em>(被动:被设计的)<br>
+✓ the system <em>designing</em>(主动 / 进行:正在设计的)<br>
+判断:动作发生在名词身上 → 过分;名词主动发出动作 → 现分。<br>
+<b>过去分词 vs 过去时</b> — 过去时(signed)作谓语;过去分词(signed)作定语 / 状语 / 完成时 / 被动。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The system designing by Keynes</code>(被动义,应用过分)<br>
+✓ <code>The system designed by Keynes</code><br>
+✗ <code>Designed dollar Hamilton by</code>(语序错)<br>
+✓ <code>The dollar designed by Hamilton</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-034">S-034</a> 后置定语 <em>The Bretton Woods system, designed by Keynes and Harry Dexter White, fixed the world's currencies ...</em><br>
+② <a href="/breakdown/#s-090">S-090</a> with + N + V-en 独立主格变体 <em>With Bretton Woods dismantled and gold finally untethered, the dollar entered ...</em><br>
+③ <a href="/breakdown/#s-029">S-029</a> 多重过分 <em>had the confiscated metal reminted into bullion bars and shipped</em></p>
+<p class="def-related"><b>相关:</b> <a href="#present-participial">现在分词短语</a> · <a href="#modifier">定语</a> · <a href="#absolute-construction">独立主格</a> · <a href="#reduced-relative">简化关系从句</a></p>
 </div>
 
-<div class="term" id="present-participial">
+<div class="term term-deep" id="present-participial">
 <h3>8. 现在分词短语 · Present Participial Phrase</h3>
-<p class="def">V-ing + 补足成分 作定语,主动+进行义。对照过去分词短语(被动义)。</p>
-<p class="ex"><a href="/breakdown/#s-044">S-044</a> <em>Inflation, slumbering since the 1950s, awoke in the 1970s with sudden ferocity.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>V-ing + 其他成分</b>」作定语 / 状语,带<b>主动</b> + <b>进行</b>义。对照过去分词的「被动 + 完成」。</p>
+<p class="def-deep"><b>详细:</b> 现在分词短语是英语紧凑写作的另一关键工具。它把「which is V-ing / which is V-ing」式的定从压缩成短语。语义上始终带「主动」(主语主动做)+「进行」(动作还在持续)。和过去分词短语形成主动 / 被动对照。</p>
+<p class="def-position"><b>位置 / 用法:</b><br>
+① <em>后置定语</em>:inflation <b>slumbering since the 1950s</b>(放名词后)<br>
+② <em>前置状语</em>(原因 / 时间 / 方式):<b>Walking down the street</b>, I saw him.<br>
+③ <em>独立主格</em>:<b>The sun setting</b>, we headed home.</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文「正在 + 动 + 的 + N」对应英文 N + V-ing(后置)。和过分类似,中文前置,英文后置。</p>
+<p class="def-forms"><b>3 种用法 + 对照过分:</b><br>
+① <em>作后置定语</em>(主动义):inflation <b>slumbering</b>(通胀在沉睡)/ 对比 inflation <b>beaten back</b>(通胀被击退 — 过分)<br>
+② <em>作状语</em>:<b>Walking</b> down the street, I saw him.<br>
+③ <em>独立主格</em>:<b>The night falling</b>, we left.</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>现在分词 vs 动名词</b> — 都是 V-ing。现在分词作形容词或副词;动名词作名词。<br>
+✓ Swimming is healthy(动名词作主语)<br>
+✓ The man swimming is my brother(现在分词作定语 — 修饰 man)<br>
+<b>悬垂分词</b>(dangling participle)— 分词的逻辑主语必须和主句主语一致。<br>
+✗ Walking down the street, the dog barked at me.(分词逻辑主语是 dog,但主句说 dog 在叫我?语义混乱)<br>
+✓ Walking down the street, I heard the dog bark.</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>Inflation slumbered since 1950s, awoke in 1970s</code>(两个谓语 — 缺连接)<br>
+✓ <code>Inflation, slumbering since the 1950s, awoke in the 1970s</code>(现分作非限定性后置定语)<br>
+✗ 悬垂分词:<code>Walking down the street, the dog saw me</code>(逻辑混乱)<br>
+✓ <code>Walking down the street, I saw the dog</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-044">S-044</a> 现分非限定性后置定语 <em>Inflation, slumbering since the 1950s, awoke in the 1970s with sudden ferocity.</em><br>
+② <a href="/breakdown/#s-064">S-064</a> 现分修饰 currency <em>a currency needing neither a government to issue it nor a central bank to control it</em></p>
+<p class="def-related"><b>相关:</b> <a href="#past-participial">过去分词短语</a> · <a href="#gerund-subject">动名词</a> · <a href="#modifier">定语</a> · <a href="#absolute-construction">独立主格</a></p>
 </div>
 
-<div class="term" id="reduced-relative">
-<h3>9. 简化关系从句 · Reduced Relative</h3>
-<p class="def">完整定从 "which is V-en/-ing ..." 省略 "which is",只留分词。</p>
-<p class="ex"><a href="/breakdown/#s-070">S-070</a> <em>Money issued by an algorithm rather than a parliament is something the world has never quite known before.</em></p>
+<div class="term term-deep" id="reduced-relative">
+<h3>9. 简化关系从句 · Reduced Relative Clause</h3>
+<p class="def-quick"><b>一句话:</b> 完整定从「<b>which is V-en / V-ing</b>」省略「<b>which is</b>」,只留分词。是过 / 现分词短语作定语的「内部解释」。</p>
+<p class="def-deep"><b>详细:</b> 简化关系从句不是新语法,而是定语从句和分词短语之间的「桥梁解释」。它揭示了为什么过分 / 现分短语能作定语 — 因为它们本质是省略了关系代词和 be 动词的定从。理解这个关联,有助于把英语长句的「定从 ↔ 分词短语」自由转换。</p>
+<p class="def-position"><b>形式 / 用法:</b><br>
+完整:the system <b>which is</b> designed by Keynes<br>
+简化:the system <b>designed by Keynes</b>(去掉 which is)</p>
+<p class="def-bilingual"><b>中英对照:</b> 中文没有完整定从,因此「简化」概念对中国学生不易理解。但中文「被 X 的 N」直接对应英文简化版的 N + V-en。</p>
+<p class="def-forms"><b>简化的 3 个步骤:</b><br>
+原句:Money <b>which is issued</b> by an algorithm is something new.<br>
+① 去 which is(关代 + be):<br>
+&nbsp;&nbsp;Money <b>issued</b> by an algorithm is something new.<br>
+② 简化版即过分短语作定语<br>
+③ 同样:<br>
+&nbsp;&nbsp;the man <b>who is sitting</b> there → the man <b>sitting</b> there(现分版)</p>
+<p class="def-confuse"><b>易混淆:</b><br>
+<b>能简化的定从 vs 不能简化的</b> — 必须满足:① 限定性;② 关代是从句主语;③ 谓语是「be + V-en」或「be + V-ing」。<br>
+✓ The book <em>that was written</em> in 1900 → The book <em>written</em> in 1900(可简化)<br>
+✗ The book <em>that I read</em> → The book <em>read</em>(❌ 关代是宾语,不能简化)</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ 把不能简化的定从硬简化:<code>The book read by me is good</code>(关代是宾语,不能省)<br>
+✓ <code>The book that I read is good</code> 或省关代 <code>The book I read is good</code><br>
+✗ <code>Money issuing by algorithm</code>(被动义应用过分)<br>
+✓ <code>Money issued by algorithm</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-070">S-070</a> 简化版过分定语 <em>Money issued by an algorithm rather than a parliament is something the world has never quite known before.</em>(原型 = Money <em>which is issued</em> ...)</p>
+<p class="def-related"><b>相关:</b> <a href="#past-participial">过去分词短语</a> · <a href="#present-participial">现在分词短语</a> · <a href="#restrictive-relative">限定性定从</a></p>
 </div>
 
-<div class="term" id="absolute-construction">
+<div class="term term-deep" id="absolute-construction">
 <h3>10. 独立主格 · Absolute Construction</h3>
-<p class="def">"名词 + 分词/形容词/介词短语" 自带"小主语",修饰主句。文学性强。</p>
-<p class="ex"><a href="/breakdown/#s-081">S-081</a> <em>Trust restored, the dollar quietly resumed its authority over global trade.</em></p>
+<p class="def-quick"><b>一句话:</b> 「<b>名词 + 分词 / 形容词 / 介词短语</b>」自带<b>小主语</b>,作为状语修饰整个主句。比从句紧凑,比分词短语灵活,文学性强。</p>
+<p class="def-deep"><b>详细:</b> 独立主格是英语高级写作的标志结构 — 它本身有自己的「逻辑主语」(不同于主句主语),但语法上不是从句(无从属连词),也不是分词短语(分词短语的逻辑主语必须等于主句主语)。它把一个伴随事件、状态、原因压缩成短小、紧凑的形式。</p>
+<p class="def-position"><b>位置 / 用法:</b> 通常前置或后置,用逗号与主句隔开。<br>
+① 前置:<em>Trust restored,</em> the dollar resumed authority.<br>
+② 后置:He left, <em>his head held high.</em></p>
+<p class="def-bilingual"><b>中英对照:</b> 中文没有完全等价结构。最接近的是「N 既 V,S 便 V」的文言句法。中国学生不是「用错」,而是「想不到用」。学会主动使用是英语文学感的标志。</p>
+<p class="def-forms"><b>4 种构成:</b><br>
+① <em>N + 过去分词</em>(被动 / 完成):<b>Trust restored,</b> the dollar resumed authority.<br>
+② <em>N + 现在分词</em>(主动 / 进行):<b>The sun setting,</b> we headed home.<br>
+③ <em>N + 形容词 / 介词短语</em>:<b>His face pale,</b> he confessed. / <b>Hands in pockets,</b> he walked.<br>
+④ <em>With + N + ...</em>(更常见的口语版):<b>With the night falling,</b> we headed home.</p>
+<p class="def-confuse"><b>易混淆 · 关键:</b><br>
+<b>独立主格 vs 分词短语</b> —<br>
+分词短语的逻辑主语必须 = 主句主语:✓ <em>Walking down the street,</em> I saw him.(I 都是)<br>
+独立主格自带不同小主语:✓ <em>The night falling,</em> we headed home.(falling 的逻辑主语 = the night;主句主语 = we)<br>
+<b>独立主格 vs 状语从句</b> — 独立主格无连接词;状语从句必有连词。</p>
+<p class="def-error"><b>中国学生常见错误:</b><br>
+✗ <code>The book opened, he read it</code>(逻辑混乱,book 不是被打开)<br>
+✓ <code>The book open, he read it</code> 或 <code>With the book open, he read it</code><br>
+✗ 悬垂分词:<code>Walking down the street, the dog saw me</code><br>
+✓ <code>Walking down the street, I saw the dog</code> 或独立主格 <code>I walking down the street, the dog saw me</code></p>
+<p class="def-examples"><b>课文例句:</b><br>
+① <a href="/breakdown/#s-081">S-081</a> 独立主格 N + 过去分词 <em>Trust restored,</em> the dollar quietly resumed its authority<br>
+② <a href="/breakdown/#s-090">S-090</a> with + N + 过分(变体) <em>With Bretton Woods dismantled and gold finally untethered,</em> the dollar entered ...</p>
+<p class="def-related"><b>相关:</b> <a href="#past-participial">过去分词短语</a> · <a href="#present-participial">现在分词短语</a> · <a href="#absolute">独立主格 · 句子成分</a> · <a href="#independent">独立成分</a></p>
 </div>
 
 <hr>
